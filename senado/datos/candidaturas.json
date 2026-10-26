@@ -1,8 +1,8 @@
 {
  "camara": "senado",
- "ejemplo": true,
- "eleccion": "Elecciones generales · Senado",
- "nota": "Datos de ejemplo. Sustituir por las candidaturas proclamadas que publica el BOE tras la convocatoria.",
+ "ejemplo": false,
+ "eleccion": "Elecciones generales del 29 de noviembre de 2026 · Senado",
+ "nota": "Candidaturas ANUNCIADAS por los partidos según la prensa (8–26 de octubre de 2026). No son oficiales: el BOE publicará las presentadas hacia el 28 de octubre y las proclamadas el 3 de noviembre, y el trabajo diario las sustituirá. Solo se incluyen posiciones consecutivas desde el nº 1.",
  "actualizado": "2026-10-26",
  "comunidades": [
   {
@@ -181,29 +181,29 @@
  ],
  "partidos": [
   {
-   "id": "alfa",
-   "nombre": "Partido Ejemplo Alfa",
-   "siglas": "PEA"
+   "id": "psoe",
+   "siglas": "PSOE",
+   "nombre": "Partido Socialista Obrero Español"
   },
   {
-   "id": "beta",
-   "nombre": "Unión Ejemplo Beta",
-   "siglas": "UEB"
+   "id": "pp",
+   "siglas": "PP",
+   "nombre": "Partido Popular"
   },
   {
-   "id": "gamma",
-   "nombre": "Coalición Ejemplo Gamma",
-   "siglas": "CEG"
+   "id": "pnv",
+   "siglas": "EAJ-PNV",
+   "nombre": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco"
   },
   {
-   "id": "delta",
-   "nombre": "Movimiento Ejemplo Delta",
-   "siglas": "MED"
+   "id": "bildu",
+   "siglas": "EH BILDU",
+   "nombre": "Euskal Herria Bildu"
   },
   {
-   "id": "epsilon",
-   "nombre": "Agrupación Ejemplo Épsilon",
-   "siglas": "AEE"
+   "id": "geroa",
+   "siglas": "GBAI",
+   "nombre": "Geroa Bai"
   }
  ],
  "provincias": {
@@ -213,74 +213,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-almeria-alfa-1",
-      "nombre": "Álvaro Delgado Gómez"
-     },
-     {
-      "id": "sen-almeria-alfa-2",
-      "nombre": "Hugo Vega Giménez"
-     },
-     {
-      "id": "sen-almeria-alfa-3",
-      "nombre": "Nuria Vega Pardo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-almeria-beta-1",
-      "nombre": "Adrián Esteban Soto"
-     },
-     {
-      "id": "sen-almeria-beta-2",
-      "nombre": "Irene Giménez Vera"
-     },
-     {
-      "id": "sen-almeria-beta-3",
-      "nombre": "Rubén Tomás Vega"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-almeria-gamma-1",
-      "nombre": "Manuel Parra Pardo"
-     },
-     {
-      "id": "sen-almeria-gamma-2",
-      "nombre": "Jorge Quintana Pardo"
-     },
-     {
-      "id": "sen-almeria-gamma-3",
-      "nombre": "Inés Vega Durán"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-almeria-delta-1",
-      "nombre": "Iker Bravo Sáez"
-     },
-     {
-      "id": "sen-almeria-delta-2",
-      "nombre": "Iker Pardo Moya"
-     },
-     {
-      "id": "sen-almeria-delta-3",
-      "nombre": "Jorge Vera Díez"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-almeria-epsilon-1",
-      "nombre": "Jorge Delgado Benítez"
-     },
-     {
-      "id": "sen-almeria-epsilon-2",
-      "nombre": "Manuel Pardo Nieto"
-     },
-     {
-      "id": "sen-almeria-epsilon-3",
-      "nombre": "Víctor Pascual Nieto"
+      "id": "sen-almeria-psoe-1",
+      "nombre": "José María Martín"
      }
     ]
    }
@@ -291,74 +227,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-cadiz-alfa-1",
-      "nombre": "Andrés Aguilar Ferrer"
-     },
-     {
-      "id": "sen-cadiz-alfa-2",
-      "nombre": "Sergio Parra Zamora"
-     },
-     {
-      "id": "sen-cadiz-alfa-3",
-      "nombre": "Nuria Rojas Pascual"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-cadiz-beta-1",
-      "nombre": "Irene Carrasco Tomás"
-     },
-     {
-      "id": "sen-cadiz-beta-2",
-      "nombre": "Sergio Díez Vega"
-     },
-     {
-      "id": "sen-cadiz-beta-3",
-      "nombre": "Marta Rojas Aguilar"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-cadiz-gamma-1",
-      "nombre": "Celia Aguilar Fuentes"
-     },
-     {
-      "id": "sen-cadiz-gamma-2",
-      "nombre": "Pablo Carrasco Jiménez"
-     },
-     {
-      "id": "sen-cadiz-gamma-3",
-      "nombre": "Marta Rojas Lorenzo"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-cadiz-delta-1",
-      "nombre": "Hugo Bravo Quintana"
-     },
-     {
-      "id": "sen-cadiz-delta-2",
-      "nombre": "Laura Parra Arias"
-     },
-     {
-      "id": "sen-cadiz-delta-3",
-      "nombre": "Irene Vega Herrero"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-cadiz-epsilon-1",
-      "nombre": "Carmen Delgado Gómez"
-     },
-     {
-      "id": "sen-cadiz-epsilon-2",
-      "nombre": "Íñigo Pardo Montero"
-     },
-     {
-      "id": "sen-cadiz-epsilon-3",
-      "nombre": "Hugo Tomás Díez"
+      "id": "sen-cadiz-psoe-1",
+      "nombre": "Juan Carlos Ruiz Boix"
      }
     ]
    }
@@ -369,74 +241,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-cordoba-alfa-1",
-      "nombre": "Víctor Hidalgo Zamora"
-     },
-     {
-      "id": "sen-cordoba-alfa-2",
-      "nombre": "Víctor Moya Montero"
-     },
-     {
-      "id": "sen-cordoba-alfa-3",
-      "nombre": "Paula Nieto Hidalgo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-cordoba-beta-1",
-      "nombre": "Lorena Ibáñez Delgado"
-     },
-     {
-      "id": "sen-cordoba-beta-2",
-      "nombre": "Ainhoa Pascual Ferrer"
-     },
-     {
-      "id": "sen-cordoba-beta-3",
-      "nombre": "Íñigo Tomás Esteve"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-cordoba-gamma-1",
-      "nombre": "Íñigo Benítez Rojas"
-     },
-     {
-      "id": "sen-cordoba-gamma-2",
-      "nombre": "Carmen Carrasco Ferrer"
-     },
-     {
-      "id": "sen-cordoba-gamma-3",
-      "nombre": "Marta Quintana Vega"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-cordoba-delta-1",
-      "nombre": "Raúl Durán Pascual"
-     },
-     {
-      "id": "sen-cordoba-delta-2",
-      "nombre": "Marcos Montero Caballero"
-     },
-     {
-      "id": "sen-cordoba-delta-3",
-      "nombre": "Noelia Zamora Sáez"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-cordoba-epsilon-1",
-      "nombre": "Elena Caballero Caballero"
-     },
-     {
-      "id": "sen-cordoba-epsilon-2",
-      "nombre": "Iker Fuentes Hidalgo"
-     },
-     {
-      "id": "sen-cordoba-epsilon-3",
-      "nombre": "Ainhoa Zamora Tomás"
+      "id": "sen-cordoba-psoe-1",
+      "nombre": "Rafi Crespín"
      }
     ]
    }
@@ -447,74 +255,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-granada-alfa-1",
-      "nombre": "Raúl Fuentes Vera"
-     },
-     {
-      "id": "sen-granada-alfa-2",
-      "nombre": "Julia Montero Lorenzo"
-     },
-     {
-      "id": "sen-granada-alfa-3",
-      "nombre": "Manuel Tomás Moya"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-granada-beta-1",
-      "nombre": "Elena Gómez Rojas"
-     },
-     {
-      "id": "sen-granada-beta-2",
-      "nombre": "Clara Herrero Caballero"
-     },
-     {
-      "id": "sen-granada-beta-3",
-      "nombre": "Iker Nieto Moya"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-granada-gamma-1",
-      "nombre": "Irene Arias Herrero"
-     },
-     {
-      "id": "sen-granada-gamma-2",
-      "nombre": "Noelia Esteban Aguilar"
-     },
-     {
-      "id": "sen-granada-gamma-3",
-      "nombre": "Rubén Mora Vera"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-granada-delta-1",
-      "nombre": "Nuria Hidalgo Pardo"
-     },
-     {
-      "id": "sen-granada-delta-2",
-      "nombre": "Sara Moya Valero"
-     },
-     {
-      "id": "sen-granada-delta-3",
-      "nombre": "Carmen Vera Esteve"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-granada-epsilon-1",
-      "nombre": "Marta Caballero Ibáñez"
-     },
-     {
-      "id": "sen-granada-epsilon-2",
-      "nombre": "Diego Fuentes Lorenzo"
-     },
-     {
-      "id": "sen-granada-epsilon-3",
-      "nombre": "Laura Hidalgo Mora"
+      "id": "sen-granada-psoe-1",
+      "nombre": "Pedro Fernández"
      }
     ]
    }
@@ -525,60 +269,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-huelva-alfa-1",
-      "nombre": "Julia Lorenzo Esteban"
-     },
-     {
-      "id": "sen-huelva-alfa-2",
-      "nombre": "Mateo Montero Pascual"
-     },
-     {
-      "id": "sen-huelva-alfa-3",
-      "nombre": "Víctor Urrutia Rojas"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-huelva-beta-1",
-      "nombre": "Álvaro Nieto Caballero"
-     },
-     {
-      "id": "sen-huelva-beta-2",
-      "nombre": "Elena Soler Durán"
-     },
-     {
-      "id": "sen-huelva-beta-3",
-      "nombre": "Hugo Vera Quintana"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-huelva-gamma-1",
-      "nombre": "Jorge Aguilar Ibáñez"
-     },
-     {
-      "id": "sen-huelva-gamma-2",
-      "nombre": "Pablo Valero Arias"
-     },
-     {
-      "id": "sen-huelva-gamma-3",
-      "nombre": "Noelia Zamora Rojas"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-huelva-delta-1",
-      "nombre": "Gonzalo Aguilar Tomás"
-     },
-     {
-      "id": "sen-huelva-delta-2",
-      "nombre": "Álvaro Gómez Herrero"
-     },
-     {
-      "id": "sen-huelva-delta-3",
-      "nombre": "Manuel Nieto Lorenzo"
+      "id": "sen-huelva-psoe-1",
+      "nombre": "María Eugenia Limón"
      }
     ]
    }
@@ -588,64 +282,7 @@
    "ccaa": "andalucia",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-jaen-alfa-1",
-      "nombre": "Julia Delgado Ibáñez"
-     },
-     {
-      "id": "sen-jaen-alfa-2",
-      "nombre": "Carmen Herrero Durán"
-     },
-     {
-      "id": "sen-jaen-alfa-3",
-      "nombre": "Clara Reyes Giménez"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-jaen-beta-1",
-      "nombre": "Sergio Fuentes Reyes"
-     },
-     {
-      "id": "sen-jaen-beta-2",
-      "nombre": "Gonzalo Mora Reyes"
-     },
-     {
-      "id": "sen-jaen-beta-3",
-      "nombre": "Jorge Soto Moya"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-jaen-gamma-1",
-      "nombre": "Lorena Bravo Hidalgo"
-     },
-     {
-      "id": "sen-jaen-gamma-2",
-      "nombre": "Elena Delgado Benítez"
-     },
-     {
-      "id": "sen-jaen-gamma-3",
-      "nombre": "Julia Delgado Vera"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-jaen-delta-1",
-      "nombre": "Inés Fuentes Caballero"
-     },
-     {
-      "id": "sen-jaen-delta-2",
-      "nombre": "Daniel Herrero Herrero"
-     },
-     {
-      "id": "sen-jaen-delta-3",
-      "nombre": "Marcos Quintana Reyes"
-     }
-    ]
-   }
+   "listas": {}
   },
   "malaga": {
    "nombre": "Málaga",
@@ -653,60 +290,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-malaga-alfa-1",
-      "nombre": "Alba Caballero Aguilar"
-     },
-     {
-      "id": "sen-malaga-alfa-2",
-      "nombre": "Rubén Giménez Montero"
-     },
-     {
-      "id": "sen-malaga-alfa-3",
-      "nombre": "Álvaro Hidalgo Durán"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-malaga-beta-1",
-      "nombre": "Diego Ferrer Díez"
-     },
-     {
-      "id": "sen-malaga-beta-2",
-      "nombre": "Noelia Hidalgo Vera"
-     },
-     {
-      "id": "sen-malaga-beta-3",
-      "nombre": "Mateo Vera Montero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-malaga-gamma-1",
-      "nombre": "Raúl Montero Urrutia"
-     },
-     {
-      "id": "sen-malaga-gamma-2",
-      "nombre": "Inés Parra Aguilar"
-     },
-     {
-      "id": "sen-malaga-gamma-3",
-      "nombre": "Celia Vera Esteban"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-malaga-delta-1",
-      "nombre": "Lorena Díez Rojas"
-     },
-     {
-      "id": "sen-malaga-delta-2",
-      "nombre": "Íñigo Ferrer Caballero"
-     },
-     {
-      "id": "sen-malaga-delta-3",
-      "nombre": "Pablo Zamora Díez"
+      "id": "sen-malaga-psoe-1",
+      "nombre": "Javier García León"
      }
     ]
    }
@@ -717,74 +304,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-sevilla-alfa-1",
-      "nombre": "Adrián Ferrer Arias"
-     },
-     {
-      "id": "sen-sevilla-alfa-2",
-      "nombre": "Jorge Pascual Jiménez"
-     },
-     {
-      "id": "sen-sevilla-alfa-3",
-      "nombre": "Mateo Vera Zamora"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-sevilla-beta-1",
-      "nombre": "Sergio Gómez Bravo"
-     },
-     {
-      "id": "sen-sevilla-beta-2",
-      "nombre": "Noelia Hidalgo Durán"
-     },
-     {
-      "id": "sen-sevilla-beta-3",
-      "nombre": "Sergio Urrutia Ferrer"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-sevilla-gamma-1",
-      "nombre": "Lorena Arias Pascual"
-     },
-     {
-      "id": "sen-sevilla-gamma-2",
-      "nombre": "Diego Durán Díez"
-     },
-     {
-      "id": "sen-sevilla-gamma-3",
-      "nombre": "Sergio Herrero Delgado"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-sevilla-delta-1",
-      "nombre": "Óscar Hidalgo Benítez"
-     },
-     {
-      "id": "sen-sevilla-delta-2",
-      "nombre": "Celia Nieto Fuentes"
-     },
-     {
-      "id": "sen-sevilla-delta-3",
-      "nombre": "Alba Urrutia Soto"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-sevilla-epsilon-1",
-      "nombre": "Adrián Crespo Quintana"
-     },
-     {
-      "id": "sen-sevilla-epsilon-2",
-      "nombre": "Carmen Fuentes Sáez"
-     },
-     {
-      "id": "sen-sevilla-epsilon-3",
-      "nombre": "Sara Nieto Bravo"
+      "id": "sen-sevilla-psoe-1",
+      "nombre": "Rosario Andújar"
      }
     ]
    }
@@ -795,74 +318,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-huesca-alfa-1",
-      "nombre": "Julia Durán Díez"
-     },
-     {
-      "id": "sen-huesca-alfa-2",
-      "nombre": "Lorena Esteve Benítez"
-     },
-     {
-      "id": "sen-huesca-alfa-3",
-      "nombre": "Nerea Fuentes Pascual"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-huesca-beta-1",
-      "nombre": "Rubén Delgado Díez"
-     },
-     {
-      "id": "sen-huesca-beta-2",
-      "nombre": "Celia Giménez Lorenzo"
-     },
-     {
-      "id": "sen-huesca-beta-3",
-      "nombre": "Julia Jiménez Vera"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-huesca-gamma-1",
-      "nombre": "Víctor Díez Valero"
-     },
-     {
-      "id": "sen-huesca-gamma-2",
-      "nombre": "Íñigo Ibáñez Hidalgo"
-     },
-     {
-      "id": "sen-huesca-gamma-3",
-      "nombre": "Laura Vera Mora"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-huesca-delta-1",
-      "nombre": "Óscar Carrasco Hidalgo"
-     },
-     {
-      "id": "sen-huesca-delta-2",
-      "nombre": "Javier Pardo Parra"
-     },
-     {
-      "id": "sen-huesca-delta-3",
-      "nombre": "Laura Parra Vera"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-huesca-epsilon-1",
-      "nombre": "Adrián Durán Hidalgo"
-     },
-     {
-      "id": "sen-huesca-epsilon-2",
-      "nombre": "Jorge Giménez Carrasco"
-     },
-     {
-      "id": "sen-huesca-epsilon-3",
-      "nombre": "Irene Herrero Soto"
+      "id": "sen-huesca-psoe-1",
+      "nombre": "Tania Solans"
      }
     ]
    }
@@ -873,74 +332,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-teruel-alfa-1",
-      "nombre": "Pablo Parra Díez"
-     },
-     {
-      "id": "sen-teruel-alfa-2",
-      "nombre": "Ainhoa Soler Arias"
-     },
-     {
-      "id": "sen-teruel-alfa-3",
-      "nombre": "Gonzalo Tomás Arias"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-teruel-beta-1",
-      "nombre": "Alba Pascual Crespo"
-     },
-     {
-      "id": "sen-teruel-beta-2",
-      "nombre": "Ana Zamora Esteban"
-     },
-     {
-      "id": "sen-teruel-beta-3",
-      "nombre": "Elena Zamora Sáez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-teruel-gamma-1",
-      "nombre": "Paula Bravo Esteban"
-     },
-     {
-      "id": "sen-teruel-gamma-2",
-      "nombre": "Nerea Díez Urrutia"
-     },
-     {
-      "id": "sen-teruel-gamma-3",
-      "nombre": "Javier Soto Montero"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-teruel-delta-1",
-      "nombre": "Óscar Aguilar Pardo"
-     },
-     {
-      "id": "sen-teruel-delta-2",
-      "nombre": "Rubén Hidalgo Esteve"
-     },
-     {
-      "id": "sen-teruel-delta-3",
-      "nombre": "Celia Vega Urrutia"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-teruel-epsilon-1",
-      "nombre": "Lorena Aguilar Herrero"
-     },
-     {
-      "id": "sen-teruel-epsilon-2",
-      "nombre": "Jorge Arias Gómez"
-     },
-     {
-      "id": "sen-teruel-epsilon-3",
-      "nombre": "Gonzalo Valero Bravo"
+      "id": "sen-teruel-psoe-1",
+      "nombre": "María José Villalba"
      }
     ]
    }
@@ -951,60 +346,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-zaragoza-alfa-1",
-      "nombre": "Hugo Moya Delgado"
-     },
-     {
-      "id": "sen-zaragoza-alfa-2",
-      "nombre": "Manuel Rojas Esteve"
-     },
-     {
-      "id": "sen-zaragoza-alfa-3",
-      "nombre": "Pablo Urrutia Durán"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-zaragoza-beta-1",
-      "nombre": "Lorena Delgado Tomás"
-     },
-     {
-      "id": "sen-zaragoza-beta-2",
-      "nombre": "Nerea Fuentes Sáez"
-     },
-     {
-      "id": "sen-zaragoza-beta-3",
-      "nombre": "Mateo Pascual Gómez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-zaragoza-gamma-1",
-      "nombre": "Laura Díez Quintana"
-     },
-     {
-      "id": "sen-zaragoza-gamma-2",
-      "nombre": "Elena Esteban Quintana"
-     },
-     {
-      "id": "sen-zaragoza-gamma-3",
-      "nombre": "Íñigo Fuentes Pardo"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-zaragoza-delta-1",
-      "nombre": "Ana Crespo Vera"
-     },
-     {
-      "id": "sen-zaragoza-delta-2",
-      "nombre": "Lorena Rojas Jiménez"
-     },
-     {
-      "id": "sen-zaragoza-delta-3",
-      "nombre": "Marta Soto Aguilar"
+      "id": "sen-zaragoza-psoe-1",
+      "nombre": "Miguel Dalmau"
      }
     ]
    }
@@ -1014,626 +359,91 @@
    "ccaa": "asturias",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-asturias-alfa-1",
-      "nombre": "Mateo Arias Pardo"
-     },
-     {
-      "id": "sen-asturias-alfa-2",
-      "nombre": "Ana Crespo Benítez"
-     },
-     {
-      "id": "sen-asturias-alfa-3",
-      "nombre": "Jorge Rojas Valero"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-asturias-beta-1",
-      "nombre": "Lucía Aguilar Lorenzo"
-     },
-     {
-      "id": "sen-asturias-beta-2",
-      "nombre": "Daniel Esteve Sáez"
-     },
-     {
-      "id": "sen-asturias-beta-3",
-      "nombre": "Gonzalo Moya Sáez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-asturias-gamma-1",
-      "nombre": "Irene Esteban Caballero"
-     },
-     {
-      "id": "sen-asturias-gamma-2",
-      "nombre": "Lorena Pardo Díez"
-     },
-     {
-      "id": "sen-asturias-gamma-3",
-      "nombre": "Nerea Rojas Delgado"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-asturias-delta-1",
-      "nombre": "Álvaro Esteve Tomás"
-     },
-     {
-      "id": "sen-asturias-delta-2",
-      "nombre": "Rubén Jiménez Bravo"
-     },
-     {
-      "id": "sen-asturias-delta-3",
-      "nombre": "Óscar Montero Herrero"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-asturias-epsilon-1",
-      "nombre": "Inés Bravo Sáez"
-     },
-     {
-      "id": "sen-asturias-epsilon-2",
-      "nombre": "Íñigo Jiménez Vega"
-     },
-     {
-      "id": "sen-asturias-epsilon-3",
-      "nombre": "Elena Vera Esteban"
-     }
-    ]
-   }
+   "listas": {}
   },
   "mallorca": {
    "nombre": "Mallorca",
    "ccaa": "baleares",
    "escanos": 3,
    "marcas": 2,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-mallorca-alfa-1",
-      "nombre": "Manuel Herrero Aguilar"
-     },
-     {
-      "id": "sen-mallorca-alfa-2",
-      "nombre": "Rubén Vega Pardo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-mallorca-beta-1",
-      "nombre": "Rubén Aguilar Lorenzo"
-     },
-     {
-      "id": "sen-mallorca-beta-2",
-      "nombre": "Carmen Moya Parra"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-mallorca-gamma-1",
-      "nombre": "Álvaro Ferrer Valero"
-     },
-     {
-      "id": "sen-mallorca-gamma-2",
-      "nombre": "Nuria Herrero Soler"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-mallorca-delta-1",
-      "nombre": "Nerea Hidalgo Gómez"
-     },
-     {
-      "id": "sen-mallorca-delta-2",
-      "nombre": "Ana Soler Pascual"
-     }
-    ]
-   }
+   "listas": {}
   },
   "menorca": {
    "nombre": "Menorca",
    "ccaa": "baleares",
    "escanos": 1,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-menorca-alfa-1",
-      "nombre": "Diego Lorenzo Vega"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-menorca-beta-1",
-      "nombre": "Javier Hidalgo Bravo"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-menorca-gamma-1",
-      "nombre": "Irene Jiménez Giménez"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-menorca-delta-1",
-      "nombre": "Adrián Arias Crespo"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-menorca-epsilon-1",
-      "nombre": "Laura Ferrer Soler"
-     }
-    ]
-   }
+   "listas": {}
   },
   "eivissa-formentera": {
    "nombre": "Eivissa-Formentera",
    "ccaa": "baleares",
    "escanos": 1,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-eivissa-formentera-alfa-1",
-      "nombre": "Hugo Montero Zamora"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-eivissa-formentera-beta-1",
-      "nombre": "Nerea Sáez Mora"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-eivissa-formentera-gamma-1",
-      "nombre": "Mateo Benítez Esteban"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-eivissa-formentera-delta-1",
-      "nombre": "Lucía Moya Lorenzo"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-eivissa-formentera-epsilon-1",
-      "nombre": "Ana Ibáñez Quintana"
-     }
-    ]
-   }
+   "listas": {}
   },
   "gran-canaria": {
    "nombre": "Gran Canaria",
    "ccaa": "canarias",
    "escanos": 3,
    "marcas": 2,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-gran-canaria-alfa-1",
-      "nombre": "Clara Crespo Mora"
-     },
-     {
-      "id": "sen-gran-canaria-alfa-2",
-      "nombre": "Marcos Sáez Urrutia"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-gran-canaria-beta-1",
-      "nombre": "Raúl Bravo Crespo"
-     },
-     {
-      "id": "sen-gran-canaria-beta-2",
-      "nombre": "Julia Nieto Tomás"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-gran-canaria-gamma-1",
-      "nombre": "Rubén Fuentes Esteban"
-     },
-     {
-      "id": "sen-gran-canaria-gamma-2",
-      "nombre": "Raúl Sáez Tomás"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-gran-canaria-delta-1",
-      "nombre": "Elena Arias Crespo"
-     },
-     {
-      "id": "sen-gran-canaria-delta-2",
-      "nombre": "Hugo Zamora Gómez"
-     }
-    ]
-   }
+   "listas": {}
   },
   "tenerife": {
    "nombre": "Tenerife",
    "ccaa": "canarias",
    "escanos": 3,
    "marcas": 2,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-tenerife-alfa-1",
-      "nombre": "Diego Bravo Soler"
-     },
-     {
-      "id": "sen-tenerife-alfa-2",
-      "nombre": "Rocío Delgado Delgado"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-tenerife-beta-1",
-      "nombre": "Jorge Benítez Sáez"
-     },
-     {
-      "id": "sen-tenerife-beta-2",
-      "nombre": "Rocío Sáez Caballero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-tenerife-gamma-1",
-      "nombre": "Julia Durán Soler"
-     },
-     {
-      "id": "sen-tenerife-gamma-2",
-      "nombre": "Hugo Parra Díez"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-tenerife-delta-1",
-      "nombre": "Carmen Bravo Delgado"
-     },
-     {
-      "id": "sen-tenerife-delta-2",
-      "nombre": "Ana Ferrer Urrutia"
-     }
-    ]
-   }
+   "listas": {}
   },
   "fuerteventura": {
    "nombre": "Fuerteventura",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-fuerteventura-alfa-1",
-      "nombre": "Iker Mora Nieto"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-fuerteventura-beta-1",
-      "nombre": "Víctor Herrero Caballero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-fuerteventura-gamma-1",
-      "nombre": "Marta Caballero Jiménez"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-fuerteventura-delta-1",
-      "nombre": "Hugo Rojas Parra"
-     }
-    ]
-   }
+   "listas": {}
   },
   "lanzarote": {
    "nombre": "Lanzarote-La Graciosa",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-lanzarote-alfa-1",
-      "nombre": "Sergio Delgado Sáez"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-lanzarote-beta-1",
-      "nombre": "Ainhoa Ferrer Durán"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-lanzarote-gamma-1",
-      "nombre": "Daniel Lorenzo Esteban"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-lanzarote-delta-1",
-      "nombre": "Paula Aguilar Gómez"
-     }
-    ]
-   }
+   "listas": {}
   },
   "la-palma": {
    "nombre": "La Palma",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-la-palma-alfa-1",
-      "nombre": "Javier Quintana Rojas"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-la-palma-beta-1",
-      "nombre": "Noelia Zamora Moya"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-la-palma-gamma-1",
-      "nombre": "Ana Vera Jiménez"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-la-palma-delta-1",
-      "nombre": "Andrés Durán Carrasco"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-la-palma-epsilon-1",
-      "nombre": "Raúl Parra Urrutia"
-     }
-    ]
-   }
+   "listas": {}
   },
   "la-gomera": {
    "nombre": "La Gomera",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-la-gomera-alfa-1",
-      "nombre": "Ana Pascual Parra"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-la-gomera-beta-1",
-      "nombre": "Laura Vera Crespo"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-la-gomera-gamma-1",
-      "nombre": "Jorge Esteve Ferrer"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-la-gomera-delta-1",
-      "nombre": "Alba Nieto Benítez"
-     }
-    ]
-   }
+   "listas": {}
   },
   "el-hierro": {
    "nombre": "El Hierro",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-el-hierro-alfa-1",
-      "nombre": "Inés Quintana Soler"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-el-hierro-beta-1",
-      "nombre": "Jorge Crespo Esteve"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-el-hierro-gamma-1",
-      "nombre": "Irene Zamora Delgado"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-el-hierro-delta-1",
-      "nombre": "Óscar Ferrer Durán"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-el-hierro-epsilon-1",
-      "nombre": "Carmen Quintana Montero"
-     }
-    ]
-   }
+   "listas": {}
   },
   "cantabria": {
    "nombre": "Cantabria",
    "ccaa": "cantabria",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-cantabria-alfa-1",
-      "nombre": "Andrés Esteban Montero"
-     },
-     {
-      "id": "sen-cantabria-alfa-2",
-      "nombre": "Iker Rojas Quintana"
-     },
-     {
-      "id": "sen-cantabria-alfa-3",
-      "nombre": "Iker Soto Vera"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-cantabria-beta-1",
-      "nombre": "Nerea Fuentes Urrutia"
-     },
-     {
-      "id": "sen-cantabria-beta-2",
-      "nombre": "Iker Rojas Esteve"
-     },
-     {
-      "id": "sen-cantabria-beta-3",
-      "nombre": "Alba Urrutia Aguilar"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-cantabria-gamma-1",
-      "nombre": "Nuria Giménez Carrasco"
-     },
-     {
-      "id": "sen-cantabria-gamma-2",
-      "nombre": "Adrián Soler Ibáñez"
-     },
-     {
-      "id": "sen-cantabria-gamma-3",
-      "nombre": "Carmen Vera Aguilar"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-cantabria-delta-1",
-      "nombre": "Nerea Carrasco Caballero"
-     },
-     {
-      "id": "sen-cantabria-delta-2",
-      "nombre": "Adrián Carrasco Pascual"
-     },
-     {
-      "id": "sen-cantabria-delta-3",
-      "nombre": "Sergio Valero Montero"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-cantabria-epsilon-1",
-      "nombre": "Andrés Mora Bravo"
-     },
-     {
-      "id": "sen-cantabria-epsilon-2",
-      "nombre": "Ainhoa Quintana Herrero"
-     },
-     {
-      "id": "sen-cantabria-epsilon-3",
-      "nombre": "Íñigo Soler Moya"
-     }
-    ]
-   }
+   "listas": {}
   },
   "avila": {
    "nombre": "Ávila",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-avila-alfa-1",
-      "nombre": "Inés Caballero Bravo"
-     },
-     {
-      "id": "sen-avila-alfa-2",
-      "nombre": "Pablo Soler Parra"
-     },
-     {
-      "id": "sen-avila-alfa-3",
-      "nombre": "Óscar Zamora Quintana"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-avila-beta-1",
-      "nombre": "Rocío Aguilar Urrutia"
-     },
-     {
-      "id": "sen-avila-beta-2",
-      "nombre": "Marta Vera Esteve"
-     },
-     {
-      "id": "sen-avila-beta-3",
-      "nombre": "Julia Vera Nieto"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-avila-gamma-1",
-      "nombre": "Manuel Durán Delgado"
-     },
-     {
-      "id": "sen-avila-gamma-2",
-      "nombre": "Ana Quintana Reyes"
-     },
-     {
-      "id": "sen-avila-gamma-3",
-      "nombre": "Manuel Reyes Zamora"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-avila-delta-1",
-      "nombre": "Jorge Giménez Bravo"
-     },
-     {
-      "id": "sen-avila-delta-2",
-      "nombre": "Íñigo Soler Ferrer"
-     },
-     {
-      "id": "sen-avila-delta-3",
-      "nombre": "Inés Tomás Zamora"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-avila-epsilon-1",
-      "nombre": "Manuel Ibáñez Caballero"
-     },
-     {
-      "id": "sen-avila-epsilon-2",
-      "nombre": "Noelia Quintana Díez"
-     },
-     {
-      "id": "sen-avila-epsilon-3",
-      "nombre": "Diego Sáez Tomás"
-     }
-    ]
-   }
+   "listas": {}
   },
   "burgos": {
    "nombre": "Burgos",
@@ -1641,60 +451,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-burgos-alfa-1",
-      "nombre": "Jorge Durán Zamora"
-     },
-     {
-      "id": "sen-burgos-alfa-2",
-      "nombre": "Paula Esteve Carrasco"
-     },
-     {
-      "id": "sen-burgos-alfa-3",
-      "nombre": "Mateo Nieto Nieto"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-burgos-beta-1",
-      "nombre": "Víctor Esteve Giménez"
-     },
-     {
-      "id": "sen-burgos-beta-2",
-      "nombre": "Andrés Fuentes Parra"
-     },
-     {
-      "id": "sen-burgos-beta-3",
-      "nombre": "Paula Tomás Valero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-burgos-gamma-1",
-      "nombre": "Marcos Aguilar Pascual"
-     },
-     {
-      "id": "sen-burgos-gamma-2",
-      "nombre": "Lorena Soler Vera"
-     },
-     {
-      "id": "sen-burgos-gamma-3",
-      "nombre": "Álvaro Vega Herrero"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-burgos-delta-1",
-      "nombre": "Mateo Crespo Mora"
-     },
-     {
-      "id": "sen-burgos-delta-2",
-      "nombre": "Hugo Gómez Parra"
-     },
-     {
-      "id": "sen-burgos-delta-3",
-      "nombre": "Celia Soler Ibáñez"
+      "id": "sen-burgos-psoe-1",
+      "nombre": "Aitana Hernando"
      }
     ]
    }
@@ -1704,462 +464,49 @@
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-leon-alfa-1",
-      "nombre": "Víctor Aguilar Giménez"
-     },
-     {
-      "id": "sen-leon-alfa-2",
-      "nombre": "Andrés Fuentes Valero"
-     },
-     {
-      "id": "sen-leon-alfa-3",
-      "nombre": "Manuel Tomás Soto"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-leon-beta-1",
-      "nombre": "Javier Montero Pardo"
-     },
-     {
-      "id": "sen-leon-beta-2",
-      "nombre": "Jorge Parra Nieto"
-     },
-     {
-      "id": "sen-leon-beta-3",
-      "nombre": "Paula Urrutia Rojas"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-leon-gamma-1",
-      "nombre": "Jorge Ferrer Vega"
-     },
-     {
-      "id": "sen-leon-gamma-2",
-      "nombre": "Elena Montero Delgado"
-     },
-     {
-      "id": "sen-leon-gamma-3",
-      "nombre": "Julia Nieto Aguilar"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-leon-delta-1",
-      "nombre": "Hugo Carrasco Herrero"
-     },
-     {
-      "id": "sen-leon-delta-2",
-      "nombre": "Carmen Fuentes Pascual"
-     },
-     {
-      "id": "sen-leon-delta-3",
-      "nombre": "Laura Quintana Gómez"
-     }
-    ]
-   }
+   "listas": {}
   },
   "palencia": {
    "nombre": "Palencia",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-palencia-alfa-1",
-      "nombre": "Hugo Bravo Esteban"
-     },
-     {
-      "id": "sen-palencia-alfa-2",
-      "nombre": "Nuria Esteve Jiménez"
-     },
-     {
-      "id": "sen-palencia-alfa-3",
-      "nombre": "Manuel Sáez Moya"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-palencia-beta-1",
-      "nombre": "Íñigo Fuentes Delgado"
-     },
-     {
-      "id": "sen-palencia-beta-2",
-      "nombre": "Jorge Mora Mora"
-     },
-     {
-      "id": "sen-palencia-beta-3",
-      "nombre": "Íñigo Soto Herrero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-palencia-gamma-1",
-      "nombre": "Alba Ferrer Durán"
-     },
-     {
-      "id": "sen-palencia-gamma-2",
-      "nombre": "Javier Soto Gómez"
-     },
-     {
-      "id": "sen-palencia-gamma-3",
-      "nombre": "Laura Tomás Mora"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-palencia-delta-1",
-      "nombre": "Noelia Esteban Arias"
-     },
-     {
-      "id": "sen-palencia-delta-2",
-      "nombre": "Mateo Sáez Giménez"
-     },
-     {
-      "id": "sen-palencia-delta-3",
-      "nombre": "Víctor Soto Urrutia"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-palencia-epsilon-1",
-      "nombre": "Carmen Giménez Díez"
-     },
-     {
-      "id": "sen-palencia-epsilon-2",
-      "nombre": "Íñigo Quintana Lorenzo"
-     },
-     {
-      "id": "sen-palencia-epsilon-3",
-      "nombre": "Óscar Zamora Caballero"
-     }
-    ]
-   }
+   "listas": {}
   },
   "salamanca": {
    "nombre": "Salamanca",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-salamanca-alfa-1",
-      "nombre": "Laura Herrero Esteban"
-     },
-     {
-      "id": "sen-salamanca-alfa-2",
-      "nombre": "Manuel Hidalgo Vega"
-     },
-     {
-      "id": "sen-salamanca-alfa-3",
-      "nombre": "Rubén Quintana Tomás"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-salamanca-beta-1",
-      "nombre": "Jorge Díez Jiménez"
-     },
-     {
-      "id": "sen-salamanca-beta-2",
-      "nombre": "Manuel Díez Zamora"
-     },
-     {
-      "id": "sen-salamanca-beta-3",
-      "nombre": "Hugo Valero Benítez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-salamanca-gamma-1",
-      "nombre": "Lorena Esteve Durán"
-     },
-     {
-      "id": "sen-salamanca-gamma-2",
-      "nombre": "Julia Fuentes Rojas"
-     },
-     {
-      "id": "sen-salamanca-gamma-3",
-      "nombre": "Marcos Moya Herrero"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-salamanca-delta-1",
-      "nombre": "Jorge Bravo Carrasco"
-     },
-     {
-      "id": "sen-salamanca-delta-2",
-      "nombre": "Nerea Durán Pardo"
-     },
-     {
-      "id": "sen-salamanca-delta-3",
-      "nombre": "Nerea Fuentes Vera"
-     }
-    ]
-   }
+   "listas": {}
   },
   "segovia": {
    "nombre": "Segovia",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-segovia-alfa-1",
-      "nombre": "Laura Parra Díez"
-     },
-     {
-      "id": "sen-segovia-alfa-2",
-      "nombre": "Óscar Pascual Rojas"
-     },
-     {
-      "id": "sen-segovia-alfa-3",
-      "nombre": "Manuel Quintana Esteve"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-segovia-beta-1",
-      "nombre": "Laura Benítez Montero"
-     },
-     {
-      "id": "sen-segovia-beta-2",
-      "nombre": "Íñigo Nieto Delgado"
-     },
-     {
-      "id": "sen-segovia-beta-3",
-      "nombre": "Pablo Zamora Vera"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-segovia-gamma-1",
-      "nombre": "Ana Durán Vera"
-     },
-     {
-      "id": "sen-segovia-gamma-2",
-      "nombre": "Jorge Esteve Fuentes"
-     },
-     {
-      "id": "sen-segovia-gamma-3",
-      "nombre": "Marta Moya Ibáñez"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-segovia-delta-1",
-      "nombre": "Sara Benítez Benítez"
-     },
-     {
-      "id": "sen-segovia-delta-2",
-      "nombre": "Irene Carrasco Crespo"
-     },
-     {
-      "id": "sen-segovia-delta-3",
-      "nombre": "Hugo Lorenzo Delgado"
-     }
-    ]
-   }
+   "listas": {}
   },
   "soria": {
    "nombre": "Soria",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-soria-alfa-1",
-      "nombre": "Inés Fuentes Parra"
-     },
-     {
-      "id": "sen-soria-alfa-2",
-      "nombre": "Marta Giménez Esteve"
-     },
-     {
-      "id": "sen-soria-alfa-3",
-      "nombre": "Daniel Reyes Ibáñez"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-soria-beta-1",
-      "nombre": "Iker Aguilar Hidalgo"
-     },
-     {
-      "id": "sen-soria-beta-2",
-      "nombre": "Carmen Carrasco Valero"
-     },
-     {
-      "id": "sen-soria-beta-3",
-      "nombre": "Ana Vega Aguilar"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-soria-gamma-1",
-      "nombre": "Rocío Moya Tomás"
-     },
-     {
-      "id": "sen-soria-gamma-2",
-      "nombre": "Lorena Pascual Soto"
-     },
-     {
-      "id": "sen-soria-gamma-3",
-      "nombre": "Ainhoa Quintana Soler"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-soria-delta-1",
-      "nombre": "Gonzalo Lorenzo Aguilar"
-     },
-     {
-      "id": "sen-soria-delta-2",
-      "nombre": "Rocío Urrutia Soto"
-     },
-     {
-      "id": "sen-soria-delta-3",
-      "nombre": "Laura Vega Jiménez"
-     }
-    ]
-   }
+   "listas": {}
   },
   "valladolid": {
    "nombre": "Valladolid",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-valladolid-alfa-1",
-      "nombre": "Víctor Pardo Reyes"
-     },
-     {
-      "id": "sen-valladolid-alfa-2",
-      "nombre": "Adrián Zamora Quintana"
-     },
-     {
-      "id": "sen-valladolid-alfa-3",
-      "nombre": "Sergio Zamora Soler"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-valladolid-beta-1",
-      "nombre": "Sergio Arias Crespo"
-     },
-     {
-      "id": "sen-valladolid-beta-2",
-      "nombre": "Ainhoa Giménez Soto"
-     },
-     {
-      "id": "sen-valladolid-beta-3",
-      "nombre": "Manuel Herrero Crespo"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-valladolid-gamma-1",
-      "nombre": "Marta Giménez Benítez"
-     },
-     {
-      "id": "sen-valladolid-gamma-2",
-      "nombre": "Pablo Lorenzo Díez"
-     },
-     {
-      "id": "sen-valladolid-gamma-3",
-      "nombre": "Hugo Mora Crespo"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-valladolid-delta-1",
-      "nombre": "Manuel Carrasco Reyes"
-     },
-     {
-      "id": "sen-valladolid-delta-2",
-      "nombre": "Jorge Soto Delgado"
-     },
-     {
-      "id": "sen-valladolid-delta-3",
-      "nombre": "Sergio Urrutia Delgado"
-     }
-    ]
-   }
+   "listas": {}
   },
   "zamora": {
    "nombre": "Zamora",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-zamora-alfa-1",
-      "nombre": "Lorena Herrero Mora"
-     },
-     {
-      "id": "sen-zamora-alfa-2",
-      "nombre": "Paula Pardo Sáez"
-     },
-     {
-      "id": "sen-zamora-alfa-3",
-      "nombre": "Daniel Rojas Pascual"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-zamora-beta-1",
-      "nombre": "Pablo Caballero Esteban"
-     },
-     {
-      "id": "sen-zamora-beta-2",
-      "nombre": "Ana Giménez Parra"
-     },
-     {
-      "id": "sen-zamora-beta-3",
-      "nombre": "Diego Quintana Ferrer"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-zamora-gamma-1",
-      "nombre": "Pablo Tomás Herrero"
-     },
-     {
-      "id": "sen-zamora-gamma-2",
-      "nombre": "Sergio Zamora Delgado"
-     },
-     {
-      "id": "sen-zamora-gamma-3",
-      "nombre": "Ainhoa Zamora Herrero"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-zamora-delta-1",
-      "nombre": "Sara Delgado Montero"
-     },
-     {
-      "id": "sen-zamora-delta-2",
-      "nombre": "Ana Moya Delgado"
-     },
-     {
-      "id": "sen-zamora-delta-3",
-      "nombre": "Pablo Soto Vera"
-     }
-    ]
-   }
+   "listas": {}
   },
   "albacete": {
    "nombre": "Albacete",
@@ -2167,74 +514,18 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-albacete-alfa-1",
-      "nombre": "Julia Delgado Gómez"
+      "id": "sen-albacete-psoe-1",
+      "nombre": "Isabel Belén Iniesta"
      },
      {
-      "id": "sen-albacete-alfa-2",
-      "nombre": "Manuel Díez Caballero"
+      "id": "sen-albacete-psoe-2",
+      "nombre": "Francho Tierraseca"
      },
      {
-      "id": "sen-albacete-alfa-3",
-      "nombre": "Óscar Soto Pardo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-albacete-beta-1",
-      "nombre": "Manuel Aguilar Rojas"
-     },
-     {
-      "id": "sen-albacete-beta-2",
-      "nombre": "Rocío Parra Durán"
-     },
-     {
-      "id": "sen-albacete-beta-3",
-      "nombre": "Noelia Valero Sáez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-albacete-gamma-1",
-      "nombre": "Noelia Nieto Jiménez"
-     },
-     {
-      "id": "sen-albacete-gamma-2",
-      "nombre": "Álvaro Soto Mora"
-     },
-     {
-      "id": "sen-albacete-gamma-3",
-      "nombre": "Paula Valero Montero"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-albacete-delta-1",
-      "nombre": "Marcos Fuentes Pascual"
-     },
-     {
-      "id": "sen-albacete-delta-2",
-      "nombre": "Raúl Nieto Fuentes"
-     },
-     {
-      "id": "sen-albacete-delta-3",
-      "nombre": "Pablo Quintana Zamora"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-albacete-epsilon-1",
-      "nombre": "Rubén Lorenzo Díez"
-     },
-     {
-      "id": "sen-albacete-epsilon-2",
-      "nombre": "Marcos Vera Sáez"
-     },
-     {
-      "id": "sen-albacete-epsilon-3",
-      "nombre": "Sara Zamora Ferrer"
+      "id": "sen-albacete-psoe-3",
+      "nombre": "Rosario Herrera"
      }
     ]
    }
@@ -2245,60 +536,18 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-ciudad-real-alfa-1",
-      "nombre": "Raúl Aguilar Ibáñez"
+      "id": "sen-ciudad-real-psoe-1",
+      "nombre": "Rosa Melchor"
      },
      {
-      "id": "sen-ciudad-real-alfa-2",
-      "nombre": "Alba Esteban Fuentes"
+      "id": "sen-ciudad-real-psoe-2",
+      "nombre": "Pedro Antonio Palomo Mata"
      },
      {
-      "id": "sen-ciudad-real-alfa-3",
-      "nombre": "Pablo Moya Delgado"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-ciudad-real-beta-1",
-      "nombre": "Diego Durán Ferrer"
-     },
-     {
-      "id": "sen-ciudad-real-beta-2",
-      "nombre": "Laura Montero Aguilar"
-     },
-     {
-      "id": "sen-ciudad-real-beta-3",
-      "nombre": "Víctor Zamora Giménez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-ciudad-real-gamma-1",
-      "nombre": "Hugo Bravo Ferrer"
-     },
-     {
-      "id": "sen-ciudad-real-gamma-2",
-      "nombre": "Íñigo Bravo Parra"
-     },
-     {
-      "id": "sen-ciudad-real-gamma-3",
-      "nombre": "Ana Lorenzo Soto"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-ciudad-real-delta-1",
-      "nombre": "Paula Crespo Caballero"
-     },
-     {
-      "id": "sen-ciudad-real-delta-2",
-      "nombre": "Ainhoa Durán Arias"
-     },
-     {
-      "id": "sen-ciudad-real-delta-3",
-      "nombre": "Pablo Soto Caballero"
+      "id": "sen-ciudad-real-psoe-3",
+      "nombre": "María del Carmen Ballesteros Vélez"
      }
     ]
    }
@@ -2309,60 +558,18 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-cuenca-alfa-1",
-      "nombre": "Íñigo Giménez Ferrer"
+      "id": "sen-cuenca-psoe-1",
+      "nombre": "José Manuel López Carrizo"
      },
      {
-      "id": "sen-cuenca-alfa-2",
-      "nombre": "Ainhoa Lorenzo Esteve"
+      "id": "sen-cuenca-psoe-2",
+      "nombre": "Montserrat Poyatos"
      },
      {
-      "id": "sen-cuenca-alfa-3",
-      "nombre": "Sergio Urrutia Caballero"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-cuenca-beta-1",
-      "nombre": "Gonzalo Esteve Carrasco"
-     },
-     {
-      "id": "sen-cuenca-beta-2",
-      "nombre": "Celia Fuentes Montero"
-     },
-     {
-      "id": "sen-cuenca-beta-3",
-      "nombre": "Inés Vega Pardo"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-cuenca-gamma-1",
-      "nombre": "Óscar Herrero Aguilar"
-     },
-     {
-      "id": "sen-cuenca-gamma-2",
-      "nombre": "Alba Sáez Gómez"
-     },
-     {
-      "id": "sen-cuenca-gamma-3",
-      "nombre": "Irene Soler Pascual"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-cuenca-delta-1",
-      "nombre": "Marcos Mora Pardo"
-     },
-     {
-      "id": "sen-cuenca-delta-2",
-      "nombre": "Nuria Quintana Reyes"
-     },
-     {
-      "id": "sen-cuenca-delta-3",
-      "nombre": "Mateo Vega Giménez"
+      "id": "sen-cuenca-psoe-3",
+      "nombre": "Emilio José Osma"
      }
     ]
    }
@@ -2373,60 +580,18 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-guadalajara-alfa-1",
-      "nombre": "Clara Giménez Bravo"
+      "id": "sen-guadalajara-psoe-1",
+      "nombre": "Rafael Esteban"
      },
      {
-      "id": "sen-guadalajara-alfa-2",
-      "nombre": "Rocío Pardo Crespo"
+      "id": "sen-guadalajara-psoe-2",
+      "nombre": "Mercedes Gómez"
      },
      {
-      "id": "sen-guadalajara-alfa-3",
-      "nombre": "Carmen Rojas Montero"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-guadalajara-beta-1",
-      "nombre": "Iker Giménez Pascual"
-     },
-     {
-      "id": "sen-guadalajara-beta-2",
-      "nombre": "Álvaro Giménez Vera"
-     },
-     {
-      "id": "sen-guadalajara-beta-3",
-      "nombre": "Marcos Ibáñez Soler"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-guadalajara-gamma-1",
-      "nombre": "Julia Crespo Herrero"
-     },
-     {
-      "id": "sen-guadalajara-gamma-2",
-      "nombre": "Laura Díez Benítez"
-     },
-     {
-      "id": "sen-guadalajara-gamma-3",
-      "nombre": "Óscar Ferrer Esteve"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-guadalajara-delta-1",
-      "nombre": "Raúl Durán Urrutia"
-     },
-     {
-      "id": "sen-guadalajara-delta-2",
-      "nombre": "Álvaro Gómez Caballero"
-     },
-     {
-      "id": "sen-guadalajara-delta-3",
-      "nombre": "Javier Pardo Tomás"
+      "id": "sen-guadalajara-psoe-3",
+      "nombre": "Daniel Jiménez Díaz"
      }
     ]
    }
@@ -2437,74 +602,18 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-toledo-alfa-1",
-      "nombre": "Iker Durán Soler"
+      "id": "sen-toledo-psoe-1",
+      "nombre": "José Manuel Tofiño"
      },
      {
-      "id": "sen-toledo-alfa-2",
-      "nombre": "Pablo Valero Caballero"
+      "id": "sen-toledo-psoe-2",
+      "nombre": "María Luisa Rodríguez García"
      },
      {
-      "id": "sen-toledo-alfa-3",
-      "nombre": "Celia Vera Vera"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-toledo-beta-1",
-      "nombre": "Adrián Gómez Benítez"
-     },
-     {
-      "id": "sen-toledo-beta-2",
-      "nombre": "Carmen Pardo Nieto"
-     },
-     {
-      "id": "sen-toledo-beta-3",
-      "nombre": "Álvaro Tomás Sáez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-toledo-gamma-1",
-      "nombre": "Lucía Nieto Nieto"
-     },
-     {
-      "id": "sen-toledo-gamma-2",
-      "nombre": "Jorge Quintana Ferrer"
-     },
-     {
-      "id": "sen-toledo-gamma-3",
-      "nombre": "Ainhoa Soto Delgado"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-toledo-delta-1",
-      "nombre": "Javier Caballero Gómez"
-     },
-     {
-      "id": "sen-toledo-delta-2",
-      "nombre": "Mateo Pardo Nieto"
-     },
-     {
-      "id": "sen-toledo-delta-3",
-      "nombre": "Daniel Soto Mora"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-toledo-epsilon-1",
-      "nombre": "Noelia Reyes Díez"
-     },
-     {
-      "id": "sen-toledo-epsilon-2",
-      "nombre": "Alba Valero Ibáñez"
-     },
-     {
-      "id": "sen-toledo-epsilon-3",
-      "nombre": "Íñigo Zamora Soler"
+      "id": "sen-toledo-psoe-3",
+      "nombre": "Nacho Hernández Rodríguez"
      }
     ]
    }
@@ -2514,348 +623,35 @@
    "ccaa": "cataluna",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-barcelona-alfa-1",
-      "nombre": "Alba Bravo Ferrer"
-     },
-     {
-      "id": "sen-barcelona-alfa-2",
-      "nombre": "Noelia Pascual Bravo"
-     },
-     {
-      "id": "sen-barcelona-alfa-3",
-      "nombre": "Daniel Soto Nieto"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-barcelona-beta-1",
-      "nombre": "Irene Esteve Bravo"
-     },
-     {
-      "id": "sen-barcelona-beta-2",
-      "nombre": "Gonzalo Rojas Jiménez"
-     },
-     {
-      "id": "sen-barcelona-beta-3",
-      "nombre": "Noelia Tomás Herrero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-barcelona-gamma-1",
-      "nombre": "Marcos Arias Tomás"
-     },
-     {
-      "id": "sen-barcelona-gamma-2",
-      "nombre": "Andrés Fuentes Gómez"
-     },
-     {
-      "id": "sen-barcelona-gamma-3",
-      "nombre": "Sergio Jiménez Vega"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-barcelona-delta-1",
-      "nombre": "Gonzalo Benítez Delgado"
-     },
-     {
-      "id": "sen-barcelona-delta-2",
-      "nombre": "Manuel Díez Esteban"
-     },
-     {
-      "id": "sen-barcelona-delta-3",
-      "nombre": "Sergio Díez Ferrer"
-     }
-    ]
-   }
+   "listas": {}
   },
   "girona": {
    "nombre": "Girona",
    "ccaa": "cataluna",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-girona-alfa-1",
-      "nombre": "Javier Aguilar Ibáñez"
-     },
-     {
-      "id": "sen-girona-alfa-2",
-      "nombre": "Ana Benítez Crespo"
-     },
-     {
-      "id": "sen-girona-alfa-3",
-      "nombre": "Ainhoa Pascual Fuentes"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-girona-beta-1",
-      "nombre": "Hugo Esteve Lorenzo"
-     },
-     {
-      "id": "sen-girona-beta-2",
-      "nombre": "Inés Mora Bravo"
-     },
-     {
-      "id": "sen-girona-beta-3",
-      "nombre": "Rocío Parra Hidalgo"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-girona-gamma-1",
-      "nombre": "Rubén Delgado Pardo"
-     },
-     {
-      "id": "sen-girona-gamma-2",
-      "nombre": "Diego Gómez Reyes"
-     },
-     {
-      "id": "sen-girona-gamma-3",
-      "nombre": "Hugo Parra Zamora"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-girona-delta-1",
-      "nombre": "Julia Crespo Pardo"
-     },
-     {
-      "id": "sen-girona-delta-2",
-      "nombre": "Javier Lorenzo Arias"
-     },
-     {
-      "id": "sen-girona-delta-3",
-      "nombre": "Javier Nieto Crespo"
-     }
-    ]
-   }
+   "listas": {}
   },
   "lleida": {
    "nombre": "Lleida",
    "ccaa": "cataluna",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-lleida-alfa-1",
-      "nombre": "Irene Bravo Montero"
-     },
-     {
-      "id": "sen-lleida-alfa-2",
-      "nombre": "Ana Nieto Aguilar"
-     },
-     {
-      "id": "sen-lleida-alfa-3",
-      "nombre": "Pablo Nieto Tomás"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-lleida-beta-1",
-      "nombre": "Manuel Esteban Vega"
-     },
-     {
-      "id": "sen-lleida-beta-2",
-      "nombre": "Mateo Montero Herrero"
-     },
-     {
-      "id": "sen-lleida-beta-3",
-      "nombre": "Ainhoa Pardo Reyes"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-lleida-gamma-1",
-      "nombre": "Daniel Arias Moya"
-     },
-     {
-      "id": "sen-lleida-gamma-2",
-      "nombre": "Víctor Delgado Aguilar"
-     },
-     {
-      "id": "sen-lleida-gamma-3",
-      "nombre": "Elena Parra Crespo"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-lleida-delta-1",
-      "nombre": "Noelia Arias Crespo"
-     },
-     {
-      "id": "sen-lleida-delta-2",
-      "nombre": "Carmen Carrasco Jiménez"
-     },
-     {
-      "id": "sen-lleida-delta-3",
-      "nombre": "Alba Sáez Zamora"
-     }
-    ]
-   }
+   "listas": {}
   },
   "tarragona": {
    "nombre": "Tarragona",
    "ccaa": "cataluna",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-tarragona-alfa-1",
-      "nombre": "Inés Díez Valero"
-     },
-     {
-      "id": "sen-tarragona-alfa-2",
-      "nombre": "Mateo Gómez Soler"
-     },
-     {
-      "id": "sen-tarragona-alfa-3",
-      "nombre": "Iker Vega Esteban"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-tarragona-beta-1",
-      "nombre": "Laura Arias Fuentes"
-     },
-     {
-      "id": "sen-tarragona-beta-2",
-      "nombre": "Lorena Ferrer Soto"
-     },
-     {
-      "id": "sen-tarragona-beta-3",
-      "nombre": "Rocío Jiménez Valero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-tarragona-gamma-1",
-      "nombre": "Marta Montero Arias"
-     },
-     {
-      "id": "sen-tarragona-gamma-2",
-      "nombre": "Jorge Reyes Crespo"
-     },
-     {
-      "id": "sen-tarragona-gamma-3",
-      "nombre": "Víctor Soto Moya"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-tarragona-delta-1",
-      "nombre": "Raúl Arias Urrutia"
-     },
-     {
-      "id": "sen-tarragona-delta-2",
-      "nombre": "Celia Delgado Esteve"
-     },
-     {
-      "id": "sen-tarragona-delta-3",
-      "nombre": "Marcos Quintana Parra"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-tarragona-epsilon-1",
-      "nombre": "Julia Durán Esteban"
-     },
-     {
-      "id": "sen-tarragona-epsilon-2",
-      "nombre": "Clara Montero Moya"
-     },
-     {
-      "id": "sen-tarragona-epsilon-3",
-      "nombre": "Celia Urrutia Reyes"
-     }
-    ]
-   }
+   "listas": {}
   },
   "alicante": {
    "nombre": "Alicante",
    "ccaa": "valenciana",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-alicante-alfa-1",
-      "nombre": "Íñigo Benítez Esteve"
-     },
-     {
-      "id": "sen-alicante-alfa-2",
-      "nombre": "Andrés Gómez Gómez"
-     },
-     {
-      "id": "sen-alicante-alfa-3",
-      "nombre": "Andrés Herrero Moya"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-alicante-beta-1",
-      "nombre": "Íñigo Arias Aguilar"
-     },
-     {
-      "id": "sen-alicante-beta-2",
-      "nombre": "Adrián Carrasco Crespo"
-     },
-     {
-      "id": "sen-alicante-beta-3",
-      "nombre": "Rubén Mora Pardo"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-alicante-gamma-1",
-      "nombre": "Raúl Durán Valero"
-     },
-     {
-      "id": "sen-alicante-gamma-2",
-      "nombre": "Lorena Jiménez Bravo"
-     },
-     {
-      "id": "sen-alicante-gamma-3",
-      "nombre": "Elena Nieto Ibáñez"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-alicante-delta-1",
-      "nombre": "Hugo Díez Fuentes"
-     },
-     {
-      "id": "sen-alicante-delta-2",
-      "nombre": "Sara Soto Herrero"
-     },
-     {
-      "id": "sen-alicante-delta-3",
-      "nombre": "Rubén Soto Soler"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-alicante-epsilon-1",
-      "nombre": "Lucía Gómez Benítez"
-     },
-     {
-      "id": "sen-alicante-epsilon-2",
-      "nombre": "Noelia Moya Benítez"
-     },
-     {
-      "id": "sen-alicante-epsilon-3",
-      "nombre": "Sergio Reyes Jiménez"
-     }
-    ]
-   }
+   "listas": {}
   },
   "castellon": {
    "nombre": "Castellón",
@@ -2863,74 +659,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-castellon-alfa-1",
-      "nombre": "Manuel Esteve Arias"
-     },
-     {
-      "id": "sen-castellon-alfa-2",
-      "nombre": "Víctor Pardo Benítez"
-     },
-     {
-      "id": "sen-castellon-alfa-3",
-      "nombre": "Alba Vera Lorenzo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-castellon-beta-1",
-      "nombre": "Inés Esteban Montero"
-     },
-     {
-      "id": "sen-castellon-beta-2",
-      "nombre": "Lucía Esteve Bravo"
-     },
-     {
-      "id": "sen-castellon-beta-3",
-      "nombre": "Álvaro Quintana Reyes"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-castellon-gamma-1",
-      "nombre": "Gonzalo Hidalgo Tomás"
-     },
-     {
-      "id": "sen-castellon-gamma-2",
-      "nombre": "Iker Tomás Ferrer"
-     },
-     {
-      "id": "sen-castellon-gamma-3",
-      "nombre": "Andrés Valero Giménez"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-castellon-delta-1",
-      "nombre": "Diego Crespo Esteban"
-     },
-     {
-      "id": "sen-castellon-delta-2",
-      "nombre": "Pablo Crespo Pardo"
-     },
-     {
-      "id": "sen-castellon-delta-3",
-      "nombre": "Rubén Pardo Soto"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-castellon-epsilon-1",
-      "nombre": "Andrés Delgado Lorenzo"
-     },
-     {
-      "id": "sen-castellon-epsilon-2",
-      "nombre": "Manuel Pardo Durán"
-     },
-     {
-      "id": "sen-castellon-epsilon-3",
-      "nombre": "Ainhoa Reyes Nieto"
+      "id": "sen-castellon-psoe-1",
+      "nombre": "Eva Redondo"
      }
     ]
    }
@@ -2940,78 +672,7 @@
    "ccaa": "valenciana",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-valencia-alfa-1",
-      "nombre": "Diego Benítez Delgado"
-     },
-     {
-      "id": "sen-valencia-alfa-2",
-      "nombre": "Ana Díez Crespo"
-     },
-     {
-      "id": "sen-valencia-alfa-3",
-      "nombre": "Óscar Quintana Crespo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-valencia-beta-1",
-      "nombre": "Óscar Bravo Vera"
-     },
-     {
-      "id": "sen-valencia-beta-2",
-      "nombre": "Óscar Jiménez Sáez"
-     },
-     {
-      "id": "sen-valencia-beta-3",
-      "nombre": "Manuel Reyes Caballero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-valencia-gamma-1",
-      "nombre": "Manuel Aguilar Valero"
-     },
-     {
-      "id": "sen-valencia-gamma-2",
-      "nombre": "Marcos Benítez Montero"
-     },
-     {
-      "id": "sen-valencia-gamma-3",
-      "nombre": "Óscar Bravo Bravo"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-valencia-delta-1",
-      "nombre": "Irene Caballero Sáez"
-     },
-     {
-      "id": "sen-valencia-delta-2",
-      "nombre": "Hugo Díez Urrutia"
-     },
-     {
-      "id": "sen-valencia-delta-3",
-      "nombre": "Álvaro Gómez Esteve"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-valencia-epsilon-1",
-      "nombre": "Hugo Caballero Hidalgo"
-     },
-     {
-      "id": "sen-valencia-epsilon-2",
-      "nombre": "Ana Delgado Zamora"
-     },
-     {
-      "id": "sen-valencia-epsilon-3",
-      "nombre": "Julia Fuentes Ibáñez"
-     }
-    ]
-   }
+   "listas": {}
   },
   "badajoz": {
    "nombre": "Badajoz",
@@ -3019,60 +680,18 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-badajoz-alfa-1",
-      "nombre": "Inés Crespo Reyes"
+      "id": "sen-badajoz-psoe-1",
+      "nombre": "José Luis Quintana"
      },
      {
-      "id": "sen-badajoz-alfa-2",
-      "nombre": "Rubén Ferrer Soler"
+      "id": "sen-badajoz-psoe-2",
+      "nombre": "Sandra Caballero Expósito"
      },
      {
-      "id": "sen-badajoz-alfa-3",
-      "nombre": "Andrés Nieto Benítez"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-badajoz-beta-1",
-      "nombre": "Paula Crespo Parra"
-     },
-     {
-      "id": "sen-badajoz-beta-2",
-      "nombre": "Irene Ferrer Montero"
-     },
-     {
-      "id": "sen-badajoz-beta-3",
-      "nombre": "Daniel Parra Carrasco"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-badajoz-gamma-1",
-      "nombre": "Óscar Esteban Aguilar"
-     },
-     {
-      "id": "sen-badajoz-gamma-2",
-      "nombre": "Álvaro Parra Soto"
-     },
-     {
-      "id": "sen-badajoz-gamma-3",
-      "nombre": "Lorena Pascual Delgado"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-badajoz-delta-1",
-      "nombre": "Óscar Delgado Crespo"
-     },
-     {
-      "id": "sen-badajoz-delta-2",
-      "nombre": "Julia Lorenzo Caballero"
-     },
-     {
-      "id": "sen-badajoz-delta-3",
-      "nombre": "Rubén Mora Moya"
+      "id": "sen-badajoz-psoe-3",
+      "nombre": "Rafael Lemus"
      }
     ]
    }
@@ -3083,60 +702,18 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-caceres-alfa-1",
-      "nombre": "Elena Esteve Pascual"
+      "id": "sen-caceres-psoe-1",
+      "nombre": "Joaquín Cuello Martínez-Pereda"
      },
      {
-      "id": "sen-caceres-alfa-2",
-      "nombre": "Adrián Gómez Esteve"
+      "id": "sen-caceres-psoe-2",
+      "nombre": "Inés Mireya Conejero Domínguez"
      },
      {
-      "id": "sen-caceres-alfa-3",
-      "nombre": "Marcos Soler Bravo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-caceres-beta-1",
-      "nombre": "Alba Jiménez Valero"
-     },
-     {
-      "id": "sen-caceres-beta-2",
-      "nombre": "Lucía Lorenzo Reyes"
-     },
-     {
-      "id": "sen-caceres-beta-3",
-      "nombre": "Julia Urrutia Vera"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-caceres-gamma-1",
-      "nombre": "Marta Bravo Durán"
-     },
-     {
-      "id": "sen-caceres-gamma-2",
-      "nombre": "Iker Pascual Ibáñez"
-     },
-     {
-      "id": "sen-caceres-gamma-3",
-      "nombre": "Íñigo Vega Tomás"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-caceres-delta-1",
-      "nombre": "Diego Esteve Benítez"
-     },
-     {
-      "id": "sen-caceres-delta-2",
-      "nombre": "Mateo Mora Fuentes"
-     },
-     {
-      "id": "sen-caceres-delta-3",
-      "nombre": "Lucía Rojas Bravo"
+      "id": "sen-caceres-psoe-3",
+      "nombre": "José Pedro Rodríguez Martín"
      }
     ]
    }
@@ -3147,74 +724,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-a-coruna-alfa-1",
-      "nombre": "Gonzalo Durán Hidalgo"
-     },
-     {
-      "id": "sen-a-coruna-alfa-2",
-      "nombre": "Marcos Esteban Tomás"
-     },
-     {
-      "id": "sen-a-coruna-alfa-3",
-      "nombre": "Nuria Herrero Reyes"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-a-coruna-beta-1",
-      "nombre": "Óscar Durán Fuentes"
-     },
-     {
-      "id": "sen-a-coruna-beta-2",
-      "nombre": "Clara Lorenzo Soto"
-     },
-     {
-      "id": "sen-a-coruna-beta-3",
-      "nombre": "Andrés Zamora Vera"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-a-coruna-gamma-1",
-      "nombre": "Lucía Pascual Pardo"
-     },
-     {
-      "id": "sen-a-coruna-gamma-2",
-      "nombre": "Julia Vega Zamora"
-     },
-     {
-      "id": "sen-a-coruna-gamma-3",
-      "nombre": "Iker Vera Durán"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-a-coruna-delta-1",
-      "nombre": "Irene Gómez Delgado"
-     },
-     {
-      "id": "sen-a-coruna-delta-2",
-      "nombre": "Laura Parra Delgado"
-     },
-     {
-      "id": "sen-a-coruna-delta-3",
-      "nombre": "Víctor Vera Pardo"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-a-coruna-epsilon-1",
-      "nombre": "Javier Fuentes Jiménez"
-     },
-     {
-      "id": "sen-a-coruna-epsilon-2",
-      "nombre": "Nuria Ibáñez Reyes"
-     },
-     {
-      "id": "sen-a-coruna-epsilon-3",
-      "nombre": "Raúl Soler Valero"
+      "id": "sen-a-coruna-psoe-1",
+      "nombre": "Gumersindo Guinarte"
      }
     ]
    }
@@ -3225,60 +738,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-lugo-alfa-1",
-      "nombre": "Gonzalo Lorenzo Montero"
-     },
-     {
-      "id": "sen-lugo-alfa-2",
-      "nombre": "Gonzalo Quintana Herrero"
-     },
-     {
-      "id": "sen-lugo-alfa-3",
-      "nombre": "Nerea Sáez Gómez"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-lugo-beta-1",
-      "nombre": "Julia Herrero Vega"
-     },
-     {
-      "id": "sen-lugo-beta-2",
-      "nombre": "Nerea Mora Soto"
-     },
-     {
-      "id": "sen-lugo-beta-3",
-      "nombre": "Hugo Sáez Montero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-lugo-gamma-1",
-      "nombre": "Gonzalo Arias Jiménez"
-     },
-     {
-      "id": "sen-lugo-gamma-2",
-      "nombre": "Raúl Arias Soler"
-     },
-     {
-      "id": "sen-lugo-gamma-3",
-      "nombre": "Elena Gómez Herrero"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-lugo-delta-1",
-      "nombre": "Adrián Parra Bravo"
-     },
-     {
-      "id": "sen-lugo-delta-2",
-      "nombre": "Noelia Tomás Aguilar"
-     },
-     {
-      "id": "sen-lugo-delta-3",
-      "nombre": "Íñigo Valero Parra"
+      "id": "sen-lugo-psoe-1",
+      "nombre": "César Mogo"
      }
     ]
    }
@@ -3289,60 +752,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-ourense-alfa-1",
-      "nombre": "Julia Gómez Delgado"
-     },
-     {
-      "id": "sen-ourense-alfa-2",
-      "nombre": "Daniel Pardo Gómez"
-     },
-     {
-      "id": "sen-ourense-alfa-3",
-      "nombre": "Hugo Vera Giménez"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-ourense-beta-1",
-      "nombre": "Noelia Fuentes Delgado"
-     },
-     {
-      "id": "sen-ourense-beta-2",
-      "nombre": "Raúl Herrero Crespo"
-     },
-     {
-      "id": "sen-ourense-beta-3",
-      "nombre": "Alba Soler Fuentes"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-ourense-gamma-1",
-      "nombre": "Alba Díez Urrutia"
-     },
-     {
-      "id": "sen-ourense-gamma-2",
-      "nombre": "Rocío Hidalgo Soto"
-     },
-     {
-      "id": "sen-ourense-gamma-3",
-      "nombre": "Sergio Reyes Reyes"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-ourense-delta-1",
-      "nombre": "Adrián Arias Lorenzo"
-     },
-     {
-      "id": "sen-ourense-delta-2",
-      "nombre": "Laura Quintana Herrero"
-     },
-     {
-      "id": "sen-ourense-delta-3",
-      "nombre": "Javier Zamora Moya"
+      "id": "sen-ourense-psoe-1",
+      "nombre": "María Fernández Ojea"
      }
     ]
    }
@@ -3353,60 +766,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "psoe": [
      {
-      "id": "sen-pontevedra-alfa-1",
-      "nombre": "Laura Arias Reyes"
-     },
-     {
-      "id": "sen-pontevedra-alfa-2",
-      "nombre": "Pablo Moya Carrasco"
-     },
-     {
-      "id": "sen-pontevedra-alfa-3",
-      "nombre": "Marta Sáez Ferrer"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-pontevedra-beta-1",
-      "nombre": "Clara Aguilar Esteve"
-     },
-     {
-      "id": "sen-pontevedra-beta-2",
-      "nombre": "Laura Lorenzo Sáez"
-     },
-     {
-      "id": "sen-pontevedra-beta-3",
-      "nombre": "Gonzalo Montero Soler"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-pontevedra-gamma-1",
-      "nombre": "Diego Durán Parra"
-     },
-     {
-      "id": "sen-pontevedra-gamma-2",
-      "nombre": "Gonzalo Ferrer Zamora"
-     },
-     {
-      "id": "sen-pontevedra-gamma-3",
-      "nombre": "Ainhoa Pascual Montero"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-pontevedra-delta-1",
-      "nombre": "Adrián Sáez Sáez"
-     },
-     {
-      "id": "sen-pontevedra-delta-2",
-      "nombre": "Íñigo Tomás Ferrer"
-     },
-     {
-      "id": "sen-pontevedra-delta-3",
-      "nombre": "Julia Vera Carrasco"
+      "id": "sen-pontevedra-psoe-1",
+      "nombre": "Carmela Silva"
      }
     ]
    }
@@ -3417,60 +780,10 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "pp": [
      {
-      "id": "sen-madrid-alfa-1",
-      "nombre": "Marta Gómez Lorenzo"
-     },
-     {
-      "id": "sen-madrid-alfa-2",
-      "nombre": "Hugo Mora Carrasco"
-     },
-     {
-      "id": "sen-madrid-alfa-3",
-      "nombre": "Clara Zamora Soler"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-madrid-beta-1",
-      "nombre": "Ainhoa Delgado Díez"
-     },
-     {
-      "id": "sen-madrid-beta-2",
-      "nombre": "Javier Gómez Delgado"
-     },
-     {
-      "id": "sen-madrid-beta-3",
-      "nombre": "Pablo Lorenzo Delgado"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-madrid-gamma-1",
-      "nombre": "Rubén Carrasco Mora"
-     },
-     {
-      "id": "sen-madrid-gamma-2",
-      "nombre": "Víctor Esteban Montero"
-     },
-     {
-      "id": "sen-madrid-gamma-3",
-      "nombre": "Julia Esteban Vega"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-madrid-delta-1",
-      "nombre": "Iker Gómez Ibáñez"
-     },
-     {
-      "id": "sen-madrid-delta-2",
-      "nombre": "Inés Hidalgo Herrero"
-     },
-     {
-      "id": "sen-madrid-delta-3",
-      "nombre": "Daniel Soler Aguilar"
+      "id": "sen-madrid-pp-1",
+      "nombre": "Pedro Rollán"
      }
     ]
    }
@@ -3480,64 +793,7 @@
    "ccaa": "murcia",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-murcia-alfa-1",
-      "nombre": "Irene Nieto Reyes"
-     },
-     {
-      "id": "sen-murcia-alfa-2",
-      "nombre": "Sara Rojas Aguilar"
-     },
-     {
-      "id": "sen-murcia-alfa-3",
-      "nombre": "Hugo Tomás Delgado"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-murcia-beta-1",
-      "nombre": "Julia Carrasco Jiménez"
-     },
-     {
-      "id": "sen-murcia-beta-2",
-      "nombre": "Rocío Durán Delgado"
-     },
-     {
-      "id": "sen-murcia-beta-3",
-      "nombre": "Pablo Parra Valero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-murcia-gamma-1",
-      "nombre": "Nerea Ferrer Vega"
-     },
-     {
-      "id": "sen-murcia-gamma-2",
-      "nombre": "Laura Nieto Delgado"
-     },
-     {
-      "id": "sen-murcia-gamma-3",
-      "nombre": "Lorena Sáez Quintana"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-murcia-delta-1",
-      "nombre": "Andrés Benítez Crespo"
-     },
-     {
-      "id": "sen-murcia-delta-2",
-      "nombre": "Laura Rojas Caballero"
-     },
-     {
-      "id": "sen-murcia-delta-3",
-      "nombre": "Manuel Urrutia Ferrer"
-     }
-    ]
-   }
+   "listas": {}
   },
   "navarra": {
    "nombre": "Navarra",
@@ -3545,60 +801,16 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "bildu": [
      {
-      "id": "sen-navarra-alfa-1",
-      "nombre": "Paula Fuentes Bravo"
-     },
-     {
-      "id": "sen-navarra-alfa-2",
-      "nombre": "Lorena Soler Valero"
-     },
-     {
-      "id": "sen-navarra-alfa-3",
-      "nombre": "Iker Urrutia Valero"
+      "id": "sen-navarra-bildu-1",
+      "nombre": "Floren Aoiz"
      }
     ],
-    "beta": [
+    "geroa": [
      {
-      "id": "sen-navarra-beta-1",
-      "nombre": "Ana Soto Soto"
-     },
-     {
-      "id": "sen-navarra-beta-2",
-      "nombre": "Julia Valero Crespo"
-     },
-     {
-      "id": "sen-navarra-beta-3",
-      "nombre": "Sergio Vega Reyes"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-navarra-gamma-1",
-      "nombre": "Javier Díez Mora"
-     },
-     {
-      "id": "sen-navarra-gamma-2",
-      "nombre": "Daniel Montero Carrasco"
-     },
-     {
-      "id": "sen-navarra-gamma-3",
-      "nombre": "Víctor Urrutia Fuentes"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-navarra-delta-1",
-      "nombre": "Adrián Ibáñez Soto"
-     },
-     {
-      "id": "sen-navarra-delta-2",
-      "nombre": "Andrés Rojas Montero"
-     },
-     {
-      "id": "sen-navarra-delta-3",
-      "nombre": "Lucía Zamora Giménez"
+      "id": "sen-navarra-geroa-1",
+      "nombre": "Anika Luján"
      }
     ]
    }
@@ -3609,60 +821,16 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "pnv": [
      {
-      "id": "sen-alava-alfa-1",
-      "nombre": "Gonzalo Gómez Herrero"
-     },
-     {
-      "id": "sen-alava-alfa-2",
-      "nombre": "Marcos Mora Vega"
-     },
-     {
-      "id": "sen-alava-alfa-3",
-      "nombre": "Adrián Tomás Ibáñez"
+      "id": "sen-alava-pnv-1",
+      "nombre": "Saray Zarate"
      }
     ],
-    "beta": [
+    "bildu": [
      {
-      "id": "sen-alava-beta-1",
-      "nombre": "Sara Delgado Díez"
-     },
-     {
-      "id": "sen-alava-beta-2",
-      "nombre": "Marcos Rojas Nieto"
-     },
-     {
-      "id": "sen-alava-beta-3",
-      "nombre": "Lorena Tomás Benítez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-alava-gamma-1",
-      "nombre": "Inés Arias Sáez"
-     },
-     {
-      "id": "sen-alava-gamma-2",
-      "nombre": "Marta Benítez Parra"
-     },
-     {
-      "id": "sen-alava-gamma-3",
-      "nombre": "Raúl Urrutia Pardo"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-alava-delta-1",
-      "nombre": "Adrián Aguilar Reyes"
-     },
-     {
-      "id": "sen-alava-delta-2",
-      "nombre": "Manuel Crespo Sáez"
-     },
-     {
-      "id": "sen-alava-delta-3",
-      "nombre": "Nerea Esteban Quintana"
+      "id": "sen-alava-bildu-1",
+      "nombre": "Josu Estarrona"
      }
     ]
    }
@@ -3673,74 +841,16 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "pnv": [
      {
-      "id": "sen-gipuzkoa-alfa-1",
-      "nombre": "Diego Benítez Quintana"
-     },
-     {
-      "id": "sen-gipuzkoa-alfa-2",
-      "nombre": "Diego Carrasco Fuentes"
-     },
-     {
-      "id": "sen-gipuzkoa-alfa-3",
-      "nombre": "Raúl Zamora Aguilar"
+      "id": "sen-gipuzkoa-pnv-1",
+      "nombre": "Luke Uribe-Etxebarria"
      }
     ],
-    "beta": [
+    "bildu": [
      {
-      "id": "sen-gipuzkoa-beta-1",
-      "nombre": "Sergio Sáez Tomás"
-     },
-     {
-      "id": "sen-gipuzkoa-beta-2",
-      "nombre": "Carmen Soler Durán"
-     },
-     {
-      "id": "sen-gipuzkoa-beta-3",
-      "nombre": "Andrés Vera Díez"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-gipuzkoa-gamma-1",
-      "nombre": "Ainhoa Ferrer Vega"
-     },
-     {
-      "id": "sen-gipuzkoa-gamma-2",
-      "nombre": "Pablo Nieto Esteve"
-     },
-     {
-      "id": "sen-gipuzkoa-gamma-3",
-      "nombre": "Julia Nieto Sáez"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-gipuzkoa-delta-1",
-      "nombre": "Paula Benítez Nieto"
-     },
-     {
-      "id": "sen-gipuzkoa-delta-2",
-      "nombre": "Víctor Crespo Valero"
-     },
-     {
-      "id": "sen-gipuzkoa-delta-3",
-      "nombre": "Pablo Zamora Jiménez"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-gipuzkoa-epsilon-1",
-      "nombre": "Jorge Esteban Gómez"
-     },
-     {
-      "id": "sen-gipuzkoa-epsilon-2",
-      "nombre": "Irene Fuentes Crespo"
-     },
-     {
-      "id": "sen-gipuzkoa-epsilon-3",
-      "nombre": "Inés Zamora Fuentes"
+      "id": "sen-gipuzkoa-bildu-1",
+      "nombre": "Sonia Jacinto"
      }
     ]
    }
@@ -3751,60 +861,16 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "alfa": [
+    "pnv": [
      {
-      "id": "sen-bizkaia-alfa-1",
-      "nombre": "Julia Caballero Montero"
-     },
-     {
-      "id": "sen-bizkaia-alfa-2",
-      "nombre": "Elena Durán Esteve"
-     },
-     {
-      "id": "sen-bizkaia-alfa-3",
-      "nombre": "Marcos Gómez Caballero"
+      "id": "sen-bizkaia-pnv-1",
+      "nombre": "Nerea Ahedo"
      }
     ],
-    "beta": [
+    "bildu": [
      {
-      "id": "sen-bizkaia-beta-1",
-      "nombre": "Íñigo Aguilar Durán"
-     },
-     {
-      "id": "sen-bizkaia-beta-2",
-      "nombre": "Diego Giménez Hidalgo"
-     },
-     {
-      "id": "sen-bizkaia-beta-3",
-      "nombre": "Marta Rojas Montero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-bizkaia-gamma-1",
-      "nombre": "Sergio Díez Soler"
-     },
-     {
-      "id": "sen-bizkaia-gamma-2",
-      "nombre": "Alba Durán Quintana"
-     },
-     {
-      "id": "sen-bizkaia-gamma-3",
-      "nombre": "Óscar Jiménez Montero"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-bizkaia-delta-1",
-      "nombre": "Víctor Esteban Herrero"
-     },
-     {
-      "id": "sen-bizkaia-delta-2",
-      "nombre": "Diego Parra Mora"
-     },
-     {
-      "id": "sen-bizkaia-delta-3",
-      "nombre": "Sara Soler Lorenzo"
+      "id": "sen-bizkaia-bildu-1",
+      "nombre": "Idurre Bideguren"
      }
     ]
    }
@@ -3814,142 +880,45 @@
    "ccaa": "la-rioja",
    "escanos": 4,
    "marcas": 3,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-la-rioja-alfa-1",
-      "nombre": "Paula Mora Aguilar"
-     },
-     {
-      "id": "sen-la-rioja-alfa-2",
-      "nombre": "Celia Valero Giménez"
-     },
-     {
-      "id": "sen-la-rioja-alfa-3",
-      "nombre": "Andrés Vega Vera"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-la-rioja-beta-1",
-      "nombre": "Celia Soto Esteban"
-     },
-     {
-      "id": "sen-la-rioja-beta-2",
-      "nombre": "Lucía Soto Moya"
-     },
-     {
-      "id": "sen-la-rioja-beta-3",
-      "nombre": "Íñigo Urrutia Vega"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-la-rioja-gamma-1",
-      "nombre": "Alba Ferrer Mora"
-     },
-     {
-      "id": "sen-la-rioja-gamma-2",
-      "nombre": "Lorena Quintana Montero"
-     },
-     {
-      "id": "sen-la-rioja-gamma-3",
-      "nombre": "Celia Sáez Durán"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-la-rioja-delta-1",
-      "nombre": "Alba Ibáñez Pascual"
-     },
-     {
-      "id": "sen-la-rioja-delta-2",
-      "nombre": "Adrián Soto Ferrer"
-     },
-     {
-      "id": "sen-la-rioja-delta-3",
-      "nombre": "Andrés Tomás Durán"
-     }
-    ],
-    "epsilon": [
-     {
-      "id": "sen-la-rioja-epsilon-1",
-      "nombre": "Íñigo Arias Giménez"
-     },
-     {
-      "id": "sen-la-rioja-epsilon-2",
-      "nombre": "Iker Ferrer Urrutia"
-     },
-     {
-      "id": "sen-la-rioja-epsilon-3",
-      "nombre": "Julia Fuentes Gómez"
-     }
-    ]
-   }
+   "listas": {}
   },
   "ceuta": {
    "nombre": "Ceuta",
    "ccaa": "ceuta",
    "escanos": 2,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-ceuta-alfa-1",
-      "nombre": "Jorge Moya Lorenzo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-ceuta-beta-1",
-      "nombre": "Sara Pardo Carrasco"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-ceuta-gamma-1",
-      "nombre": "Irene Díez Esteve"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-ceuta-delta-1",
-      "nombre": "Sergio Delgado Arias"
-     }
-    ]
-   }
+   "listas": {}
   },
   "melilla": {
    "nombre": "Melilla",
    "ccaa": "melilla",
    "escanos": 2,
    "marcas": 1,
-   "listas": {
-    "alfa": [
-     {
-      "id": "sen-melilla-alfa-1",
-      "nombre": "Julia Ibáñez Bravo"
-     }
-    ],
-    "beta": [
-     {
-      "id": "sen-melilla-beta-1",
-      "nombre": "Víctor Carrasco Herrero"
-     }
-    ],
-    "gamma": [
-     {
-      "id": "sen-melilla-gamma-1",
-      "nombre": "Gonzalo Esteban Ferrer"
-     }
-    ],
-    "delta": [
-     {
-      "id": "sen-melilla-delta-1",
-      "nombre": "Paula Rojas Sáez"
-     }
-    ]
-   }
+   "listas": {}
   }
- }
+ },
+ "estado": "anunciadas",
+ "fuentes": [
+  "https://www.infobae.com/espana/agencias/2026/10/06/el-boe-publica-el-decreto-que-convoca-las-elecciones-generales-para-el-29-de-noviembre/",
+  "https://mapaelectoral.es/elecciones/elecciones-29n-2026/",
+  "https://www.democrata.es/en/general-elections-spain/feijoo-rushes-the-closure-of-the-pp-lists-for-the-29n-these-are-the-52-heads-of-candidacy/",
+  "https://www.vozpopuli.com/espana/politica/vox-elige-a-sus-cabezas-de-lista-para-el-29-n-estos-son-los-lideres-por-cada-provincia.html",
+  "https://www.esdiario.com/nacional/261014/200286/sanchez-coloca-margarita-robles-numero-dos-psoe-madrid-deja-bolanos-tercer-puesto.html",
+  "https://www.101tv.es/andalucia/albares-sustituye-a-marlaska-como-paracaidista-de-cadiz-asi-queda-la-lista-del-psoe-andaluz-al-29-n",
+  "https://www.ultimahora.es/noticias/comunidades/2026/10/15/2729753/psoe-asume-listas-provincias-cambio-numero-jaen-conforma-comite-electoral-para-29n.html",
+  "https://www.eldiario.es/castilla-la-mancha/politica/quedan-ratificadas-listas-psoe-congreso-castilla-mancha-elecciones-29n_1_13594241.html",
+  "https://www.radiointerior.es/texto-diario/mostrar/6055553/psoe-aprueba-listas-congreso-senado-caceres-badajoz-29n",
+  "https://www.eldiario.es/aragon/politica/continuidad-psoe-aragones-cabezas-lista-29-n-fernando-beltran-tania-solans-novedades_1_13589380.html",
+  "https://www.elespanol.com/quincemil/actualidad/galicia/20261017/psoe-confirma-cabezas-lista-galicia-elecciones-generales/1003744424078_0.html",
+  "https://www.moncloa.com/2026/10/16/listas-psoe-29n-tudanca-burgos-3449893",
+  "https://www.esdiario.com/comunidad-valenciana/castellon/261013/200142/pspv-despeja-incognita-castellon-apuestan-maria-jimenez-eva-redondo-lista-29n.html",
+  "https://www.democrata.es/en/general-elections-spain/list-search-for-29n-province-by-province-check-who-the-candidates-of-each-party-are/",
+  "https://www.infobae.com/espana/agencias/2026/10/25/frente-amplio-encara-el-cierre-de-listas-este-lunes-con-la-incognita-aun-de-las-candidaturas-en-varias-provincias/",
+  "https://www.diaridetarragona.com/tarragona/273345/pacto-erc-podem-esquerra-preve-ceder-ultimo-puesto-candidatura-tarragona.html",
+  "https://www.democrata.es/ca/catalunya/junts-aposta-per-nogueras-madrenas-cruset-i-gavin-com-a-caps-de-llista-per-barcelona-girona-tarragona-i-lleida/",
+  "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355/",
+  "https://orain.eus/es/politica/2026/10/16/eh-bildu-propone-oskar-matute-mikel-otero-oihana-etxebarrieta-eneka-maiz-encabezar-las-listas-al-congreso/",
+  "https://diariodeavisos.elespanol.com/2026/10/primero-canarias-y-coalicion-canaria-cierran-el-acuerdo-para-la-candidatura-del-29-n/",
+  "https://www.moncloa.com/2026/10/24/feijoo-candidatura-pp-madrid-senado-3454884"
+ ]
 }
