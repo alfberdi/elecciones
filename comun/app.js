@@ -448,6 +448,15 @@
     inp.addEventListener("blur", () => { abrir(false); if (estado.mapa) inp.value = PROV[estado.mapa][0]; });
   }
 
+  // ---------- Introducción plegable: se recuerda en este navegador ----------
+  function introPlegable() {
+    const intro = $("#intro"); if (!intro) return;
+    const K = "mapa-candidaturas:intro";
+    try { if (localStorage.getItem(K) === "cerrada") intro.open = false; } catch (e) {}
+    intro.addEventListener("toggle", () => { try { localStorage.setItem(K, intro.open ? "abierta" : "cerrada"); } catch (e) {} });
+  }
+  introPlegable(); // antes de cargar los datos, para que no se vea abrirse y cerrarse
+
   // ---------- Inicio ----------
   async function iniciar() {
     [D, P] = await Promise.all([

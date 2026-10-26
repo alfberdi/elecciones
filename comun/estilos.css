@@ -276,3 +276,19 @@ footer a { color: inherit; }
 #p-ccaa { margin-top: -2px; }
 .mapa .pv:focus { outline: none; }
 .b-op.actual span::after { content: " ✓"; color: var(--sel-line); font-weight: 700; }
+
+/* Introducción plegable (se recuerda abierta o cerrada en este navegador) */
+.intro { display: block; padding: 0; }
+.intro > summary {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 18px 22px; cursor: pointer; list-style: none; border-radius: var(--r);
+}
+.intro > summary::-webkit-details-marker { display: none; }
+.intro > summary:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.intro-accion { display: inline-flex; align-items: center; gap: 6px; font-size: .88rem; font-weight: 700; color: var(--muted); white-space: nowrap; }
+.intro-accion::after { content: "›"; display: inline-block; font-size: 1.2rem; line-height: 1; transform: rotate(90deg); transition: transform .2s; }
+.intro[open] .intro-accion::before { content: "Ocultar"; }
+.intro:not([open]) .intro-accion::before { content: "Mostrar"; }
+.intro:not([open]) .intro-accion::after { transform: rotate(0deg); }
+.intro-cuerpo { display: grid; gap: 14px; padding: 0 22px 22px; }
+@media (prefers-reduced-motion: reduce) { .intro-accion::after { transition: none; } }
