@@ -3,7 +3,7 @@
 Web estática (sin servidor) con dos secciones, Congreso y Senado, en un solo repositorio y un solo dominio. Las dos usan el mismo código; cada una lee su cámara de `datos/candidaturas.json` (`"camara": "congreso"` o `"senado"`).
 
 ```
-index.html                   portada: elige Congreso o Senado (acepta /#andalucia)
+index.html                   portada: elige Congreso o Senado (acepta /#sevilla o /#andalucia)
 comun/
   app.js                     lógica de las dos secciones
   estilos.css                estilos (colores pastel, modo claro y oscuro)
@@ -105,6 +105,11 @@ Los datos incluidos son **de ejemplo** (partidos y personas ficticios) y la web 
 - **Congreso**: una entrada por provincia; el orden de cada lista es el orden de la papeleta. Los escaños por provincia se recalculan en cada real decreto de convocatoria (los incluidos son los de 2023).
 - **Senado**: una entrada por circunscripción. En Baleares y Canarias, cada isla o agrupación de islas es una circunscripción. `escanos` son los senadores que se eligen (4 provincia, 3 o 1 isla, 2 Ceuta y Melilla) y `marcas` las que puede hacer cada elector (3, 2, 1 y 1). Ordena los candidatos de cada partido alfabéticamente por apellido, como en la papeleta.
 
-## Comunidad inicial
+## Provincia inicial, mapa y buscador
 
-Orden de preferencia: enlace directo (`#andalucia`), última elección guardada en el navegador, ubicación aproximada por IP (ipapi.co, con geojs.io de respaldo), zona horaria (detecta Canarias) y, si nada funciona, Madrid (`POR_DEFECTO` en `app.js`).
+Las elecciones generales se votan por provincia (en el Senado, en Baleares y Canarias, por isla), así que el mapa y el buscador eligen provincias. Las comunidades aparecen como un trazo algo más marcado en el mapa y como grupos en el buscador.
+
+- **Buscador**: filtra mientras escribes, sin tener en cuenta acentos. Encuentra provincias, comunidades («Galicia» muestra sus cuatro provincias), islas («Lanzarote» abre Las Palmas y, en el Senado, la pestaña de la isla) y personas candidatas (a partir de 3 letras; al elegir una se abre su ficha). Se maneja con las flechas, Intro y Esc.
+- **Enlaces directos**: `#sevilla`, `#lanzarote` o `#andalucia` (que abre su capital). El selector «Congreso | Senado» y la portada conservan la provincia.
+- **Provincia inicial**, por orden: enlace directo, última elección guardada en el navegador, ubicación por IP y zona horaria (detecta Canarias). Si no funciona nada, se usa Madrid (`POR_DEFECTO` en `comun/app.js`).
+  - **Ubicación por IP**: ipapi.co da el código postal, cuyas dos primeras cifras son el código INE de la provincia. Si solo se conoce la comunidad (geojs.io), se propone su capital y se pide comprobarlo.

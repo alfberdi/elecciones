@@ -43,7 +43,7 @@
   </nav>
 </div>
 <script>
-  // Un enlace como /#andalucia abre directamente esa comunidad en la cámara elegida
+  // Un enlace como /#sevilla (o /#andalucia, /#lanzarote) abre directamente esa provincia en la cámara elegida
   if (/^#[a-z-]+$/.test(location.hash))
     document.querySelectorAll(".camara").forEach(a => a.href = a.getAttribute("href") + location.hash);
 </script>

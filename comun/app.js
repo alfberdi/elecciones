@@ -39,6 +39,28 @@
     "la rioja": "la-rioja", ceuta: "ceuta", melilla: "melilla" };
   const POR_DEFECTO = "madrid";
 
+  // ---------- Geografía electoral: la provincia es la circunscripción ----------
+  // id → [nombre, comunidad]
+  const PROV = {"almeria": ["Almería", "andalucia"], "cadiz": ["Cádiz", "andalucia"], "cordoba": ["Córdoba", "andalucia"], "granada": ["Granada", "andalucia"], "huelva": ["Huelva", "andalucia"], "jaen": ["Jaén", "andalucia"], "malaga": ["Málaga", "andalucia"], "sevilla": ["Sevilla", "andalucia"], "huesca": ["Huesca", "aragon"], "teruel": ["Teruel", "aragon"], "zaragoza": ["Zaragoza", "aragon"], "asturias": ["Asturias", "asturias"], "baleares": ["Illes Balears", "baleares"], "las-palmas": ["Las Palmas", "canarias"], "santa-cruz": ["Santa Cruz de Tenerife", "canarias"], "cantabria": ["Cantabria", "cantabria"], "avila": ["Ávila", "castilla-y-leon"], "burgos": ["Burgos", "castilla-y-leon"], "leon": ["León", "castilla-y-leon"], "palencia": ["Palencia", "castilla-y-leon"], "salamanca": ["Salamanca", "castilla-y-leon"], "segovia": ["Segovia", "castilla-y-leon"], "soria": ["Soria", "castilla-y-leon"], "valladolid": ["Valladolid", "castilla-y-leon"], "zamora": ["Zamora", "castilla-y-leon"], "albacete": ["Albacete", "castilla-la-mancha"], "ciudad-real": ["Ciudad Real", "castilla-la-mancha"], "cuenca": ["Cuenca", "castilla-la-mancha"], "guadalajara": ["Guadalajara", "castilla-la-mancha"], "toledo": ["Toledo", "castilla-la-mancha"], "barcelona": ["Barcelona", "cataluna"], "girona": ["Girona", "cataluna"], "lleida": ["Lleida", "cataluna"], "tarragona": ["Tarragona", "cataluna"], "alicante": ["Alicante", "valenciana"], "castellon": ["Castellón", "valenciana"], "valencia": ["Valencia", "valenciana"], "badajoz": ["Badajoz", "extremadura"], "caceres": ["Cáceres", "extremadura"], "a-coruna": ["A Coruña", "galicia"], "lugo": ["Lugo", "galicia"], "ourense": ["Ourense", "galicia"], "pontevedra": ["Pontevedra", "galicia"], "madrid": ["Madrid", "madrid"], "murcia": ["Murcia", "murcia"], "navarra": ["Navarra", "navarra"], "alava": ["Álava", "pais-vasco"], "gipuzkoa": ["Gipuzkoa", "pais-vasco"], "bizkaia": ["Bizkaia", "pais-vasco"], "la-rioja": ["La Rioja", "la-rioja"], "ceuta": ["Ceuta", "ceuta"], "melilla": ["Melilla", "melilla"]};
+  const CCAA = {"andalucia": "Andalucía", "aragon": "Aragón", "asturias": "Principado de Asturias", "baleares": "Illes Balears", "canarias": "Canarias", "cantabria": "Cantabria", "castilla-y-leon": "Castilla y León", "castilla-la-mancha": "Castilla-La Mancha", "cataluna": "Cataluña", "valenciana": "Comunitat Valenciana", "extremadura": "Extremadura", "galicia": "Galicia", "madrid": "Comunidad de Madrid", "murcia": "Región de Murcia", "navarra": "Comunidad Foral de Navarra", "pais-vasco": "País Vasco", "la-rioja": "La Rioja", "ceuta": "Ceuta", "melilla": "Melilla"};
+  // Provincia que se propone cuando solo se sabe la comunidad (su capital)
+  const CAPITAL = { andalucia: "sevilla", aragon: "zaragoza", asturias: "asturias", baleares: "baleares", canarias: "las-palmas",
+    cantabria: "cantabria", "castilla-y-leon": "valladolid", "castilla-la-mancha": "toledo", cataluna: "barcelona", valenciana: "valencia",
+    extremadura: "badajoz", galicia: "a-coruna", madrid: "madrid", murcia: "murcia", navarra: "navarra", "pais-vasco": "alava",
+    "la-rioja": "la-rioja", ceuta: "ceuta", melilla: "melilla" };
+  // En el Senado, cada isla (o grupo de islas) vota por separado
+  const ISLAS = { baleares: ["mallorca", "menorca", "eivissa-formentera"], "las-palmas": ["gran-canaria", "fuerteventura", "lanzarote"],
+    "santa-cruz": ["tenerife", "la-palma", "la-gomera", "el-hierro"] };
+  const NOMBRE_ISLA = { mallorca: "Mallorca", menorca: "Menorca", "eivissa-formentera": "Eivissa-Formentera", "gran-canaria": "Gran Canaria",
+    fuerteventura: "Fuerteventura", lanzarote: "Lanzarote-La Graciosa", tenerife: "Tenerife", "la-palma": "La Palma", "la-gomera": "La Gomera", "el-hierro": "El Hierro" };
+  const provDeIsla = id => Object.keys(ISLAS).find(p => ISLAS[p].includes(id));
+  // Código INE de provincia = dos primeras cifras del código postal
+  const INE = ["", "alava", "albacete", "alicante", "almeria", "avila", "badajoz", "baleares", "barcelona", "burgos", "caceres", "cadiz",
+    "castellon", "ciudad-real", "cordoba", "a-coruna", "cuenca", "girona", "granada", "guadalajara", "gipuzkoa", "huelva", "huesca", "jaen",
+    "leon", "lleida", "la-rioja", "lugo", "madrid", "malaga", "murcia", "navarra", "ourense", "asturias", "palencia", "las-palmas",
+    "pontevedra", "salamanca", "santa-cruz", "cantabria", "segovia", "sevilla", "soria", "tarragona", "teruel", "toledo", "valencia",
+    "valladolid", "bizkaia", "zamora", "zaragoza", "ceuta", "melilla"];
+
   const $ = (s, el = document) => el.querySelector(s);
   const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const sinAcentos = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
@@ -47,7 +69,7 @@
 
   let D = null, P = { personas: {} };
   let pedido = 0; // descarta respuestas de noticias que llegan tarde
-  const estado = { ccaa: null, prov: null, abierto: null, escanos: {}, cand: null, origen: "", marcas: {} };
+  const estado = { mapa: null, prov: null, abierto: null, escanos: {}, cand: null, origen: "", marcas: {} };
 
   // ---------- Geolocalización por IP (desde el navegador, sin servidor propio) ----------
   async function conTiempo(url, ms = 3000) {
@@ -56,40 +78,57 @@
     try { const r = await fetch(url, { signal: ctrl.signal }); if (!r.ok) throw 0; return await r.json(); }
     finally { clearTimeout(t); }
   }
+  // Devuelve { prov, exacta }: exacta si sale del código postal, aproximada si solo se conoce la comunidad
   async function detectarPorIP() {
     try {
       const j = await conTiempo("https://ipapi.co/json/");
-      if (j.country_code === "ES" && ISO[j.region_code]) return ISO[j.region_code];
+      if (j.country_code === "ES") {
+        const p = INE[parseInt(String(j.postal || "").slice(0, 2), 10)];
+        if (p) return { prov: p, exacta: true };
+        if (ISO[j.region_code]) return { prov: CAPITAL[ISO[j.region_code]], exacta: false };
+      }
     } catch (e) {}
     try {
       const j = await conTiempo("https://get.geojs.io/v1/ip/geo.json");
-      if (j.country_code === "ES" && j.region) return NOMBRES_GEO[sinAcentos(j.region)] || null;
+      const c = j.country_code === "ES" && j.region && NOMBRES_GEO[sinAcentos(j.region)];
+      if (c) return { prov: CAPITAL[c], exacta: false };
     } catch (e) {}
     return null;
   }
   function porZonaHoraria() {
-    try { return Intl.DateTimeFormat().resolvedOptions().timeZone === "Atlantic/Canary" ? "canarias" : null; }
+    try { return Intl.DateTimeFormat().resolvedOptions().timeZone === "Atlantic/Canary" ? "las-palmas" : null; }
     catch (e) { return null; }
   }
 
   // ---------- Render ----------
-  const comunidad = id => D.comunidades.find(c => c.id === id);
   const partido = id => D.partidos.find(p => p.id === id);
+  // Circunscripciones de una provincia del mapa: ella misma, o sus islas en el Senado
+  const circsDe = prov => (SENADO() && ISLAS[prov]) || [prov];
+  // Acepta una provincia, una isla o una comunidad (enlaces antiguos) y devuelve { mapa, circ }
+  function resolver(id) {
+    if (!id) return null;
+    if (PROV[id]) return { mapa: id, circ: circsDe(id)[0] };
+    const pi = provDeIsla(id); if (pi) return { mapa: pi, circ: SENADO() ? id : pi };
+    if (CAPITAL[id]) return { mapa: CAPITAL[id], circ: circsDe(CAPITAL[id])[0] };
+    return null;
+  }
 
   function elegir(id, origen) {
-    if (!comunidad(id)) return;
-    estado.ccaa = id; estado.prov = comunidad(id).provincias[0];
+    const r = resolver(id); if (!r) return;
+    estado.mapa = r.mapa; estado.prov = r.circ;
     estado.abierto = null; estado.cand = null;
     if (origen) estado.origen = origen;
-    document.querySelectorAll(".mapa .ca").forEach(el => {
-      const on = el.dataset.id === id;
+    document.querySelectorAll(".mapa .pv").forEach(el => {
+      const on = el.dataset.id === r.mapa;
       el.classList.toggle("activa", on);
       el.setAttribute("aria-pressed", on);
     });
-    $("#sel-ccaa").value = id;
-    // El enlace a la otra cámara (en otro dominio) lleva la comunidad elegida
+    const et = $("#mapa-etq"), f = $(`.mapa path.pv[data-id="${r.mapa}"]`);
+    if (et && f) { const b = f.getBBox(); et.setAttribute("x", b.x + b.width / 2); et.setAttribute("y", b.y - 6); et.textContent = PROV[r.mapa][0]; }
+    $("#buscar").value = PROV[r.mapa][0];
+    // El enlace a la otra cámara lleva la provincia elegida
     const otra = $("#otra-camara");
-    if (otra) otra.href = otra.dataset.base + "#" + id;
+    if (otra) otra.href = otra.dataset.base + "#" + r.mapa;
     pintarPanel();
   }
 
@@ -97,15 +136,16 @@
   const marcadas = () => (estado.marcas[estado.prov] ||= new Set());
 
   function pintarPanel() {
-    const c = comunidad(estado.ccaa);
+    const circs = circsDe(estado.mapa);
     const p = D.provincias[estado.prov];
-    $("#p-nombre").textContent = c.nombre;
+    $("#p-nombre").textContent = PROV[estado.mapa][0];
+    $("#p-ccaa").textContent = estado.mapa === "ceuta" || estado.mapa === "melilla" ? "Ciudad autónoma" : CCAA[PROV[estado.mapa][1]];
     $("#p-origen").textContent = estado.origen;
     $("#p-origen").hidden = !estado.origen;
 
     const tabs = $("#p-tabs");
-    tabs.hidden = c.provincias.length < 2;
-    tabs.innerHTML = c.provincias.map(id => `<button class="tab" role="tab" data-prov="${id}" aria-selected="${id === estado.prov}">${esc(D.provincias[id].nombre)}</button>`).join("");
+    tabs.hidden = circs.length < 2;
+    tabs.innerHTML = circs.map(id => `<button class="tab" role="tab" data-prov="${id}" aria-selected="${id === estado.prov}">${esc(D.provincias[id].nombre)}</button>`).join("");
 
     $("#p-escanos").textContent = p.escanos;
     $("#p-escanos-txt").textContent = SENADO()
@@ -301,11 +341,13 @@
 
   // ---------- Eventos ----------
   function eventos() {
-    document.querySelectorAll(".mapa .ca").forEach(el => {
+    document.querySelectorAll(".mapa .pv").forEach(el => {
       el.addEventListener("click", () => { elegir(el.dataset.id, "Elegida por ti"); guardar(el.dataset.id); });
       el.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); el.dispatchEvent(new Event("click")); } });
     });
-    $("#sel-ccaa").addEventListener("change", e => { elegir(e.target.value, "Elegida por ti"); guardar(e.target.value); });
+    buscador();
+    // Un enlace #provincia dentro de la misma página también cambia la selección
+    window.addEventListener("hashchange", () => { if (resolver(location.hash.slice(1))) elegir(location.hash.slice(1), "Desde el enlace"); });
     $("#panel").addEventListener("click", e => {
       const t = e.target.closest("button"); if (!t) return;
       if (t.dataset.borrar) { marcadas().clear(); pintarPanel(); }
@@ -337,6 +379,75 @@
     });
   }
 
+  // ---------- Buscador: provincias, islas, comunidades y personas ----------
+  function indice() {
+    const lugares = Object.entries(PROV).map(([id, [nombre, cc]]) => ({ tipo: "prov", id, nombre, extra: CCAA[cc], txt: sinAcentos(nombre + " " + CCAA[cc]) }));
+    for (const [prov, islas] of Object.entries(ISLAS)) for (const i of islas)
+      lugares.push({ tipo: "isla", id: i, nombre: NOMBRE_ISLA[i], extra: `Isla · ${PROV[prov][0]}`, txt: sinAcentos(NOMBRE_ISLA[i]) });
+    const personas = [];
+    for (const [circ, pr] of Object.entries(D.provincias)) for (const [pid, l] of Object.entries(pr.listas))
+      for (const c of l) personas.push({ tipo: "persona", id: c.id, circ, pid, nombre: c.nombre, extra: `${partido(pid).siglas} · ${pr.nombre}`, txt: sinAcentos(c.nombre) });
+    return { lugares, personas };
+  }
+
+  function buscador() {
+    const inp = $("#buscar"), lista = $("#buscar-lista");
+    const IDX = indice();
+    let res = [], activo = -1, modo = null; // modo "grupos": lista completa agrupada por comunidad
+
+    const abrir = on => { lista.hidden = !on; inp.setAttribute("aria-expanded", on); if (!on) { activo = -1; inp.removeAttribute("aria-activedescendant"); } };
+    function filtrar() {
+      const q = sinAcentos(inp.value);
+      const mismo = estado.mapa && q === sinAcentos(PROV[estado.mapa][0]); // al enfocar con la provincia actual escrita, se ve todo
+      const palabras = mismo ? [] : q.split(" ").filter(Boolean);
+      const vale = o => palabras.every(w => o.txt.split(/[\s-]+/).some(t => t.startsWith(w)) || (w.length > 2 && o.txt.includes(w)));
+      const lug = IDX.lugares.filter(o => (o.tipo === "prov" || palabras.length) && vale(o));
+      const per = q.length >= 3 && !mismo ? IDX.personas.filter(vale).slice(0, 8) : [];
+      res = [...lug.slice(0, palabras.length ? 12 : 52), ...per];
+      activo = res.length && palabras.length ? 0 : -1;
+      modo = palabras.length ? null : "grupos";
+      pintar(modo);
+    }
+    function pintar(modo) { // eslint-disable-line no-shadow
+      if (!res.length) { lista.innerHTML = `<li class="b-vacio" role="presentation">Sin resultados. Prueba con el nombre de la provincia, la isla o la persona.</li>`; abrir(true); return; }
+      let html = "", grupo = null, i = 0;
+      for (const o of res) {
+        const g = o.tipo === "persona" ? "Personas" : modo === "grupos" ? o.extra : "Lugares";
+        if (g !== grupo) { html += `<li class="b-grupo" role="presentation">${esc(g)}</li>`; grupo = g; }
+        html += `<li role="option" id="b-${i}" class="b-op${i === activo ? " activo" : ""}${o.tipo === "prov" && o.id === estado.mapa ? " actual" : ""}" data-i="${i}" aria-selected="${i === activo}">
+          <span>${esc(o.nombre)}</span>${modo === "grupos" && o.tipo === "prov" ? "" : `<small>${esc(o.extra)}</small>`}</li>`;
+        i++;
+      }
+      lista.innerHTML = html; abrir(true);
+      if (activo >= 0) { inp.setAttribute("aria-activedescendant", "b-" + activo); const el = $("#b-" + activo); if (el) el.scrollIntoView({ block: "nearest" }); }
+    }
+    function escoger(o) {
+      abrir(false);
+      if (o.tipo === "persona") {
+        elegir(provDeIsla(o.circ) && !SENADO() ? provDeIsla(o.circ) : o.circ, "Elegida por ti");
+        estado.prov = o.circ; estado.abierto = o.pid; pintarPanel();
+        guardar(estado.mapa); abrirFicha(o.id);
+      } else { elegir(o.id, "Elegida por ti"); guardar(estado.mapa); }
+      if (o.tipo !== "persona") inp.blur();
+    }
+
+    inp.addEventListener("focus", () => { inp.select(); filtrar(); });
+    inp.addEventListener("input", filtrar);
+    inp.addEventListener("keydown", e => {
+      if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+        e.preventDefault(); if (lista.hidden) return filtrar();
+        activo = (activo + (e.key === "ArrowDown" ? 1 : -1) + res.length) % res.length; pintar(modo);
+      } else if (e.key === "Enter") {
+        e.preventDefault(); const o = res[activo >= 0 ? activo : 0]; if (o && !lista.hidden) escoger(o);
+      } else if (e.key === "Escape") {
+        abrir(false); if (estado.mapa) inp.value = PROV[estado.mapa][0];
+      }
+    });
+    lista.addEventListener("mousedown", e => e.preventDefault()); // que el clic no cierre antes de elegir
+    lista.addEventListener("click", e => { const li = e.target.closest(".b-op"); if (li) escoger(res[+li.dataset.i]); });
+    inp.addEventListener("blur", () => { abrir(false); if (estado.mapa) inp.value = PROV[estado.mapa][0]; });
+  }
+
   // ---------- Inicio ----------
   async function iniciar() {
     [D, P] = await Promise.all([
@@ -345,7 +456,6 @@
       fetch("../comun/parlamentarios.json").then(r => r.ok ? r.json() : { personas: {} }).catch(() => ({ personas: {} })),
     ]);
     document.documentElement.dataset.camara = D.camara || "congreso";
-    $("#sel-ccaa").innerHTML = D.comunidades.map(c => `<option value="${c.id}">${esc(c.nombre)}</option>`).join("");
     // Estado de los datos: ejemplo, listas presentadas (provisionales) o proclamadas (definitivas, BOE)
     const av = $("#aviso"), f = D.fuente;
     if (D.ejemplo) av.hidden = false;
@@ -361,16 +471,17 @@
 
     // 1) #enlace directo  2) última elección guardada  3) IP  4) zona horaria  5) por defecto
     const hash = location.hash.slice(1);
-    if (comunidad(hash)) return elegir(hash, "Desde el enlace");
+    if (resolver(hash)) return elegir(hash, "Desde el enlace");
     const guardada = leer();
-    if (comunidad(guardada)) return elegir(guardada, "Tu última elección");
-    elegir(POR_DEFECTO, "Buscando tu comunidad…");
+    if (resolver(guardada)) return elegir(guardada, "Tu última elección");
+    const BUSCANDO = "Buscando tu provincia…";
+    elegir(POR_DEFECTO, BUSCANDO);
     const ip = await detectarPorIP();
-    if (estado.origen !== "Buscando tu comunidad…") return; // el usuario ya eligió
-    if (ip) return elegir(ip, "Según tu conexión (aproximado)");
+    if (estado.origen !== BUSCANDO) return; // el usuario ya eligió
+    if (ip) return elegir(ip.prov, ip.exacta ? "Según tu conexión (aproximado)" : "Según tu conexión: comprueba que es tu provincia");
     const tz = porZonaHoraria();
-    if (tz) return elegir(tz, "Según tu zona horaria");
-    elegir(POR_DEFECTO, "No pudimos detectar tu ubicación: elige tu comunidad");
+    if (tz) return elegir(tz, "Según tu zona horaria: comprueba que es tu provincia");
+    elegir(POR_DEFECTO, "No pudimos detectar tu ubicación: busca tu provincia");
   }
   iniciar().catch(err => {
     $("#p-nombre").textContent = "No se pudieron cargar los datos";
