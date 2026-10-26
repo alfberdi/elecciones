@@ -1,0 +1,29 @@
+name: Actualizar declaraciones de parlamentarios
+
+on:
+  schedule:
+    - cron: "23 5 * * 1"   # cada lunes a las 05:23 UTC
+  workflow_dispatch:       # y cuando lo lances a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  declaraciones:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install --no-save pdfjs-dist@4.10.38
+      - run: node scripts/parlamentarios.mjs
+        env:
+          LEGIS_SENADO: "15"
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add datos/parlamentarios.json
+          git diff --cached --quiet || git commit -m "Actualizar declaraciones de parlamentarios"
+          git push
