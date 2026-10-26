@@ -1,0 +1,268 @@
+{
+ "generado": "2026-10-26T05:23:00Z",
+ "ejemplo": true,
+ "personas": {
+  "diego navarro vidal": {
+   "cargo": "Diputado/a en el Congreso",
+   "circunscripcion": "Sevilla",
+   "grupo": "Grupo Parlamentario Ejemplo Alfa",
+   "fuente": "Portal de datos abiertos del Congreso de los Diputados",
+   "secciones": [
+    {
+     "titulo": "Declaración de intereses económicos",
+     "fecha": "2023-08-30",
+     "filas": [
+      [
+       "Actividades privadas",
+       "Ninguna"
+      ],
+      [
+       "Participación en sociedades",
+       "No declara"
+      ],
+      [
+       "Donaciones o regalos",
+       "Ninguno"
+      ],
+      [
+       "Actividad anterior",
+       "Docencia en instituto público"
+      ]
+     ]
+    },
+    {
+     "titulo": "Rentas percibidas (último año)",
+     "fecha": "2025-07-14",
+     "filas": [
+      [
+       "Retribución como parlamentario",
+       "48.520,36 €"
+      ],
+      [
+       "Intereses de cuentas",
+       "118,40 €"
+      ]
+     ]
+    },
+    {
+     "titulo": "Bienes y depósitos",
+     "fecha": "2025-07-14",
+     "filas": [
+      [
+       "Vivienda urbana · Sevilla · 50 % pleno dominio",
+       ""
+      ],
+      [
+       "Cuenta corriente",
+       "9.840,00 €"
+      ],
+      [
+       "Préstamo hipotecario pendiente",
+       "61.200,00 €"
+      ]
+     ]
+    }
+   ],
+   "documentos": [
+    {
+     "titulo": "Ficha y declaración de bienes en congreso.es",
+     "url": "https://www.congreso.es/es/busqueda-de-diputados"
+    }
+   ]
+  },
+  "alvaro guerrero serrano": {
+   "cargo": "Diputado/a en el Congreso",
+   "circunscripcion": "Madrid",
+   "grupo": "Grupo Parlamentario Ejemplo Beta",
+   "fuente": "Portal de datos abiertos del Congreso de los Diputados",
+   "secciones": [
+    {
+     "titulo": "Declaración de intereses económicos",
+     "fecha": "2023-08-30",
+     "filas": [
+      [
+       "Actividades privadas",
+       "Ninguna"
+      ],
+      [
+       "Participación en sociedades",
+       "No declara"
+      ],
+      [
+       "Donaciones o regalos",
+       "Ninguno"
+      ],
+      [
+       "Actividad anterior",
+       "Docencia en instituto público"
+      ]
+     ]
+    },
+    {
+     "titulo": "Rentas percibidas (último año)",
+     "fecha": "2025-07-14",
+     "filas": [
+      [
+       "Retribución como parlamentario",
+       "48.520,36 €"
+      ],
+      [
+       "Intereses de cuentas",
+       "118,40 €"
+      ]
+     ]
+    },
+    {
+     "titulo": "Bienes y depósitos",
+     "fecha": "2025-07-14",
+     "filas": [
+      [
+       "Vivienda urbana · Madrid · 50 % pleno dominio",
+       ""
+      ],
+      [
+       "Cuenta corriente",
+       "9.840,00 €"
+      ],
+      [
+       "Préstamo hipotecario pendiente",
+       "61.200,00 €"
+      ]
+     ]
+    }
+   ],
+   "documentos": [
+    {
+     "titulo": "Ficha y declaración de bienes en congreso.es",
+     "url": "https://www.congreso.es/es/busqueda-de-diputados"
+    }
+   ]
+  },
+  "bravo gomez sergio": {
+   "cargo": "Senador/a",
+   "circunscripcion": "Sevilla",
+   "grupo": "Grupo Ejemplo Beta",
+   "fuente": "Registro de intereses del Senado",
+   "secciones": [
+    {
+     "titulo": "Rentas percibidas",
+     "fecha": "2025-06-02",
+     "filas": [
+      [
+       "Retribución como senador/a",
+       "45.300,12 €"
+      ],
+      [
+       "Rendimientos de alquiler",
+       "3.600,00 €"
+      ]
+     ]
+    },
+    {
+     "titulo": "Bienes inmuebles",
+     "filas": [
+      [
+       "Urbana · Sevilla · 2009 · Pleno dominio",
+       ""
+      ],
+      [
+       "Rústica · Sevilla · 2015 · Herencia",
+       ""
+      ]
+     ]
+    },
+    {
+     "titulo": "Depósitos en cuentas",
+     "filas": [
+      [
+       "Cuenta corriente",
+       "14.205,77 €"
+      ]
+     ]
+    },
+    {
+     "titulo": "Vehículos, embarcaciones y aeronaves",
+     "filas": [
+      [
+       "Turismo · 2017",
+       ""
+      ]
+     ]
+    },
+    {
+     "titulo": "Préstamos y deudas",
+     "filas": []
+    }
+   ],
+   "documentos": [
+    {
+     "titulo": "Declaración de bienes y rentas (PDF)",
+     "url": "https://www.senado.es/"
+    }
+   ]
+  },
+  "gomez lorenzo marta": {
+   "cargo": "Senador/a",
+   "circunscripcion": "Madrid",
+   "grupo": "Grupo Ejemplo Alfa",
+   "fuente": "Registro de intereses del Senado",
+   "secciones": [
+    {
+     "titulo": "Rentas percibidas",
+     "fecha": "2025-06-02",
+     "filas": [
+      [
+       "Retribución como senador/a",
+       "45.300,12 €"
+      ],
+      [
+       "Rendimientos de alquiler",
+       "3.600,00 €"
+      ]
+     ]
+    },
+    {
+     "titulo": "Bienes inmuebles",
+     "filas": [
+      [
+       "Urbana · Madrid · 2009 · Pleno dominio",
+       ""
+      ],
+      [
+       "Rústica · Madrid · 2015 · Herencia",
+       ""
+      ]
+     ]
+    },
+    {
+     "titulo": "Depósitos en cuentas",
+     "filas": [
+      [
+       "Cuenta corriente",
+       "14.205,77 €"
+      ]
+     ]
+    },
+    {
+     "titulo": "Vehículos, embarcaciones y aeronaves",
+     "filas": [
+      [
+       "Turismo · 2017",
+       ""
+      ]
+     ]
+    },
+    {
+     "titulo": "Préstamos y deudas",
+     "filas": []
+    }
+   ],
+   "documentos": [
+    {
+     "titulo": "Declaración de bienes y rentas (PDF)",
+     "url": "https://www.senado.es/"
+    }
+   ]
+  }
+ }
+}
