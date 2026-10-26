@@ -1,0 +1,52 @@
+name: Leer candidaturas del BOE
+
+on:
+  schedule:
+    - cron: "41 7 * * *"   # cada día a las 07:41 UTC; el BOE sale de madrugada
+  workflow_dispatch:
+    inputs:
+      fecha:
+        description: "Revisar solo este día (AAAAMMDD). Vacío = últimos 14 días"
+        required: false
+      forzar:
+        description: "Volver a generar aunque ya esté publicado"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# Los dos trabajos automáticos escriben en la misma rama: nunca a la vez
+concurrency:
+  group: datos
+  cancel-in-progress: false
+
+jobs:
+  candidaturas:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Preparar opciones
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.fecha }}" ]; then ARGS="$ARGS --fecha ${{ inputs.fecha }}"; fi
+          if [ "${{ inputs.forzar }}" = "true" ]; then ARGS="$ARGS --forzar"; fi
+          echo "ARGS=$ARGS" >> "$GITHUB_ENV"
+      - name: Congreso
+        working-directory: congreso
+        run: node ../scripts/boe-candidaturas.mjs $ARGS
+      - name: Senado
+        working-directory: senado
+        run: node ../scripts/boe-candidaturas.mjs $ARGS
+      - name: Publicar si hay cambios
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add congreso/datos/candidaturas.json senado/datos/candidaturas.json
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Candidaturas desde el BOE ($(node -p "require('./congreso/datos/candidaturas.json').fuente?.boe || ''"))"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push

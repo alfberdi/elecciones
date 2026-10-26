@@ -1,8 +1,8 @@
-// Reúne los diputados y senadores en ejercicio y sus declaraciones públicas en datos/parlamentarios.json.
+// Reúne los diputados y senadores en ejercicio y sus declaraciones públicas en comun/parlamentarios.json.
 // Se ejecuta fuera del navegador (GitHub Actions, cada semana) porque congreso.es y senado.es no permiten
 // llamadas desde otras webs y las declaraciones del Senado son PDF que hay que leer.
 //
-// Uso:  npm install --no-save pdfjs-dist@4.10.38 && node scripts/parlamentarios.mjs
+// Uso (desde la raíz del repositorio):  npm install --no-save pdfjs-dist@4.10.38 && node scripts/parlamentarios.mjs
 // Variables opcionales: LEGIS_SENADO (por defecto 15; súbela al empezar una legislatura nueva).
 import { writeFileSync } from "node:fs";
 import * as pdfjs from "pdfjs-dist/legacy/build/pdf.mjs";
@@ -138,5 +138,5 @@ for (const [nombre, fn] of [["Congreso", congreso], ["Senado", senado]])
 if (errores.length === 2) { console.error("No se ha podido leer ninguna fuente; no se modifica el archivo."); process.exit(1); }
 
 for (const k of Object.keys(personas)) if (!personas[k]) delete personas[k];
-writeFileSync("datos/parlamentarios.json", JSON.stringify({ generado: new Date().toISOString(), ejemplo: false, personas }, null, 1));
-console.log(`Guardadas ${Object.keys(personas).length} personas en datos/parlamentarios.json`);
+writeFileSync("comun/parlamentarios.json", JSON.stringify({ generado: new Date().toISOString(), ejemplo: false, personas }, null, 1));
+console.log(`Guardadas ${Object.keys(personas).length} personas en comun/parlamentarios.json`);

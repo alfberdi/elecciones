@@ -5,10 +5,10 @@
 //    Las presentadas salen primero (provisionales); las proclamadas unos días después y las sustituyen.
 // 3. Descarga el texto, lo interpreta provincia a provincia y escribe las listas de la cámara de este sitio.
 //
-// Sin dependencias (Node 20+). Uso:
-//   node scripts/boe-candidaturas.mjs                      revisa los últimos 14 días
-//   node scripts/boe-candidaturas.mjs --fecha 20230627     revisa un día concreto (útil para probar con 2023)
-//   node scripts/boe-candidaturas.mjs --dias 30 --salida /tmp/prueba.json --forzar
+// Sin dependencias (Node 20+). Se ejecuta dentro de la carpeta de cada cámara (cd congreso o cd senado). Uso:
+//   node ../scripts/boe-candidaturas.mjs                      revisa los últimos 14 días
+//   node ../scripts/boe-candidaturas.mjs --fecha 20230627     revisa un día concreto (útil para probar con 2023)
+//   node ../scripts/boe-candidaturas.mjs --dias 30 --salida /tmp/prueba.json --forzar
 import { readFileSync, writeFileSync } from "node:fs";
 
 const arg = (n, d) => { const i = process.argv.indexOf("--" + n); return i > 0 ? process.argv[i + 1] : d; };

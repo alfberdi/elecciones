@@ -237,7 +237,7 @@
     return { items: items.slice(0, NOTICIAS.max), fallos, todoFallo: fallos.length === res.length };
   }
 
-  // ---------- Parlamentarios en ejercicio y sus declaraciones (datos/parlamentarios.json) ----------
+  // ---------- Parlamentarios en ejercicio y sus declaraciones (comun/parlamentarios.json) ----------
   // Clave de cruce: palabras del nombre sin acentos y ordenadas, para que "Apellidos, Nombre" y "Nombre Apellidos" coincidan.
   const claveNombre = s => sinAcentos(s).replace(/[^a-zñ ]/g, " ").split(/\s+/).filter(Boolean).sort().join(" ");
   const parlamentario = c => P.personas[c.parlamentario || claveNombre(c.nombre)] || null;
@@ -342,7 +342,7 @@
     [D, P] = await Promise.all([
       fetch("datos/candidaturas.json").then(r => r.json()),
       // Opcional: si falta el archivo, la ficha simplemente no muestra declaraciones
-      fetch("datos/parlamentarios.json").then(r => r.ok ? r.json() : { personas: {} }).catch(() => ({ personas: {} })),
+      fetch("../comun/parlamentarios.json").then(r => r.ok ? r.json() : { personas: {} }).catch(() => ({ personas: {} })),
     ]);
     document.documentElement.dataset.camara = D.camara || "congreso";
     $("#sel-ccaa").innerHTML = D.comunidades.map(c => `<option value="${c.id}">${esc(c.nombre)}</option>`).join("");
