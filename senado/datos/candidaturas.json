@@ -2,8 +2,7 @@
  "camara": "senado",
  "ejemplo": false,
  "eleccion": "Elecciones generales del 29 de noviembre de 2026 · Senado",
- "nota": "Candidaturas ANUNCIADAS por los partidos según la prensa (8–26 de octubre de 2026). No son oficiales: el BOE publicará las presentadas hacia el 28 de octubre y las proclamadas el 3 de noviembre, y el trabajo diario las sustituirá. Solo se incluyen posiciones consecutivas desde el nº 1.",
- "actualizado": "2026-10-26",
+ "actualizado": "2026-10-28",
  "comunidades": [
   {
    "id": "andalucia",
@@ -181,9 +180,204 @@
  ],
  "partidos": [
   {
-   "id": "psoe",
-   "siglas": "PSOE",
-   "nombre": "Partido Socialista Obrero Español"
+   "id": "1-can-cca",
+   "siglas": "1.ºCAN-CCa",
+   "nombre": "Municipalistas Primero Canarias-Coalición Canaria"
+  },
+  {
+   "id": "29",
+   "siglas": "29",
+   "nombre": "Alternativa Malagueña"
+  },
+  {
+   "id": "3e",
+   "siglas": "3e",
+   "nombre": "Tercera Edad en Acción"
+  },
+  {
+   "id": "adelante-andalucia",
+   "siglas": "ADELANTE ANDALUCÍA",
+   "nombre": "Adelante Andalucía"
+  },
+  {
+   "id": "agenda-valenciana",
+   "siglas": "AGENDA VALENCIANA",
+   "nombre": "Agenda Valenciana"
+  },
+  {
+   "id": "ahi",
+   "siglas": "AHI",
+   "nombre": "Agrupación Herrena Independiente"
+  },
+  {
+   "id": "asamblea-herrena",
+   "siglas": "ASAMBLEA HERRENA",
+   "nombre": "Asamblea Herrena"
+  },
+  {
+   "id": "asg",
+   "siglas": "ASG",
+   "nombre": "Agrupación Socialista Gomera"
+  },
+  {
+   "id": "b-n-g",
+   "siglas": "B.N.G.",
+   "nombre": "Bloque Nacionalista Galego"
+  },
+  {
+   "id": "bng",
+   "siglas": "BNG",
+   "nombre": "Bloque Nacionalista Galego"
+  },
+  {
+   "id": "c-dem",
+   "siglas": "C-DEM",
+   "nombre": "Comuns-Front Ampli per la Democràcia"
+  },
+  {
+   "id": "cca-1-can",
+   "siglas": "CCa-1.ºCAN",
+   "nombre": "Coalición Canaria-Municipalistas Primero Canarias"
+  },
+  {
+   "id": "cnv",
+   "siglas": "CNV",
+   "nombre": "Convergents"
+  },
+  {
+   "id": "coalicion-senado-de-progreso",
+   "siglas": "COALICIÓN SENADO DE PROGRESO",
+   "nombre": "Coalición Senado de Progreso"
+  },
+  {
+   "id": "eaj-pnv",
+   "siglas": "EAJ-PNV",
+   "nombre": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco"
+  },
+  {
+   "id": "eh-bildu-erc",
+   "siglas": "EH BILDU-ERC",
+   "nombre": "Euskal Herria Bildu-Esquerra Republicana de Catalunya"
+  },
+  {
+   "id": "erc-eh-bildu",
+   "siglas": "ERC-EH BILDU",
+   "nombre": "Esquerra Republicana de Catalunya-Euskal Herria Bildu"
+  },
+  {
+   "id": "escanos-en-blanco",
+   "siglas": "ESCAÑOS EN BLANCO",
+   "nombre": "Escaños en Blanco para Dejar Escaños Vacíos"
+  },
+  {
+   "id": "fe-de-las-jons",
+   "siglas": "FE de las JONS",
+   "nombre": "Falange Española de las Jons"
+  },
+  {
+   "id": "fia",
+   "siglas": "FIA",
+   "nombre": "Federacion de los Independientes de Aragon"
+  },
+  {
+   "id": "geroa-bai",
+   "siglas": "GEROA BAI",
+   "nombre": "Geroa Bai"
+  },
+  {
+   "id": "ie",
+   "siglas": "IE",
+   "nombre": "Iustitia Europa"
+  },
+  {
+   "id": "j-u-e-x",
+   "siglas": "J.U.E.X.",
+   "nombre": "Juntos por Extremadura"
+  },
+  {
+   "id": "jxcat",
+   "siglas": "JxCat",
+   "nombre": "Junts per Catalunya"
+  },
+  {
+   "id": "lxlg",
+   "siglas": "lxLG",
+   "nombre": "Iniciativa por la Gomera"
+  },
+  {
+   "id": "mundo-justo",
+   "siglas": "MUNDO+JUSTO",
+   "nombre": "Por Un Mundo Mas Justo"
+  },
+  {
+   "id": "nc-bc-podemos-iu-sumar",
+   "siglas": "NC-BC, PODEMOS, IU, SUMAR",
+   "nombre": "Unidad del Pueblo Canario Upc"
+  },
+  {
+   "id": "nex",
+   "siglas": "NEX",
+   "nombre": "Nuevo Extremeñismo - Adelante Extremadura"
+  },
+  {
+   "id": "pacma",
+   "siglas": "PACMA",
+   "nombre": "Partido Animalista Con el Medio Ambiente"
+  },
+  {
+   "id": "pancal-urci",
+   "siglas": "PANCAL-URCI",
+   "nombre": "Partido Nacionalista de Castilla y León - Union Reformista Ciudadana"
+  },
+  {
+   "id": "partido-popular",
+   "siglas": "PARTIDO POPULAR",
+   "nombre": "Partido Popular"
+  },
+  {
+   "id": "paz-casa-y-trabajo",
+   "siglas": "PAZ, CASA Y TRABAJO",
+   "nombre": "Podemos"
+  },
+  {
+   "id": "pcpc",
+   "siglas": "PCPC",
+   "nombre": "Partido Comunista del Pueblo Canario"
+  },
+  {
+   "id": "pctc",
+   "siglas": "PCTC",
+   "nombre": "Partit Comunista Dels Treballadors de Catalunya"
+  },
+  {
+   "id": "pcte",
+   "siglas": "PCTE",
+   "nombre": "Partido Comunista de los Trabajadores de España"
+  },
+  {
+   "id": "pcte-elak",
+   "siglas": "PCTE/ELAK",
+   "nombre": "Partido Comunista de los Trabajadores de Euskadi/euskadiko Langileen Alderdi Komunista"
+  },
+  {
+   "id": "pctg",
+   "siglas": "PCTG",
+   "nombre": "Partido Comunista Dos Traballadores Da Galiza"
+  },
+  {
+   "id": "pdsje",
+   "siglas": "PDSJE",
+   "nombre": "Partido Demócrata Social Jubilados Europeos"
+  },
+  {
+   "id": "ph",
+   "siglas": "PH",
+   "nombre": "Partido Humanista"
+  },
+  {
+   "id": "podemos",
+   "siglas": "PODEMOS",
+   "nombre": "Podemos"
   },
   {
    "id": "pp",
@@ -191,19 +385,109 @@
    "nombre": "Partido Popular"
   },
   {
-   "id": "pnv",
-   "siglas": "EAJ-PNV",
-   "nombre": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco"
+   "id": "prepal",
+   "siglas": "PREPAL",
+   "nombre": "Partido Regionalista del Pais Leones"
   },
   {
-   "id": "bildu",
-   "siglas": "EH BILDU",
-   "nombre": "Euskal Herria Bildu"
+   "id": "psc",
+   "siglas": "PSC",
+   "nombre": "Partit Dels Socialistes de Catalunya (psc-Psoe)"
   },
   {
-   "id": "geroa",
-   "siglas": "GBAI",
-   "nombre": "Geroa Bai"
+   "id": "psib-psoe-mes-per-mallorca-sumar-euib",
+   "siglas": "PSIB-PSOE-MÉS PER MALLORCA-SUMAR-EUIB",
+   "nombre": "Acord de Progrés per Mallorca"
+  },
+  {
+   "id": "psoe",
+   "siglas": "PSOE",
+   "nombre": "Partido Socialista Obrero Español"
+  },
+  {
+   "id": "psoe-cha-iu-ms",
+   "siglas": "PSOE-CHA-IU-MS",
+   "nombre": "Senado de Progreso de Aragón [sdp"
+  },
+  {
+   "id": "psoe-compromis-eupv",
+   "siglas": "PSOE-COMPROMIS-EUPV",
+   "nombre": "Senado de Progreso [sdp"
+  },
+  {
+   "id": "psoe-iu-ms",
+   "siglas": "PSOE-IU-MS",
+   "nombre": "Senado de Progreso [sdp"
+  },
+  {
+   "id": "psoe-iunneb-ms-batzarre",
+   "siglas": "PSOE-IUNNEB-MS-BATZARRE",
+   "nombre": "Senado de Progreso - Aurrera Doan Senatua (sdp )"
+  },
+  {
+   "id": "psoe-mes-per-menorca-em-eu-podemos",
+   "siglas": "PSOE-MÉS PER MENORCA-EM-EU-PODEMOS",
+   "nombre": "Menorca Al Senat"
+  },
+  {
+   "id": "psoe-ms",
+   "siglas": "PSOE-MS",
+   "nombre": "Senado de Progreso [sdp"
+  },
+  {
+   "id": "psoe-iu-ms-mm-compromis-cha-batzarre",
+   "siglas": "PSOE, IU, MS, MM, COMPROMIS, CHA, BATZARRE",
+   "nombre": "Senado de Progreso [sdp"
+  },
+  {
+   "id": "puede",
+   "siglas": "PUEDE",
+   "nombre": "Partido Unionista Estado de España"
+  },
+  {
+   "id": "pum-j",
+   "siglas": "PUM+J",
+   "nombre": "Por Un Mundo Mais Xusto"
+  },
+  {
+   "id": "sa-unio",
+   "siglas": "SA UNIÓ",
+   "nombre": "Sa Unió de Formentera (pp-Compromís)"
+  },
+  {
+   "id": "senado-de-progreso-sdp-psoe-iu-ms",
+   "siglas": "SENADO DE PROGRESO (SDP (PSOE-IU-MS))",
+   "nombre": "Senado de Progreso (sdp (psoe-Iu-Ms))"
+  },
+  {
+   "id": "senado-de-progreso-sdp-psoe-ms",
+   "siglas": "SENADO DE PROGRESO (SDP (PSOE-MS))",
+   "nombre": "Senado de Progreso (sdp (psoe-Ms))"
+  },
+  {
+   "id": "senado-de-progreso-sdp-psoe-iu-ms-mm-com",
+   "siglas": "SENADO DE PROGRESO (SDP (PSOE, IU, MS, MM, COMPROMIS, CHA, BATZARRE))",
+   "nombre": "Senado de Progreso (sdp (psoe, Iu, Ms, Mm, Compromis, Cha, Batzarre))"
+  },
+  {
+   "id": "senado-de-progreso-de-aragon-sdp-psoe-ch",
+   "siglas": "SENADO DE PROGRESO DE ARAGÓN (SDP (PSOE-CHA-IU-MS))",
+   "nombre": "Senado de Progreso de Aragón (sdp (psoe-Cha-Iu-Ms))"
+  },
+  {
+   "id": "sy",
+   "siglas": "SY",
+   "nombre": "Soria ¡ya!"
+  },
+  {
+   "id": "teruel-existe",
+   "siglas": "TERUEL EXISTE",
+   "nombre": "Teruel Existe"
+  },
+  {
+   "id": "vox",
+   "siglas": "VOX",
+   "nombre": "Vox"
   }
  ],
  "provincias": {
@@ -213,10 +497,93 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "adelante-andalucia": [
      {
-      "id": "sen-almeria-psoe-1",
-      "nombre": "José María Martín"
+      "id": "sen-almeria-adelante-andalucia-1",
+      "nombre": "Vanesa Martínez Crisol"
+     },
+     {
+      "id": "sen-almeria-adelante-andalucia-2",
+      "nombre": "Luis María Salmerón Hinojosa"
+     },
+     {
+      "id": "sen-almeria-adelante-andalucia-3",
+      "nombre": "Carmen María González Jiménez"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-almeria-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "José María Martín Fernández"
+     },
+     {
+      "id": "sen-almeria-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "María Jesús Amate Ruiz"
+     },
+     {
+      "id": "sen-almeria-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Ismael Gil Salmerón"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-almeria-pp-1",
+      "nombre": "Miguel Ángel Castellón Rubio"
+     },
+     {
+      "id": "sen-almeria-pp-2",
+      "nombre": "Ana María Martínez Labella"
+     },
+     {
+      "id": "sen-almeria-pp-3",
+      "nombre": "Juan José Matarí Sáez"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-almeria-mundo-justo-1",
+      "nombre": "Trinidad Rodríguez López"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-almeria-vox-1",
+      "nombre": "Marta Asunción Castro Fuertes"
+     },
+     {
+      "id": "sen-almeria-vox-2",
+      "nombre": "Carlos Antonio García Sánchez"
+     },
+     {
+      "id": "sen-almeria-vox-3",
+      "nombre": "Amadea García Martínez"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-almeria-escanos-en-blanco-1",
+      "nombre": "Carlos Julián Molina López",
+      "independiente": true
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-almeria-pcte-1",
+      "nombre": "Alberto Martínez Jódar"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-almeria-podemos-1",
+      "nombre": "María de los Milagros Torrejón Carabe"
+     },
+     {
+      "id": "sen-almeria-podemos-2",
+      "nombre": "Fernando Fernández Frontela"
+     },
+     {
+      "id": "sen-almeria-podemos-3",
+      "nombre": "Rosa María Martínez Ortega"
      }
     ]
    }
@@ -227,10 +594,79 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "adelante-andalucia": [
      {
-      "id": "sen-cadiz-psoe-1",
+      "id": "sen-cadiz-adelante-andalucia-1",
+      "nombre": "Soulaima Otilia Vázquez Noune"
+     },
+     {
+      "id": "sen-cadiz-adelante-andalucia-2",
+      "nombre": "Juan Antonio Ruiz Giraldo"
+     },
+     {
+      "id": "sen-cadiz-adelante-andalucia-3",
+      "nombre": "Francisca Delgado Ruiz"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-cadiz-pcte-1",
+      "nombre": "Alejandro Úcar Vital"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-cadiz-pacma-1",
+      "nombre": "Carlos Bertoa Cano"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-cadiz-senado-de-progreso-sdp-psoe-iu-ms-1",
       "nombre": "Juan Carlos Ruiz Boix"
+     },
+     {
+      "id": "sen-cadiz-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Violeta Márquez Ruiz"
+     },
+     {
+      "id": "sen-cadiz-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Javier Rodríguez Cabeza"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-cadiz-podemos-1",
+      "nombre": "Marina Liberato Olmedo"
+     },
+     {
+      "id": "sen-cadiz-podemos-2",
+      "nombre": "Juan Luis Martínez Muñoz Cruzado"
+     },
+     {
+      "id": "sen-cadiz-podemos-3",
+      "nombre": "Ana Isabel Castedo Ferreiro"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-cadiz-mundo-justo-1",
+      "nombre": "Ricardo Rodríguez Torti"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-cadiz-pp-1",
+      "nombre": "Jacinto Muñoz Madrid"
+     },
+     {
+      "id": "sen-cadiz-pp-2",
+      "nombre": "María del Carmen Pérez Becerra"
+     },
+     {
+      "id": "sen-cadiz-pp-3",
+      "nombre": "Enrique José García-Máiquez López",
+      "independiente": true
      }
     ]
    }
@@ -241,10 +677,100 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "adelante-andalucia": [
      {
-      "id": "sen-cordoba-psoe-1",
-      "nombre": "Rafi Crespín"
+      "id": "sen-cordoba-adelante-andalucia-1",
+      "nombre": "Juan Moreno Luque"
+     },
+     {
+      "id": "sen-cordoba-adelante-andalucia-2",
+      "nombre": "Ana Isabel Martín Buendía"
+     },
+     {
+      "id": "sen-cordoba-adelante-andalucia-3",
+      "nombre": "Juan Antonio Durán García"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-cordoba-pcte-1",
+      "nombre": "Pablo Manuel Fernández Guerrero"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-cordoba-fe-de-las-jons-1",
+      "nombre": "Miguel Cano Molina"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-cordoba-pp-1",
+      "nombre": "Salvador Fuentes Lopera"
+     },
+     {
+      "id": "sen-cordoba-pp-2",
+      "nombre": "María Dolores Blanco López"
+     },
+     {
+      "id": "sen-cordoba-pp-3",
+      "nombre": "Florentino Santos Porras"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-cordoba-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "Rafaela Crespín Rubio"
+     },
+     {
+      "id": "sen-cordoba-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Óscar Urralburu Arza"
+     },
+     {
+      "id": "sen-cordoba-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Ana María López Losilla"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-cordoba-podemos-1",
+      "nombre": "Francisco Manuel López Morales"
+     },
+     {
+      "id": "sen-cordoba-podemos-2",
+      "nombre": "Nazareth López Muñoz"
+     },
+     {
+      "id": "sen-cordoba-podemos-3",
+      "nombre": "Santiago Martínez Fernández"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-cordoba-vox-1",
+      "nombre": "Miguel Antonio Gómez de la Rosa Aranda"
+     },
+     {
+      "id": "sen-cordoba-vox-2",
+      "nombre": "Luisa Ángela Plata Requena"
+     },
+     {
+      "id": "sen-cordoba-vox-3",
+      "nombre": "Salvador Vacas Reyes"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-cordoba-escanos-en-blanco-1",
+      "nombre": "María del Mar Díaz Polonio"
+     },
+     {
+      "id": "sen-cordoba-escanos-en-blanco-2",
+      "nombre": "Francisco Infante Lisarte"
+     },
+     {
+      "id": "sen-cordoba-escanos-en-blanco-3",
+      "nombre": "María Lourdes Bellido Garrido"
      }
     ]
    }
@@ -255,10 +781,78 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "adelante-andalucia": [
      {
-      "id": "sen-granada-psoe-1",
-      "nombre": "Pedro Fernández"
+      "id": "sen-granada-adelante-andalucia-1",
+      "nombre": "Verónica Correa Dominguez"
+     },
+     {
+      "id": "sen-granada-adelante-andalucia-2",
+      "nombre": "Manuel Alejandro García Cepero"
+     },
+     {
+      "id": "sen-granada-adelante-andalucia-3",
+      "nombre": "Lourdes Hidalgo Ramos"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-granada-pcte-1",
+      "nombre": "Luis Ángel Amores Roldán"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-granada-podemos-1",
+      "nombre": "Carmen Martín Rubiño"
+     },
+     {
+      "id": "sen-granada-podemos-2",
+      "nombre": "Francisco Javier Matías Reche"
+     },
+     {
+      "id": "sen-granada-podemos-3",
+      "nombre": "Cristina Del Río Alonso"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-granada-mundo-justo-1",
+      "nombre": "Luís Antonio Rodríguez Huertas"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-granada-pp-1",
+      "nombre": "Carlos Rojas García"
+     },
+     {
+      "id": "sen-granada-pp-2",
+      "nombre": "María Eva Martín Pérez"
+     },
+     {
+      "id": "sen-granada-pp-3",
+      "nombre": "Pablo Hispán Iglesias De Ussel"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-granada-vox-1",
+      "nombre": "Beatriz Sánchez Agustino"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-granada-psoe-iu-ms-1",
+      "nombre": "Pedro Fernández Peñalver [SDP ]"
+     },
+     {
+      "id": "sen-granada-psoe-iu-ms-2",
+      "nombre": "María Carmen Pérez Rodríguez [SDP ]"
+     },
+     {
+      "id": "sen-granada-psoe-iu-ms-3",
+      "nombre": "José Antonio Montilla Martos [SDP ]"
      }
     ]
    }
@@ -269,10 +863,72 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "adelante-andalucia": [
      {
-      "id": "sen-huelva-psoe-1",
-      "nombre": "María Eugenia Limón"
+      "id": "sen-huelva-adelante-andalucia-1",
+      "nombre": "Juana María Fernández Mora"
+     },
+     {
+      "id": "sen-huelva-adelante-andalucia-2",
+      "nombre": "Rafael José Vélez Aibar"
+     },
+     {
+      "id": "sen-huelva-adelante-andalucia-3",
+      "nombre": "Rosa Elizabeth Tortosa Alonso"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-huelva-psoe-iu-ms-1",
+      "nombre": "María Eugenia Limón Bayo"
+     },
+     {
+      "id": "sen-huelva-psoe-iu-ms-2",
+      "nombre": "Pablo Valdera Pérez"
+     },
+     {
+      "id": "sen-huelva-psoe-iu-ms-3",
+      "nombre": "Mónica Rossi Palomar"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-huelva-pcte-1",
+      "nombre": "Marcos Villalba Ayelo"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-huelva-pp-1",
+      "nombre": "Manuel Alberto Fernández Rodríguez"
+     },
+     {
+      "id": "sen-huelva-pp-2",
+      "nombre": "Bella Verano Domínguez"
+     },
+     {
+      "id": "sen-huelva-pp-3",
+      "nombre": "Juan Manuel González Camacho"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-huelva-vox-1",
+      "nombre": "Carlos Bermejo Martins"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-huelva-podemos-1",
+      "nombre": "Carmen Borrero Martín"
+     },
+     {
+      "id": "sen-huelva-podemos-2",
+      "nombre": "José Luis Borrero Martín"
+     },
+     {
+      "id": "sen-huelva-podemos-3",
+      "nombre": "Esperanza Delgado Villalba"
      }
     ]
    }
@@ -282,7 +938,88 @@
    "ccaa": "andalucia",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "adelante-andalucia": [
+     {
+      "id": "sen-jaen-adelante-andalucia-1",
+      "nombre": "Alejandro Braulio Cabrera Cabrera"
+     },
+     {
+      "id": "sen-jaen-adelante-andalucia-2",
+      "nombre": "Inés María Gila León"
+     },
+     {
+      "id": "sen-jaen-adelante-andalucia-3",
+      "nombre": "José Ángel Vega Vico"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-jaen-psoe-iu-ms-1",
+      "nombre": "José Latorre Ruiz"
+     },
+     {
+      "id": "sen-jaen-psoe-iu-ms-2",
+      "nombre": "Laura Cerezuela Expósito"
+     },
+     {
+      "id": "sen-jaen-psoe-iu-ms-3",
+      "nombre": "Luis Romero Rubio"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-jaen-pacma-1",
+      "nombre": "Francisca Sánchez Alba"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-jaen-pp-1",
+      "nombre": "Juan Diego Requena Ruiz"
+     },
+     {
+      "id": "sen-jaen-pp-2",
+      "nombre": "Encarnación Bienvenida Castro Cano"
+     },
+     {
+      "id": "sen-jaen-pp-3",
+      "nombre": "Francisco Javier Márquez Sánchez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-jaen-podemos-1",
+      "nombre": "Ángela Checa Cazalla"
+     },
+     {
+      "id": "sen-jaen-podemos-2",
+      "nombre": "Jerónimo Muñoz Calzado"
+     },
+     {
+      "id": "sen-jaen-podemos-3",
+      "nombre": "María Isabel Soriano Puyana"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-jaen-mundo-justo-1",
+      "nombre": "Raquel Puentes Poyatos"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-jaen-pcte-1",
+      "nombre": "Santiago Otero Martínez"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-jaen-vox-1",
+      "nombre": "Francisco Ruiz Cortés"
+     }
+    ]
+   }
   },
   "malaga": {
    "nombre": "Málaga",
@@ -290,10 +1027,101 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "29": [
      {
-      "id": "sen-malaga-psoe-1",
-      "nombre": "Javier García León"
+      "id": "sen-malaga-29-1",
+      "nombre": "Alejandra Porras González",
+      "independiente": true
+     }
+    ],
+    "adelante-andalucia": [
+     {
+      "id": "sen-malaga-adelante-andalucia-1",
+      "nombre": "Sergio Flores Borrego"
+     },
+     {
+      "id": "sen-malaga-adelante-andalucia-2",
+      "nombre": "Verónica Carrillo Díaz"
+     },
+     {
+      "id": "sen-malaga-adelante-andalucia-3",
+      "nombre": "Óscar Ávila Gómez"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-malaga-pacma-1",
+      "nombre": "María José Torres Mayorga"
+     },
+     {
+      "id": "sen-malaga-pacma-2",
+      "nombre": "Francisco Javier De laTorre Velasco"
+     },
+     {
+      "id": "sen-malaga-pacma-3",
+      "nombre": "Estefanía Rosado Velázquez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-malaga-pp-1",
+      "nombre": "José Francisco Salado Escaño"
+     },
+     {
+      "id": "sen-malaga-pp-2",
+      "nombre": "Margarita del Carmen del Cid Muñoz"
+     },
+     {
+      "id": "sen-malaga-pp-3",
+      "nombre": "Mario Cortés Carballo"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-malaga-podemos-1",
+      "nombre": "Carmen Rosa Navajas Moreno"
+     },
+     {
+      "id": "sen-malaga-podemos-2",
+      "nombre": "José García Olmo"
+     },
+     {
+      "id": "sen-malaga-podemos-3",
+      "nombre": "María Carmen Serrán González"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-malaga-vox-1",
+      "nombre": "Antonio Alfonso Alcázar Díaz"
+     },
+     {
+      "id": "sen-malaga-vox-2",
+      "nombre": "Gemma María Palomo Ferrer"
+     },
+     {
+      "id": "sen-malaga-vox-3",
+      "nombre": "Ricardo José García García"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-malaga-pcte-1",
+      "nombre": "Sergio Aranda Ruiz-Matas"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-malaga-psoe-iu-ms-1",
+      "nombre": "Francisco Javier García León"
+     },
+     {
+      "id": "sen-malaga-psoe-iu-ms-2",
+      "nombre": "Rosario Luque Torrejón"
+     },
+     {
+      "id": "sen-malaga-psoe-iu-ms-3",
+      "nombre": "Antonio Sánchez Fernández"
      }
     ]
    }
@@ -304,10 +1132,98 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "adelante-andalucia": [
      {
-      "id": "sen-sevilla-psoe-1",
-      "nombre": "Rosario Andújar"
+      "id": "sen-sevilla-adelante-andalucia-1",
+      "nombre": "Francisca Maqueda Fernández"
+     },
+     {
+      "id": "sen-sevilla-adelante-andalucia-2",
+      "nombre": "Juan Manuel Luna Fuentes"
+     },
+     {
+      "id": "sen-sevilla-adelante-andalucia-3",
+      "nombre": "María Teresa Pablo Torres"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-sevilla-pcte-1",
+      "nombre": "Miguel Fuentes Martínez"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-sevilla-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "Rosario Andújar Torrejón"
+     },
+     {
+      "id": "sen-sevilla-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Antonio Gutiérrez Limones"
+     },
+     {
+      "id": "sen-sevilla-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Eva Patricia Bueno Campanario"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-sevilla-pacma-1",
+      "nombre": "Jaime Martínez Sánchez-Suárez"
+     },
+     {
+      "id": "sen-sevilla-pacma-2",
+      "nombre": "María Elena Romero Sánchez"
+     },
+     {
+      "id": "sen-sevilla-pacma-3",
+      "nombre": "Fernando Jesús Martín Pozo"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-sevilla-podemos-1",
+      "nombre": "Laura Gil Cantos"
+     },
+     {
+      "id": "sen-sevilla-podemos-2",
+      "nombre": "Antonio Durán Montero"
+     },
+     {
+      "id": "sen-sevilla-podemos-3",
+      "nombre": "María Purificación Huertas Fuentes"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-sevilla-pp-1",
+      "nombre": "Juan Manuel Ávila Gutiérrez"
+     },
+     {
+      "id": "sen-sevilla-pp-2",
+      "nombre": "María Teresa Astolfi González-Mogena"
+     },
+     {
+      "id": "sen-sevilla-pp-3",
+      "nombre": "Antonio Miguel Enamorado Aguilar"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-sevilla-vox-1",
+      "nombre": "Luis Valseca Tejerina"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-sevilla-mundo-justo-1",
+      "nombre": "Bienvenu Povele Kiladi"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-sevilla-fe-de-las-jons-1",
+      "nombre": "María Mercedes García Barrueco"
      }
     ]
    }
@@ -318,10 +1234,85 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pcte": [
      {
-      "id": "sen-huesca-psoe-1",
-      "nombre": "Tania Solans"
+      "id": "sen-huesca-pcte-1",
+      "nombre": "Juan Atrián Garcés"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-huesca-pacma-1",
+      "nombre": "Rocío Castillo Molero"
+     }
+    ],
+    "psoe-cha-iu-ms": [
+     {
+      "id": "sen-huesca-psoe-cha-iu-ms-1",
+      "nombre": "Tania Solans Raluy"
+     },
+     {
+      "id": "sen-huesca-psoe-cha-iu-ms-2",
+      "nombre": "Rubén Cabañas Aranda"
+     },
+     {
+      "id": "sen-huesca-psoe-cha-iu-ms-3",
+      "nombre": "Lorena Cajal Escartín"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-huesca-mundo-justo-1",
+      "nombre": "Manuel Souto Hernández"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-huesca-podemos-1",
+      "nombre": "Ana Delgado Molina"
+     },
+     {
+      "id": "sen-huesca-podemos-2",
+      "nombre": "Jose Felix Embid Fernández"
+     },
+     {
+      "id": "sen-huesca-podemos-3",
+      "nombre": "Paola Gentile Etchimendi"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-huesca-pp-1",
+      "nombre": "Melania Mur Sangrá"
+     },
+     {
+      "id": "sen-huesca-pp-2",
+      "nombre": "José Antonio Lagüens Martín"
+     },
+     {
+      "id": "sen-huesca-pp-3",
+      "nombre": "Blanca Mónica Galindo Sanz"
+     }
+    ],
+    "fia": [
+     {
+      "id": "sen-huesca-fia-1",
+      "nombre": "Juan Carlos Isabal Ferrer"
+     },
+     {
+      "id": "sen-huesca-fia-2",
+      "nombre": "Maria Jose Castejon Trigo"
+     },
+     {
+      "id": "sen-huesca-fia-3",
+      "nombre": "Gonzalo Jose Lorenzo Garcia",
+      "independiente": true
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-huesca-vox-1",
+      "nombre": "María Lorena García López"
      }
     ]
    }
@@ -332,10 +1323,86 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pcte": [
      {
-      "id": "sen-teruel-psoe-1",
-      "nombre": "María José Villalba"
+      "id": "sen-teruel-pcte-1",
+      "nombre": "Sergio Cases Arnas"
+     }
+    ],
+    "teruel-existe": [
+     {
+      "id": "sen-teruel-teruel-existe-1",
+      "nombre": "Raúl Blasco Aznar"
+     },
+     {
+      "id": "sen-teruel-teruel-existe-2",
+      "nombre": "Beatriz Martín Larred"
+     },
+     {
+      "id": "sen-teruel-teruel-existe-3",
+      "nombre": "Daniel Sancho Vargas"
+     }
+    ],
+    "senado-de-progreso-de-aragon-sdp-psoe-ch": [
+     {
+      "id": "sen-teruel-senado-de-progreso-de-aragon-sdp-psoe-ch-1",
+      "nombre": "María José Villalba Chavarría )"
+     },
+     {
+      "id": "sen-teruel-senado-de-progreso-de-aragon-sdp-psoe-ch-2",
+      "nombre": "Ricardo Moreno Romero )"
+     },
+     {
+      "id": "sen-teruel-senado-de-progreso-de-aragon-sdp-psoe-ch-3",
+      "nombre": "Silvia Inés Gimeno Gascón )"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-teruel-pp-1",
+      "nombre": "Emma Buj Sánchez"
+     },
+     {
+      "id": "sen-teruel-pp-2",
+      "nombre": "Carlos Boné Amela"
+     },
+     {
+      "id": "sen-teruel-pp-3",
+      "nombre": "Celia Durbán Solaz"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-teruel-podemos-1",
+      "nombre": "Esmeralda Royo Cerezuela"
+     },
+     {
+      "id": "sen-teruel-podemos-2",
+      "nombre": "Paula Victoria Usera Diz"
+     },
+     {
+      "id": "sen-teruel-podemos-3",
+      "nombre": "Irma Prado Portela"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-teruel-fe-de-las-jons-1",
+      "nombre": "José Anselmo Fernández Miguel"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-teruel-vox-1",
+      "nombre": "Bárbara Alastuey Rivas"
+     },
+     {
+      "id": "sen-teruel-vox-2",
+      "nombre": "Joaquín Buj Sánchez"
+     },
+     {
+      "id": "sen-teruel-vox-3",
+      "nombre": "Verónica Luz Herrero"
      }
     ]
    }
@@ -346,10 +1413,84 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pcte": [
      {
-      "id": "sen-zaragoza-psoe-1",
-      "nombre": "Miguel Dalmau"
+      "id": "sen-zaragoza-pcte-1",
+      "nombre": "Miguel Tello Bernad"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-zaragoza-mundo-justo-1",
+      "nombre": "Isabel Puyoles Hernández"
+     }
+    ],
+    "psoe-iu-ms-mm-compromis-cha-batzarre": [
+     {
+      "id": "sen-zaragoza-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+      "nombre": "Miguel Dalmau Blanco"
+     },
+     {
+      "id": "sen-zaragoza-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+      "nombre": "Ruth Pina Jiménez"
+     },
+     {
+      "id": "sen-zaragoza-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+      "nombre": "Ramón Duce Maestro"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-zaragoza-podemos-1",
+      "nombre": "Andres Pardo Granero"
+     },
+     {
+      "id": "sen-zaragoza-podemos-2",
+      "nombre": "María Luisa Garós Cirés"
+     },
+     {
+      "id": "sen-zaragoza-podemos-3",
+      "nombre": "Carlos Álvarez Vega"
+     }
+    ],
+    "fia": [
+     {
+      "id": "sen-zaragoza-fia-1",
+      "nombre": "Florencio Hidalgo García"
+     },
+     {
+      "id": "sen-zaragoza-fia-2",
+      "nombre": "Ana María Pérez Sánchez"
+     },
+     {
+      "id": "sen-zaragoza-fia-3",
+      "nombre": "Fernando Benjamín Ruiz Sebastián"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-zaragoza-pp-1",
+      "nombre": "Luis María Beamonte Mesa"
+     },
+     {
+      "id": "sen-zaragoza-pp-2",
+      "nombre": "María Elena Bondía Pinós"
+     },
+     {
+      "id": "sen-zaragoza-pp-3",
+      "nombre": "José Manuel Aranda Lassa"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-zaragoza-vox-1",
+      "nombre": "Germán Sanz Bordonaba"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-zaragoza-fe-de-las-jons-1",
+      "nombre": "Jorge Mínguez Luna"
      }
     ]
    }
@@ -359,21 +1500,166 @@
    "ccaa": "asturias",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "mundo-justo": [
+     {
+      "id": "sen-asturias-mundo-justo-1",
+      "nombre": "Elisa García Gutiérrez"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-asturias-pcte-1",
+      "nombre": "José Iván Fernández Andrade"
+     }
+    ],
+    "paz-casa-y-trabajo": [
+     {
+      "id": "sen-asturias-paz-casa-y-trabajo-1",
+      "nombre": "Eva María Fernández González"
+     },
+     {
+      "id": "sen-asturias-paz-casa-y-trabajo-2",
+      "nombre": "Roberto González García"
+     },
+     {
+      "id": "sen-asturias-paz-casa-y-trabajo-3",
+      "nombre": "María Alejandra Tejón Ballesteros"
+     }
+    ],
+    "puede": [
+     {
+      "id": "sen-asturias-puede-1",
+      "nombre": "Ángel Fernández Santos"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-asturias-vox-1",
+      "nombre": "Sara Concepción Álvarez Rouco"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-asturias-pp-1",
+      "nombre": "Silverio Argüelles García"
+     },
+     {
+      "id": "sen-asturias-pp-2",
+      "nombre": "María del Pilar Fernández Pardo"
+     },
+     {
+      "id": "sen-asturias-pp-3",
+      "nombre": "José Manuel Fernández Díaz"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-asturias-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "Iván González Espina"
+     },
+     {
+      "id": "sen-asturias-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Antona Luengo Sánchez"
+     },
+     {
+      "id": "sen-asturias-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Julio Tamés Sordo"
+     }
+    ]
+   }
   },
   "mallorca": {
    "nombre": "Mallorca",
    "ccaa": "baleares",
    "escanos": 3,
    "marcas": 2,
-   "listas": {}
+   "listas": {
+    "pcte": [
+     {
+      "id": "sen-mallorca-pcte-1",
+      "nombre": "Agustín Gálvez Martínez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-mallorca-pp-1",
+      "nombre": "Sebastià Sagrera Ballester"
+     },
+     {
+      "id": "sen-mallorca-pp-2",
+      "nombre": "María Belén Bordils Girona"
+     }
+    ],
+    "psib-psoe-mes-per-mallorca-sumar-euib": [
+     {
+      "id": "sen-mallorca-psib-psoe-mes-per-mallorca-sumar-euib-1",
+      "nombre": "Catalina Cladera Crespí"
+     },
+     {
+      "id": "sen-mallorca-psib-psoe-mes-per-mallorca-sumar-euib-2",
+      "nombre": "Francisco José González Paredes"
+     }
+    ]
+   }
   },
   "menorca": {
    "nombre": "Menorca",
    "ccaa": "baleares",
    "escanos": 1,
    "marcas": 1,
-   "listas": {}
+   "listas": {
+    "psoe-mes-per-menorca-em-eu-podemos": [
+     {
+      "id": "sen-menorca-psoe-mes-per-menorca-em-eu-podemos-1",
+      "nombre": "Joana María Barceló Martí"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-menorca-pp-1",
+      "nombre": "Ramón Sintes Villalonga"
+     },
+     {
+      "id": "sen-menorca-pp-2",
+      "nombre": "Eivissa Al Senat"
+     },
+     {
+      "id": "sen-menorca-pp-3",
+      "nombre": "Juanjo Ferrer Martínez"
+     },
+     {
+      "id": "sen-menorca-pp-4",
+      "nombre": "Partido Popular"
+     },
+     {
+      "id": "sen-menorca-pp-5",
+      "nombre": "María del Carmen Ferrer Torres"
+     },
+     {
+      "id": "sen-menorca-pp-6",
+      "nombre": "Formentera Al Senat"
+     },
+     {
+      "id": "sen-menorca-pp-7",
+      "nombre": "Neus Massanet Florit"
+     },
+     {
+      "id": "sen-menorca-pp-8",
+      "nombre": "Formentera Viva"
+     },
+     {
+      "id": "sen-menorca-pp-9",
+      "nombre": "Lorenzo Córdoba Marí"
+     }
+    ],
+    "sa-unio": [
+     {
+      "id": "sen-menorca-sa-unio-1",
+      "nombre": "Vicente Tur Costa"
+     }
+    ]
+   }
   },
   "eivissa-formentera": {
    "nombre": "Eivissa-Formentera",
@@ -387,63 +1673,453 @@
    "ccaa": "canarias",
    "escanos": 3,
    "marcas": 2,
-   "listas": {}
+   "listas": {
+    "psoe": [
+     {
+      "id": "sen-gran-canaria-psoe-1",
+      "nombre": "Juan Jesús Facundo Suárez"
+     },
+     {
+      "id": "sen-gran-canaria-psoe-2",
+      "nombre": "Marta Jorgina Saavedra Domenech"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-gran-canaria-pp-1",
+      "nombre": "Carlos Alberto Sánchez Ojeda"
+     },
+     {
+      "id": "sen-gran-canaria-pp-2",
+      "nombre": "Alba Moreno Santa",
+      "independiente": true
+     }
+    ],
+    "1-can-cca": [
+     {
+      "id": "sen-gran-canaria-1-can-cca-1",
+      "nombre": "Elisabet Santana Rosales"
+     },
+     {
+      "id": "sen-gran-canaria-1-can-cca-2",
+      "nombre": "Samuel Henríquez Quintana"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-gran-canaria-mundo-justo-1",
+      "nombre": "Javier Vázquez de la Torre Salinas"
+     }
+    ],
+    "nc-bc-podemos-iu-sumar": [
+     {
+      "id": "sen-gran-canaria-nc-bc-podemos-iu-sumar-1",
+      "nombre": "Ana Gloria Sánchez Ruano"
+     },
+     {
+      "id": "sen-gran-canaria-nc-bc-podemos-iu-sumar-2",
+      "nombre": "Iván Santana López"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-gran-canaria-pacma-1",
+      "nombre": "María Carmen Santana Benítez"
+     }
+    ],
+    "pcpc": [
+     {
+      "id": "sen-gran-canaria-pcpc-1",
+      "nombre": "Javier Delgado Pérez"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-gran-canaria-escanos-en-blanco-1",
+      "nombre": "Rubén Jiménez Ruiz"
+     }
+    ]
+   }
   },
   "tenerife": {
    "nombre": "Tenerife",
    "ccaa": "canarias",
    "escanos": 3,
    "marcas": 2,
-   "listas": {}
+   "listas": {
+    "psoe": [
+     {
+      "id": "sen-tenerife-psoe-1",
+      "nombre": "Pedro Martín Domínguez"
+     },
+     {
+      "id": "sen-tenerife-psoe-2",
+      "nombre": "Alicia Álvarez González"
+     }
+    ],
+    "cca-1-can": [
+     {
+      "id": "sen-tenerife-cca-1-can-1",
+      "nombre": "Juan Alfonso Cabello Mesa"
+     },
+     {
+      "id": "sen-tenerife-cca-1-can-2",
+      "nombre": "Patricia León Pérez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-tenerife-pp-1",
+      "nombre": "María Inés Vera Goya"
+     },
+     {
+      "id": "sen-tenerife-pp-2",
+      "nombre": "José Carlos Acha Domínguez"
+     }
+    ],
+    "nc-bc-podemos-iu-sumar": [
+     {
+      "id": "sen-tenerife-nc-bc-podemos-iu-sumar-1",
+      "nombre": "Andrea Monica Martín Tacoronte"
+     },
+     {
+      "id": "sen-tenerife-nc-bc-podemos-iu-sumar-2",
+      "nombre": "Ángel Manuel Rivera Ruz"
+     }
+    ]
+   }
   },
   "fuerteventura": {
    "nombre": "Fuerteventura",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {}
+   "listas": {
+    "psoe": [
+     {
+      "id": "sen-fuerteventura-psoe-1",
+      "nombre": "Paloma Hernández Cerezo"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-fuerteventura-pp-1",
+      "nombre": "María Esther Hernández Marrero"
+     }
+    ],
+    "cca-1-can": [
+     {
+      "id": "sen-fuerteventura-cca-1-can-1",
+      "nombre": "Nuria Cabrera Méndez"
+     }
+    ],
+    "nc-bc-podemos-iu-sumar": [
+     {
+      "id": "sen-fuerteventura-nc-bc-podemos-iu-sumar-1",
+      "nombre": "Rubén Reyes Gutiérrez"
+     }
+    ]
+   }
   },
   "lanzarote": {
    "nombre": "Lanzarote-La Graciosa",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {}
+   "listas": {
+    "psoe": [
+     {
+      "id": "sen-lanzarote-psoe-1",
+      "nombre": "Francisco Manuel Fajardo Palarea"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-lanzarote-pp-1",
+      "nombre": "José Francisco Hernández García"
+     }
+    ],
+    "cca-1-can": [
+     {
+      "id": "sen-lanzarote-cca-1-can-1",
+      "nombre": "Daisy Villalba Perdomo"
+     }
+    ],
+    "nc-bc-podemos-iu-sumar": [
+     {
+      "id": "sen-lanzarote-nc-bc-podemos-iu-sumar-1",
+      "nombre": "Fernando María Jiménez García"
+     }
+    ]
+   }
   },
   "la-palma": {
    "nombre": "La Palma",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {}
+   "listas": {
+    "psoe": [
+     {
+      "id": "sen-la-palma-psoe-1",
+      "nombre": "Kilian Sánchez San Juan"
+     }
+    ],
+    "cca-1-can": [
+     {
+      "id": "sen-la-palma-cca-1-can-1",
+      "nombre": "Míriam Perestelo Rodríguez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-la-palma-pp-1",
+      "nombre": "Jacob Qadri Hijazo"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-la-palma-pacma-1",
+      "nombre": "Fernando Jesús Martín Acosta"
+     }
+    ],
+    "nc-bc-podemos-iu-sumar": [
+     {
+      "id": "sen-la-palma-nc-bc-podemos-iu-sumar-1",
+      "nombre": "Miguel Ángel Pulido Rodríguez"
+     }
+    ]
+   }
   },
   "la-gomera": {
    "nombre": "La Gomera",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {}
+   "listas": {
+    "lxlg": [
+     {
+      "id": "sen-la-gomera-lxlg-1",
+      "nombre": "Alejandro García Vera"
+     }
+    ],
+    "asg": [
+     {
+      "id": "sen-la-gomera-asg-1",
+      "nombre": "Yaiza Castilla Herrera"
+     }
+    ],
+    "psoe": [
+     {
+      "id": "sen-la-gomera-psoe-1",
+      "nombre": "Juan Luis Navarro Mesa"
+     }
+    ],
+    "cca-1-can": [
+     {
+      "id": "sen-la-gomera-cca-1-can-1",
+      "nombre": "Víctor Tomás Chinea Mendoza"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-la-gomera-pp-1",
+      "nombre": "Héctor Armando Bencomo Bayoll"
+     }
+    ]
+   }
   },
   "el-hierro": {
    "nombre": "El Hierro",
    "ccaa": "canarias",
    "escanos": 1,
    "marcas": 1,
-   "listas": {}
+   "listas": {
+    "ahi": [
+     {
+      "id": "sen-el-hierro-ahi-1",
+      "nombre": "Aniceto Javier Armas González"
+     }
+    ],
+    "psoe": [
+     {
+      "id": "sen-el-hierro-psoe-1",
+      "nombre": "Alpidio Armas González"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-el-hierro-pp-1",
+      "nombre": "Inés Del Hierro Lías"
+     }
+    ],
+    "asamblea-herrena": [
+     {
+      "id": "sen-el-hierro-asamblea-herrena-1",
+      "nombre": "Emilio Víctor Hernández Montero"
+     }
+    ],
+    "nc-bc-podemos-iu-sumar": [
+     {
+      "id": "sen-el-hierro-nc-bc-podemos-iu-sumar-1",
+      "nombre": "Tinaxara Padrón Reyes"
+     }
+    ]
+   }
   },
   "cantabria": {
    "nombre": "Cantabria",
    "ccaa": "cantabria",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "podemos": [
+     {
+      "id": "sen-cantabria-podemos-1",
+      "nombre": "Mercedes González Reguilon"
+     },
+     {
+      "id": "sen-cantabria-podemos-2",
+      "nombre": "Raúl Gómez Varela"
+     },
+     {
+      "id": "sen-cantabria-podemos-3",
+      "nombre": "Elsa María Miguel Gutiérrez"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-cantabria-vox-1",
+      "nombre": "José Joaquín Bengochea Seco"
+     },
+     {
+      "id": "sen-cantabria-vox-2",
+      "nombre": "Victoria Eugenia Rodríguez Varela"
+     },
+     {
+      "id": "sen-cantabria-vox-3",
+      "nombre": "José Luís Palacio Bensusan"
+     }
+    ],
+    "psoe-iu-ms-mm-compromis-cha-batzarre": [
+     {
+      "id": "sen-cantabria-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+      "nombre": "Paz Mercedes de la Cuesta Aguado"
+     },
+     {
+      "id": "sen-cantabria-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+      "nombre": "Israel Ruiz Salmón"
+     },
+     {
+      "id": "sen-cantabria-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+      "nombre": "Paloma Palacio Sánchez"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-cantabria-pcte-1",
+      "nombre": "Alfredo Ramos Gómez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-cantabria-pp-1",
+      "nombre": "Gema Igual Ortiz"
+     },
+     {
+      "id": "sen-cantabria-pp-2",
+      "nombre": "Luis Venancio Martínez Abad"
+     },
+     {
+      "id": "sen-cantabria-pp-3",
+      "nombre": "María Carmen Bedoya Morton"
+     }
+    ]
+   }
   },
   "avila": {
    "nombre": "Ávila",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "mundo-justo": [
+     {
+      "id": "sen-avila-mundo-justo-1",
+      "nombre": "Amador María Villar Riu"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-avila-podemos-1",
+      "nombre": "David Arense Jiménez"
+     },
+     {
+      "id": "sen-avila-podemos-2",
+      "nombre": "Rebeca Acevedo García"
+     },
+     {
+      "id": "sen-avila-podemos-3",
+      "nombre": "Javier Jara García"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-avila-pp-1",
+      "nombre": "Alicia García Rodríguez"
+     },
+     {
+      "id": "sen-avila-pp-2",
+      "nombre": "Carlos García González"
+     },
+     {
+      "id": "sen-avila-pp-3",
+      "nombre": "María Pilar Rodríguez Aparicio"
+     }
+    ],
+    "pdsje": [
+     {
+      "id": "sen-avila-pdsje-1",
+      "nombre": "José María Martín García"
+     },
+     {
+      "id": "sen-avila-pdsje-2",
+      "nombre": "Virginia Maycas Márquez"
+     },
+     {
+      "id": "sen-avila-pdsje-3",
+      "nombre": "Luis Miguel Sáenz de la Puente"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms-mm-com": [
+     {
+      "id": "sen-avila-senado-de-progreso-sdp-psoe-iu-ms-mm-com-1",
+      "nombre": "Carlos Montesino Garro )"
+     },
+     {
+      "id": "sen-avila-senado-de-progreso-sdp-psoe-iu-ms-mm-com-2",
+      "nombre": "Cristina Pindado López Samaniego )"
+     },
+     {
+      "id": "sen-avila-senado-de-progreso-sdp-psoe-iu-ms-mm-com-3",
+      "nombre": "Juan Carlos del Bosque Portero )"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-avila-vox-1",
+      "nombre": "Clara Isabel Rubio Contreras"
+     },
+     {
+      "id": "sen-avila-vox-2",
+      "nombre": "Carlos Salazar Moreta"
+     },
+     {
+      "id": "sen-avila-vox-3",
+      "nombre": "Bárbara Vallejo Fernández-Cano"
+     }
+    ]
+   }
   },
   "burgos": {
    "nombre": "Burgos",
@@ -451,10 +2127,66 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "podemos": [
      {
-      "id": "sen-burgos-psoe-1",
-      "nombre": "Aitana Hernando"
+      "id": "sen-burgos-podemos-1",
+      "nombre": "Mónica López Blanco"
+     },
+     {
+      "id": "sen-burgos-podemos-2",
+      "nombre": "Georges Mirko Dimitrijevic Pozo"
+     },
+     {
+      "id": "sen-burgos-podemos-3",
+      "nombre": "María Ángeles Castrillo Martínez"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-burgos-mundo-justo-1",
+      "nombre": "Germán López Castro"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-burgos-psoe-iu-ms-1",
+      "nombre": "María Aitana Hernando Ruiz"
+     },
+     {
+      "id": "sen-burgos-psoe-iu-ms-2",
+      "nombre": "Carlos Serrano Hermo"
+     },
+     {
+      "id": "sen-burgos-psoe-iu-ms-3",
+      "nombre": "María Concepción Camarero Merino"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-burgos-vox-1",
+      "nombre": "Fernando Martínez-Acitores Puig"
+     },
+     {
+      "id": "sen-burgos-vox-2",
+      "nombre": "María Teresa Alonso Ortega"
+     },
+     {
+      "id": "sen-burgos-vox-3",
+      "nombre": "José Manuel Gutiérrez Martínez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-burgos-pp-1",
+      "nombre": "Francisco Javier Lacalle Lacalle"
+     },
+     {
+      "id": "sen-burgos-pp-2",
+      "nombre": "María Sandra Moneo Díez"
+     },
+     {
+      "id": "sen-burgos-pp-3",
+      "nombre": "Salvador De Foronda Vaquero"
      }
     ]
    }
@@ -464,49 +2196,623 @@
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "pacma": [
+     {
+      "id": "sen-leon-pacma-1",
+      "nombre": "María Begoña Fernández García"
+     },
+     {
+      "id": "sen-leon-pacma-2",
+      "nombre": "Juan Carlos Ramos Rodríguez"
+     }
+    ],
+    "prepal": [
+     {
+      "id": "sen-leon-prepal-1",
+      "nombre": "Jesús Fernández Villar"
+     },
+     {
+      "id": "sen-leon-prepal-2",
+      "nombre": "Catalina Antúnez García"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-leon-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "Salvador Vidal Varela"
+     },
+     {
+      "id": "sen-leon-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Laura Fernández Bermejo"
+     },
+     {
+      "id": "sen-leon-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Manuel Alfonso González"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-leon-pcte-1",
+      "nombre": "Pedro Gómez García"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-leon-podemos-1",
+      "nombre": "Edith Peña Domínguez"
+     },
+     {
+      "id": "sen-leon-podemos-2",
+      "nombre": "Modesto Ramos Maraña"
+     },
+     {
+      "id": "sen-leon-podemos-3",
+      "nombre": "Ariana Alonso Celorio"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-leon-pp-1",
+      "nombre": "Silvia Franco González"
+     },
+     {
+      "id": "sen-leon-pp-2",
+      "nombre": "Antonio Silván Rodríguez"
+     },
+     {
+      "id": "sen-leon-pp-3",
+      "nombre": "María Asunción Mayo Fernández"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-leon-mundo-justo-1",
+      "nombre": "María José Ríos Jurado"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-leon-escanos-en-blanco-1",
+      "nombre": "Rafael Díez Gutiérrez"
+     },
+     {
+      "id": "sen-leon-escanos-en-blanco-2",
+      "nombre": "María Esther Chamorro Alonso"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-leon-vox-1",
+      "nombre": "Jaime Alonso Gila"
+     },
+     {
+      "id": "sen-leon-vox-2",
+      "nombre": "Laura Gallego Gaspar"
+     },
+     {
+      "id": "sen-leon-vox-3",
+      "nombre": "Raúl Ramos Juan"
+     }
+    ]
+   }
   },
   "palencia": {
    "nombre": "Palencia",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "podemos": [
+     {
+      "id": "sen-palencia-podemos-1",
+      "nombre": "Alba Alonso Pérez"
+     },
+     {
+      "id": "sen-palencia-podemos-2",
+      "nombre": "Alberto Riol de Prado"
+     },
+     {
+      "id": "sen-palencia-podemos-3",
+      "nombre": "Ana Isabel Pérez Mena"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-palencia-fe-de-las-jons-1",
+      "nombre": "Óscar Sánchez Rico"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-palencia-pp-1",
+      "nombre": "Roberto Martín Casado"
+     },
+     {
+      "id": "sen-palencia-pp-2",
+      "nombre": "Cristina Sandino Vallejo"
+     },
+     {
+      "id": "sen-palencia-pp-3",
+      "nombre": "Jorge Domingo Martínez Antolín"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-palencia-mundo-justo-1",
+      "nombre": "Cristina Gutiérrez Aguirre"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-palencia-vox-1",
+      "nombre": "Jorge Castrillejo Arnaiz"
+     },
+     {
+      "id": "sen-palencia-vox-2",
+      "nombre": "Zaida de la Fuente Sancho"
+     },
+     {
+      "id": "sen-palencia-vox-3",
+      "nombre": "Juan Antonio García García"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-palencia-escanos-en-blanco-1",
+      "nombre": "María Inés Aceves Ballesteros",
+      "independiente": true
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-palencia-psoe-iu-ms-1",
+      "nombre": "Rosa María Aldea Gómez"
+     },
+     {
+      "id": "sen-palencia-psoe-iu-ms-2",
+      "nombre": "Eduardo Velázquez Martín"
+     },
+     {
+      "id": "sen-palencia-psoe-iu-ms-3",
+      "nombre": "Belinda Mencía Solla"
+     }
+    ]
+   }
   },
   "salamanca": {
    "nombre": "Salamanca",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "podemos": [
+     {
+      "id": "sen-salamanca-podemos-1",
+      "nombre": "María del Carmen Díez Sierra"
+     },
+     {
+      "id": "sen-salamanca-podemos-2",
+      "nombre": "Genaro Luis García López"
+     },
+     {
+      "id": "sen-salamanca-podemos-3",
+      "nombre": "María del Sol Muñoz Martín"
+     }
+    ],
+    "prepal": [
+     {
+      "id": "sen-salamanca-prepal-1",
+      "nombre": "Juan Manuel Andrés López"
+     },
+     {
+      "id": "sen-salamanca-prepal-2",
+      "nombre": "María de las Mercedes Fernández León"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-salamanca-vox-1",
+      "nombre": "Purificación Pozo García"
+     },
+     {
+      "id": "sen-salamanca-vox-2",
+      "nombre": "Carlos Polo Prieto"
+     },
+     {
+      "id": "sen-salamanca-vox-3",
+      "nombre": "Raquel Izquierdo Martín"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-salamanca-pcte-1",
+      "nombre": "José Fernández Reguera"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-salamanca-pp-1",
+      "nombre": "Bienvenido de Arriba Sánchez"
+     },
+     {
+      "id": "sen-salamanca-pp-2",
+      "nombre": "Marta Labrador Gutiérrez"
+     },
+     {
+      "id": "sen-salamanca-pp-3",
+      "nombre": "Pedro Samuel Martín García"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-salamanca-psoe-iu-ms-1",
+      "nombre": "Carlos Fernández Chanca"
+     },
+     {
+      "id": "sen-salamanca-psoe-iu-ms-2",
+      "nombre": "Yolanda Sánchez Villarón"
+     },
+     {
+      "id": "sen-salamanca-psoe-iu-ms-3",
+      "nombre": "Sergio Maqueda Hernández"
+     }
+    ]
+   }
   },
   "segovia": {
    "nombre": "Segovia",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "mundo-justo": [
+     {
+      "id": "sen-segovia-mundo-justo-1",
+      "nombre": "Leonor Delgado Sánchez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-segovia-podemos-1",
+      "nombre": "Rafael Alonso Ponce"
+     },
+     {
+      "id": "sen-segovia-podemos-2",
+      "nombre": "Maria del Carmen Polo López"
+     },
+     {
+      "id": "sen-segovia-podemos-3",
+      "nombre": "Mariano Rojas Magallanes"
+     }
+    ],
+    "psoe-iu-ms-mm-compromis-cha-batzarre": [
+     {
+      "id": "sen-segovia-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+      "nombre": "María del Lirio Martín García"
+     },
+     {
+      "id": "sen-segovia-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+      "nombre": "Alberto López Villa"
+     },
+     {
+      "id": "sen-segovia-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+      "nombre": "Alba Barrio Martín"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-segovia-pp-1",
+      "nombre": "Juan Jose Sanz Vitorio"
+     },
+     {
+      "id": "sen-segovia-pp-2",
+      "nombre": "María Ángeles García Herrero"
+     },
+     {
+      "id": "sen-segovia-pp-3",
+      "nombre": "José María Bravo Gozalo"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-segovia-vox-1",
+      "nombre": "Patricia Bernabé Municio"
+     },
+     {
+      "id": "sen-segovia-vox-2",
+      "nombre": "Pedro María Varela de Sagarra"
+     },
+     {
+      "id": "sen-segovia-vox-3",
+      "nombre": "Esther Núñez Municio"
+     }
+    ]
+   }
   },
   "soria": {
    "nombre": "Soria",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "mundo-justo": [
+     {
+      "id": "sen-soria-mundo-justo-1",
+      "nombre": "Álvaro Galera Arias"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-soria-vox-1",
+      "nombre": "María Sara López Pérez"
+     },
+     {
+      "id": "sen-soria-vox-2",
+      "nombre": "Alberto Enrique Peñuelas Felipe"
+     },
+     {
+      "id": "sen-soria-vox-3",
+      "nombre": "Esther María García García"
+     }
+    ],
+    "sy": [
+     {
+      "id": "sen-soria-sy-1",
+      "nombre": "David Romera Sevillano"
+     },
+     {
+      "id": "sen-soria-sy-2",
+      "nombre": "María Concepción Álvarez Sacristán"
+     },
+     {
+      "id": "sen-soria-sy-3",
+      "nombre": "Fernando del Amo Gallego"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-soria-pp-1",
+      "nombre": "Benito Serrano Mata"
+     },
+     {
+      "id": "sen-soria-pp-2",
+      "nombre": "María Yolanda de Gregorio Pachón"
+     },
+     {
+      "id": "sen-soria-pp-3",
+      "nombre": "Javier Jiménez Santamaría"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-soria-escanos-en-blanco-1",
+      "nombre": "Luis Lasfuentes García",
+      "independiente": true
+     },
+     {
+      "id": "sen-soria-escanos-en-blanco-2",
+      "nombre": "Gloria de la Parra Amorena",
+      "independiente": true
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-soria-psoe-iu-ms-1",
+      "nombre": "Ana Alegre Martínez"
+     },
+     {
+      "id": "sen-soria-psoe-iu-ms-2",
+      "nombre": "Manuel Madrid Castro"
+     },
+     {
+      "id": "sen-soria-psoe-iu-ms-3",
+      "nombre": "Gemma Hernández Ramos"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-soria-podemos-1",
+      "nombre": "Mario Calonge Calvo"
+     },
+     {
+      "id": "sen-soria-podemos-2",
+      "nombre": "María José Marco Llorente"
+     },
+     {
+      "id": "sen-soria-podemos-3",
+      "nombre": "José Luis San Juan García"
+     }
+    ]
+   }
   },
   "valladolid": {
    "nombre": "Valladolid",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "pancal-urci": [
+     {
+      "id": "sen-valladolid-pancal-urci-1",
+      "nombre": "José Ignacio Moratinos Delgado –el Empecinado–"
+     },
+     {
+      "id": "sen-valladolid-pancal-urci-2",
+      "nombre": "María Pilar Cubero Valdes"
+     },
+     {
+      "id": "sen-valladolid-pancal-urci-3",
+      "nombre": "Tomas Francisco Arconada Villar"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-valladolid-mundo-justo-1",
+      "nombre": "María Luisa Valls Alguacil"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-valladolid-pacma-1",
+      "nombre": "Iván Serrano Pérez"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-valladolid-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "Sara Maria Galván Lobato"
+     },
+     {
+      "id": "sen-valladolid-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Francisco Javier de la Rosa Gutiérrez"
+     },
+     {
+      "id": "sen-valladolid-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Yolanda Rosa Lanza Alaez"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-valladolid-fe-de-las-jons-1",
+      "nombre": "Juan Antonio Peral Disdier"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-valladolid-podemos-1",
+      "nombre": "Juan Antonio Heras García"
+     },
+     {
+      "id": "sen-valladolid-podemos-2",
+      "nombre": "María Belén Manjarres Hernández"
+     },
+     {
+      "id": "sen-valladolid-podemos-3",
+      "nombre": "José Manuel Campos Carrion"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-valladolid-pcte-1",
+      "nombre": "Álvaro de Prada González"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-valladolid-vox-1",
+      "nombre": "Luis Alberto Matarranz Herreras"
+     },
+     {
+      "id": "sen-valladolid-vox-2",
+      "nombre": "Aroa Valdés Hernández"
+     },
+     {
+      "id": "sen-valladolid-vox-3",
+      "nombre": "Miguel Ángel Sainz Juez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-valladolid-pp-1",
+      "nombre": "Jesús Julio Carnero García"
+     },
+     {
+      "id": "sen-valladolid-pp-2",
+      "nombre": "María Mercedes Cantalapiedra Álvarez"
+     },
+     {
+      "id": "sen-valladolid-pp-3",
+      "nombre": "José Ángel Alonso Pérez"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-valladolid-escanos-en-blanco-1",
+      "nombre": "Santiago Manuel Martínez Redondo",
+      "independiente": true
+     },
+     {
+      "id": "sen-valladolid-escanos-en-blanco-2",
+      "nombre": "Ana María Redondo Alvaredo",
+      "independiente": true
+     }
+    ]
+   }
   },
   "zamora": {
    "nombre": "Zamora",
    "ccaa": "castilla-y-leon",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "prepal": [
+     {
+      "id": "sen-zamora-prepal-1",
+      "nombre": "Teresita Loreto Álvarez Pérez"
+     },
+     {
+      "id": "sen-zamora-prepal-2",
+      "nombre": "José Cayetano Rodríguez De Castro"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-zamora-psoe-iu-ms-1",
+      "nombre": "José Fernández Blanco"
+     },
+     {
+      "id": "sen-zamora-psoe-iu-ms-2",
+      "nombre": "María Inmaculada Lucas Baraja"
+     },
+     {
+      "id": "sen-zamora-psoe-iu-ms-3",
+      "nombre": "Ángel Calleja Gómez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-zamora-podemos-1",
+      "nombre": "María Carmen Cuesta Benavides"
+     },
+     {
+      "id": "sen-zamora-podemos-2",
+      "nombre": "Antonio Narváez De Las Heras"
+     },
+     {
+      "id": "sen-zamora-podemos-3",
+      "nombre": "María Soraya García Serna"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-zamora-pp-1",
+      "nombre": "José María Barrios Tejero"
+     },
+     {
+      "id": "sen-zamora-pp-2",
+      "nombre": "Elvira Velasco Morillo"
+     },
+     {
+      "id": "sen-zamora-pp-3",
+      "nombre": "Óscar Ramajo Prada"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-zamora-vox-1",
+      "nombre": "Eugenio Blanco Ugidos"
+     },
+     {
+      "id": "sen-zamora-vox-2",
+      "nombre": "María Victoria Fradejas Calleja"
+     },
+     {
+      "id": "sen-zamora-vox-3",
+      "nombre": "Juan Bartual Magro"
+     }
+    ]
+   }
   },
   "albacete": {
    "nombre": "Albacete",
@@ -514,18 +2820,66 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "mundo-justo": [
      {
-      "id": "sen-albacete-psoe-1",
-      "nombre": "Isabel Belén Iniesta"
+      "id": "sen-albacete-mundo-justo-1",
+      "nombre": "Sara García Jiménez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-albacete-podemos-1",
+      "nombre": "Luis Ángel Aguilar Montero"
      },
      {
-      "id": "sen-albacete-psoe-2",
-      "nombre": "Francho Tierraseca"
+      "id": "sen-albacete-podemos-2",
+      "nombre": "María de los Llanos Rabadán Navarro"
      },
      {
-      "id": "sen-albacete-psoe-3",
-      "nombre": "Rosario Herrera"
+      "id": "sen-albacete-podemos-3",
+      "nombre": "Antonio Brell Díaz"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-albacete-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "Isabel Belén Iniesta Egido"
+     },
+     {
+      "id": "sen-albacete-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Francisco José Requena Terol"
+     },
+     {
+      "id": "sen-albacete-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "María Rosario Herrera Gómez"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-albacete-vox-1",
+      "nombre": "Román Jesús González Balado"
+     },
+     {
+      "id": "sen-albacete-vox-2",
+      "nombre": "Virginia Carrión Peralta"
+     },
+     {
+      "id": "sen-albacete-vox-3",
+      "nombre": "Ginés Luis Núñez Martínez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-albacete-pp-1",
+      "nombre": "Miriam García Navarro"
+     },
+     {
+      "id": "sen-albacete-pp-2",
+      "nombre": "Antonio Martínez Gómez"
+     },
+     {
+      "id": "sen-albacete-pp-3",
+      "nombre": "Pilar Milagros Rojo Noguera"
      }
     ]
    }
@@ -536,18 +2890,60 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "podemos": [
      {
-      "id": "sen-ciudad-real-psoe-1",
-      "nombre": "Rosa Melchor"
+      "id": "sen-ciudad-real-podemos-1",
+      "nombre": "Víctor García Escribano Tajuelo"
      },
      {
-      "id": "sen-ciudad-real-psoe-2",
-      "nombre": "Pedro Antonio Palomo Mata"
+      "id": "sen-ciudad-real-podemos-2",
+      "nombre": "Teresa Lozano Camacho"
      },
      {
-      "id": "sen-ciudad-real-psoe-3",
-      "nombre": "María del Carmen Ballesteros Vélez"
+      "id": "sen-ciudad-real-podemos-3",
+      "nombre": "José María Jiménez Mozos"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-ciudad-real-pp-1",
+      "nombre": "Raúl Dalmacio Valero Mejía"
+     },
+     {
+      "id": "sen-ciudad-real-pp-2",
+      "nombre": "Rosa María Romero Sánchez"
+     },
+     {
+      "id": "sen-ciudad-real-pp-3",
+      "nombre": "Leopoldo Jerónimo Sierra Gallardo"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-ciudad-real-vox-1",
+      "nombre": "Jesús Felipe Sánchez Crespo Ruíz Del Moral"
+     },
+     {
+      "id": "sen-ciudad-real-vox-2",
+      "nombre": "María Elena Villahermosa Molinero"
+     },
+     {
+      "id": "sen-ciudad-real-vox-3",
+      "nombre": "Félix Canal Calderón"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-ciudad-real-psoe-iu-ms-1",
+      "nombre": "Rosa Melchor Quiralte"
+     },
+     {
+      "id": "sen-ciudad-real-psoe-iu-ms-2",
+      "nombre": "Pedro César Mellado Moreno"
+     },
+     {
+      "id": "sen-ciudad-real-psoe-iu-ms-3",
+      "nombre": "María Del Carmen Ballesteros Vélez"
      }
     ]
    }
@@ -558,18 +2954,58 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "podemos": [
      {
-      "id": "sen-cuenca-psoe-1",
-      "nombre": "José Manuel López Carrizo"
+      "id": "sen-cuenca-podemos-1",
+      "nombre": "Teresa María Navarro Zamora"
      },
      {
-      "id": "sen-cuenca-psoe-2",
-      "nombre": "Montserrat Poyatos"
+      "id": "sen-cuenca-podemos-2",
+      "nombre": "Andrés Fernández Ruiz"
      },
      {
-      "id": "sen-cuenca-psoe-3",
-      "nombre": "Emilio José Osma"
+      "id": "sen-cuenca-podemos-3",
+      "nombre": "María Luisa Ruiz Granero"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-cuenca-vox-1",
+      "nombre": "Luis Guillermo Ortega Blanco"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-cuenca-pp-1",
+      "nombre": "Daniel Pérez Osma"
+     },
+     {
+      "id": "sen-cuenca-pp-2",
+      "nombre": "María Jesús Bonilla Domínguez"
+     },
+     {
+      "id": "sen-cuenca-pp-3",
+      "nombre": "Alejo Joaquín Miranda De Larra Arnaiz"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-cuenca-mundo-justo-1",
+      "nombre": "María Salomé Arricibita Antoñanzas"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-cuenca-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "José López Carrizo )"
+     },
+     {
+      "id": "sen-cuenca-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Lorena Gallego García )"
+     },
+     {
+      "id": "sen-cuenca-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Emilio José Osma Marchante )"
      }
     ]
    }
@@ -580,18 +3016,78 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pcte": [
      {
-      "id": "sen-guadalajara-psoe-1",
-      "nombre": "Rafael Esteban"
+      "id": "sen-guadalajara-pcte-1",
+      "nombre": "Alejandro Sanz Gregorio"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-guadalajara-vox-1",
+      "nombre": "Víctor Juan Morejón Vitón"
      },
      {
-      "id": "sen-guadalajara-psoe-2",
-      "nombre": "Mercedes Gómez"
+      "id": "sen-guadalajara-vox-2",
+      "nombre": "Ana Isabel Perucho Prieto"
      },
      {
-      "id": "sen-guadalajara-psoe-3",
+      "id": "sen-guadalajara-vox-3",
+      "nombre": "Juan Antonio Pérez Borda"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-guadalajara-podemos-1",
+      "nombre": "María Luisa Martínez Gobantes"
+     },
+     {
+      "id": "sen-guadalajara-podemos-2",
+      "nombre": "Luis Fernando Hernández Escudero"
+     },
+     {
+      "id": "sen-guadalajara-podemos-3",
+      "nombre": "Katia Isabel Ruiz Jodra"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-guadalajara-pp-1",
+      "nombre": "Lucas Castillo Rodríguez"
+     },
+     {
+      "id": "sen-guadalajara-pp-2",
+      "nombre": "María Patricio Zafra"
+     },
+     {
+      "id": "sen-guadalajara-pp-3",
+      "nombre": "Antonio Román Jasanada"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-guadalajara-mundo-justo-1",
+      "nombre": "Gregorio Valdepeñas Díaz-Tendero"
+     }
+    ],
+    "psoe-iu-ms-mm-compromis-cha-batzarre": [
+     {
+      "id": "sen-guadalajara-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+      "nombre": "Rafael Esteban Santamaría"
+     },
+     {
+      "id": "sen-guadalajara-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+      "nombre": "María del Mar González Báez"
+     },
+     {
+      "id": "sen-guadalajara-psoe-iu-ms-mm-compromis-cha-batzarre-3",
       "nombre": "Daniel Jiménez Díaz"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-guadalajara-fe-de-las-jons-1",
+      "nombre": "Hermes González González"
      }
     ]
    }
@@ -602,18 +3098,80 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "fe-de-las-jons": [
      {
-      "id": "sen-toledo-psoe-1",
-      "nombre": "José Manuel Tofiño"
+      "id": "sen-toledo-fe-de-las-jons-1",
+      "nombre": "Javier Luis Horas Puente"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-toledo-pp-1",
+      "nombre": "Agustín Conde Bajén"
      },
      {
-      "id": "sen-toledo-psoe-2",
-      "nombre": "María Luisa Rodríguez García"
+      "id": "sen-toledo-pp-2",
+      "nombre": "María Pilar Alía Aguado"
      },
      {
-      "id": "sen-toledo-psoe-3",
-      "nombre": "Nacho Hernández Rodríguez"
+      "id": "sen-toledo-pp-3",
+      "nombre": "Vicente Tirado Ochoa"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-toledo-podemos-1",
+      "nombre": "María Ángeles Zarzoso Ajado"
+     },
+     {
+      "id": "sen-toledo-podemos-2",
+      "nombre": "Juan Muñoz Gutiérrez"
+     },
+     {
+      "id": "sen-toledo-podemos-3",
+      "nombre": "María del Carmen Gómez Gómez"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-toledo-vox-1",
+      "nombre": "Fernando Sánchez Izquierdo Hurtado"
+     },
+     {
+      "id": "sen-toledo-vox-2",
+      "nombre": "Laura Félix Sánchez-Vallejo"
+     },
+     {
+      "id": "sen-toledo-vox-3",
+      "nombre": "Jesús Gutiérrez Fernández"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-toledo-psoe-iu-ms-1",
+      "nombre": "José Manuel Tofiño Pérez"
+     },
+     {
+      "id": "sen-toledo-psoe-iu-ms-2",
+      "nombre": "María Isabel Álvarez Domínguez"
+     },
+     {
+      "id": "sen-toledo-psoe-iu-ms-3",
+      "nombre": "Ignacio Hernández Rodríguez"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-toledo-pcte-1",
+      "nombre": "Carlos Pantoja Fente"
+     },
+     {
+      "id": "sen-toledo-pcte-2",
+      "nombre": "Sonia Catalina Roa Jiménez"
+     },
+     {
+      "id": "sen-toledo-pcte-3",
+      "nombre": "Javier Gómez-Pintado Gálvez"
      }
     ]
    }
@@ -623,35 +3181,452 @@
    "ccaa": "cataluna",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "psc": [
+     {
+      "id": "sen-barcelona-psc-1",
+      "nombre": "Raquel Sánchez Jimenez"
+     },
+     {
+      "id": "sen-barcelona-psc-2",
+      "nombre": "Gabriel Colomé García"
+     },
+     {
+      "id": "sen-barcelona-psc-3",
+      "nombre": "Cristobalina Albéndiz Pérez"
+     }
+    ],
+    "jxcat": [
+     {
+      "id": "sen-barcelona-jxcat-1",
+      "nombre": "Josep Maria Vida de Abadal i Serra"
+     },
+     {
+      "id": "sen-barcelona-jxcat-2",
+      "nombre": "Anna Cols i Aguilar"
+     },
+     {
+      "id": "sen-barcelona-jxcat-3",
+      "nombre": "Oriol Izquierdo i Llopis"
+     }
+    ],
+    "erc-eh-bildu": [
+     {
+      "id": "sen-barcelona-erc-eh-bildu-1",
+      "nombre": "Francesc-Marc Álvaro i Vidal"
+     },
+     {
+      "id": "sen-barcelona-erc-eh-bildu-2",
+      "nombre": "Mercedes Vidal Lago"
+     },
+     {
+      "id": "sen-barcelona-erc-eh-bildu-3",
+      "nombre": "Joaquim Camprubí i Cabané"
+     }
+    ],
+    "pctc": [
+     {
+      "id": "sen-barcelona-pctc-1",
+      "nombre": "Ferran Peris Serrano"
+     }
+    ],
+    "c-dem": [
+     {
+      "id": "sen-barcelona-c-dem-1",
+      "nombre": "Laura Alzamora Merino"
+     },
+     {
+      "id": "sen-barcelona-c-dem-2",
+      "nombre": "Miquel Àngel Essomba Gelabert"
+     },
+     {
+      "id": "sen-barcelona-c-dem-3",
+      "nombre": "Aïda Llauradó Álvarez"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-barcelona-vox-1",
+      "nombre": "María Elisa García Fuster"
+     },
+     {
+      "id": "sen-barcelona-vox-2",
+      "nombre": "Jorge Mena Gálvez"
+     },
+     {
+      "id": "sen-barcelona-vox-3",
+      "nombre": "María Montserrat Piqueras Ruiz"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-barcelona-pp-1",
+      "nombre": "Josep Tutusaus Besante"
+     },
+     {
+      "id": "sen-barcelona-pp-2",
+      "nombre": "Mónica Parés Centeno"
+     },
+     {
+      "id": "sen-barcelona-pp-3",
+      "nombre": "Javier Guasch Torrens"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-barcelona-mundo-justo-1",
+      "nombre": "Alejandro Baltasar Gerlach Soria"
+     }
+    ]
+   }
   },
   "girona": {
    "nombre": "Girona",
    "ccaa": "cataluna",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "psc": [
+     {
+      "id": "sen-girona-psc-1",
+      "nombre": "Gael Rodríguez Garrido"
+     },
+     {
+      "id": "sen-girona-psc-2",
+      "nombre": "Consol Cantenys Arboli"
+     },
+     {
+      "id": "sen-girona-psc-3",
+      "nombre": "Moisés Tomás Alcobé"
+     }
+    ],
+    "erc-eh-bildu": [
+     {
+      "id": "sen-girona-erc-eh-bildu-1",
+      "nombre": "Etna Estrems Fayos"
+     },
+     {
+      "id": "sen-girona-erc-eh-bildu-2",
+      "nombre": "Miquel Reverter Tres"
+     },
+     {
+      "id": "sen-girona-erc-eh-bildu-3",
+      "nombre": "Robert Masih Nahar"
+     }
+    ],
+    "jxcat": [
+     {
+      "id": "sen-girona-jxcat-1",
+      "nombre": "Joan Bagué Roura"
+     },
+     {
+      "id": "sen-girona-jxcat-2",
+      "nombre": "Júlia Barceló Puig"
+     },
+     {
+      "id": "sen-girona-jxcat-3",
+      "nombre": "Pau Taberner Pibernat"
+     }
+    ],
+    "pctc": [
+     {
+      "id": "sen-girona-pctc-1",
+      "nombre": "Bernat Roig Arnau"
+     }
+    ],
+    "c-dem": [
+     {
+      "id": "sen-girona-c-dem-1",
+      "nombre": "Anna Portillo Cuberes"
+     },
+     {
+      "id": "sen-girona-c-dem-2",
+      "nombre": "Roberto Martínez Soler"
+     },
+     {
+      "id": "sen-girona-c-dem-3",
+      "nombre": "Sara Elisabeth Williams Douse"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-girona-vox-1",
+      "nombre": "Francisco Javier Domínguez García"
+     },
+     {
+      "id": "sen-girona-vox-2",
+      "nombre": "María Carmen Comas Viladot"
+     },
+     {
+      "id": "sen-girona-vox-3",
+      "nombre": "Gerónimo Vargas Henao"
+     }
+    ]
+   }
   },
   "lleida": {
    "nombre": "Lleida",
    "ccaa": "cataluna",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "psc": [
+     {
+      "id": "sen-lleida-psc-1",
+      "nombre": "Jan Pomés López"
+     },
+     {
+      "id": "sen-lleida-psc-2",
+      "nombre": "Pasión Gador Romero García"
+     },
+     {
+      "id": "sen-lleida-psc-3",
+      "nombre": "Carlos Trinidad Ortega"
+     }
+    ],
+    "jxcat": [
+     {
+      "id": "sen-lleida-jxcat-1",
+      "nombre": "Rosa Maria Melines i Rius"
+     },
+     {
+      "id": "sen-lleida-jxcat-2",
+      "nombre": "Emili Gilabert i Roca"
+     },
+     {
+      "id": "sen-lleida-jxcat-3",
+      "nombre": "Judit Guim i Tarruella"
+     }
+    ],
+    "erc-eh-bildu": [
+     {
+      "id": "sen-lleida-erc-eh-bildu-1",
+      "nombre": "Sílvia Martínez i Fuentes"
+     },
+     {
+      "id": "sen-lleida-erc-eh-bildu-2",
+      "nombre": "Pol Oliva i Solé"
+     },
+     {
+      "id": "sen-lleida-erc-eh-bildu-3",
+      "nombre": "Joan Parcerisa i Albacete"
+     }
+    ],
+    "pctc": [
+     {
+      "id": "sen-lleida-pctc-1",
+      "nombre": "Guillem Sans Garrote"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-lleida-pp-1",
+      "nombre": "José Ramón Guiu Estopá"
+     },
+     {
+      "id": "sen-lleida-pp-2",
+      "nombre": "Ana Cava Muñoz"
+     },
+     {
+      "id": "sen-lleida-pp-3",
+      "nombre": "Miguel Angel Balao Garcia"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-lleida-vox-1",
+      "nombre": "Isabel Mas Picatoste"
+     },
+     {
+      "id": "sen-lleida-vox-2",
+      "nombre": "Antonio Blas Martí Martín"
+     },
+     {
+      "id": "sen-lleida-vox-3",
+      "nombre": "Paula García Castellanos"
+     }
+    ],
+    "c-dem": [
+     {
+      "id": "sen-lleida-c-dem-1",
+      "nombre": "Josep Vendrell Gardeñes"
+     },
+     {
+      "id": "sen-lleida-c-dem-2",
+      "nombre": "Elena Carmen Motos Hervas"
+     },
+     {
+      "id": "sen-lleida-c-dem-3",
+      "nombre": "Francisco Godas Bastida"
+     }
+    ]
+   }
   },
   "tarragona": {
    "nombre": "Tarragona",
    "ccaa": "cataluna",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "psc": [
+     {
+      "id": "sen-tarragona-psc-1",
+      "nombre": "Manel de la Vega Carrera"
+     },
+     {
+      "id": "sen-tarragona-psc-2",
+      "nombre": "Montse García Biosca"
+     },
+     {
+      "id": "sen-tarragona-psc-3",
+      "nombre": "Xavier Lorenzo Torres"
+     }
+    ],
+    "erc-eh-bildu": [
+     {
+      "id": "sen-tarragona-erc-eh-bildu-1",
+      "nombre": "Noemí Llauradó Sans"
+     },
+     {
+      "id": "sen-tarragona-erc-eh-bildu-2",
+      "nombre": "Xavier Faura Sanmartín"
+     },
+     {
+      "id": "sen-tarragona-erc-eh-bildu-3",
+      "nombre": "Jean-Marc Segarra Mauri"
+     }
+    ],
+    "jxcat": [
+     {
+      "id": "sen-tarragona-jxcat-1",
+      "nombre": "Josep Andreu i Domingo"
+     },
+     {
+      "id": "sen-tarragona-jxcat-2",
+      "nombre": "Montserrat Vellvé i Foix"
+     },
+     {
+      "id": "sen-tarragona-jxcat-3",
+      "nombre": "Felip Monclús i Arasa"
+     }
+    ],
+    "pctc": [
+     {
+      "id": "sen-tarragona-pctc-1",
+      "nombre": "Albert Camarasa Escubedo"
+     }
+    ],
+    "c-dem": [
+     {
+      "id": "sen-tarragona-c-dem-1",
+      "nombre": "Omar El Gabry Bravo"
+     },
+     {
+      "id": "sen-tarragona-c-dem-2",
+      "nombre": "Alba Teruel Castillo"
+     },
+     {
+      "id": "sen-tarragona-c-dem-3",
+      "nombre": "David Poy Martínez"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-tarragona-vox-1",
+      "nombre": "Ana Belén Rodríguez Ros"
+     },
+     {
+      "id": "sen-tarragona-vox-2",
+      "nombre": "Francisco Javier Vaquero Rodríguez"
+     },
+     {
+      "id": "sen-tarragona-vox-3",
+      "nombre": "María Dolores Zamora Carmona"
+     }
+    ],
+    "cnv": [
+     {
+      "id": "sen-tarragona-cnv-1",
+      "nombre": "Demelsa Bartual Soria"
+     },
+     {
+      "id": "sen-tarragona-cnv-2",
+      "nombre": "Manuel Andrés Marín García"
+     },
+     {
+      "id": "sen-tarragona-cnv-3",
+      "nombre": "Mercè Alicia Sans Sáez"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-tarragona-mundo-justo-1",
+      "nombre": "María del Carmen Barros Ruiz"
+     }
+    ]
+   }
   },
   "alicante": {
    "nombre": "Alicante",
    "ccaa": "valenciana",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "pcte": [
+     {
+      "id": "sen-alicante-pcte-1",
+      "nombre": "Miguel Arsen Kerobyan Arshakyan"
+     },
+     {
+      "id": "sen-alicante-pcte-2",
+      "nombre": "María de las Mercedes López Carrasco"
+     },
+     {
+      "id": "sen-alicante-pcte-3",
+      "nombre": "Javier Pérez García"
+     }
+    ],
+    "psoe-compromis-eupv": [
+     {
+      "id": "sen-alicante-psoe-compromis-eupv-1",
+      "nombre": "Francisco Miguel Fenollar Ivañez"
+     },
+     {
+      "id": "sen-alicante-psoe-compromis-eupv-2",
+      "nombre": "Inmaculada Orozco Ripoll"
+     },
+     {
+      "id": "sen-alicante-psoe-compromis-eupv-3",
+      "nombre": "Vicent Grimalt Boronat"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-alicante-pp-1",
+      "nombre": "Eva Ortiz Vilella"
+     },
+     {
+      "id": "sen-alicante-pp-2",
+      "nombre": "Agustín Almodóbar Barceló"
+     },
+     {
+      "id": "sen-alicante-pp-3",
+      "nombre": "María Francisca Sempere Ripoll"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-alicante-vox-1",
+      "nombre": "Aurora Rodil Martínez"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-alicante-fe-de-las-jons-1",
+      "nombre": "Félix Romo Vega"
+     }
+    ]
+   }
   },
   "castellon": {
    "nombre": "Castellón",
@@ -659,10 +3634,45 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pcte": [
      {
-      "id": "sen-castellon-psoe-1",
-      "nombre": "Eva Redondo"
+      "id": "sen-castellon-pcte-1",
+      "nombre": "Pablo Riesco Navajo"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-castellon-fe-de-las-jons-1",
+      "nombre": "Teresa Navarro Traver"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms-mm-com": [
+     {
+      "id": "sen-castellon-senado-de-progreso-sdp-psoe-iu-ms-mm-com-1",
+      "nombre": "Eva María Redondo Gamero"
+     },
+     {
+      "id": "sen-castellon-senado-de-progreso-sdp-psoe-iu-ms-mm-com-2",
+      "nombre": "David Lluch Almenar"
+     },
+     {
+      "id": "sen-castellon-senado-de-progreso-sdp-psoe-iu-ms-mm-com-3",
+      "nombre": "Ana Besalduch Besalduch"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-castellon-pp-1",
+      "nombre": "Alberto Fabra Part"
+     },
+     {
+      "id": "sen-castellon-pp-2",
+      "nombre": "María Nieves Martínez Tarazona"
+     },
+     {
+      "id": "sen-castellon-pp-3",
+      "nombre": "Miguel Rovira De La Fuente",
+      "independiente": true
      }
     ]
    }
@@ -672,7 +3682,69 @@
    "ccaa": "valenciana",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "pcte": [
+     {
+      "id": "sen-valencia-pcte-1",
+      "nombre": "Andrés Núñez Esparcia"
+     }
+    ],
+    "psoe-compromis-eupv": [
+     {
+      "id": "sen-valencia-psoe-compromis-eupv-1",
+      "nombre": "Juan Antonio Sagredo Marco"
+     },
+     {
+      "id": "sen-valencia-psoe-compromis-eupv-2",
+      "nombre": "Isaura Navarro Casillas"
+     },
+     {
+      "id": "sen-valencia-psoe-compromis-eupv-3",
+      "nombre": "Jordi Mayor Vallet"
+     }
+    ],
+    "fe-de-las-jons": [
+     {
+      "id": "sen-valencia-fe-de-las-jons-1",
+      "nombre": "Rafael Llaneli Santos-olmo"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-valencia-pp-1",
+      "nombre": "Susana Camarero Benítez"
+     },
+     {
+      "id": "sen-valencia-pp-2",
+      "nombre": "José Luís Aguirre Larrauri",
+      "independiente": true
+     },
+     {
+      "id": "sen-valencia-pp-3",
+      "nombre": "Rut Sánchez Férriz"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-valencia-mundo-justo-1",
+      "nombre": "Luis de Mazarredo Aznar"
+     },
+     {
+      "id": "sen-valencia-mundo-justo-2",
+      "nombre": "Marta Pérez de los Cobos Cassinello"
+     },
+     {
+      "id": "sen-valencia-mundo-justo-3",
+      "nombre": "Fernando Lerma Besó"
+     }
+    ],
+    "agenda-valenciana": [
+     {
+      "id": "sen-valencia-agenda-valenciana-1",
+      "nombre": "José Bonet Navarro"
+     }
+    ]
+   }
   },
   "badajoz": {
    "nombre": "Badajoz",
@@ -680,18 +3752,82 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "senado-de-progreso-sdp-psoe-iu-ms": [
      {
-      "id": "sen-badajoz-psoe-1",
-      "nombre": "José Luis Quintana"
+      "id": "sen-badajoz-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "José Luis Quintana Álvarez"
      },
      {
-      "id": "sen-badajoz-psoe-2",
+      "id": "sen-badajoz-senado-de-progreso-sdp-psoe-iu-ms-2",
       "nombre": "Sandra Caballero Expósito"
      },
      {
-      "id": "sen-badajoz-psoe-3",
-      "nombre": "Rafael Lemus"
+      "id": "sen-badajoz-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Joaquín Macías Rodríguez"
+     }
+    ],
+    "nex": [
+     {
+      "id": "sen-badajoz-nex-1",
+      "nombre": "Gerardo Rubio Muñoz"
+     },
+     {
+      "id": "sen-badajoz-nex-2",
+      "nombre": "María de los Ángeles Campos Paniagua"
+     },
+     {
+      "id": "sen-badajoz-nex-3",
+      "nombre": "Jesús Cerrato Porro"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-badajoz-pp-1",
+      "nombre": "José Antonio Monago Terraza"
+     },
+     {
+      "id": "sen-badajoz-pp-2",
+      "nombre": "Ana Fernández Salguero Elena"
+     },
+     {
+      "id": "sen-badajoz-pp-3",
+      "nombre": "Manuel Lavado Barroso"
+     }
+    ],
+    "j-u-e-x": [
+     {
+      "id": "sen-badajoz-j-u-e-x-1",
+      "nombre": "Diego José Albardonedo Diez-Ochoa"
+     },
+     {
+      "id": "sen-badajoz-j-u-e-x-2",
+      "nombre": "José Manuel Teodoro Boza"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-badajoz-mundo-justo-1",
+      "nombre": "Ángel Fernando Manzano Sánchez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-badajoz-podemos-1",
+      "nombre": "Rosa Mogollón Calvo"
+     },
+     {
+      "id": "sen-badajoz-podemos-2",
+      "nombre": "Antonio De la Cruz Ruiz Millán"
+     },
+     {
+      "id": "sen-badajoz-podemos-3",
+      "nombre": "Araceli Ortiz Trejo"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-badajoz-vox-1",
+      "nombre": "Andrés Barrera Rangel"
      }
     ]
    }
@@ -702,18 +3838,76 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pp": [
      {
-      "id": "sen-caceres-psoe-1",
+      "id": "sen-caceres-pp-1",
+      "nombre": "Fernando Pizarro García"
+     },
+     {
+      "id": "sen-caceres-pp-2",
+      "nombre": "María Inés Rubio Díaz"
+     },
+     {
+      "id": "sen-caceres-pp-3",
+      "nombre": "Emilio José Borrega Romero"
+     }
+    ],
+    "j-u-e-x": [
+     {
+      "id": "sen-caceres-j-u-e-x-1",
+      "nombre": "Felisa Jorge Vivas"
+     },
+     {
+      "id": "sen-caceres-j-u-e-x-2",
+      "nombre": "Luis Martín Recuero"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms-mm-com": [
+     {
+      "id": "sen-caceres-senado-de-progreso-sdp-psoe-iu-ms-mm-com-1",
       "nombre": "Joaquín Cuello Martínez-Pereda"
      },
      {
-      "id": "sen-caceres-psoe-2",
-      "nombre": "Inés Mireya Conejero Domínguez"
+      "id": "sen-caceres-senado-de-progreso-sdp-psoe-iu-ms-mm-com-2",
+      "nombre": "Inés Mirella Conejero Domínguez"
      },
      {
-      "id": "sen-caceres-psoe-3",
-      "nombre": "José Pedro Rodríguez Martín"
+      "id": "sen-caceres-senado-de-progreso-sdp-psoe-iu-ms-mm-com-3",
+      "nombre": "Antonio Leonardo Calle Izquierdo"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-caceres-podemos-1",
+      "nombre": "Milagros Martínez Morán"
+     },
+     {
+      "id": "sen-caceres-podemos-2",
+      "nombre": "Arnaldo Ramos Serradilla"
+     },
+     {
+      "id": "sen-caceres-podemos-3",
+      "nombre": "Petra Vacas Fernández"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-caceres-vox-1",
+      "nombre": "Inés Checa Mallebrera"
+     }
+    ],
+    "nex": [
+     {
+      "id": "sen-caceres-nex-1",
+      "nombre": "Jesús Montero Melchor"
+     },
+     {
+      "id": "sen-caceres-nex-2",
+      "nombre": "Yanira Anguas Moreno"
+     },
+     {
+      "id": "sen-caceres-nex-3",
+      "nombre": "Pablo Galán Pacheco"
      }
     ]
    }
@@ -724,10 +3918,80 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pp": [
      {
-      "id": "sen-a-coruna-psoe-1",
-      "nombre": "Gumersindo Guinarte"
+      "id": "sen-a-coruna-pp-1",
+      "nombre": "José Manuel Rey Varela"
+     },
+     {
+      "id": "sen-a-coruna-pp-2",
+      "nombre": "Marta González Vázquez"
+     },
+     {
+      "id": "sen-a-coruna-pp-3",
+      "nombre": "Adrián Pardo López"
+     }
+    ],
+    "pctg": [
+     {
+      "id": "sen-a-coruna-pctg-1",
+      "nombre": "Mario Jiménez de la Torre"
+     }
+    ],
+    "bng": [
+     {
+      "id": "sen-a-coruna-bng-1",
+      "nombre": "Bieito Lobeira Domínguez"
+     },
+     {
+      "id": "sen-a-coruna-bng-2",
+      "nombre": "Iria Nande Fernández"
+     },
+     {
+      "id": "sen-a-coruna-bng-3",
+      "nombre": "Mario Figueira Márquez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-a-coruna-podemos-1",
+      "nombre": "Sonia María Fernández Carracedo"
+     },
+     {
+      "id": "sen-a-coruna-podemos-2",
+      "nombre": "Juan Manuel Gianzo Gutiérrez"
+     },
+     {
+      "id": "sen-a-coruna-podemos-3",
+      "nombre": "María Inmaculada Rojas Díaz"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-a-coruna-vox-1",
+      "nombre": "Óscar Rodríguez Pino"
+     },
+     {
+      "id": "sen-a-coruna-vox-2",
+      "nombre": "Melchora Muñoz Fuentes"
+     },
+     {
+      "id": "sen-a-coruna-vox-3",
+      "nombre": "José Francisco Manso Bernárdez"
+     }
+    ],
+    "psoe-ms": [
+     {
+      "id": "sen-a-coruna-psoe-ms-1",
+      "nombre": "Gumersindo Guinarte Cabada"
+     },
+     {
+      "id": "sen-a-coruna-psoe-ms-2",
+      "nombre": "Rocío Núñez Rúa"
+     },
+     {
+      "id": "sen-a-coruna-psoe-ms-3",
+      "nombre": "Alejandro Antonio García Sousa"
      }
     ]
    }
@@ -738,10 +4002,74 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "podemos": [
      {
-      "id": "sen-lugo-psoe-1",
-      "nombre": "César Mogo"
+      "id": "sen-lugo-podemos-1",
+      "nombre": "Fernando Otero Bello"
+     },
+     {
+      "id": "sen-lugo-podemos-2",
+      "nombre": "María Isabel Vázquez Pérez"
+     },
+     {
+      "id": "sen-lugo-podemos-3",
+      "nombre": "Arturo Pérez Gutiérrez"
+     }
+    ],
+    "bng": [
+     {
+      "id": "sen-lugo-bng-1",
+      "nombre": "Brenda González Fernández"
+     },
+     {
+      "id": "sen-lugo-bng-2",
+      "nombre": "David Ángel Villares Sánchez"
+     },
+     {
+      "id": "sen-lugo-bng-3",
+      "nombre": "Candela López Piñeiro"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-lugo-pp-1",
+      "nombre": "José Manuel Barreiro Fernández"
+     },
+     {
+      "id": "sen-lugo-pp-2",
+      "nombre": "Dolores Castro Ochoa"
+     },
+     {
+      "id": "sen-lugo-pp-3",
+      "nombre": "Juan Carlos Serrano López"
+     }
+    ],
+    "psoe-ms": [
+     {
+      "id": "sen-lugo-psoe-ms-1",
+      "nombre": "César Alejandro Mogo Zaro"
+     },
+     {
+      "id": "sen-lugo-psoe-ms-2",
+      "nombre": "Paula González Fernández"
+     },
+     {
+      "id": "sen-lugo-psoe-ms-3",
+      "nombre": "Roberto Castro González"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-lugo-vox-1",
+      "nombre": "Manuel Menéndez Mato"
+     },
+     {
+      "id": "sen-lugo-vox-2",
+      "nombre": "María Jesús Sánchez Suárez"
+     },
+     {
+      "id": "sen-lugo-vox-3",
+      "nombre": "José Miguel González Lemos"
      }
     ]
    }
@@ -752,10 +4080,86 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pctg": [
      {
-      "id": "sen-ourense-psoe-1",
+      "id": "sen-ourense-pctg-1",
+      "nombre": "Miguel Martínez Martínez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-ourense-podemos-1",
+      "nombre": "Avelino Carballo Álvarez"
+     },
+     {
+      "id": "sen-ourense-podemos-2",
+      "nombre": "María Jesusa Álvarez Canitrot"
+     },
+     {
+      "id": "sen-ourense-podemos-3",
+      "nombre": "Luis Gómez Piña"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-ourense-vox-1",
+      "nombre": "Enrique Rudolf Quiros Hoppe"
+     },
+     {
+      "id": "sen-ourense-vox-2",
+      "nombre": "Mara Marqués Canedo"
+     },
+     {
+      "id": "sen-ourense-vox-3",
+      "nombre": "Julio Rodríguez Garrido"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-ourense-pp-1",
+      "nombre": "Miguel Ángel Santalices Vieira"
+     },
+     {
+      "id": "sen-ourense-pp-2",
+      "nombre": "Rosa Maria Sánchez Gandara"
+     },
+     {
+      "id": "sen-ourense-pp-3",
+      "nombre": "José Antonio Cerdeira Perez"
+     }
+    ],
+    "pum-j": [
+     {
+      "id": "sen-ourense-pum-j-1",
+      "nombre": "Carmen Adela Armesto Fernández"
+     }
+    ],
+    "b-n-g": [
+     {
+      "id": "sen-ourense-b-n-g-1",
+      "nombre": "Bernardo Varela López"
+     },
+     {
+      "id": "sen-ourense-b-n-g-2",
+      "nombre": "Melanie Arias Puccio"
+     },
+     {
+      "id": "sen-ourense-b-n-g-3",
+      "nombre": "Francisco Nogueiras Marra"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-ms": [
+     {
+      "id": "sen-ourense-senado-de-progreso-sdp-psoe-ms-1",
       "nombre": "María Fernández Ojea"
+     },
+     {
+      "id": "sen-ourense-senado-de-progreso-sdp-psoe-ms-2",
+      "nombre": "Millán Brea Castro"
+     },
+     {
+      "id": "sen-ourense-senado-de-progreso-sdp-psoe-ms-3",
+      "nombre": "Lorena Guerra Vigo"
      }
     ]
    }
@@ -766,10 +4170,84 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "psoe": [
+    "pctg": [
      {
-      "id": "sen-pontevedra-psoe-1",
-      "nombre": "Carmela Silva"
+      "id": "sen-pontevedra-pctg-1",
+      "nombre": "Pablo Corral Rolán"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-pontevedra-escanos-en-blanco-1",
+      "nombre": "Susana Díaz Palacios"
+     }
+    ],
+    "psoe-ms": [
+     {
+      "id": "sen-pontevedra-psoe-ms-1",
+      "nombre": "María del Carmen Silva Rego"
+     },
+     {
+      "id": "sen-pontevedra-psoe-ms-2",
+      "nombre": "Paulo Carlos López López"
+     },
+     {
+      "id": "sen-pontevedra-psoe-ms-3",
+      "nombre": "María Olga Alonso Suárez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-pontevedra-pp-1",
+      "nombre": "Nidia María Arévalo Gómez"
+     },
+     {
+      "id": "sen-pontevedra-pp-2",
+      "nombre": "José Crespo Iglesias"
+     },
+     {
+      "id": "sen-pontevedra-pp-3",
+      "nombre": "Mónica Domínguez Estévez"
+     }
+    ],
+    "bng": [
+     {
+      "id": "sen-pontevedra-bng-1",
+      "nombre": "Kevin González Santiago"
+     },
+     {
+      "id": "sen-pontevedra-bng-2",
+      "nombre": "Marta Gómez Martín"
+     },
+     {
+      "id": "sen-pontevedra-bng-3",
+      "nombre": "Duarte Correa Piñeiro"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-pontevedra-podemos-1",
+      "nombre": "María del Carmen Camiña Vázquez"
+     },
+     {
+      "id": "sen-pontevedra-podemos-2",
+      "nombre": "José Luis Patiño Acuña"
+     },
+     {
+      "id": "sen-pontevedra-podemos-3",
+      "nombre": "María Uxía Rodríguez Crespo"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-pontevedra-vox-1",
+      "nombre": "José Manuel Torres Corredoira"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-pontevedra-mundo-justo-1",
+      "nombre": "Iñaki González Bañales"
      }
     ]
    }
@@ -780,10 +4258,106 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
+    "fe-de-las-jons": [
+     {
+      "id": "sen-madrid-fe-de-las-jons-1",
+      "nombre": "Jorge Garrido San Román"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-madrid-pcte-1",
+      "nombre": "Jose Luis González Vega"
+     }
+    ],
+    "ph": [
+     {
+      "id": "sen-madrid-ph-1",
+      "nombre": "Gloria López López"
+     },
+     {
+      "id": "sen-madrid-ph-2",
+      "nombre": "Pedro Pablo Martín Hernández"
+     },
+     {
+      "id": "sen-madrid-ph-3",
+      "nombre": "Tamara Rosa Bueno Doral"
+     }
+    ],
+    "ie": [
+     {
+      "id": "sen-madrid-ie-1",
+      "nombre": "Alicia Gomez Cuellar"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-madrid-mundo-justo-1",
+      "nombre": "Jorge Serrano Paradinas"
+     },
+     {
+      "id": "sen-madrid-mundo-justo-2",
+      "nombre": "Bárbara Rubio Gribble"
+     },
+     {
+      "id": "sen-madrid-mundo-justo-3",
+      "nombre": "Esther García Piña"
+     }
+    ],
     "pp": [
      {
       "id": "sen-madrid-pp-1",
-      "nombre": "Pedro Rollán"
+      "nombre": "Pedro Rollán Ojeda"
+     },
+     {
+      "id": "sen-madrid-pp-2",
+      "nombre": "María Inmaculada Sanz Otero"
+     },
+     {
+      "id": "sen-madrid-pp-3",
+      "nombre": "Carlos García Adanero"
+     }
+    ],
+    "psoe-iu-ms-mm-compromis-cha-batzarre": [
+     {
+      "id": "sen-madrid-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+      "nombre": "Antonio Hernando Vera"
+     },
+     {
+      "id": "sen-madrid-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+      "nombre": "María Acín Carrera"
+     },
+     {
+      "id": "sen-madrid-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+      "nombre": "José Luis García Sánchez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-madrid-podemos-1",
+      "nombre": "Francisco Freytez Pérez"
+     },
+     {
+      "id": "sen-madrid-podemos-2",
+      "nombre": "María Laura Martín Chiappe"
+     },
+     {
+      "id": "sen-madrid-podemos-3",
+      "nombre": "Alfonso Manuel García Díaz"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-madrid-vox-1",
+      "nombre": "Ana María Cuartero Lorenzo"
+     },
+     {
+      "id": "sen-madrid-vox-2",
+      "nombre": "Iñigo Henríquez de Luna Losada"
+     },
+     {
+      "id": "sen-madrid-vox-3",
+      "nombre": "Ana María Velasco Vida-Abarca"
      }
     ]
    }
@@ -793,7 +4367,84 @@
    "ccaa": "murcia",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "3e": [
+     {
+      "id": "sen-murcia-3e-1",
+      "nombre": "José Luis García Díaz"
+     },
+     {
+      "id": "sen-murcia-3e-2",
+      "nombre": "Estrella Cánovas Rubio"
+     },
+     {
+      "id": "sen-murcia-3e-3",
+      "nombre": "José Luis Márquez Fernández"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-murcia-pp-1",
+      "nombre": "Francisco Martín Bernabé Pérez"
+     },
+     {
+      "id": "sen-murcia-pp-2",
+      "nombre": "María Hernández Benítez"
+     },
+     {
+      "id": "sen-murcia-pp-3",
+      "nombre": "Antonio Luengo Zapata"
+     }
+    ],
+    "senado-de-progreso-sdp-psoe-iu-ms": [
+     {
+      "id": "sen-murcia-senado-de-progreso-sdp-psoe-iu-ms-1",
+      "nombre": "Irene Jódar Pérez"
+     },
+     {
+      "id": "sen-murcia-senado-de-progreso-sdp-psoe-iu-ms-2",
+      "nombre": "Antonio Moreno Gil"
+     },
+     {
+      "id": "sen-murcia-senado-de-progreso-sdp-psoe-iu-ms-3",
+      "nombre": "Asunción Molina Bautista"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-murcia-vox-1",
+      "nombre": "José Manuel Pancorbo de la Torre"
+     },
+     {
+      "id": "sen-murcia-vox-2",
+      "nombre": "María Carmen Menduíña García"
+     },
+     {
+      "id": "sen-murcia-vox-3",
+      "nombre": "José Mariano Orenes Bastida"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-murcia-podemos-1",
+      "nombre": "María Dolores Larrosa Segovia"
+     },
+     {
+      "id": "sen-murcia-podemos-2",
+      "nombre": "José Manuel Sevilla Lizón"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-murcia-escanos-en-blanco-1",
+      "nombre": "Gonzalo Navarro Martínez"
+     },
+     {
+      "id": "sen-murcia-escanos-en-blanco-2",
+      "nombre": "Josefa Serrano Sánchez"
+     }
+    ]
+   }
   },
   "navarra": {
    "nombre": "Navarra",
@@ -801,16 +4452,127 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "bildu": [
+    "eh-bildu-erc": [
      {
-      "id": "sen-navarra-bildu-1",
-      "nombre": "Floren Aoiz"
+      "id": "sen-navarra-eh-bildu-erc-1",
+      "nombre": "Florencio Aoiz Monreal"
+     },
+     {
+      "id": "sen-navarra-eh-bildu-erc-2",
+      "nombre": "Paula García García"
+     },
+     {
+      "id": "sen-navarra-eh-bildu-erc-3",
+      "nombre": "Angel Martín Unzue Ayanz"
      }
     ],
-    "geroa": [
+    "psoe-iunneb-ms-batzarre": [
      {
-      "id": "sen-navarra-geroa-1",
-      "nombre": "Anika Luján"
+      "id": "sen-navarra-psoe-iunneb-ms-batzarre-1",
+      "nombre": "Antonio Angel Moleón Segura"
+     },
+     {
+      "id": "sen-navarra-psoe-iunneb-ms-batzarre-2",
+      "nombre": "Ane María Sánchez Jiménez"
+     },
+     {
+      "id": "sen-navarra-psoe-iunneb-ms-batzarre-3",
+      "nombre": "Jesús María Rodríguez Gómez"
+     }
+    ],
+    "geroa-bai": [
+     {
+      "id": "sen-navarra-geroa-bai-1",
+      "nombre": "María Teresa Espinosa Sáenz"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-2",
+      "nombre": "Raúl Ayala Martínez"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-3",
+      "nombre": "Ana Carmen Luján Martínez"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-4",
+      "nombre": "Eguzkilore"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-5",
+      "nombre": "Dany Leonardo Moreno Moreno.",
+      "independiente": true
+     },
+     {
+      "id": "sen-navarra-geroa-bai-6",
+      "nombre": "María Cruz Ariztegui Oyaregui"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-7",
+      "nombre": "Magdalena Amaya Barrachina Irigoyen"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-8",
+      "nombre": "Por Un Mundo Más Justo/bidizko Mundurantz"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-9",
+      "nombre": "María Arantzazu Munárriz Rodríguez"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-10",
+      "nombre": "María Rosario Elcuaz Viscarret"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-11",
+      "nombre": "Josep María Valls Martí"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-12",
+      "nombre": "Unión del Pueblo Navarro en Coalición Con Partido Popular"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-13",
+      "nombre": "Javier Esparza Abaurrea"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-14",
+      "nombre": "María Isabel García Malo"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-15",
+      "nombre": "Miguel Aguirre Yanguas"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-16",
+      "nombre": "Podemos"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-17",
+      "nombre": "Eva Calleja Novales"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-18",
+      "nombre": "Fernando González Martín"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-19",
+      "nombre": "María Graciela López Camarán"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-20",
+      "nombre": "Vox"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-21",
+      "nombre": "Estíbaliz Moreno Irigoyen"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-22",
+      "nombre": "Juan del Águila Pérez"
+     },
+     {
+      "id": "sen-navarra-geroa-bai-23",
+      "nombre": "Carolina García-Ochoa Bonail"
      }
     ]
    }
@@ -821,16 +4583,104 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "pnv": [
+    "psoe-iu-ms-mm-compromis-cha-batzarre": [
      {
-      "id": "sen-alava-pnv-1",
-      "nombre": "Saray Zarate"
+      "id": "sen-alava-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+      "nombre": "Daniel Senderos Oraá"
+     },
+     {
+      "id": "sen-alava-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+      "nombre": "Paula Somalo García"
+     },
+     {
+      "id": "sen-alava-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+      "nombre": "Adolfo Lander Vera"
      }
     ],
-    "bildu": [
+    "eh-bildu-erc": [
      {
-      "id": "sen-alava-bildu-1",
-      "nombre": "Josu Estarrona"
+      "id": "sen-alava-eh-bildu-erc-1",
+      "nombre": "Josu Estarrona Elizondo"
+     },
+     {
+      "id": "sen-alava-eh-bildu-erc-2",
+      "nombre": "Ainhize Solaun Mendiguren"
+     },
+     {
+      "id": "sen-alava-eh-bildu-erc-3",
+      "nombre": "Manu Martínez Aguirre"
+     }
+    ],
+    "eaj-pnv": [
+     {
+      "id": "sen-alava-eaj-pnv-1",
+      "nombre": "Saray Zárate Fernández de Landa"
+     },
+     {
+      "id": "sen-alava-eaj-pnv-2",
+      "nombre": "Angel Marcos Pérez de Arrilucea Pérez de Leceta"
+     },
+     {
+      "id": "sen-alava-eaj-pnv-3",
+      "nombre": "Arantza Yarza Valle"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-alava-escanos-en-blanco-1",
+      "nombre": "Luis María Ormaetxea Santsiñena",
+      "independiente": true
+     },
+     {
+      "id": "sen-alava-escanos-en-blanco-2",
+      "nombre": "Eva María Carrascal Salgado",
+      "independiente": true
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-alava-vox-1",
+      "nombre": "María Amaya Martínez Grisaleña"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-alava-podemos-1",
+      "nombre": "Juan José Miller Valdez"
+     },
+     {
+      "id": "sen-alava-podemos-2",
+      "nombre": "Esther San Martín Gil"
+     },
+     {
+      "id": "sen-alava-podemos-3",
+      "nombre": "Txomin-Domingo Valluerca Monje"
+     }
+    ],
+    "pcte-elak": [
+     {
+      "id": "sen-alava-pcte-elak-1",
+      "nombre": "Aimar Rodríguez Soto"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-alava-pp-1",
+      "nombre": "Daniel García Ruiz"
+     },
+     {
+      "id": "sen-alava-pp-2",
+      "nombre": "Marta Alaña Alonso"
+     },
+     {
+      "id": "sen-alava-pp-3",
+      "nombre": "Mikel Rogado García"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-alava-mundo-justo-1",
+      "nombre": "Ignacio Lijó Sancho"
      }
     ]
    }
@@ -841,16 +4691,101 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "pnv": [
+    "eh-bildu-erc": [
      {
-      "id": "sen-gipuzkoa-pnv-1",
-      "nombre": "Luke Uribe-Etxebarria"
+      "id": "sen-gipuzkoa-eh-bildu-erc-1",
+      "nombre": "Sonia Jacinto Garcia"
+     },
+     {
+      "id": "sen-gipuzkoa-eh-bildu-erc-2",
+      "nombre": "Mario Zubiaga Garate"
+     },
+     {
+      "id": "sen-gipuzkoa-eh-bildu-erc-3",
+      "nombre": "Olaia Duarte Lopez"
      }
     ],
-    "bildu": [
+    "eaj-pnv": [
      {
-      "id": "sen-gipuzkoa-bildu-1",
-      "nombre": "Sonia Jacinto"
+      "id": "sen-gipuzkoa-eaj-pnv-1",
+      "nombre": "Luke Uribe-Etxebarria Apalategi"
+     },
+     {
+      "id": "sen-gipuzkoa-eaj-pnv-2",
+      "nombre": "María Victoria Zabala Fernández"
+     },
+     {
+      "id": "sen-gipuzkoa-eaj-pnv-3",
+      "nombre": "Xabier Insausti Sarasola"
+     }
+    ],
+    "pacma": [
+     {
+      "id": "sen-gipuzkoa-pacma-1",
+      "nombre": "Susana Pérez Benito"
+     }
+    ],
+    "escanos-en-blanco": [
+     {
+      "id": "sen-gipuzkoa-escanos-en-blanco-1",
+      "nombre": "Adriana Martínez De Lizarduy Ayala",
+      "independiente": true
+     },
+     {
+      "id": "sen-gipuzkoa-escanos-en-blanco-2",
+      "nombre": "Diego Cea Maudo"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-gipuzkoa-podemos-1",
+      "nombre": "Yolanda Martín Santos"
+     },
+     {
+      "id": "sen-gipuzkoa-podemos-2",
+      "nombre": "Iñigo Oliberos Brunetón"
+     },
+     {
+      "id": "sen-gipuzkoa-podemos-3",
+      "nombre": "Gloria Miguel González"
+     }
+    ],
+    "pcte": [
+     {
+      "id": "sen-gipuzkoa-pcte-1",
+      "nombre": "Jakes Iñarra Lasagabaster"
+     },
+     {
+      "id": "sen-gipuzkoa-pcte-2",
+      "nombre": "Senado de Progreso/Aurrera doan Senatua [SDP ]"
+     },
+     {
+      "id": "sen-gipuzkoa-pcte-3",
+      "nombre": "Alberto Albistegui Zamacola"
+     },
+     {
+      "id": "sen-gipuzkoa-pcte-4",
+      "nombre": "Samira Raiss Boufarcha"
+     },
+     {
+      "id": "sen-gipuzkoa-pcte-5",
+      "nombre": "Iñigo García Villanueva"
+     },
+     {
+      "id": "sen-gipuzkoa-pcte-6",
+      "nombre": "Vox"
+     },
+     {
+      "id": "sen-gipuzkoa-pcte-7",
+      "nombre": "Andrés Paramio Junquera"
+     },
+     {
+      "id": "sen-gipuzkoa-pcte-8",
+      "nombre": "Alejandra Moreno Miguel"
+     },
+     {
+      "id": "sen-gipuzkoa-pcte-9",
+      "nombre": "Jesús María García-Conde del Castillo"
      }
     ]
    }
@@ -861,16 +4796,100 @@
    "escanos": 4,
    "marcas": 3,
    "listas": {
-    "pnv": [
+    "eaj-pnv": [
      {
-      "id": "sen-bizkaia-pnv-1",
-      "nombre": "Nerea Ahedo"
+      "id": "sen-bizkaia-eaj-pnv-1",
+      "nombre": "Nerea Ahedo Ceza"
+     },
+     {
+      "id": "sen-bizkaia-eaj-pnv-2",
+      "nombre": "Kepa Lambarri Camilo"
+     },
+     {
+      "id": "sen-bizkaia-eaj-pnv-3",
+      "nombre": "María Dolores Etxano Varela"
      }
     ],
-    "bildu": [
+    "eh-bildu-erc": [
      {
-      "id": "sen-bizkaia-bildu-1",
-      "nombre": "Idurre Bideguren"
+      "id": "sen-bizkaia-eh-bildu-erc-1",
+      "nombre": "Idurre Bideguren Gabantxo"
+     },
+     {
+      "id": "sen-bizkaia-eh-bildu-erc-2",
+      "nombre": "Martin Arrasate Iriarte"
+     },
+     {
+      "id": "sen-bizkaia-eh-bildu-erc-3",
+      "nombre": "Aitziber Ibaibarriaga Etxebarrieta"
+     }
+    ],
+    "pcte-elak": [
+     {
+      "id": "sen-bizkaia-pcte-elak-1",
+      "nombre": "Oscar Frontaura García"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-bizkaia-podemos-1",
+      "nombre": "Miguel Fernández Marcos"
+     },
+     {
+      "id": "sen-bizkaia-podemos-2",
+      "nombre": "María Teresa Junquera Galende"
+     },
+     {
+      "id": "sen-bizkaia-podemos-3",
+      "nombre": "Miguel Angel Carpintero Alfaro"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-bizkaia-vox-1",
+      "nombre": "Ángel Martínez Villastrigo"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-bizkaia-pp-1",
+      "nombre": "Jon Albisu Seoane"
+     },
+     {
+      "id": "sen-bizkaia-pp-2",
+      "nombre": "Paula Garagalza Muñoz"
+     },
+     {
+      "id": "sen-bizkaia-pp-3",
+      "nombre": "Luis Peña Barturen"
+     }
+    ],
+    "mundo-justo": [
+     {
+      "id": "sen-bizkaia-mundo-justo-1",
+      "nombre": "Jesús Barcina Burgui"
+     },
+     {
+      "id": "sen-bizkaia-mundo-justo-2",
+      "nombre": "Judith López Cano"
+     },
+     {
+      "id": "sen-bizkaia-mundo-justo-3",
+      "nombre": "Francisco Javier Barcina Elcuaz"
+     }
+    ],
+    "psoe-iu-ms-mm-compromis-cha-batzarre": [
+     {
+      "id": "sen-bizkaia-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+      "nombre": "Txema Oleaga Zalvidea"
+     },
+     {
+      "id": "sen-bizkaia-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+      "nombre": "Alba Gutierrez Gomez"
+     },
+     {
+      "id": "sen-bizkaia-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+      "nombre": "Juan Carlos Abascal Candas"
      }
     ]
    }
@@ -880,21 +4899,182 @@
    "ccaa": "la-rioja",
    "escanos": 4,
    "marcas": 3,
-   "listas": {}
+   "listas": {
+    "pcte": [
+     {
+      "id": "sen-la-rioja-pcte-1",
+      "nombre": "Lucía Antoñanzas Gil"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-la-rioja-psoe-iu-ms-1",
+      "nombre": "Concepción Andreu Rodríguez"
+     },
+     {
+      "id": "sen-la-rioja-psoe-iu-ms-2",
+      "nombre": "Diego Mendiola García"
+     },
+     {
+      "id": "sen-la-rioja-psoe-iu-ms-3",
+      "nombre": "Lidia Ascacibar Rodríguez"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-la-rioja-podemos-1",
+      "nombre": "Juan Miguel Calvo García"
+     },
+     {
+      "id": "sen-la-rioja-podemos-2",
+      "nombre": "Mónica Solana Abad"
+     },
+     {
+      "id": "sen-la-rioja-podemos-3",
+      "nombre": "Victorino Pablo Pascual"
+     },
+     {
+      "id": "sen-la-rioja-podemos-4",
+      "nombre": "Vox"
+     },
+     {
+      "id": "sen-la-rioja-podemos-5",
+      "nombre": "Luis Emilio Mayoral Corcuera"
+     },
+     {
+      "id": "sen-la-rioja-podemos-6",
+      "nombre": "Jésica Fernández Villoslada"
+     },
+     {
+      "id": "sen-la-rioja-podemos-7",
+      "nombre": "Eduardo Garrido Marzo"
+     },
+     {
+      "id": "sen-la-rioja-podemos-8",
+      "nombre": "Partido Popular"
+     },
+     {
+      "id": "sen-la-rioja-podemos-9",
+      "nombre": "Javier Merino Martínez"
+     },
+     {
+      "id": "sen-la-rioja-podemos-10",
+      "nombre": "María del Mar San Martín Ibarra"
+     },
+     {
+      "id": "sen-la-rioja-podemos-11",
+      "nombre": "Carlos Yécora Roca"
+     },
+     {
+      "id": "sen-la-rioja-podemos-12",
+      "nombre": "Escaños en Blanco para Dejar Escaños Vacíos"
+     },
+     {
+      "id": "sen-la-rioja-podemos-13",
+      "nombre": "María del Carmen Andrés Domínguez"
+     },
+     {
+      "id": "sen-la-rioja-podemos-14",
+      "nombre": "Manuel Sánchez Aguarón"
+     },
+     {
+      "id": "sen-la-rioja-podemos-15",
+      "nombre": "Encarnación Villalba Ale"
+     }
+    ]
+   }
   },
   "ceuta": {
    "nombre": "Ceuta",
    "ccaa": "ceuta",
    "escanos": 2,
    "marcas": 1,
-   "listas": {}
+   "listas": {
+    "partido-popular": [
+     {
+      "id": "sen-ceuta-partido-popular-1",
+      "nombre": "Abdelhakim Abdeselam Al-lal"
+     },
+     {
+      "id": "sen-ceuta-partido-popular-2",
+      "nombre": "Cristina Díaz Moreno"
+     }
+    ],
+    "coalicion-senado-de-progreso": [
+     {
+      "id": "sen-ceuta-coalicion-senado-de-progreso-1",
+      "nombre": "Abdel lah Abdel lah Mustafa"
+     },
+     {
+      "id": "sen-ceuta-coalicion-senado-de-progreso-2",
+      "nombre": "Nesrin Haddad Ahmed"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-ceuta-vox-1",
+      "nombre": "Francisco Javier Ruiz Enríquez"
+     },
+     {
+      "id": "sen-ceuta-vox-2",
+      "nombre": "Ana García León"
+     }
+    ],
+    "podemos": [
+     {
+      "id": "sen-ceuta-podemos-1",
+      "nombre": "Mariam Ahmed El asri"
+     },
+     {
+      "id": "sen-ceuta-podemos-2",
+      "nombre": "Jaume Piñol Salvatierra"
+     }
+    ]
+   }
   },
   "melilla": {
    "nombre": "Melilla",
    "ccaa": "melilla",
    "escanos": 2,
    "marcas": 1,
-   "listas": {}
+   "listas": {
+    "escanos-en-blanco": [
+     {
+      "id": "sen-melilla-escanos-en-blanco-1",
+      "nombre": "Carlos Domínguez Moya"
+     }
+    ],
+    "psoe-iu-ms": [
+     {
+      "id": "sen-melilla-psoe-iu-ms-1",
+      "nombre": "Lucía Rubio Cruz"
+     },
+     {
+      "id": "sen-melilla-psoe-iu-ms-2",
+      "nombre": "Manuel García Alonso"
+     }
+    ],
+    "vox": [
+     {
+      "id": "sen-melilla-vox-1",
+      "nombre": "Sendy Nanwani Ramchand Ghanshandas"
+     },
+     {
+      "id": "sen-melilla-vox-2",
+      "nombre": "Emilio Buendía Pérez"
+     }
+    ],
+    "pp": [
+     {
+      "id": "sen-melilla-pp-1",
+      "nombre": "Fernando Adolfo Gutiérrez Díaz de Otazu"
+     },
+     {
+      "id": "sen-melilla-pp-2",
+      "nombre": "Isabel María Moreno Mohamed"
+     }
+    ]
+   }
   }
  },
  "estado": "anunciadas",
@@ -920,5 +5100,12 @@
   "https://orain.eus/es/politica/2026/10/16/eh-bildu-propone-oskar-matute-mikel-otero-oihana-etxebarrieta-eneka-maiz-encabezar-las-listas-al-congreso/",
   "https://diariodeavisos.elespanol.com/2026/10/primero-canarias-y-coalicion-canaria-cierran-el-acuerdo-para-la-candidatura-del-29-n/",
   "https://www.moncloa.com/2026/10/24/feijoo-candidatura-pp-madrid-senado-3454884"
- ]
+ ],
+ "fuente": {
+  "boe": "BOE-A-2026-22607",
+  "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607",
+  "fecha": "2026-10-28",
+  "estado": "presentadas",
+  "titulo": "Candidaturas presentadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre."
+ }
 }
