@@ -1,0 +1,125 @@
+{
+ "id": "cordoba",
+ "nombre": "Córdoba",
+ "ccaa": "andalucia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "adelante-andalucia": [
+   {
+    "id": "sen-cordoba-adelante-andalucia-1",
+    "nombre": "Juan Moreno Luque",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-adelante-andalucia-2",
+    "nombre": "Ana Isabel Martín Buendía",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-adelante-andalucia-3",
+    "nombre": "Juan Antonio Durán García",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-cordoba-pcte-1",
+    "nombre": "Pablo Manuel Fernández Guerrero",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-cordoba-fe-de-las-jons-1",
+    "nombre": "Miguel Cano Molina",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-cordoba-pp-1",
+    "nombre": "Salvador Fuentes Lopera",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-pp-2",
+    "nombre": "María Dolores Blanco López",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-pp-3",
+    "nombre": "Florentino Santos Porras",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-cordoba-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "Rafaela Crespín Rubio",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Óscar Urralburu Arza",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Ana María López Losilla",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-cordoba-podemos-1",
+    "nombre": "Francisco Manuel López Morales",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-podemos-2",
+    "nombre": "Nazareth López Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-podemos-3",
+    "nombre": "Santiago Martínez Fernández",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-cordoba-vox-1",
+    "nombre": "Miguel Antonio Gómez de la Rosa Aranda",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-vox-2",
+    "nombre": "Luisa Ángela Plata Requena",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-vox-3",
+    "nombre": "Salvador Vacas Reyes",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-cordoba-escanos-en-blanco-1",
+    "nombre": "María del Mar Díaz Polonio",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-escanos-en-blanco-2",
+    "nombre": "Francisco Infante Lisarte",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cordoba-escanos-en-blanco-3",
+    "nombre": "María Lourdes Bellido Garrido",
+    "descripcion": ""
+   }
+  ]
+ }
+}

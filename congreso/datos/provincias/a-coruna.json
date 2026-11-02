@@ -1,0 +1,428 @@
+{
+ "id": "a-coruna",
+ "nombre": "A Coruña",
+ "ccaa": "galicia",
+ "escanos": 8,
+ "listas": {
+  "psdeg-psoe": [
+   {
+    "id": "a-coruna-psdeg-psoe-1",
+    "nombre": "Obdulia Taboadela Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-psdeg-psoe-2",
+    "nombre": "Julián Reina Villalón",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-psdeg-psoe-3",
+    "nombre": "Ana Alvite García",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-psdeg-psoe-4",
+    "nombre": "Jorge Romero Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-psdeg-psoe-5",
+    "nombre": "Belinda Insua Fuentes",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-psdeg-psoe-6",
+    "nombre": "Jesús Fernández Diez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-psdeg-psoe-7",
+    "nombre": "Tamara García Muñiz",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-psdeg-psoe-8",
+    "nombre": "Andrés Teijo Hermida",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "a-coruna-vox-1",
+    "nombre": "Manuel Fuentes Lamas",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-vox-2",
+    "nombre": "María Victoria Salguero Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-vox-3",
+    "nombre": "Roberto Alberto Antonio García de Villaescusa Collazo",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-vox-4",
+    "nombre": "María Pilar Santos Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-vox-5",
+    "nombre": "Enrique Estella Ledo",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-vox-6",
+    "nombre": "María Luz Piñeiro Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-vox-7",
+    "nombre": "Manuel Javier Sánchez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-vox-8",
+    "nombre": "Manuela Martínez Souto",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "a-coruna-pp-1",
+    "nombre": "Miguel Ángel Tellado Filgueira",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pp-2",
+    "nombre": "Fabiola García Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pp-3",
+    "nombre": "Álvaro Pérez López",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pp-4",
+    "nombre": "Olaya Otero Sanjurjo",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pp-5",
+    "nombre": "Manuel Santos Ruiz Rivas",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pp-6",
+    "nombre": "Tristana María Moraleja Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pp-7",
+    "nombre": "Gonzalo Mora do Campo",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pp-8",
+    "nombre": "Noelia Freijeiro Novo",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "a-coruna-salf-1",
+    "nombre": "María José García Hidalgo",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-salf-2",
+    "nombre": "Roberto Manuel Corral Corral",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-salf-3",
+    "nombre": "Salomé Fernández López",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-salf-4",
+    "nombre": "Iago González Nieto",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-salf-5",
+    "nombre": "Rebeca Souto Tasende",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-salf-6",
+    "nombre": "José Luis Asensio Vieitez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-salf-7",
+    "nombre": "María Hilda Varela Teijeiro",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-salf-8",
+    "nombre": "Pedro Raez Baldán",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "a-coruna-pacma-1",
+    "nombre": "María Francisca Santos Vázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pacma-2",
+    "nombre": "Manuel Vázquez Núñez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pacma-3",
+    "nombre": "María del Pilar Grandal Azpeitia",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pacma-4",
+    "nombre": "José Luis Vázquez Pérez-Coleman",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pacma-5",
+    "nombre": "María Arántzazu Ortega Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pacma-6",
+    "nombre": "Luis Miguel González Seijas",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pacma-7",
+    "nombre": "Olga María Navarrete Cabezas",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pacma-8",
+    "nombre": "Rogelio Navarrete García",
+    "descripcion": ""
+   }
+  ],
+  "pctg": [
+   {
+    "id": "a-coruna-pctg-1",
+    "nombre": "Daniel López García",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pctg-2",
+    "nombre": "Claudia Fernández Onrubia",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pctg-3",
+    "nombre": "Álvaro Calero Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pctg-4",
+    "nombre": "María del Carmen Barbera Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pctg-5",
+    "nombre": "Carlos Alonso Ardura",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pctg-6",
+    "nombre": "Ana Belén García Yerpes",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pctg-7",
+    "nombre": "Daniel Martínez Turrero",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-pctg-8",
+    "nombre": "Marina García García",
+    "descripcion": ""
+   }
+  ],
+  "bng": [
+   {
+    "id": "a-coruna-bng-1",
+    "nombre": "Néstor Rego Candamil",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-bng-2",
+    "nombre": "Rosana Pérez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-bng-3",
+    "nombre": "Manuel Polo Gundín",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-bng-4",
+    "nombre": "María Mercedes Queixas Zas",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-bng-5",
+    "nombre": "Alberto Lema Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-bng-6",
+    "nombre": "Tatiana Rellán Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-bng-7",
+    "nombre": "Xesús Miguel de Toro Santos",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-bng-8",
+    "nombre": "Ana María Pasantes Bouzas",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "a-coruna-fo-1",
+    "nombre": "Joel Novoa Arias",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-fo-2",
+    "nombre": "Rocío del Barrio Pena",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-fo-3",
+    "nombre": "Martín Cespón Peneireiro",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-fo-4",
+    "nombre": "Rocío Rodríguez Velasco",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-fo-5",
+    "nombre": "Cristian Ucha Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-fo-6",
+    "nombre": "Andrea Jiménez Flores",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-fo-7",
+    "nombre": "Eloy García Moray",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-fo-8",
+    "nombre": "Leticia Díaz Maroto García Vaquero",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "a-coruna-podemos-1",
+    "nombre": "Isabel Faraldo Calvo",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-podemos-2",
+    "nombre": "Carlos Gustavo Romalde Leal",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-podemos-3",
+    "nombre": "Ledicia Piñeiro Prada",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-podemos-4",
+    "nombre": "José Francisco Iglesias Novas",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-podemos-5",
+    "nombre": "Belén Angueira Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-podemos-6",
+    "nombre": "Gerardo María Dorda Estrada",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-podemos-7",
+    "nombre": "María Dolores Carballo Iglesias",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-podemos-8",
+    "nombre": "Aitor Neira Villaverde",
+    "descripcion": ""
+   }
+  ],
+  "frente-amplio-fronte-ampla": [
+   {
+    "id": "a-coruna-frente-amplio-fronte-ampla-1",
+    "nombre": "José Luis Piñeiro García",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-frente-amplio-fronte-ampla-2",
+    "nombre": "María de La Trinidad Palacios Raposo",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-frente-amplio-fronte-ampla-3",
+    "nombre": "Carlos Alberto Muiño Naveira",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-frente-amplio-fronte-ampla-4",
+    "nombre": "Elisabet del Alba Cabeza Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-frente-amplio-fronte-ampla-5",
+    "nombre": "Daniel Velasco García",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-frente-amplio-fronte-ampla-6",
+    "nombre": "Carmen Armada Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-frente-amplio-fronte-ampla-7",
+    "nombre": "José María Jiménez Bernal",
+    "descripcion": ""
+   },
+   {
+    "id": "a-coruna-frente-amplio-fronte-ampla-8",
+    "nombre": "Sara Puga Rey",
+    "descripcion": ""
+   }
+  ]
+ }
+}

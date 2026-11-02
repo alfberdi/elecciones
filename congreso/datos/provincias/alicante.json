@@ -1,0 +1,629 @@
+{
+ "id": "alicante",
+ "nombre": "Alicante",
+ "ccaa": "valenciana",
+ "escanos": 12,
+ "listas": {
+  "psoe": [
+   {
+    "id": "alicante-psoe-1",
+    "nombre": "Antonio Alfonso Francés Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-2",
+    "nombre": "María del Pilar Gay Bódalo",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-3",
+    "nombre": "Fulgencio José Cerdán Barceló",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-4",
+    "nombre": "María Aracelí Poblador Pacheco",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-5",
+    "nombre": "Antonio Jesús Rodes Juan",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-6",
+    "nombre": "Eva María Delgado Cabezuelo",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-7",
+    "nombre": "Enrique Moll Briones",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-8",
+    "nombre": "María Teresa Signes Pont",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-9",
+    "nombre": "Fernando David Portillo Esteve",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-10",
+    "nombre": "María Francisca Marquez Bonmatí",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-11",
+    "nombre": "Miguel Dominguez García",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-psoe-12",
+    "nombre": "Asunción Llorens Ayela",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "alicante-fo-1",
+    "nombre": "Rodrigo Pastor García",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-2",
+    "nombre": "Rocío Olmeda García",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-3",
+    "nombre": "Alexandre Benítez Santafé",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-4",
+    "nombre": "Beatriz Gomariz Silvestre",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-5",
+    "nombre": "Abel Calatayud Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-6",
+    "nombre": "Nuria Sanahuja Oliver",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-7",
+    "nombre": "Gerson Castro Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-8",
+    "nombre": "Guadalupe Laguna Segura",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-9",
+    "nombre": "Izan Albarracín Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-10",
+    "nombre": "Nuria Arroyo González",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-11",
+    "nombre": "Francisco Javier Hernández Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fo-12",
+    "nombre": "María Lorena Montes Lorenzo",
+    "descripcion": ""
+   }
+  ],
+  "partido-autonomos": [
+   {
+    "id": "alicante-partido-autonomos-1",
+    "nombre": "Lydia Cañedo Oliver",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-2",
+    "nombre": "Rafael Juan Gas",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-3",
+    "nombre": "María Del Carmen Ruiz Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-4",
+    "nombre": "José Vicente López Irles",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-5",
+    "nombre": "Encarnación Ruiz Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-6",
+    "nombre": "José Moreno Guillen",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-7",
+    "nombre": "Altea Hurtado Ruiz",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "alicante-partido-autonomos-8",
+    "nombre": "José Antonio Morales Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-9",
+    "nombre": "Carolina De La Merced Alonso Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-10",
+    "nombre": "Francisco Sánchez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-11",
+    "nombre": "Sonia Juan Gas",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-partido-autonomos-12",
+    "nombre": "Julio De Guezala López",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "alicante-salf-1",
+    "nombre": "Casimiro Martín Soto",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-2",
+    "nombre": "Amparo Cervantes Carbonell",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-3",
+    "nombre": "Moisés Alcazar Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-4",
+    "nombre": "Eva Burguillo Murgui",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-5",
+    "nombre": "Carlos Ramón García Visos",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-6",
+    "nombre": "María Avigail Orejón Vidal",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-7",
+    "nombre": "Moisés Antonio Martínez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-8",
+    "nombre": "Guadalupe Quiles Robles",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-9",
+    "nombre": "Edison Fernando Cortés Rivero",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-10",
+    "nombre": "Dácil Rut Hernández Quintero",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-11",
+    "nombre": "Claudio Morejón Bouza",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-salf-12",
+    "nombre": "María de los Ángeles Asunción Salar",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "alicante-pcte-1",
+    "nombre": "Pablo Román Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-2",
+    "nombre": "Laura Segura Lizan",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-3",
+    "nombre": "Álvaro Luque Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-4",
+    "nombre": "María Benavides Plat",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-5",
+    "nombre": "Aitor Silochi Esara",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-6",
+    "nombre": "Aurora Galván Martinez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-7",
+    "nombre": "Andreu Mas Sivera",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-8",
+    "nombre": "Lydia Ammour Ammour",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-9",
+    "nombre": "Ernesto Carces Giner",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-10",
+    "nombre": "Julia Balaguer Martinez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-11",
+    "nombre": "Andrés Guijarro Romera",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pcte-12",
+    "nombre": "Asunción Ferrero Fernández",
+    "descripcion": ""
+   }
+  ],
+  "compromis-eupv-podem-erpv": [
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-1",
+    "nombre": "María Teresa Pérez Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-2",
+    "nombre": "Natxo Bellido Suay",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-3",
+    "nombre": "Alicia Rius Buitrago",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-4",
+    "nombre": "Francisco Iniesta López",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-5",
+    "nombre": "Verònica Jerez Mira",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-6",
+    "nombre": "Andreu Bernabeu Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-7",
+    "nombre": "Sophia Siobhani O'flaherty López",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-8",
+    "nombre": "Manuel Giménez Agulló",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-9",
+    "nombre": "Ana Quinto Salort",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-10",
+    "nombre": "Òscar Valeriano Ramírez Sales",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-11",
+    "nombre": "Beatriz Riera Bujedo",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-compromis-eupv-podem-erpv-12",
+    "nombre": "Emilio Beladiez Martínez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "alicante-vox-1",
+    "nombre": "David García Gomis",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-2",
+    "nombre": "Ana María Cerdán Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-3",
+    "nombre": "José María Sánchez García",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-4",
+    "nombre": "Irene González Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-5",
+    "nombre": "Adrián García Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-6",
+    "nombre": "Mercedes García Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-7",
+    "nombre": "Manuel Francisco Ortín Botella",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-8",
+    "nombre": "Sonia Mercedes Sáez Medina",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-9",
+    "nombre": "Joaquín Giménez Soriano",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-10",
+    "nombre": "Francisca Vicente Cremades",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-11",
+    "nombre": "José Manuel García Escolano",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-vox-12",
+    "nombre": "Gema Alemán Pérez",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "alicante-pacma-1",
+    "nombre": "Jaime Barceló Ríos",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-2",
+    "nombre": "Berta Soria Bordera",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-3",
+    "nombre": "José Onofre Martínez Reche",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-4",
+    "nombre": "Obdulia Pérez Cerdán",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-5",
+    "nombre": "Fidel Julio Hurtado Galaviz",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-6",
+    "nombre": "María Victoria Mora Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-7",
+    "nombre": "Javier Olmedo Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-8",
+    "nombre": "Rocío Cepero Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-9",
+    "nombre": "José Manuel Prado Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-10",
+    "nombre": "Dolores Zarzuela Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-11",
+    "nombre": "Luis Fernando Cabeza Expósito",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pacma-12",
+    "nombre": "Sara García Pérez",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "alicante-fe-de-las-jons-1",
+    "nombre": "José Garcia Miralles",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-2",
+    "nombre": "Inmaculada Gómez Canales",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-3",
+    "nombre": "José Carlos Lozano Llopis",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-4",
+    "nombre": "María del Mar Peñalver Díez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-5",
+    "nombre": "Juan Carlos Bermúdez Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-6",
+    "nombre": "María Carmen Aura Llopis",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-7",
+    "nombre": "David Ángeles Larumbe",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-8",
+    "nombre": "María Teresa Salort Llorca",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-9",
+    "nombre": "José Antonio Rossi Tortosa",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-10",
+    "nombre": "Carmen María Martín Garcia Donas",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-11",
+    "nombre": "José Antonio Serrano Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-fe-de-las-jons-12",
+    "nombre": "Carmen Lobo Pérez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "alicante-pp-1",
+    "nombre": "Macarena Montesinos De Miguel",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-2",
+    "nombre": "César Sánchez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-3",
+    "nombre": "María Gómez García",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-4",
+    "nombre": "Joaquín Melgarejo Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-5",
+    "nombre": "Celia María Lastra Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-6",
+    "nombre": "José Camarasa Matea",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-7",
+    "nombre": "María Soledad Gallud Sampere",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-8",
+    "nombre": "Javier Navarro Adrián",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-9",
+    "nombre": "Adela María Moncho Mengual",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-10",
+    "nombre": "Jesús Plaza Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-11",
+    "nombre": "Eva Sandín Cortés",
+    "descripcion": ""
+   },
+   {
+    "id": "alicante-pp-12",
+    "nombre": "Juan Molina Beneito",
+    "descripcion": ""
+   }
+  ]
+ }
+}

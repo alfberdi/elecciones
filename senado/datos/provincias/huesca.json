@@ -1,0 +1,106 @@
+{
+ "id": "huesca",
+ "nombre": "Huesca",
+ "ccaa": "aragon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-huesca-pcte-1",
+    "nombre": "Juan Atrián Garcés",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-huesca-pacma-1",
+    "nombre": "Rocío Castillo Molero",
+    "descripcion": ""
+   }
+  ],
+  "psoe-cha-iu-ms": [
+   {
+    "id": "sen-huesca-psoe-cha-iu-ms-1",
+    "nombre": "Tania Solans Raluy",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huesca-psoe-cha-iu-ms-2",
+    "nombre": "Rubén Cabañas Aranda",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huesca-psoe-cha-iu-ms-3",
+    "nombre": "Lorena Cajal Escartín",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-huesca-mundo-justo-1",
+    "nombre": "Manuel Souto Hernández",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-huesca-podemos-1",
+    "nombre": "Ana Delgado Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huesca-podemos-2",
+    "nombre": "Jose Felix Embid Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huesca-podemos-3",
+    "nombre": "Paola Gentile Etchimendi",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-huesca-pp-1",
+    "nombre": "Melania Mur Sangrá",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huesca-pp-2",
+    "nombre": "José Antonio Lagüens Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huesca-pp-3",
+    "nombre": "Blanca Mónica Galindo Sanz",
+    "descripcion": ""
+   }
+  ],
+  "fia": [
+   {
+    "id": "sen-huesca-fia-1",
+    "nombre": "Juan Carlos Isabal Ferrer",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huesca-fia-2",
+    "nombre": "Maria Jose Castejon Trigo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huesca-fia-3",
+    "nombre": "Gonzalo Jose Lorenzo Garcia",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-huesca-vox-1",
+    "nombre": "María Lorena García López",
+    "descripcion": ""
+   }
+  ]
+ }
+}

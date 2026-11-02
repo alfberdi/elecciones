@@ -1,0 +1,84 @@
+{
+ "id": "segovia",
+ "nombre": "Segovia",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "mundo-justo": [
+   {
+    "id": "sen-segovia-mundo-justo-1",
+    "nombre": "Leonor Delgado Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-segovia-podemos-1",
+    "nombre": "Rafael Alonso Ponce",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-segovia-podemos-2",
+    "nombre": "Maria del Carmen Polo López",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-segovia-podemos-3",
+    "nombre": "Mariano Rojas Magallanes",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms-mm-compromis-cha-batzarre": [
+   {
+    "id": "sen-segovia-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+    "nombre": "María del Lirio Martín García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-segovia-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+    "nombre": "Alberto López Villa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-segovia-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+    "nombre": "Alba Barrio Martín",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-segovia-pp-1",
+    "nombre": "Juan Jose Sanz Vitorio",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-segovia-pp-2",
+    "nombre": "María Ángeles García Herrero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-segovia-pp-3",
+    "nombre": "José María Bravo Gozalo",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-segovia-vox-1",
+    "nombre": "Patricia Bernabé Municio",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-segovia-vox-2",
+    "nombre": "Pedro María Varela de Sagarra",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-segovia-vox-3",
+    "nombre": "Esther Núñez Municio",
+    "descripcion": ""
+   }
+  ]
+ }
+}

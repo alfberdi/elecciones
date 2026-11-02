@@ -1,0 +1,40 @@
+{
+ "id": "mallorca",
+ "nombre": "Mallorca",
+ "ccaa": "baleares",
+ "escanos": 3,
+ "marcas": 2,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-mallorca-pcte-1",
+    "nombre": "Agustín Gálvez Martínez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-mallorca-pp-1",
+    "nombre": "Sebastià Sagrera Ballester",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-mallorca-pp-2",
+    "nombre": "María Belén Bordils Girona",
+    "descripcion": ""
+   }
+  ],
+  "psib-psoe-mes-per-mallorca-sumar-euib": [
+   {
+    "id": "sen-mallorca-psib-psoe-mes-per-mallorca-sumar-euib-1",
+    "nombre": "Catalina Cladera Crespí",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-mallorca-psib-psoe-mes-per-mallorca-sumar-euib-2",
+    "nombre": "Francisco José González Paredes",
+    "descripcion": ""
+   }
+  ]
+ }
+}

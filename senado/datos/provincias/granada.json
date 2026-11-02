@@ -1,0 +1,98 @@
+{
+ "id": "granada",
+ "nombre": "Granada",
+ "ccaa": "andalucia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "adelante-andalucia": [
+   {
+    "id": "sen-granada-adelante-andalucia-1",
+    "nombre": "Verónica Correa Dominguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-granada-adelante-andalucia-2",
+    "nombre": "Manuel Alejandro García Cepero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-granada-adelante-andalucia-3",
+    "nombre": "Lourdes Hidalgo Ramos",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-granada-pcte-1",
+    "nombre": "Luis Ángel Amores Roldán",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-granada-podemos-1",
+    "nombre": "Carmen Martín Rubiño",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-granada-podemos-2",
+    "nombre": "Francisco Javier Matías Reche",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-granada-podemos-3",
+    "nombre": "Cristina Del Río Alonso",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-granada-mundo-justo-1",
+    "nombre": "Luís Antonio Rodríguez Huertas",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-granada-pp-1",
+    "nombre": "Carlos Rojas García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-granada-pp-2",
+    "nombre": "María Eva Martín Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-granada-pp-3",
+    "nombre": "Pablo Hispán Iglesias De Ussel",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-granada-vox-1",
+    "nombre": "Beatriz Sánchez Agustino",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-granada-psoe-iu-ms-1",
+    "nombre": "Pedro Fernández Peñalver [SDP ]",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-granada-psoe-iu-ms-2",
+    "nombre": "María Carmen Pérez Rodríguez [SDP ]",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-granada-psoe-iu-ms-3",
+    "nombre": "José Antonio Montilla Martos [SDP ]",
+    "descripcion": ""
+   }
+  ]
+ }
+}

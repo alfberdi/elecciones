@@ -1,0 +1,125 @@
+{
+ "id": "bizkaia",
+ "nombre": "Bizkaia",
+ "ccaa": "pais-vasco",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "eaj-pnv": [
+   {
+    "id": "sen-bizkaia-eaj-pnv-1",
+    "nombre": "Nerea Ahedo Ceza",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-eaj-pnv-2",
+    "nombre": "Kepa Lambarri Camilo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-eaj-pnv-3",
+    "nombre": "María Dolores Etxano Varela",
+    "descripcion": ""
+   }
+  ],
+  "eh-bildu-erc": [
+   {
+    "id": "sen-bizkaia-eh-bildu-erc-1",
+    "nombre": "Idurre Bideguren Gabantxo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-eh-bildu-erc-2",
+    "nombre": "Martin Arrasate Iriarte",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-eh-bildu-erc-3",
+    "nombre": "Aitziber Ibaibarriaga Etxebarrieta",
+    "descripcion": ""
+   }
+  ],
+  "pcte-elak": [
+   {
+    "id": "sen-bizkaia-pcte-elak-1",
+    "nombre": "Oscar Frontaura García",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-bizkaia-podemos-1",
+    "nombre": "Miguel Fernández Marcos",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-podemos-2",
+    "nombre": "María Teresa Junquera Galende",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-podemos-3",
+    "nombre": "Miguel Angel Carpintero Alfaro",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-bizkaia-vox-1",
+    "nombre": "Ángel Martínez Villastrigo",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-bizkaia-pp-1",
+    "nombre": "Jon Albisu Seoane",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-pp-2",
+    "nombre": "Paula Garagalza Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-pp-3",
+    "nombre": "Luis Peña Barturen",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-bizkaia-mundo-justo-1",
+    "nombre": "Jesús Barcina Burgui",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-mundo-justo-2",
+    "nombre": "Judith López Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-mundo-justo-3",
+    "nombre": "Francisco Javier Barcina Elcuaz",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms-mm-compromis-cha-batzarre": [
+   {
+    "id": "sen-bizkaia-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+    "nombre": "Txema Oleaga Zalvidea",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+    "nombre": "Alba Gutierrez Gomez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-bizkaia-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+    "nombre": "Juan Carlos Abascal Candas",
+    "descripcion": ""
+   }
+  ]
+ }
+}

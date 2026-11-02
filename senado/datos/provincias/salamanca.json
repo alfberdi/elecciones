@@ -1,0 +1,96 @@
+{
+ "id": "salamanca",
+ "nombre": "Salamanca",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "podemos": [
+   {
+    "id": "sen-salamanca-podemos-1",
+    "nombre": "María del Carmen Díez Sierra",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-podemos-2",
+    "nombre": "Genaro Luis García López",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-podemos-3",
+    "nombre": "María del Sol Muñoz Martín",
+    "descripcion": ""
+   }
+  ],
+  "prepal": [
+   {
+    "id": "sen-salamanca-prepal-1",
+    "nombre": "Juan Manuel Andrés López",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-prepal-2",
+    "nombre": "María de las Mercedes Fernández León",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-salamanca-vox-1",
+    "nombre": "Purificación Pozo García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-vox-2",
+    "nombre": "Carlos Polo Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-vox-3",
+    "nombre": "Raquel Izquierdo Martín",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-salamanca-pcte-1",
+    "nombre": "José Fernández Reguera",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-salamanca-pp-1",
+    "nombre": "Bienvenido de Arriba Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-pp-2",
+    "nombre": "Marta Labrador Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-pp-3",
+    "nombre": "Pedro Samuel Martín García",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-salamanca-psoe-iu-ms-1",
+    "nombre": "Carlos Fernández Chanca",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-psoe-iu-ms-2",
+    "nombre": "Yolanda Sánchez Villarón",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-salamanca-psoe-iu-ms-3",
+    "nombre": "Sergio Maqueda Hernández",
+    "descripcion": ""
+   }
+  ]
+ }
+}

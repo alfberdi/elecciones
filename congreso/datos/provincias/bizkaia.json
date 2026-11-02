@@ -1,0 +1,517 @@
+{
+ "id": "bizkaia",
+ "nombre": "Bizkaia",
+ "ccaa": "pais-vasco",
+ "escanos": 8,
+ "listas": {
+  "eaj-pnv": [
+   {
+    "id": "bizkaia-eaj-pnv-1",
+    "nombre": "Idoia Sagastizabal Unzetabarrenetxea",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eaj-pnv-2",
+    "nombre": "Igotz López Torre",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eaj-pnv-3",
+    "nombre": "Nerea Renteria Lasanta",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eaj-pnv-4",
+    "nombre": "Jon Andoni Atutxa Sainz",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eaj-pnv-5",
+    "nombre": "Esther Apraiz Fernández La Peña",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eaj-pnv-6",
+    "nombre": "Imanol Landa Jauregi",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eaj-pnv-7",
+    "nombre": "Leire Madariaga Gangoiti",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eaj-pnv-8",
+    "nombre": "Aitor Sorriketa Larrea",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "bizkaia-psoe-1",
+    "nombre": "Patxi López Alvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-psoe-2",
+    "nombre": "Maria Guijarro Ceballos",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-psoe-3",
+    "nombre": "Gabriel Blanco Arrue",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-psoe-4",
+    "nombre": "Yolanda Diez Saiz",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-psoe-5",
+    "nombre": "Victor Trimiño Vegas",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-psoe-6",
+    "nombre": "Leire Cabado Sanchez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-psoe-7",
+    "nombre": "Lander Manrique Ferrero",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-psoe-8",
+    "nombre": "Ana Belen Quijada Garrido",
+    "descripcion": ""
+   }
+  ],
+  "eh-bildu": [
+   {
+    "id": "bizkaia-eh-bildu-1",
+    "nombre": "Oskar Matute Garcia de Jalón",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eh-bildu-2",
+    "nombre": "Marije Fullaondo La Cruz",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eh-bildu-3",
+    "nombre": "Andoni Rojo Toyos",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eh-bildu-4",
+    "nombre": "Garazi Zalbidea López",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eh-bildu-5",
+    "nombre": "Markel Rio Taracido",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eh-bildu-6",
+    "nombre": "Izortze Santín Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eh-bildu-7",
+    "nombre": "Ina Robles Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-eh-bildu-8",
+    "nombre": "Ane Muguruza Bartolomé",
+    "descripcion": ""
+   }
+  ],
+  "pcte-elak": [
+   {
+    "id": "bizkaia-pcte-elak-1",
+    "nombre": "Sergio Saenz Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pcte-elak-2",
+    "nombre": "Igone Bastida Esteban",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pcte-elak-3",
+    "nombre": "Mikel Tapia Garcia del Valle",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pcte-elak-4",
+    "nombre": "Saioa Cuadrado Recio",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pcte-elak-5",
+    "nombre": "Unai Vidaurrazaga Sola",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pcte-elak-6",
+    "nombre": "Laura Alonso Ameyugo",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pcte-elak-7",
+    "nombre": "Eder Baile Molinero",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pcte-elak-8",
+    "nombre": "Virginia Martiarena Herraiz",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "bizkaia-vox-1",
+    "nombre": "Marco Antonio Moreno Asla",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-vox-2",
+    "nombre": "Laura Ganzabal Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-vox-3",
+    "nombre": "Félix Esteve Montes",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-vox-4",
+    "nombre": "Haizea Uribarri Ibáñez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-vox-5",
+    "nombre": "Jon González Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-vox-6",
+    "nombre": "Mercedes Fernández Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-vox-7",
+    "nombre": "Aritz Estevez López",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-vox-8",
+    "nombre": "María Ángeles Fernández Martín",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "bizkaia-fa-1",
+    "nombre": "Lander Martínez Hierro",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fa-2",
+    "nombre": "Edurne Visaira Vicandi",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fa-3",
+    "nombre": "Jose Aurelio González Somavilla",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fa-4",
+    "nombre": "Ana Rosa Sánchez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fa-5",
+    "nombre": "Julen Domínguez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fa-6",
+    "nombre": "Izaskun Alderete Rivas",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fa-7",
+    "nombre": "Jordi Martínez Rigol",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fa-8",
+    "nombre": "Rosa Martínez Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "bizkaia-podemos-1",
+    "nombre": "Jose Manuel de Pablos Bajo",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-podemos-2",
+    "nombre": "Soraya Pereira Freire",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-podemos-3",
+    "nombre": "Luis Miguel Lapeña Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-podemos-4",
+    "nombre": "Verónica García García",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-podemos-5",
+    "nombre": "Oskar Robles Díez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-podemos-6",
+    "nombre": "Ainhoa Lopera Corada",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-podemos-7",
+    "nombre": "Alfonso Arroyo García",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-podemos-8",
+    "nombre": "Miren Sorkunde Barrueta Achutegui",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "bizkaia-pacma-1",
+    "nombre": "Janire Asenjo García",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pacma-2",
+    "nombre": "Ignacio Serrano Viteri",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pacma-3",
+    "nombre": "María López Galán",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pacma-4",
+    "nombre": "Luis Alberto Real De Las Heras",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pacma-5",
+    "nombre": "Miren Eukene Izquierdo Franco",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pacma-6",
+    "nombre": "David Fernández Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pacma-7",
+    "nombre": "Esther Begoña Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pacma-8",
+    "nombre": "Christian Iván Rosa Roldán",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "bizkaia-fo-1",
+    "nombre": "Oscar García Riesgo",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fo-2",
+    "nombre": "Gemma Montuno Sanz",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fo-3",
+    "nombre": "Igor Busto López",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fo-4",
+    "nombre": "Teresa Esquivias López",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fo-5",
+    "nombre": "David Magadán Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fo-6",
+    "nombre": "Maria Gabriela Alvarez Laguna",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fo-7",
+    "nombre": "Iker Diaz de Greñu Lanas",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-fo-8",
+    "nombre": "Estela Urrea Pastor",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "bizkaia-pp-1",
+    "nombre": "Esther Martínez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pp-2",
+    "nombre": "Pablo Gómez-Guadalupe García-Tejedor",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pp-3",
+    "nombre": "Inés Nerea Llanos Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pp-4",
+    "nombre": "Diego Pagadigorria Wicke",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pp-5",
+    "nombre": "Amaya Fernández Angulo",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pp-6",
+    "nombre": "Esteban Goti Bueno",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pp-7",
+    "nombre": "Agata Tena Martinez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pp-8",
+    "nombre": "Leopoldo Barreda de los Ríos",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "bizkaia-mundo-justo-1",
+    "nombre": "Luis Maria Vega Castresana",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-mundo-justo-2",
+    "nombre": "Maria Del Mar Magallón Soneira",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-mundo-justo-3",
+    "nombre": "Miguel Adolfo Osorio Rangel",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-mundo-justo-4",
+    "nombre": "Laura Merino Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-mundo-justo-5",
+    "nombre": "José Antonio Alarcón Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-mundo-justo-6",
+    "nombre": "Omaira Virginia Granados Contreras",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-mundo-justo-7",
+    "nombre": "Roberto Barcina Burgui",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-mundo-justo-8",
+    "nombre": "Iratxe Arrien Barruetabeña",
+    "descripcion": ""
+   }
+  ],
+  "pfac": [
+   {
+    "id": "bizkaia-pfac-1",
+    "nombre": "Pilar Aguilar Carrasco",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pfac-2",
+    "nombre": "Jon Etxeandia Intxaurtieta",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "bizkaia-pfac-3",
+    "nombre": "Alicia Varón García Amilibia",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pfac-4",
+    "nombre": "Jose Antonio Martín Acosta",
+    "descripcion": ""
+   },
+   {
+    "id": "bizkaia-pfac-5",
+    "nombre": "Amaia Goiri Elcoro",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "bizkaia-pfac-6",
+    "nombre": "Izukaitz Blanco Cortajarena",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "bizkaia-pfac-7",
+    "nombre": "Paula Castera Zabalza",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "bizkaia-pfac-8",
+    "nombre": "Alvaro Adolfo Larrubia Vidal",
+    "descripcion": "",
+    "independiente": true
+   }
+  ]
+ }
+}

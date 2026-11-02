@@ -1,0 +1,170 @@
+{
+ "id": "ciudad-real",
+ "nombre": "Ciudad Real",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 5,
+ "listas": {
+  "psoe": [
+   {
+    "id": "ciudad-real-psoe-1",
+    "nombre": "Isabel Rodríguez García",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-psoe-2",
+    "nombre": "Julián Nieva Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-psoe-3",
+    "nombre": "Cristina López Zamora",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-psoe-4",
+    "nombre": "Santiago Martin Campos",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-psoe-5",
+    "nombre": "María Montes Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "ciudad-real-fo-1",
+    "nombre": "Raül Abengózar Galán",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-fo-2",
+    "nombre": "Alba Del Castillo Castellanos",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-fo-3",
+    "nombre": "Mario Amorós Alcolea",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-fo-4",
+    "nombre": "Magaly Del Carmen Allen López",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-fo-5",
+    "nombre": "Pedro Juan Gómez-Limón Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "ciudad-real-vox-1",
+    "nombre": "Ricardo Chamorro Delmo",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-vox-2",
+    "nombre": "Esperanza Arriaga Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-vox-3",
+    "nombre": "Jose Luis Romero Hombrebueno Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-vox-4",
+    "nombre": "María Dolores Gómez Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-vox-5",
+    "nombre": "Rodrigo Jaime Mac-Crohon Medina",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "ciudad-real-podemos-1",
+    "nombre": "María Isabel Ruiz García",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-podemos-2",
+    "nombre": "Diego Ruiz Figueroa",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-podemos-3",
+    "nombre": "Clorinda Ivonne Tejada Chauca",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-podemos-4",
+    "nombre": "José Manuel Lucerón Lucerón",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-podemos-5",
+    "nombre": "Minerva Del Hoyo Ramírez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "ciudad-real-pp-1",
+    "nombre": "María Del Carmen Fúnez De Gregorio",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-pp-2",
+    "nombre": "Enrique Belda Pérez Pedrero",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-pp-3",
+    "nombre": "Sonia González Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-pp-4",
+    "nombre": "Luis Ramón Mohíno López",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-pp-5",
+    "nombre": "Raquel María Jurado Merchán",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "ciudad-real-fa-1",
+    "nombre": "Juana Caro Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-fa-2",
+    "nombre": "Óscar Del Fresno Novillo",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-fa-3",
+    "nombre": "María Marchante Armero",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-fa-4",
+    "nombre": "Álex Ferrón Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "ciudad-real-fa-5",
+    "nombre": "María Elisa Díaz Argüelles",
+    "descripcion": ""
+   }
+  ]
+ }
+}

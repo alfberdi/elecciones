@@ -1,0 +1,110 @@
+{
+ "id": "la-rioja",
+ "nombre": "La Rioja",
+ "ccaa": "la-rioja",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-la-rioja-pcte-1",
+    "nombre": "Lucía Antoñanzas Gil",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-la-rioja-psoe-iu-ms-1",
+    "nombre": "Concepción Andreu Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-psoe-iu-ms-2",
+    "nombre": "Diego Mendiola García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-psoe-iu-ms-3",
+    "nombre": "Lidia Ascacibar Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-la-rioja-podemos-1",
+    "nombre": "Juan Miguel Calvo García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-2",
+    "nombre": "Mónica Solana Abad",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-3",
+    "nombre": "Victorino Pablo Pascual",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-4",
+    "nombre": "Vox",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-5",
+    "nombre": "Luis Emilio Mayoral Corcuera",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-6",
+    "nombre": "Jésica Fernández Villoslada",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-7",
+    "nombre": "Eduardo Garrido Marzo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-8",
+    "nombre": "Partido Popular",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-9",
+    "nombre": "Javier Merino Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-10",
+    "nombre": "María del Mar San Martín Ibarra",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-11",
+    "nombre": "Carlos Yécora Roca",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-12",
+    "nombre": "Escaños en Blanco para Dejar Escaños Vacíos",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-13",
+    "nombre": "María del Carmen Andrés Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-14",
+    "nombre": "Manuel Sánchez Aguarón",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-la-rioja-podemos-15",
+    "nombre": "Encarnación Villalba Ale",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "id": "valencia",
+ "nombre": "Valencia",
+ "ccaa": "valenciana",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-valencia-pcte-1",
+    "nombre": "Andrés Núñez Esparcia",
+    "descripcion": ""
+   }
+  ],
+  "psoe-compromis-eupv": [
+   {
+    "id": "sen-valencia-psoe-compromis-eupv-1",
+    "nombre": "Juan Antonio Sagredo Marco",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valencia-psoe-compromis-eupv-2",
+    "nombre": "Isaura Navarro Casillas",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valencia-psoe-compromis-eupv-3",
+    "nombre": "Jordi Mayor Vallet",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-valencia-fe-de-las-jons-1",
+    "nombre": "Rafael Llaneli Santos-olmo",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-valencia-pp-1",
+    "nombre": "Susana Camarero Benítez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valencia-pp-2",
+    "nombre": "José Luís Aguirre Larrauri",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "sen-valencia-pp-3",
+    "nombre": "Rut Sánchez Férriz",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-valencia-mundo-justo-1",
+    "nombre": "Luis de Mazarredo Aznar",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valencia-mundo-justo-2",
+    "nombre": "Marta Pérez de los Cobos Cassinello",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valencia-mundo-justo-3",
+    "nombre": "Fernando Lerma Besó",
+    "descripcion": ""
+   }
+  ],
+  "agenda-valenciana": [
+   {
+    "id": "sen-valencia-agenda-valenciana-1",
+    "nombre": "José Bonet Navarro",
+    "descripcion": ""
+   }
+  ]
+ }
+}

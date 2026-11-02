@@ -1,0 +1,228 @@
+{
+ "id": "salamanca",
+ "nombre": "Salamanca",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "listas": {
+  "fo": [
+   {
+    "id": "salamanca-fo-1",
+    "nombre": "Marco Pedro Pérez Graña",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-fo-2",
+    "nombre": "Alicia Fernández Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-fo-3",
+    "nombre": "Juan Pablo Cantera Cuartango",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-fo-4",
+    "nombre": "Fátima Márquez Espada",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "salamanca-psoe-1",
+    "nombre": "David Serrada Pariente",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-psoe-2",
+    "nombre": "Miryam Tobal Vicente",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-psoe-3",
+    "nombre": "Antonio Cámara López",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-psoe-4",
+    "nombre": "María del Carmen Ávila de Manueles",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "salamanca-podemos-1",
+    "nombre": "María Aurora Zarco Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-podemos-2",
+    "nombre": "Higinio Gómez Vicente",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-podemos-3",
+    "nombre": "María del Pilar Moreno González",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-podemos-4",
+    "nombre": "José Vicente Delgado",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "salamanca-salf-1",
+    "nombre": "Luis Eduardo Riesco Lorenzo",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-salf-2",
+    "nombre": "María Nuria Vara García",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-salf-3",
+    "nombre": "Alex Úbeda-Romero Medeiros",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-salf-4",
+    "nombre": "María del Carmen Alonso Blanco",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "salamanca-vox-1",
+    "nombre": "Laura Magdalena Miguel",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-vox-2",
+    "nombre": "Mauricio Angulo Guerrero",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-vox-3",
+    "nombre": "María Pía Rodríguez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-vox-4",
+    "nombre": "José Antonio Díez-Yugueros García",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "salamanca-pacma-1",
+    "nombre": "Jorge Martín García",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pacma-2",
+    "nombre": "María Montserrat Sánchez González",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pacma-3",
+    "nombre": "Gustavo Martín Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pacma-4",
+    "nombre": "Raquel Tablado Castellanos",
+    "descripcion": ""
+   }
+  ],
+  "prepal": [
+   {
+    "id": "salamanca-prepal-1",
+    "nombre": "Rafael Diego Núñez",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-prepal-2",
+    "nombre": "Cristina Leonor Villafranca Iglesias",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-prepal-3",
+    "nombre": "Antonio Jaime González Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-prepal-4",
+    "nombre": "Isabel Rodríguez Gómez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "salamanca-pcte-1",
+    "nombre": "Mario López Pascua",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pcte-2",
+    "nombre": "Irene Benéitez Castellanos",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pcte-3",
+    "nombre": "Antonio Bautista Nieto",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pcte-4",
+    "nombre": "Carmen Vázquez Caballero",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "salamanca-pp-1",
+    "nombre": "María del Carmen Seguín Kattán",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pp-2",
+    "nombre": "José Antonio Bermúdez de Castro Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pp-3",
+    "nombre": "María del Pilar Sánchez García",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-pp-4",
+    "nombre": "Marcos Iglesias Caridad",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "salamanca-fa-1",
+    "nombre": "Miriam Ruiz Arias",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-fa-2",
+    "nombre": "Andrés Valentín Vicente Barrado",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-fa-3",
+    "nombre": "Sara Gutiérrez Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "salamanca-fa-4",
+    "nombre": "Carlos del Real Gómez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

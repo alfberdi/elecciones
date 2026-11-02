@@ -1,0 +1,70 @@
+{
+ "id": "menorca",
+ "nombre": "Menorca",
+ "ccaa": "baleares",
+ "escanos": 1,
+ "marcas": 1,
+ "listas": {
+  "psoe-mes-per-menorca-em-eu-podemos": [
+   {
+    "id": "sen-menorca-psoe-mes-per-menorca-em-eu-podemos-1",
+    "nombre": "Joana María Barceló Martí",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-menorca-pp-1",
+    "nombre": "Ramón Sintes Villalonga",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-menorca-pp-2",
+    "nombre": "Eivissa Al Senat",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-menorca-pp-3",
+    "nombre": "Juanjo Ferrer Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-menorca-pp-4",
+    "nombre": "Partido Popular",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-menorca-pp-5",
+    "nombre": "María del Carmen Ferrer Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-menorca-pp-6",
+    "nombre": "Formentera Al Senat",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-menorca-pp-7",
+    "nombre": "Neus Massanet Florit",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-menorca-pp-8",
+    "nombre": "Formentera Viva",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-menorca-pp-9",
+    "nombre": "Lorenzo Córdoba Marí",
+    "descripcion": ""
+   }
+  ],
+  "sa-unio": [
+   {
+    "id": "sen-menorca-sa-unio-1",
+    "nombre": "Vicente Tur Costa",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "id": "albacete",
+ "nombre": "Albacete",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "mundo-justo": [
+   {
+    "id": "sen-albacete-mundo-justo-1",
+    "nombre": "Sara García Jiménez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-albacete-podemos-1",
+    "nombre": "Luis Ángel Aguilar Montero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-albacete-podemos-2",
+    "nombre": "María de los Llanos Rabadán Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-albacete-podemos-3",
+    "nombre": "Antonio Brell Díaz",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-albacete-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "Isabel Belén Iniesta Egido",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-albacete-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Francisco José Requena Terol",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-albacete-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "María Rosario Herrera Gómez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-albacete-vox-1",
+    "nombre": "Román Jesús González Balado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-albacete-vox-2",
+    "nombre": "Virginia Carrión Peralta",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-albacete-vox-3",
+    "nombre": "Ginés Luis Núñez Martínez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-albacete-pp-1",
+    "nombre": "Miriam García Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-albacete-pp-2",
+    "nombre": "Antonio Martínez Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-albacete-pp-3",
+    "nombre": "Pilar Milagros Rojo Noguera",
+    "descripcion": ""
+   }
+  ]
+ }
+}

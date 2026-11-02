@@ -1,0 +1,178 @@
+{
+ "id": "avila",
+ "nombre": "Ávila",
+ "ccaa": "castilla-y-leon",
+ "escanos": 3,
+ "listas": {
+  "psoe": [
+   {
+    "id": "avila-psoe-1",
+    "nombre": "Manuel Arribas Maroto",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-psoe-2",
+    "nombre": "María Soraya Blázquez Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-psoe-3",
+    "nombre": "Manuel Jiménez Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "avila-mundo-justo-1",
+    "nombre": "Julio Blanco Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-mundo-justo-2",
+    "nombre": "María Folgueras Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-mundo-justo-3",
+    "nombre": "Diego Eduardo Susa Furio",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "avila-salf-1",
+    "nombre": "Pedro Hermosa González",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-salf-2",
+    "nombre": "Helga Sara Ignacio Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-salf-3",
+    "nombre": "Diego García Peña",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "avila-fo-1",
+    "nombre": "Jorge Moyano García",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-fo-2",
+    "nombre": "María Concepción Sebastián García",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-fo-3",
+    "nombre": "Alberto Castro Prieto",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "avila-pcte-1",
+    "nombre": "Adrián Franco Barata",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-pcte-2",
+    "nombre": "Adriana Martínez García",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-pcte-3",
+    "nombre": "Gorka Álvarez García",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "avila-vox-1",
+    "nombre": "Samuel Vázquez Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-vox-2",
+    "nombre": "Sara Beltrán Ochando",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-vox-3",
+    "nombre": "José Manuel Lorenzo Serapio",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "avila-podemos-1",
+    "nombre": "Laura Ruiz Ginés",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-podemos-2",
+    "nombre": "Josué Aldudo Batalla",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-podemos-3",
+    "nombre": "María Esther Requena Marco",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "avila-pp-1",
+    "nombre": "Héctor Palencia Rubio",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-pp-2",
+    "nombre": "Piedad Sánchez García",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-pp-3",
+    "nombre": "Germán Ulloa López",
+    "descripcion": ""
+   }
+  ],
+  "pdsje": [
+   {
+    "id": "avila-pdsje-1",
+    "nombre": "Carmen Alicia Manchón Villaverde",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-pdsje-2",
+    "nombre": "Clemente Antonio García Verdugo Galeote",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-pdsje-3",
+    "nombre": "María del Carmen González Nieto",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "avila-fa-1",
+    "nombre": "Pablo Garcinuño García",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-fa-2",
+    "nombre": "Malva Sanz Recio",
+    "descripcion": ""
+   },
+   {
+    "id": "avila-fa-3",
+    "nombre": "Cristóbal Medina Montero",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "id": "la-rioja",
+ "nombre": "La Rioja",
+ "ccaa": "la-rioja",
+ "escanos": 4,
+ "listas": {
+  "psoe": [
+   {
+    "id": "la-rioja-psoe-1",
+    "nombre": "Elisa Garrido Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-psoe-2",
+    "nombre": "Raúl Díaz Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-psoe-3",
+    "nombre": "Emilia Fernández Núñez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-psoe-4",
+    "nombre": "Félix Ángel Alonso Ibergallartu",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "la-rioja-fo-1",
+    "nombre": "Francisco Martínez Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-fo-2",
+    "nombre": "Rocío Ezquerro Pascual",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-fo-3",
+    "nombre": "Álvaro Hernáez Ceballos",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-fo-4",
+    "nombre": "Marta López Hernández",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "la-rioja-salf-1",
+    "nombre": "Juan Aparici Jerez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-salf-2",
+    "nombre": "Susana María Blanco Ceña",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-salf-3",
+    "nombre": "Darío Oñate Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-salf-4",
+    "nombre": "Estefanía la Torre Tejada",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "la-rioja-fa-1",
+    "nombre": "Alba Díez Arrea",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-fa-2",
+    "nombre": "Julio Martínez Flórez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-fa-3",
+    "nombre": "Tatiana Cámara Narro",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-fa-4",
+    "nombre": "Carmelo Ochoa Royo",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "la-rioja-pcte-1",
+    "nombre": "Francisco Castro Portolés",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pcte-2",
+    "nombre": "María Eugenia Oleaga Muguerza",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pcte-3",
+    "nombre": "Gonzalo Alonso Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pcte-4",
+    "nombre": "Lucía Sáenz Burgos",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "la-rioja-vox-1",
+    "nombre": "Ángel Alda Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-vox-2",
+    "nombre": "Patricia González Lacarra López",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-vox-3",
+    "nombre": "Samuel Cañizarez Márquez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-vox-4",
+    "nombre": "María Belén Benés Ortiz",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "la-rioja-podemos-1",
+    "nombre": "María Aranzazu Carrero Bacigalupe",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-podemos-2",
+    "nombre": "Roberto Cadarso Ros",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-podemos-3",
+    "nombre": "Amaia Barcina Carrero",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-podemos-4",
+    "nombre": "Pedro Olaechea Berdonces",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "la-rioja-pp-1",
+    "nombre": "María Concepción Gamarra Ruiz Clavijo",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pp-2",
+    "nombre": "Alberto Galiana García",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pp-3",
+    "nombre": "Mónica Mercedes Arcéiz Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pp-4",
+    "nombre": "Jesús Angel Garrido Martínez",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "la-rioja-escanos-en-blanco-1",
+    "nombre": "María Carmen García Pellejero",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-escanos-en-blanco-2",
+    "nombre": "José María Etxezarreta Lasa",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-escanos-en-blanco-3",
+    "nombre": "María Soledad Ruíz Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-escanos-en-blanco-4",
+    "nombre": "Jorge Moreno García",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "la-rioja-pacma-1",
+    "nombre": "Rosalía Cortés Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pacma-2",
+    "nombre": "Pablo Castellote Lucini",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pacma-3",
+    "nombre": "María Esther Gimeno Valios",
+    "descripcion": ""
+   },
+   {
+    "id": "la-rioja-pacma-4",
+    "nombre": "Rafael Antonio Gutiérrez Lerma",
+    "descripcion": ""
+   }
+  ]
+ }
+}

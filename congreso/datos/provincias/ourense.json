@@ -1,0 +1,250 @@
+{
+ "id": "ourense",
+ "nombre": "Ourense",
+ "ccaa": "galicia",
+ "escanos": 4,
+ "listas": {
+  "psdeg-psoe": [
+   {
+    "id": "ourense-psdeg-psoe-1",
+    "nombre": "María Del Carmen Rodríguez Dacosta",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-psdeg-psoe-2",
+    "nombre": "Brian Diz González",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-psdeg-psoe-3",
+    "nombre": "Marina Vaz Quintillan",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-psdeg-psoe-4",
+    "nombre": "Brais González Fernández",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "ourense-fo-1",
+    "nombre": "Laia González Gandia",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-fo-2",
+    "nombre": "Martin Álvarez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-fo-3",
+    "nombre": "Ana Maria Pérez Gaite",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-fo-4",
+    "nombre": "Pablo Herrero Diz",
+    "descripcion": ""
+   }
+  ],
+  "pctg": [
+   {
+    "id": "ourense-pctg-1",
+    "nombre": "Brais Coello Vences",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pctg-2",
+    "nombre": "Maria de la O Campelo Tenoira",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pctg-3",
+    "nombre": "Javier Daniel Heredia Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pctg-4",
+    "nombre": "Paula García Martín",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "ourense-podemos-1",
+    "nombre": "Antonio José Naval Calviño",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-podemos-2",
+    "nombre": "Rosa María Outeiriño González",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-podemos-3",
+    "nombre": "Claudio Valle González",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-podemos-4",
+    "nombre": "Irene Carmen Fernández Hernández",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "ourense-vox-1",
+    "nombre": "Maria Jesús Morenza Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-vox-2",
+    "nombre": "Antonio González Reyes",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-vox-3",
+    "nombre": "Rosa Fontao Almeida",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-vox-4",
+    "nombre": "Luis Villalonga Elorza",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "ourense-salf-1",
+    "nombre": "Abel Estévez González",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-salf-2",
+    "nombre": "Maria Consuelo Barros León",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-salf-3",
+    "nombre": "Fernando Estévez Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-salf-4",
+    "nombre": "Silvia Irene Castro Suárez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "ourense-pp-1",
+    "nombre": "Ana Belén Vázquez Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pp-2",
+    "nombre": "Roberto González Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pp-3",
+    "nombre": "Rosa Maria Quintana Carballo",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pp-4",
+    "nombre": "Celso Luis Delgado Arce",
+    "descripcion": ""
+   }
+  ],
+  "bng": [
+   {
+    "id": "ourense-bng-1",
+    "nombre": "Noa Presas Bergantiños",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-bng-2",
+    "nombre": "Artai Gabiás Vilar",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-bng-3",
+    "nombre": "María González Albert",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-bng-4",
+    "nombre": "Lucas Pardo Pardo",
+    "descripcion": ""
+   }
+  ],
+  "pum-j": [
+   {
+    "id": "ourense-pum-j-1",
+    "nombre": "Rafael Manuel Fernández Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pum-j-2",
+    "nombre": "Teresa De Vallejo Sancho De Sopranis",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pum-j-3",
+    "nombre": "Carlos Besada Gesto",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pum-j-4",
+    "nombre": "Marina Fernández Delgado",
+    "descripcion": ""
+   }
+  ],
+  "frente-amplio-fronte-ampla": [
+   {
+    "id": "ourense-frente-amplio-fronte-ampla-1",
+    "nombre": "Juan Diego Conde Eguileta",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-frente-amplio-fronte-ampla-2",
+    "nombre": "María Dolores López Meléndez",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-frente-amplio-fronte-ampla-3",
+    "nombre": "David Teixeira Martin",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-frente-amplio-fronte-ampla-4",
+    "nombre": "Mercedes González Pazos",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "ourense-pacma-1",
+    "nombre": "María Fernanda Villegas Hermida",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pacma-2",
+    "nombre": "Rafael Cabanelas Seara",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pacma-3",
+    "nombre": "Aurora Del Pilar Prada Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "ourense-pacma-4",
+    "nombre": "Óscar Fernández Gómez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

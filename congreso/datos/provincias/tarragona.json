@@ -1,0 +1,427 @@
+{
+ "id": "tarragona",
+ "nombre": "Tarragona",
+ "ccaa": "cataluna",
+ "escanos": 6,
+ "listas": {
+  "psc": [
+   {
+    "id": "tarragona-psc-1",
+    "nombre": "Ione Montalvo Aguirrezabala",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-psc-2",
+    "nombre": "Andreu Martín Martinez",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-psc-3",
+    "nombre": "Nuria Ortíz Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-psc-4",
+    "nombre": "Joan Llort Vallès",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-psc-5",
+    "nombre": "Montserrat Latorre Pasanau",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-psc-6",
+    "nombre": "David Pulido González",
+    "descripcion": ""
+   }
+  ],
+  "erc": [
+   {
+    "id": "tarragona-erc-1",
+    "nombre": "Norma Pujol Farré",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-erc-2",
+    "nombre": "Eduard Rovira Gual",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-erc-3",
+    "nombre": "Jennifer Macía Morilla",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-erc-4",
+    "nombre": "Toni Carmona Martínez",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "tarragona-erc-5",
+    "nombre": "Núria Marco Selma",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-erc-6",
+    "nombre": "Jordi Salvador Duch",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "tarragona-fo-1",
+    "nombre": "Olga Donaire Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fo-2",
+    "nombre": "Gerard Fernández Parera",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fo-3",
+    "nombre": "Núria Vallespí Delabert",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fo-4",
+    "nombre": "Álvaro Gallego Losa",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fo-5",
+    "nombre": "María Antonia Lledó Lloveras",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fo-6",
+    "nombre": "Pau Ayala Baños",
+    "descripcion": ""
+   }
+  ],
+  "jxcat": [
+   {
+    "id": "tarragona-jxcat-1",
+    "nombre": "Josep Maria Cruset i Domènech",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-jxcat-2",
+    "nombre": "Eva Maria del Amo i Galarzo",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-jxcat-3",
+    "nombre": "Frederic Serramià i Porta",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-jxcat-4",
+    "nombre": "Eva Vallès i Blanch",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-jxcat-5",
+    "nombre": "Lluís Martí i Garcia",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-jxcat-6",
+    "nombre": "Rocío Martínez i Cañete",
+    "descripcion": ""
+   }
+  ],
+  "pctc": [
+   {
+    "id": "tarragona-pctc-1",
+    "nombre": "Andreu Tomàs Martínez de Villa",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pctc-2",
+    "nombre": "Olga Says Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pctc-3",
+    "nombre": "Heribert Jerez Daran",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pctc-4",
+    "nombre": "Alba Vizcarro Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pctc-5",
+    "nombre": "Albert Sabaté Altisent",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pctc-6",
+    "nombre": "Anna Soronellas Ferreras",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "tarragona-salf-1",
+    "nombre": "Jorge Sánchez Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-salf-2",
+    "nombre": "Mireia Tamayo Casado",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-salf-3",
+    "nombre": "Constantino Ortega Francés",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-salf-4",
+    "nombre": "Selene Montero Cabrera",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-salf-5",
+    "nombre": "Jordi García Baldajos",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-salf-6",
+    "nombre": "Consuelo Moreno Peláez",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "tarragona-fa-1",
+    "nombre": "Ester Roca Domodel",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fa-2",
+    "nombre": "Óscar Sendra Anglès",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fa-3",
+    "nombre": "Eva Amposta Serres",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fa-4",
+    "nombre": "Antonio Martínez Pascual",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fa-5",
+    "nombre": "Noélia Rodriguez Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-fa-6",
+    "nombre": "Jordi Collado Álvarez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "tarragona-vox-1",
+    "nombre": "Jordi Albert de la Fuente i Miró",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-vox-2",
+    "nombre": "Judit Gómez García",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-vox-3",
+    "nombre": "Ricard Montero i Meca",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-vox-4",
+    "nombre": "Palmira Isabel Segarra Clemente",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-vox-5",
+    "nombre": "Luis Gubern Mora",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-vox-6",
+    "nombre": "Vanessa Cleutjens Marsal",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "tarragona-pacma-1",
+    "nombre": "Bárbara Batalla Vargas",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pacma-2",
+    "nombre": "Alejandro Ruiz Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pacma-3",
+    "nombre": "María Dolores Casals Climent",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pacma-4",
+    "nombre": "Jordi Perelló Atienza",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pacma-5",
+    "nombre": "Montserrat Gázquez Villatoro",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pacma-6",
+    "nombre": "Juan Carlos Sánchez Benítez",
+    "descripcion": ""
+   }
+  ],
+  "cnv": [
+   {
+    "id": "tarragona-cnv-1",
+    "nombre": "Cristian Orellana Trujillo",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-cnv-2",
+    "nombre": "María José Loos Maynou",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-cnv-3",
+    "nombre": "Eduard March Hermo",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-cnv-4",
+    "nombre": "Gemma Castillo Cabrera",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-cnv-5",
+    "nombre": "Magin Pallarès Morgades",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-cnv-6",
+    "nombre": "Juana Vilalta Marsal",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "tarragona-mundo-justo-1",
+    "nombre": "Charles Toja Muiños",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-mundo-justo-2",
+    "nombre": "María del Rosario Muñiz Olivares",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-mundo-justo-3",
+    "nombre": "Jorge Isaax Calagdjian Piedrahita",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-mundo-justo-4",
+    "nombre": "Stephani Valeria Dávila Barros",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-mundo-justo-5",
+    "nombre": "Michel Jesús Dávila Barros",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-mundo-justo-6",
+    "nombre": "Delia Inés Agriel Camarillo",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "tarragona-pp-1",
+    "nombre": "Mónica Landete Oliva",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pp-2",
+    "nombre": "Pere Lluís Huguet Tous",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pp-3",
+    "nombre": "Elisa Vedrina Conesa",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pp-4",
+    "nombre": "David Paul Chatelain Lucena",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pp-5",
+    "nombre": "Eulàlia Carmona Iglesias",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-pp-6",
+    "nombre": "José Francisco Martínez Raya",
+    "descripcion": ""
+   }
+  ],
+  "alhora": [
+   {
+    "id": "tarragona-alhora-1",
+    "nombre": "Miquel Bonet Pinyol",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "tarragona-alhora-2",
+    "nombre": "Anna Llorca Comes",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-alhora-3",
+    "nombre": "Jesús Moreno Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-alhora-4",
+    "nombre": "Noemí Rocabert Argila",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-alhora-5",
+    "nombre": "Bruno Forteza Casas",
+    "descripcion": ""
+   },
+   {
+    "id": "tarragona-alhora-6",
+    "nombre": "Neus Barberà i Salas",
+    "descripcion": "",
+    "independiente": true
+   }
+  ]
+ }
+}

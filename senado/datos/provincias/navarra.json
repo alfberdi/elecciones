@@ -1,0 +1,161 @@
+{
+ "id": "navarra",
+ "nombre": "Navarra",
+ "ccaa": "navarra",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "eh-bildu-erc": [
+   {
+    "id": "sen-navarra-eh-bildu-erc-1",
+    "nombre": "Florencio Aoiz Monreal",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-eh-bildu-erc-2",
+    "nombre": "Paula García García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-eh-bildu-erc-3",
+    "nombre": "Angel Martín Unzue Ayanz",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iunneb-ms-batzarre": [
+   {
+    "id": "sen-navarra-psoe-iunneb-ms-batzarre-1",
+    "nombre": "Antonio Angel Moleón Segura",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-psoe-iunneb-ms-batzarre-2",
+    "nombre": "Ane María Sánchez Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-psoe-iunneb-ms-batzarre-3",
+    "nombre": "Jesús María Rodríguez Gómez",
+    "descripcion": ""
+   }
+  ],
+  "geroa-bai": [
+   {
+    "id": "sen-navarra-geroa-bai-1",
+    "nombre": "María Teresa Espinosa Sáenz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-2",
+    "nombre": "Raúl Ayala Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-3",
+    "nombre": "Ana Carmen Luján Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-4",
+    "nombre": "Eguzkilore",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-5",
+    "nombre": "Dany Leonardo Moreno Moreno.",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "sen-navarra-geroa-bai-6",
+    "nombre": "María Cruz Ariztegui Oyaregui",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-7",
+    "nombre": "Magdalena Amaya Barrachina Irigoyen",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-8",
+    "nombre": "Por Un Mundo Más Justo/bidizko Mundurantz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-9",
+    "nombre": "María Arantzazu Munárriz Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-10",
+    "nombre": "María Rosario Elcuaz Viscarret",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-11",
+    "nombre": "Josep María Valls Martí",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-12",
+    "nombre": "Unión del Pueblo Navarro en Coalición Con Partido Popular",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-13",
+    "nombre": "Javier Esparza Abaurrea",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-14",
+    "nombre": "María Isabel García Malo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-15",
+    "nombre": "Miguel Aguirre Yanguas",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-16",
+    "nombre": "Podemos",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-17",
+    "nombre": "Eva Calleja Novales",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-18",
+    "nombre": "Fernando González Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-19",
+    "nombre": "María Graciela López Camarán",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-20",
+    "nombre": "Vox",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-21",
+    "nombre": "Estíbaliz Moreno Irigoyen",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-22",
+    "nombre": "Juan del Águila Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-navarra-geroa-bai-23",
+    "nombre": "Carolina García-Ochoa Bonail",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,415 @@
+{
+ "id": "pontevedra",
+ "nombre": "Pontevedra",
+ "ccaa": "galicia",
+ "escanos": 7,
+ "listas": {
+  "fo": [
+   {
+    "id": "pontevedra-fo-1",
+    "nombre": "Xose Luis García Pazos",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fo-2",
+    "nombre": "María Alejandra Álvarez Sepúlveda",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fo-3",
+    "nombre": "José Antonio Domínguez Cruces",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fo-4",
+    "nombre": "Chenoa Collinao Del Canto",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fo-5",
+    "nombre": "Hugo Fernández Pinho",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fo-6",
+    "nombre": "Elia Fernández Císcar",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fo-7",
+    "nombre": "Alberto Iglesias Marquina",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "pontevedra-vox-1",
+    "nombre": "Álvaro José Díaz-Mella López",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-vox-2",
+    "nombre": "Melissa Borrusso Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-vox-3",
+    "nombre": "Miguel Paz Villar",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-vox-4",
+    "nombre": "Isabel Martínez Serantes",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-vox-5",
+    "nombre": "Carlos Enrique Bermúdez García",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-vox-6",
+    "nombre": "Jennifer González Vázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-vox-7",
+    "nombre": "Manuel Español González",
+    "descripcion": ""
+   }
+  ],
+  "pctg": [
+   {
+    "id": "pontevedra-pctg-1",
+    "nombre": "Miguel Riaño Roa",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pctg-2",
+    "nombre": "Inés Miñán Iglesias",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pctg-3",
+    "nombre": "Carlos César Touza García",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pctg-4",
+    "nombre": "Silvia Fernández García",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pctg-5",
+    "nombre": "Francisco Javier Bastardo Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pctg-6",
+    "nombre": "Talia Gómez Yepes",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pctg-7",
+    "nombre": "Jorge Moreno Otero",
+    "descripcion": ""
+   }
+  ],
+  "psdeg-psoe": [
+   {
+    "id": "pontevedra-psdeg-psoe-1",
+    "nombre": "Abel Fermín Losada Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-psdeg-psoe-2",
+    "nombre": "María Margarita Peregrina Adrio Taracido",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-psdeg-psoe-3",
+    "nombre": "Manuel Ángel Pazos Lamoso",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-psdeg-psoe-4",
+    "nombre": "Tania García Sanmartín",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-psdeg-psoe-5",
+    "nombre": "Ángel Rivas González",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-psdeg-psoe-6",
+    "nombre": "Digna Rosa Rivas Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-psdeg-psoe-7",
+    "nombre": "David Alonso Bargiela",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "pontevedra-escanos-en-blanco-1",
+    "nombre": "Joaquín Francisco Pérez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-escanos-en-blanco-2",
+    "nombre": "Paula García Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-escanos-en-blanco-3",
+    "nombre": "Diego Troncoso Casal",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-escanos-en-blanco-4",
+    "nombre": "Delfina García Trigo",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-escanos-en-blanco-5",
+    "nombre": "David Alonso Abad",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-escanos-en-blanco-6",
+    "nombre": "Ana María Montoto Varela",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-escanos-en-blanco-7",
+    "nombre": "Xurxo Fernández Alonso",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "pontevedra-pp-1",
+    "nombre": "Julio García Comesaña",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pp-2",
+    "nombre": "María José Pardo Pumar",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pp-3",
+    "nombre": "Pedro Puy Fraga",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pp-4",
+    "nombre": "Irene Garrido Valenzuela",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pp-5",
+    "nombre": "Juan Andrés Bayón Rolo",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pp-6",
+    "nombre": "Sara Martínez Salgado",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-pp-7",
+    "nombre": "Alfonso Vázquez Reboredo",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "pontevedra-fa-1",
+    "nombre": "Gloria Alonso Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fa-2",
+    "nombre": "Luis Baena Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fa-3",
+    "nombre": "Alba Torreiro Vilela",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fa-4",
+    "nombre": "Jesús María Álvarez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fa-5",
+    "nombre": "María Elena Lomba Portela",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fa-6",
+    "nombre": "Julio Fernández Collazo",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-fa-7",
+    "nombre": "María Luisa Martínez Martí",
+    "descripcion": ""
+   }
+  ],
+  "bng": [
+   {
+    "id": "pontevedra-bng-1",
+    "nombre": "María Carme da Silva Méndez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-bng-2",
+    "nombre": "Roberto Pascual Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-bng-3",
+    "nombre": "María Obelleiro Hermida",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-bng-4",
+    "nombre": "Álvaro Lamas Baños",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-bng-5",
+    "nombre": "Cristina Conde Escaloni",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-bng-6",
+    "nombre": "Anxo Iglesias Covelo",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-bng-7",
+    "nombre": "Rocío Barreiro Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "pontevedra-salf-1",
+    "nombre": "David Díaz Garrido",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-salf-2",
+    "nombre": "Luz Alejandra Sole Villamarín",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-salf-3",
+    "nombre": "José Andrés López Santomé",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-salf-4",
+    "nombre": "María del Pilar López Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-salf-5",
+    "nombre": "Carlos Luis González Armada",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-salf-6",
+    "nombre": "María Iglesias Correa",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-salf-7",
+    "nombre": "José Carlos Castro Fernández",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "pontevedra-podemos-1",
+    "nombre": "Lucas Meda Herbojo",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-podemos-2",
+    "nombre": "Luz Calia Miramontes Sequeiros",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-podemos-3",
+    "nombre": "Óscar Lomba Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-podemos-4",
+    "nombre": "María Mar Suárez Manteiga",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-podemos-5",
+    "nombre": "Ángel Villanueva Morán",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-podemos-6",
+    "nombre": "María del Carmen Berzosa Marcos",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-podemos-7",
+    "nombre": "Agustín Silva Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "pontevedra-mundo-justo-1",
+    "nombre": "María Noelia Alonso Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-mundo-justo-2",
+    "nombre": "Emilio Sestelo Lloves",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-mundo-justo-3",
+    "nombre": "María Dolores Pérez Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-mundo-justo-4",
+    "nombre": "José Manuel Ramos Puente",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-mundo-justo-5",
+    "nombre": "María Pilar Brocos Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-mundo-justo-6",
+    "nombre": "David Moure Bargo",
+    "descripcion": ""
+   },
+   {
+    "id": "pontevedra-mundo-justo-7",
+    "nombre": "María Lorena Martínez Gómez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

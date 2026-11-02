@@ -1,0 +1,122 @@
+{
+ "id": "sevilla",
+ "nombre": "Sevilla",
+ "ccaa": "andalucia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "adelante-andalucia": [
+   {
+    "id": "sen-sevilla-adelante-andalucia-1",
+    "nombre": "Francisca Maqueda Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-adelante-andalucia-2",
+    "nombre": "Juan Manuel Luna Fuentes",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-adelante-andalucia-3",
+    "nombre": "María Teresa Pablo Torres",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-sevilla-pcte-1",
+    "nombre": "Miguel Fuentes Martínez",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-sevilla-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "Rosario Andújar Torrejón",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Antonio Gutiérrez Limones",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Eva Patricia Bueno Campanario",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-sevilla-pacma-1",
+    "nombre": "Jaime Martínez Sánchez-Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-pacma-2",
+    "nombre": "María Elena Romero Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-pacma-3",
+    "nombre": "Fernando Jesús Martín Pozo",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-sevilla-podemos-1",
+    "nombre": "Laura Gil Cantos",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-podemos-2",
+    "nombre": "Antonio Durán Montero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-podemos-3",
+    "nombre": "María Purificación Huertas Fuentes",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-sevilla-pp-1",
+    "nombre": "Juan Manuel Ávila Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-pp-2",
+    "nombre": "María Teresa Astolfi González-Mogena",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-sevilla-pp-3",
+    "nombre": "Antonio Miguel Enamorado Aguilar",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-sevilla-vox-1",
+    "nombre": "Luis Valseca Tejerina",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-sevilla-mundo-justo-1",
+    "nombre": "Bienvenu Povele Kiladi",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-sevilla-fe-de-las-jons-1",
+    "nombre": "María Mercedes García Barrueco",
+    "descripcion": ""
+   }
+  ]
+ }
+}

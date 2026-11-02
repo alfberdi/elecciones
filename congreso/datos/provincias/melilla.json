@@ -1,0 +1,50 @@
+{
+ "id": "melilla",
+ "nombre": "Melilla",
+ "ccaa": "melilla",
+ "escanos": 1,
+ "listas": {
+  "psoe": [
+   {
+    "id": "melilla-psoe-1",
+    "nombre": "Riduan Moh Abdelkader",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "melilla-fo-1",
+    "nombre": "David Vidal Mas",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "melilla-salf-1",
+    "nombre": "Susana Morillo Espinosa",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "melilla-vox-1",
+    "nombre": "José Miguel Tasende Souto",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "melilla-escanos-en-blanco-1",
+    "nombre": "Juan Soler Pardo",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "melilla-pp-1",
+    "nombre": "Sofía Acedo Reyes",
+    "descripcion": ""
+   }
+  ]
+ }
+}

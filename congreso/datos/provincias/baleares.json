@@ -1,0 +1,345 @@
+{
+ "id": "baleares",
+ "nombre": "Illes Balears",
+ "ccaa": "baleares",
+ "escanos": 8,
+ "listas": {
+  "fo": [
+   {
+    "id": "baleares-fo-1",
+    "nombre": "Selva Lucía Belmaña López",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-fo-2",
+    "nombre": "Carlos Herrera Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-fo-3",
+    "nombre": "María Icíar Font Ortigosa",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-fo-4",
+    "nombre": "Iván Aparicio Bourachot",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-fo-5",
+    "nombre": "Nerea Domínguez Blasco",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-fo-6",
+    "nombre": "Virgilio Medina Ferragut",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-fo-7",
+    "nombre": "Andrea Galera Requena",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-fo-8",
+    "nombre": "Carlos Federico Sánchez Sejas",
+    "descripcion": ""
+   }
+  ],
+  "psib-psoe": [
+   {
+    "id": "baleares-psib-psoe-1",
+    "nombre": "Francesca Lluch Armengol Socias",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-psib-psoe-2",
+    "nombre": "Marc Isaac Pons Pons",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-psib-psoe-3",
+    "nombre": "Milena Herrera Garcia",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-psib-psoe-4",
+    "nombre": "Eduard Soriano Vives",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-psib-psoe-5",
+    "nombre": "Sara Alcaraz Páez",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-psib-psoe-6",
+    "nombre": "Enrique Mas Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-psib-psoe-7",
+    "nombre": "Azahara Peña De la Fuente",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-psib-psoe-8",
+    "nombre": "Xavier Colom Lozano",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "baleares-vox-1",
+    "nombre": "Maria Isabel Cerezo Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-vox-2",
+    "nombre": "Antonio Salvá Verd",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-vox-3",
+    "nombre": "Melina Merki Salaberry",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-vox-4",
+    "nombre": "Héctor Rubén Andrés Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-vox-5",
+    "nombre": "María Vidal Bennásar",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-vox-6",
+    "nombre": "Pedro Marqués Bagur",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-vox-7",
+    "nombre": "Francisca Blasco Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-vox-8",
+    "nombre": "David Gil de Paz",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "baleares-pacma-1",
+    "nombre": "María Remedios García Castillo",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pacma-2",
+    "nombre": "Francisco González Benito",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pacma-3",
+    "nombre": "Marijana Rabrenovic Simic",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pacma-4",
+    "nombre": "Carles Ferrán Suárez Carrillo",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pacma-5",
+    "nombre": "Mónica Cecilia Rodríguez Carreño",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pacma-6",
+    "nombre": "Gonzalo Eugenio Grijelmo Dorao",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pacma-7",
+    "nombre": "Pilar Gallego Bernal",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pacma-8",
+    "nombre": "José Luis Atero Gómez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "baleares-pcte-1",
+    "nombre": "Joan Luna Mateu",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pcte-2",
+    "nombre": "Aina Colom Mayol",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pcte-3",
+    "nombre": "Adrià Ruiz Rosselló",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pcte-4",
+    "nombre": "María de Mar Castillo Roig",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pcte-5",
+    "nombre": "Francisco Javier Carma Castillo",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pcte-6",
+    "nombre": "Raquel Lastra Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pcte-7",
+    "nombre": "Lluc Ballester Ibaraki",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pcte-8",
+    "nombre": "Beatriz Franc Miñana",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "baleares-salf-1",
+    "nombre": "Daniel Rodríguez Rincón",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-salf-2",
+    "nombre": "María del Carmen Bonnin Olivares",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-salf-3",
+    "nombre": "Romain Labadie Abugattas",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-salf-4",
+    "nombre": "Melodie Nikita Cabanellas Collins",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-salf-5",
+    "nombre": "Raúl Espigares Ballesteros",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-salf-6",
+    "nombre": "Palmira Ledesma Alaminos",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-salf-7",
+    "nombre": "Mikolaj Lotysz Wójcicka",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-salf-8",
+    "nombre": "Sandra Mañas García",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "baleares-pp-1",
+    "nombre": "José Vicente Marí Bosó",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pp-2",
+    "nombre": "Antònia Roca Bellinfante",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pp-3",
+    "nombre": "Joan Mesquida Mayans",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pp-4",
+    "nombre": "Francisca Porquer Manresa",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pp-5",
+    "nombre": "Jacobo Varela de Limia Chordá",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pp-6",
+    "nombre": "Verónica Castelló Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pp-7",
+    "nombre": "Santiago Mascaró Cardona",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-pp-8",
+    "nombre": "Mireia Martínez Vaquer",
+    "descripcion": ""
+   }
+  ],
+  "arames-eu-ms": [
+   {
+    "id": "baleares-arames-eu-ms-1",
+    "nombre": "Carmen Gomila Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-arames-eu-ms-2",
+    "nombre": "Sergio Cerezo Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-arames-eu-ms-3",
+    "nombre": "Lucía Muñoz Dalda",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "baleares-arames-eu-ms-4",
+    "nombre": "Mateu Berenguer Munté",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-arames-eu-ms-5",
+    "nombre": "Vicenta Mengual Lull",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-arames-eu-ms-6",
+    "nombre": "Òscar Evaristo Rodríguez Aller",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-arames-eu-ms-7",
+    "nombre": "Núria García Caballeria",
+    "descripcion": ""
+   },
+   {
+    "id": "baleares-arames-eu-ms-8",
+    "nombre": "Isidor Marí Mayans",
+    "descripcion": ""
+   }
+  ]
+ }
+}

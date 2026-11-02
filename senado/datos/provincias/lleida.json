@@ -1,0 +1,118 @@
+{
+ "id": "lleida",
+ "nombre": "Lleida",
+ "ccaa": "cataluna",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "psc": [
+   {
+    "id": "sen-lleida-psc-1",
+    "nombre": "Jan Pomés López",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-psc-2",
+    "nombre": "Pasión Gador Romero García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-psc-3",
+    "nombre": "Carlos Trinidad Ortega",
+    "descripcion": ""
+   }
+  ],
+  "jxcat": [
+   {
+    "id": "sen-lleida-jxcat-1",
+    "nombre": "Rosa Maria Melines i Rius",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-jxcat-2",
+    "nombre": "Emili Gilabert i Roca",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-jxcat-3",
+    "nombre": "Judit Guim i Tarruella",
+    "descripcion": ""
+   }
+  ],
+  "erc-eh-bildu": [
+   {
+    "id": "sen-lleida-erc-eh-bildu-1",
+    "nombre": "Sílvia Martínez i Fuentes",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-erc-eh-bildu-2",
+    "nombre": "Pol Oliva i Solé",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-erc-eh-bildu-3",
+    "nombre": "Joan Parcerisa i Albacete",
+    "descripcion": ""
+   }
+  ],
+  "pctc": [
+   {
+    "id": "sen-lleida-pctc-1",
+    "nombre": "Guillem Sans Garrote",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-lleida-pp-1",
+    "nombre": "José Ramón Guiu Estopá",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-pp-2",
+    "nombre": "Ana Cava Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-pp-3",
+    "nombre": "Miguel Angel Balao Garcia",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-lleida-vox-1",
+    "nombre": "Isabel Mas Picatoste",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-vox-2",
+    "nombre": "Antonio Blas Martí Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-vox-3",
+    "nombre": "Paula García Castellanos",
+    "descripcion": ""
+   }
+  ],
+  "c-dem": [
+   {
+    "id": "sen-lleida-c-dem-1",
+    "nombre": "Josep Vendrell Gardeñes",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-c-dem-2",
+    "nombre": "Elena Carmen Motos Hervas",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lleida-c-dem-3",
+    "nombre": "Francisco Godas Bastida",
+    "descripcion": ""
+   }
+  ]
+ }
+}

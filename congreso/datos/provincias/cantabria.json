@@ -1,0 +1,197 @@
+{
+ "id": "cantabria",
+ "nombre": "Cantabria",
+ "ccaa": "cantabria",
+ "escanos": 5,
+ "listas": {
+  "psoe": [
+   {
+    "id": "cantabria-psoe-1",
+    "nombre": "Susana Herran Martin",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-psoe-2",
+    "nombre": "Eduardo Magaldi González",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-psoe-3",
+    "nombre": "Gema Fernández Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-psoe-4",
+    "nombre": "Alejandro Llano Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-psoe-5",
+    "nombre": "Celia Bustamante Salcines",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "cantabria-fo-1",
+    "nombre": "Raúl Diaz Roces",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-fo-2",
+    "nombre": "Mónica Ricciardiello Caballero",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-fo-3",
+    "nombre": "Igor Martínez Losada",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-fo-4",
+    "nombre": "Pilar Vicenta Alba Gallarda",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-fo-5",
+    "nombre": "Rene Fernández Gámez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "cantabria-podemos-1",
+    "nombre": "Pablo Gómez Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-podemos-2",
+    "nombre": "Mónica Rodero Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-podemos-3",
+    "nombre": "Julio Luis Medina Pasaje",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-podemos-4",
+    "nombre": "Ana María Haya Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-podemos-5",
+    "nombre": "Ruben Madrazo Muela",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "cantabria-vox-1",
+    "nombre": "Emilio Jesús del Valle Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-vox-2",
+    "nombre": "Laura Velasco Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-vox-3",
+    "nombre": "Antonio de la Riva Herrero",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-vox-4",
+    "nombre": "Sonia Manteca Pando",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-vox-5",
+    "nombre": "Agustín Fernández Martínez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "cantabria-pcte-1",
+    "nombre": "Pablo Isidro Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-pcte-2",
+    "nombre": "Cristina González Vítores",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-pcte-3",
+    "nombre": "Diego García-Oliva Stohr",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-pcte-4",
+    "nombre": "Julia Fábrega Torrano",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-pcte-5",
+    "nombre": "Diego Guirau Berrueco",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "cantabria-pp-1",
+    "nombre": "María Isabel Urrutia de los Mozos",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-pp-2",
+    "nombre": "Félix de las Cuevas Cortés",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-pp-3",
+    "nombre": "Eva Balbín García",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-pp-4",
+    "nombre": "Oscar Clemente Campo",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-pp-5",
+    "nombre": "Esther Mendiguchía Calleja",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "cantabria-fa-1",
+    "nombre": "María Carmen Martin García",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-fa-2",
+    "nombre": "José Luis de la Mata Mancebo",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-fa-3",
+    "nombre": "Carmen Fuentes Sáinz",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-fa-4",
+    "nombre": "José María Campuzano García-Bárcena",
+    "descripcion": ""
+   },
+   {
+    "id": "cantabria-fa-5",
+    "nombre": "Verónica Canel Montero",
+    "descripcion": ""
+   }
+  ]
+ }
+}

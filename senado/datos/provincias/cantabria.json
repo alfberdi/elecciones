@@ -1,0 +1,84 @@
+{
+ "id": "cantabria",
+ "nombre": "Cantabria",
+ "ccaa": "cantabria",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "podemos": [
+   {
+    "id": "sen-cantabria-podemos-1",
+    "nombre": "Mercedes González Reguilon",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cantabria-podemos-2",
+    "nombre": "Raúl Gómez Varela",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cantabria-podemos-3",
+    "nombre": "Elsa María Miguel Gutiérrez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-cantabria-vox-1",
+    "nombre": "José Joaquín Bengochea Seco",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cantabria-vox-2",
+    "nombre": "Victoria Eugenia Rodríguez Varela",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cantabria-vox-3",
+    "nombre": "José Luís Palacio Bensusan",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms-mm-compromis-cha-batzarre": [
+   {
+    "id": "sen-cantabria-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+    "nombre": "Paz Mercedes de la Cuesta Aguado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cantabria-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+    "nombre": "Israel Ruiz Salmón",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cantabria-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+    "nombre": "Paloma Palacio Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-cantabria-pcte-1",
+    "nombre": "Alfredo Ramos Gómez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-cantabria-pp-1",
+    "nombre": "Gema Igual Ortiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cantabria-pp-2",
+    "nombre": "Luis Venancio Martínez Abad",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cantabria-pp-3",
+    "nombre": "María Carmen Bedoya Morton",
+    "descripcion": ""
+   }
+  ]
+ }
+}

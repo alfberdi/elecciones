@@ -1,0 +1,115 @@
+{
+ "id": "soria",
+ "nombre": "Soria",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "mundo-justo": [
+   {
+    "id": "sen-soria-mundo-justo-1",
+    "nombre": "Álvaro Galera Arias",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-soria-vox-1",
+    "nombre": "María Sara López Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-vox-2",
+    "nombre": "Alberto Enrique Peñuelas Felipe",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-vox-3",
+    "nombre": "Esther María García García",
+    "descripcion": ""
+   }
+  ],
+  "sy": [
+   {
+    "id": "sen-soria-sy-1",
+    "nombre": "David Romera Sevillano",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-sy-2",
+    "nombre": "María Concepción Álvarez Sacristán",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-sy-3",
+    "nombre": "Fernando del Amo Gallego",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-soria-pp-1",
+    "nombre": "Benito Serrano Mata",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-pp-2",
+    "nombre": "María Yolanda de Gregorio Pachón",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-pp-3",
+    "nombre": "Javier Jiménez Santamaría",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-soria-escanos-en-blanco-1",
+    "nombre": "Luis Lasfuentes García",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "sen-soria-escanos-en-blanco-2",
+    "nombre": "Gloria de la Parra Amorena",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-soria-psoe-iu-ms-1",
+    "nombre": "Ana Alegre Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-psoe-iu-ms-2",
+    "nombre": "Manuel Madrid Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-psoe-iu-ms-3",
+    "nombre": "Gemma Hernández Ramos",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-soria-podemos-1",
+    "nombre": "Mario Calonge Calvo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-podemos-2",
+    "nombre": "María José Marco Llorente",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-soria-podemos-3",
+    "nombre": "José Luis San Juan García",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,184 @@
+{
+ "id": "lugo",
+ "nombre": "Lugo",
+ "ccaa": "galicia",
+ "escanos": 4,
+ "listas": {
+  "psoe": [
+   {
+    "id": "lugo-psoe-1",
+    "nombre": "Patricia Otero Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-psoe-2",
+    "nombre": "Jorge Bustos Atanasio",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-psoe-3",
+    "nombre": "Eva Blanco López",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-psoe-4",
+    "nombre": "Ismael Carcedo Gómez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "lugo-podemos-1",
+    "nombre": "Ximena Cheda Tuya",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-podemos-2",
+    "nombre": "Francisco Farias Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-podemos-3",
+    "nombre": "María Dolores Julià Carrasco",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-podemos-4",
+    "nombre": "Orencio Orosa García",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "lugo-vox-1",
+    "nombre": "Jesús Primitivo Rodríguez González",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-vox-2",
+    "nombre": "Nair Trastoy Cupeiro",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-vox-3",
+    "nombre": "Marco Aurelio Castro Trigueros",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-vox-4",
+    "nombre": "Ana María Ignacio Merchán",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "lugo-fo-1",
+    "nombre": "Víctor Contreras Céspedes",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-fo-2",
+    "nombre": "María de los Remedios Ranchal Matellano",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-fo-3",
+    "nombre": "Fernando Damata Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-fo-4",
+    "nombre": "Ainhoa Sánchez Larrañaga",
+    "descripcion": ""
+   }
+  ],
+  "bng": [
+   {
+    "id": "lugo-bng-1",
+    "nombre": "Olalla Rodil Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-bng-2",
+    "nombre": "Iago Suárez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-bng-3",
+    "nombre": "Inmaculada Castro Besteiro",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-bng-4",
+    "nombre": "Severino Salgueiro Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "lugo-pp-1",
+    "nombre": "Francisco José Conde López",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-pp-2",
+    "nombre": "María Cristina Abades Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-pp-3",
+    "nombre": "Jaime de Olano Vela",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-pp-4",
+    "nombre": "María Alicia López Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "lugo-fa-1",
+    "nombre": "Reyes Rodríguez García",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-fa-2",
+    "nombre": "Miguel Martínez Cabaleiro",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-fa-3",
+    "nombre": "Rosa Estefanía Pérez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-fa-4",
+    "nombre": "José Carlos Vázquez González",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "lugo-salf-1",
+    "nombre": "María Ferreiro Carreiras",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-salf-2",
+    "nombre": "Eladio José Méndez Garrido",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-salf-3",
+    "nombre": "Olga Roldán Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "lugo-salf-4",
+    "nombre": "David Martín Santillana",
+    "descripcion": ""
+   }
+  ]
+ }
+}

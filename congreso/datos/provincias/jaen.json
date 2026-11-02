@@ -1,0 +1,306 @@
+{
+ "id": "jaen",
+ "nombre": "Jaén",
+ "ccaa": "andalucia",
+ "escanos": 5,
+ "listas": {
+  "fo": [
+   {
+    "id": "jaen-fo-1",
+    "nombre": "Erika Villegas Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-fo-2",
+    "nombre": "Manuel José Choza Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-fo-3",
+    "nombre": "Amelia Guerrero Tierraseca",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-fo-4",
+    "nombre": "Sergio Fuentes Expósito",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-fo-5",
+    "nombre": "Claudia María Soler Sedano",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "jaen-psoe-1",
+    "nombre": "Isabel Uceda Cantero",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-psoe-2",
+    "nombre": "Juan Francisco Serrano Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-psoe-3",
+    "nombre": "Ainoa Caravaca Collados",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-psoe-4",
+    "nombre": "Abelardo de la Rosa Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-psoe-5",
+    "nombre": "Andrea Alcántara Carrillo",
+    "descripcion": ""
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "jaen-adelante-andalucia-1",
+    "nombre": "Silvia Cano Contreras",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-adelante-andalucia-2",
+    "nombre": "Carlos Rubén Urbita Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-adelante-andalucia-3",
+    "nombre": "María Ascensión Venteo Neff",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-adelante-andalucia-4",
+    "nombre": "Yonathan Chamorro González",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-adelante-andalucia-5",
+    "nombre": "Mariana Fernández Montávez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "jaen-pcte-1",
+    "nombre": "Juan Francisco Salinas Montoro",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pcte-2",
+    "nombre": "Adriana Morales Salas",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pcte-3",
+    "nombre": "Enrique Navarro Traver",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pcte-4",
+    "nombre": "María del Carmen Sánchez Castellanos",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pcte-5",
+    "nombre": "Rafael Torres Pérez",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "jaen-salf-1",
+    "nombre": "Juan Javier Reverte López",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-salf-2",
+    "nombre": "Marta Álvarez Leal",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-salf-3",
+    "nombre": "Juan José Ponce Garrido",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-salf-4",
+    "nombre": "Almudena Calderón Cruz",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-salf-5",
+    "nombre": "Juan Pedro Juárez Alcalá",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "jaen-vox-1",
+    "nombre": "Francisco José Alcaraz Martos",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-vox-2",
+    "nombre": "María Magdalena Puentedura Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-vox-3",
+    "nombre": "Fernando Navas Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-vox-4",
+    "nombre": "María Del Pilar Sánchez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-vox-5",
+    "nombre": "Manuel Ureña Contreras",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "jaen-pacma-1",
+    "nombre": "Noemí Pulido Galán",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pacma-2",
+    "nombre": "Juan Antonio Montijano Candel",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pacma-3",
+    "nombre": "Inmaculada Garcia Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pacma-4",
+    "nombre": "Manuel Ortega Pegalajar",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pacma-5",
+    "nombre": "Mercedes Escabias Sutil",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "jaen-pp-1",
+    "nombre": "Luis Mariano Camacho Nuñez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pp-2",
+    "nombre": "Mariola Aranda García",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pp-3",
+    "nombre": "Antonio Losa Valdivieso",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pp-4",
+    "nombre": "María Mercedes Flores Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-pp-5",
+    "nombre": "Víctor Manuel López Colorado",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "jaen-podemos-1",
+    "nombre": "Dolores Rodríguez López",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-podemos-2",
+    "nombre": "Alberto Cantudo Cantarero",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-podemos-3",
+    "nombre": "María Inmaculada Moreno Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-podemos-4",
+    "nombre": "Diego García Guzmán",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-podemos-5",
+    "nombre": "Remedios Castaño Domene",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "jaen-mundo-justo-1",
+    "nombre": "Francisca Amaro Lombardo",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-mundo-justo-2",
+    "nombre": "Juan Ángel Iglesias García",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-mundo-justo-3",
+    "nombre": "María Magdalena Rodríguez Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-mundo-justo-4",
+    "nombre": "Joaquín Malo de Molina Fernández de Córdova",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-mundo-justo-5",
+    "nombre": "Juana María García Amaro",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "fa": [
+   {
+    "id": "jaen-fa-1",
+    "nombre": "Antonio Ortega Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-fa-2",
+    "nombre": "Josefa Palomares Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-fa-3",
+    "nombre": "Jesús González Barranco",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-fa-4",
+    "nombre": "Sara Cera Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "jaen-fa-5",
+    "nombre": "Manuel Cazalla Ortega",
+    "descripcion": ""
+   }
+  ]
+ }
+}

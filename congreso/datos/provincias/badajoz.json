@@ -1,0 +1,313 @@
+{
+ "id": "badajoz",
+ "nombre": "Badajoz",
+ "ccaa": "extremadura",
+ "escanos": 9,
+ "listas": {
+  "psoe": [
+   {
+    "id": "badajoz-psoe-1",
+    "nombre": "María Yolanda García Seco",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-psoe-2",
+    "nombre": "Ángel Caballero Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-psoe-3",
+    "nombre": "María José Fernández Hormigo",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-psoe-4",
+    "nombre": "Juan José Benítez Ruiz-Moyano",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-psoe-5",
+    "nombre": "Fátima Torrado Viera",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "badajoz-salf-1",
+    "nombre": "German Martínez Valverde",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-salf-2",
+    "nombre": "Violeta Casado Sarti",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-salf-3",
+    "nombre": "Samuel Chamizo Olmos",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-salf-4",
+    "nombre": "Cristina Sánchez Fuentes",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-salf-5",
+    "nombre": "Manuel Ángel Mato Antolín",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-salf-6",
+    "nombre": "Clara María Báez Merino",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-salf-7",
+    "nombre": "Miguel Ángel Dorado Chamizo",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-salf-8",
+    "nombre": "Raquel González Carnero",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "badajoz-vox-1",
+    "nombre": "Ignacio Hoces Iñiguez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-vox-2",
+    "nombre": "Eva María García Alegre",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-vox-3",
+    "nombre": "Fermín Manuel Prieto Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-vox-4",
+    "nombre": "Margarita Inmaculada López de Ayala Díez de Rivera",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-vox-5",
+    "nombre": "José Marcelo Amarilla Pérez",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "badajoz-fo-1",
+    "nombre": "Yago De Francisco González",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fo-2",
+    "nombre": "Ángela Álvarez Rozada",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fo-3",
+    "nombre": "José Joaquín Barroso Carrascal",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fo-4",
+    "nombre": "Giovanna Renata Lema Muyulema",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fo-5",
+    "nombre": "José Antonio Corvo Viera",
+    "descripcion": ""
+   }
+  ],
+  "nex": [
+   {
+    "id": "badajoz-nex-1",
+    "nombre": "Víctor Ramos Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-nex-2",
+    "nombre": "Lucía Sánchez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-nex-3",
+    "nombre": "Daniel Serrano Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-nex-4",
+    "nombre": "Elena Martín De Tena",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-nex-5",
+    "nombre": "Manuel Gallardo Guerrero",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "badajoz-pp-1",
+    "nombre": "María Teresa Tortonda Gordillo",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-pp-2",
+    "nombre": "Antonio Cavacasillas Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-pp-3",
+    "nombre": "Elena Salgado Vaquerizo",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-pp-4",
+    "nombre": "Alfonso Carlos Macias Gata",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-pp-5",
+    "nombre": "Esmeralda Rubio Curado",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "badajoz-fa-1",
+    "nombre": "María del Pilar Ramos Duro",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fa-2",
+    "nombre": "Arturo José Justicia Bermejo",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fa-3",
+    "nombre": "Mercedes Gallego Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fa-4",
+    "nombre": "Adrián Rodríguez Santos",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fa-5",
+    "nombre": "María Dolores Jiménez Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fa-6",
+    "nombre": "Juan Eugenio Mena Cabezas",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fa-7",
+    "nombre": "Andrea Macías Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fa-8",
+    "nombre": "Jesús Merino González",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-fa-9",
+    "nombre": "María Arenas Lopera",
+    "descripcion": ""
+   }
+  ],
+  "j-u-e-x": [
+   {
+    "id": "badajoz-j-u-e-x-1",
+    "nombre": "Francisco Fuentes Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-j-u-e-x-2",
+    "nombre": "Carmen Albújar Torrado",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-j-u-e-x-3",
+    "nombre": "José Ramón Gamero Pimienta",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-j-u-e-x-4",
+    "nombre": "María de la Luz Castilla Santos",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-j-u-e-x-5",
+    "nombre": "Lázaro Elías Ramos",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "badajoz-mundo-justo-1",
+    "nombre": "Inmaculada Soria Eugenio",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-mundo-justo-2",
+    "nombre": "Mario Cano Paredes",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-mundo-justo-3",
+    "nombre": "María Guadalupe Cascón Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-mundo-justo-4",
+    "nombre": "Manuel Montanero Castellanos",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-mundo-justo-5",
+    "nombre": "Elena María Viguera Moreno",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "badajoz-podemos-1",
+    "nombre": "Amparo Botejara Sanz",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-podemos-2",
+    "nombre": "Ildefonso Calvo Suero",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-podemos-3",
+    "nombre": "Jara Romero Berro",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-podemos-4",
+    "nombre": "Francisco Salgado Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "badajoz-podemos-5",
+    "nombre": "María Josefa García Estévez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

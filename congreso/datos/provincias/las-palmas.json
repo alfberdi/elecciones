@@ -1,0 +1,603 @@
+{
+ "id": "las-palmas",
+ "nombre": "Las Palmas",
+ "ccaa": "canarias",
+ "escanos": 8,
+ "listas": {
+  "psoe": [
+   {
+    "id": "las-palmas-psoe-1",
+    "nombre": "María Dolores Corujo Berriel",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-psoe-2",
+    "nombre": "Luc Andre Diouf Dioh",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-psoe-3",
+    "nombre": "Vanesa María Cabrera Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-psoe-4",
+    "nombre": "Pedro Sosa Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-psoe-5",
+    "nombre": "Ada Santana Aguilera",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-psoe-6",
+    "nombre": "Alberto Guevara Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-psoe-7",
+    "nombre": "Sana Chehaib Charfaoui",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-psoe-8",
+    "nombre": "Jorge Cornejo Jiménez",
+    "descripcion": ""
+   }
+  ],
+  "lib": [
+   {
+    "id": "las-palmas-lib-1",
+    "nombre": "Daniel Falero Mesa",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-lib-2",
+    "nombre": "Nicole Nadine Rodríguez Duhr",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-lib-3",
+    "nombre": "Nicolás Cabrera Acosta",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-lib-4",
+    "nombre": "Yanira Rosa León Carrillo",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-lib-5",
+    "nombre": "Jesús Nauzet Farray Acosta",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-lib-6",
+    "nombre": "María del Carmen González Oramas",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-lib-7",
+    "nombre": "Esteban Manuel Rodríguez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-lib-8",
+    "nombre": "Marta Josefa Naranjo Montesdeoca",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "las-palmas-pp-1",
+    "nombre": "Sergio Ramos Acosta",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pp-2",
+    "nombre": "María Teresa Ortega Granados",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pp-3",
+    "nombre": "Guillermo Carlos Mariscal Anaya",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pp-4",
+    "nombre": "Clara Mercedes Peña Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pp-5",
+    "nombre": "Jeziel Martín Arrocha",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pp-6",
+    "nombre": "Olga Palacios Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pp-7",
+    "nombre": "José Vicente Calero Saavedra",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pp-8",
+    "nombre": "Lorena Martín Cabrera",
+    "descripcion": ""
+   }
+  ],
+  "d-r-g": [
+   {
+    "id": "las-palmas-d-r-g-1",
+    "nombre": "Héctor Morán Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-d-r-g-2",
+    "nombre": "Aceysele Chacón Méndez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-d-r-g-3",
+    "nombre": "Luis Bruno de la Barrera Massieu",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-d-r-g-4",
+    "nombre": "Mar Jiménez Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-d-r-g-5",
+    "nombre": "Rafael Jiménez Tortosa",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-d-r-g-6",
+    "nombre": "Cristina del Carmen Acosta Haro",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-d-r-g-7",
+    "nombre": "Juan Cosme Vega Reyes",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-d-r-g-8",
+    "nombre": "Mónica Guacimara Bernal Quintana",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "las-palmas-fo-1",
+    "nombre": "Jorge García Cantarero",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-fo-2",
+    "nombre": "Celestina Sosa Quevedo",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-fo-3",
+    "nombre": "José Antonio Cabrera Riverol",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-fo-4",
+    "nombre": "María Vanessa García Latorre",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-fo-5",
+    "nombre": "Juan Manuel Laulhe Vieitez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-fo-6",
+    "nombre": "Carmen María Gómez Abellán",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-fo-7",
+    "nombre": "Alejandro Garrido Castilla",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-fo-8",
+    "nombre": "Alicia Lasheras Beses",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "las-palmas-vox-1",
+    "nombre": "Andrés Alberto Rodríguez Almeida",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-vox-2",
+    "nombre": "Inés Lucía Cuartero Lorenzo",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-vox-3",
+    "nombre": "Adrián Rubio García",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-vox-4",
+    "nombre": "Rocío Esperanza Moreno Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-vox-5",
+    "nombre": "Carlos Canino Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-vox-6",
+    "nombre": "Carmen Suárez Parrilla",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-vox-7",
+    "nombre": "Juan Antonio Garcés Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-vox-8",
+    "nombre": "Yaiza Ojeda González",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "las-palmas-pcte-1",
+    "nombre": "Domingo González Perdomo",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcte-2",
+    "nombre": "María Luisa de la Torre Acosta",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcte-3",
+    "nombre": "Andrés Castañón Rincón",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcte-4",
+    "nombre": "Blanca Selena García Bisbicus",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcte-5",
+    "nombre": "Guaire Sánchez Monroy",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcte-6",
+    "nombre": "Nora Amaro Quintana",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcte-7",
+    "nombre": "Andrés Juan Vazquez Espino",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcte-8",
+    "nombre": "Yanira Fernández Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "1-can-cca": [
+   {
+    "id": "las-palmas-1-can-cca-1",
+    "nombre": "Teodoro Claret Sosa Monzón",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-1-can-cca-2",
+    "nombre": "María Fernández Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-1-can-cca-3",
+    "nombre": "Juan José Rodríguez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-1-can-cca-4",
+    "nombre": "Minerva Carmen Alonso Santana",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-1-can-cca-5",
+    "nombre": "David Monte López",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-1-can-cca-6",
+    "nombre": "María del Carmen González Medina",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-1-can-cca-7",
+    "nombre": "Raúl Salvador García Brink",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-1-can-cca-8",
+    "nombre": "Etna-Thiare Alegría Suárez",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "las-palmas-salf-1",
+    "nombre": "Clara María Tejera González",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-salf-2",
+    "nombre": "Ignacio Suárez Caballero",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-salf-3",
+    "nombre": "María Paola González Gil",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-salf-4",
+    "nombre": "Julio César Pino Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-salf-5",
+    "nombre": "Irene Patricia Valerón Iversen",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-salf-6",
+    "nombre": "José Francisco Santana Alfonso",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-salf-7",
+    "nombre": "Natalia García Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-salf-8",
+    "nombre": "Aridane Cabrera García",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "las-palmas-mundo-justo-1",
+    "nombre": "Gara Rodríguez Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-mundo-justo-2",
+    "nombre": "José Ángel Hernández Duarte",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-mundo-justo-3",
+    "nombre": "Laura Rodríguez Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-mundo-justo-4",
+    "nombre": "Manuel Luis Pérez Salazar",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-mundo-justo-5",
+    "nombre": "Jesús del Carmen Rosales Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-mundo-justo-6",
+    "nombre": "Carlos Sosa Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-mundo-justo-7",
+    "nombre": "Ana María Parriego de Celis",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-mundo-justo-8",
+    "nombre": "Rafael Ángel de León Morales",
+    "descripcion": ""
+   }
+  ],
+  "nc-bc-podemos-iu-sumar": [
+   {
+    "id": "las-palmas-nc-bc-podemos-iu-sumar-1",
+    "nombre": "Luis Alberto Campos Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-nc-bc-podemos-iu-sumar-2",
+    "nombre": "Yolanda Iratxe Serrano Ávila",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-nc-bc-podemos-iu-sumar-3",
+    "nombre": "Jorge Miguel Peñas Lozano",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-nc-bc-podemos-iu-sumar-4",
+    "nombre": "Angie Lizeth Rivera Ortiz",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-nc-bc-podemos-iu-sumar-5",
+    "nombre": "Francisco Javier Marrero Santana",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-nc-bc-podemos-iu-sumar-6",
+    "nombre": "Soraya El Hajoui El Hajoui",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-nc-bc-podemos-iu-sumar-7",
+    "nombre": "Ismael Jesús Sánchez Melián",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-nc-bc-podemos-iu-sumar-8",
+    "nombre": "Antonia Gloria Ali Santana",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "las-palmas-pacma-1",
+    "nombre": "Iris Cristina Sánchez Padrón",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pacma-2",
+    "nombre": "Esperanza Pino Gómez Guerra",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pacma-3",
+    "nombre": "Luis Alberto Pardillos Fraile",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pacma-4",
+    "nombre": "María de los Ángeles Encabo López",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pacma-5",
+    "nombre": "Dailos Batista Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pacma-6",
+    "nombre": "Ana Isabel Pérez Gracia",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pacma-7",
+    "nombre": "Eleazar Mentado Déniz",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pacma-8",
+    "nombre": "María del Mar García Arias",
+    "descripcion": ""
+   }
+  ],
+  "pcpc": [
+   {
+    "id": "las-palmas-pcpc-1",
+    "nombre": "Sonia María Iruela Padrón",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcpc-2",
+    "nombre": "Carmelo Antonio Suárez Cabrera",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcpc-3",
+    "nombre": "Daniel González Expósito",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcpc-4",
+    "nombre": "Francisca Carmen Sánchez Macías",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcpc-5",
+    "nombre": "María del Carmen Talavera Quevedo",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcpc-6",
+    "nombre": "Lorenza Machín Alarcón",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcpc-7",
+    "nombre": "Federico de Santa Ana Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-pcpc-8",
+    "nombre": "José del Toro Augusto",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "las-palmas-escanos-en-blanco-1",
+    "nombre": "Valentín Tomás Labrada Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "las-palmas-escanos-en-blanco-2",
+    "nombre": "Marta Benaiges Renom",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "las-palmas-escanos-en-blanco-3",
+    "nombre": "Daniel José Morales Ortega",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "las-palmas-escanos-en-blanco-4",
+    "nombre": "María Magdalena González Fuentes",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "las-palmas-escanos-en-blanco-5",
+    "nombre": "Augusto Esparza Varona",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "las-palmas-escanos-en-blanco-6",
+    "nombre": "Divina del Pino Ruega López",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "las-palmas-escanos-en-blanco-7",
+    "nombre": "Juan Manuel Martínez Macías",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "las-palmas-escanos-en-blanco-8",
+    "nombre": "María de las Nieves Rey Travieso",
+    "descripcion": "",
+    "independiente": true
+   }
+  ]
+ }
+}

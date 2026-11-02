@@ -1,0 +1,129 @@
+{
+ "id": "alava",
+ "nombre": "Álava",
+ "ccaa": "pais-vasco",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "psoe-iu-ms-mm-compromis-cha-batzarre": [
+   {
+    "id": "sen-alava-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+    "nombre": "Daniel Senderos Oraá",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+    "nombre": "Paula Somalo García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+    "nombre": "Adolfo Lander Vera",
+    "descripcion": ""
+   }
+  ],
+  "eh-bildu-erc": [
+   {
+    "id": "sen-alava-eh-bildu-erc-1",
+    "nombre": "Josu Estarrona Elizondo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-eh-bildu-erc-2",
+    "nombre": "Ainhize Solaun Mendiguren",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-eh-bildu-erc-3",
+    "nombre": "Manu Martínez Aguirre",
+    "descripcion": ""
+   }
+  ],
+  "eaj-pnv": [
+   {
+    "id": "sen-alava-eaj-pnv-1",
+    "nombre": "Saray Zárate Fernández de Landa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-eaj-pnv-2",
+    "nombre": "Angel Marcos Pérez de Arrilucea Pérez de Leceta",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-eaj-pnv-3",
+    "nombre": "Arantza Yarza Valle",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-alava-escanos-en-blanco-1",
+    "nombre": "Luis María Ormaetxea Santsiñena",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "sen-alava-escanos-en-blanco-2",
+    "nombre": "Eva María Carrascal Salgado",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-alava-vox-1",
+    "nombre": "María Amaya Martínez Grisaleña",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-alava-podemos-1",
+    "nombre": "Juan José Miller Valdez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-podemos-2",
+    "nombre": "Esther San Martín Gil",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-podemos-3",
+    "nombre": "Txomin-Domingo Valluerca Monje",
+    "descripcion": ""
+   }
+  ],
+  "pcte-elak": [
+   {
+    "id": "sen-alava-pcte-elak-1",
+    "nombre": "Aimar Rodríguez Soto",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-alava-pp-1",
+    "nombre": "Daniel García Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-pp-2",
+    "nombre": "Marta Alaña Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alava-pp-3",
+    "nombre": "Mikel Rogado García",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-alava-mundo-justo-1",
+    "nombre": "Ignacio Lijó Sancho",
+    "descripcion": ""
+   }
+  ]
+ }
+}

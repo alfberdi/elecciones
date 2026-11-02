@@ -1,0 +1,296 @@
+{
+ "id": "toledo",
+ "nombre": "Toledo",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 6,
+ "listas": {
+  "psoe": [
+   {
+    "id": "toledo-psoe-1",
+    "nombre": "Milagros Tolón Jaime",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-psoe-2",
+    "nombre": "Sergio Gutiérrez Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-psoe-3",
+    "nombre": "Cristina Cebas Gregorio",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-psoe-4",
+    "nombre": "Alberto Hernández Garrobo",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-psoe-5",
+    "nombre": "Irene Carmena Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-psoe-6",
+    "nombre": "Francisco Mateo Cuadrado Arellano",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "toledo-fo-1",
+    "nombre": "Cristina Martínez Ortega",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fo-2",
+    "nombre": "Pelayo Pérez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fo-3",
+    "nombre": "Carmen Martínez Ortega",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fo-4",
+    "nombre": "Jesús Gálvez Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fo-5",
+    "nombre": "Jeannette Mónica Cavieres Zamorano",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fo-6",
+    "nombre": "Héctor Villaluenga Del Olmo",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "toledo-salf-1",
+    "nombre": "Antonio Cuñarro Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-salf-2",
+    "nombre": "Nerea García-Carpintero Bellón",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-salf-3",
+    "nombre": "Roberto Martínez Lorenzo",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-salf-4",
+    "nombre": "María Gador Escobosa Salmerón",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-salf-5",
+    "nombre": "Marco Antonio Garrido Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-salf-6",
+    "nombre": "María Jesús Muñoz Margareto",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "toledo-vox-1",
+    "nombre": "Manuel Mariscal Zabala",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-vox-2",
+    "nombre": "Rosalba Atilana Guerrero Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-vox-3",
+    "nombre": "Daniel Arias Vegas",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-vox-4",
+    "nombre": "Maria Victoria García-Esteban Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-vox-5",
+    "nombre": "Enrique Quesada Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-vox-6",
+    "nombre": "Concepción Magán Sotomayor",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "toledo-fe-de-las-jons-1",
+    "nombre": "José Ramón Jarones Martín-Aragón",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fe-de-las-jons-2",
+    "nombre": "María Rocío Sánchez-Horneros Miranda",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fe-de-las-jons-3",
+    "nombre": "Víctor Daniel Mediero Valeros",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fe-de-las-jons-4",
+    "nombre": "María del Carmen García-Donas Nieto",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fe-de-las-jons-5",
+    "nombre": "Miguel Ángel García Ortega",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fe-de-las-jons-6",
+    "nombre": "Marta Vich Vich",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "toledo-pp-1",
+    "nombre": "Carlos Velázquez Romo",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pp-2",
+    "nombre": "Carolina Agudo Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pp-3",
+    "nombre": "José Manuel Velasco Retamosa",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pp-4",
+    "nombre": "Soledad De Frutos Del Valle",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pp-5",
+    "nombre": "Francisco Javier Gil Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pp-6",
+    "nombre": "María Gema Guerrero García-Agustino",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "toledo-podemos-1",
+    "nombre": "María Ángeles Castellanos Valverde",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-podemos-2",
+    "nombre": "Marcos Isabel Núñez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-podemos-3",
+    "nombre": "Natalia López Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-podemos-4",
+    "nombre": "Emiliano Gómez Peces",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-podemos-5",
+    "nombre": "Esmeralda Cecilia Aguilar Orozco",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-podemos-6",
+    "nombre": "Pedro Labrado Pintado",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "toledo-fa-1",
+    "nombre": "José Alejandro Ávila Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fa-2",
+    "nombre": "María Gema Martín Llop",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fa-3",
+    "nombre": "Raúl Díaz López",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fa-4",
+    "nombre": "Verónica Mora Laguna",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fa-5",
+    "nombre": "Miguel Rosa Loeches",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-fa-6",
+    "nombre": "Mariam Medina Blanco",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "toledo-pcte-1",
+    "nombre": "Miguel Ángel Alonso García-Largo",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pcte-2",
+    "nombre": "Nagore Medrano Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pcte-3",
+    "nombre": "Gonzalo García Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pcte-4",
+    "nombre": "Nekane Medrano Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pcte-5",
+    "nombre": "Javier Oliver Díaz-Alejo",
+    "descripcion": ""
+   },
+   {
+    "id": "toledo-pcte-6",
+    "nombre": "Nuria Martínez Trueba",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "id": "cadiz",
+ "nombre": "Cádiz",
+ "ccaa": "andalucia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "adelante-andalucia": [
+   {
+    "id": "sen-cadiz-adelante-andalucia-1",
+    "nombre": "Soulaima Otilia Vázquez Noune",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cadiz-adelante-andalucia-2",
+    "nombre": "Juan Antonio Ruiz Giraldo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cadiz-adelante-andalucia-3",
+    "nombre": "Francisca Delgado Ruiz",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-cadiz-pcte-1",
+    "nombre": "Alejandro Úcar Vital",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-cadiz-pacma-1",
+    "nombre": "Carlos Bertoa Cano",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-cadiz-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "Juan Carlos Ruiz Boix",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cadiz-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Violeta Márquez Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cadiz-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Javier Rodríguez Cabeza",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-cadiz-podemos-1",
+    "nombre": "Marina Liberato Olmedo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cadiz-podemos-2",
+    "nombre": "Juan Luis Martínez Muñoz Cruzado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cadiz-podemos-3",
+    "nombre": "Ana Isabel Castedo Ferreiro",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-cadiz-mundo-justo-1",
+    "nombre": "Ricardo Rodríguez Torti",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-cadiz-pp-1",
+    "nombre": "Jacinto Muñoz Madrid",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cadiz-pp-2",
+    "nombre": "María del Carmen Pérez Becerra",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cadiz-pp-3",
+    "nombre": "Enrique José García-Máiquez López",
+    "descripcion": "",
+    "independiente": true
+   }
+  ]
+ }
+}

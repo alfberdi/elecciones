@@ -1,0 +1,103 @@
+{
+ "id": "badajoz",
+ "nombre": "Badajoz",
+ "ccaa": "extremadura",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-badajoz-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "José Luis Quintana Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Sandra Caballero Expósito",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Joaquín Macías Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "nex": [
+   {
+    "id": "sen-badajoz-nex-1",
+    "nombre": "Gerardo Rubio Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-nex-2",
+    "nombre": "María de los Ángeles Campos Paniagua",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-nex-3",
+    "nombre": "Jesús Cerrato Porro",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-badajoz-pp-1",
+    "nombre": "José Antonio Monago Terraza",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-pp-2",
+    "nombre": "Ana Fernández Salguero Elena",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-pp-3",
+    "nombre": "Manuel Lavado Barroso",
+    "descripcion": ""
+   }
+  ],
+  "j-u-e-x": [
+   {
+    "id": "sen-badajoz-j-u-e-x-1",
+    "nombre": "Diego José Albardonedo Diez-Ochoa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-j-u-e-x-2",
+    "nombre": "José Manuel Teodoro Boza",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-badajoz-mundo-justo-1",
+    "nombre": "Ángel Fernando Manzano Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-badajoz-podemos-1",
+    "nombre": "Rosa Mogollón Calvo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-podemos-2",
+    "nombre": "Antonio De la Cruz Ruiz Millán",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-badajoz-podemos-3",
+    "nombre": "Araceli Ortiz Trejo",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-badajoz-vox-1",
+    "nombre": "Andrés Barrera Rangel",
+    "descripcion": ""
+   }
+  ]
+ }
+}

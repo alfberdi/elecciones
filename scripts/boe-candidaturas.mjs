@@ -1,4 +1,4 @@
-// Lee el BOE cada día y, cuando aparecen las candidaturas de las elecciones generales, genera datos/candidaturas.json.
+// Lee el BOE cada día y, cuando aparecen las candidaturas de las elecciones generales, genera datos/indice.json y datos/provincias/<id>.json.
 //
 // 1. Recorre los sumarios diarios del BOE de los últimos días (API de datos abiertos).
 // 2. Busca «Candidaturas presentadas/proclamadas para las elecciones al Congreso de los Diputados y al Senado».
@@ -8,18 +8,27 @@
 // Sin dependencias (Node 20+). Se ejecuta dentro de la carpeta de cada cámara (cd congreso o cd senado). Uso:
 //   node ../scripts/boe-candidaturas.mjs                      revisa los últimos 14 días
 //   node ../scripts/boe-candidaturas.mjs --fecha 20230627     revisa un día concreto (útil para probar con 2023)
-//   node ../scripts/boe-candidaturas.mjs --dias 30 --salida /tmp/prueba.json --forzar
-import { readFileSync, writeFileSync } from "node:fs";
+//   node ../scripts/boe-candidaturas.mjs --dias 30 --salida /tmp/prueba --forzar   (--salida: carpeta donde escribir)
+//
+// Conserva la "descripcion" (y otros campos añadidos a mano) de cada candidato que ya estuviera, buscándolo por nombre.
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 
 const arg = (n, d) => { const i = process.argv.indexOf("--" + n); return i > 0 ? process.argv[i + 1] : d; };
 const DIAS = +arg("dias", 14);
 const FECHA = arg("fecha", "");
-const ENTRADA = "datos/candidaturas.json";
+const ENTRADA = "datos";
 const SALIDA = arg("salida", ENTRADA);
 const FORZAR = process.argv.includes("--forzar");
 const UA = { "User-Agent": "mapa-candidaturas (sitio estático, GitHub Actions)" };
 
-const actual = JSON.parse(readFileSync(ENTRADA, "utf8"));
+const leerJSON = f => JSON.parse(readFileSync(f, "utf8"));
+const actual = leerJSON(`${ENTRADA}/indice.json`);
+// Listas ya publicadas, para conservar lo añadido a mano (descripción, "prensa", "parlamentario"…)
+const previas = {};
+for (const id of Object.keys(actual.provincias)) {
+  const f = `${ENTRADA}/provincias/${id}.json`;
+  previas[id] = existsSync(f) ? leerJSON(f).listas || {} : {};
+}
 const CAMARA = actual.camara || "congreso";
 
 // ---------- Nombres de provincia e isla tal como pueden aparecer en el BOE → id del sitio ----------
@@ -164,20 +173,25 @@ function interpretar(lineas) {
 }
 
 // ---------- Construcción del archivo del sitio ----------
+const claveCand = s => sinAcentos(s).replace(/[^a-zñ ]/g, " ").split(/\s+/).filter(Boolean).sort().join(" ");
 function construir(pub, { circs, partidos }) {
   const out = structuredClone(actual);
-  const usados = new Set();
+  const usados = new Set(), provincias = {};
   for (const [id, prov] of Object.entries(out.provincias)) {
+    const antes = new Map(Object.values(previas[id]).flat().map(c => [claveCand(c.nombre), c]));
     const listas = {};
     for (const [pid, { titulares }] of Object.entries(circs[id] || {})) {
       if (!titulares.length) continue;
       usados.add(pid);
-      listas[pid] = titulares.map((c, i) => ({
-        id: `${CAMARA === "senado" ? "sen-" : ""}${id}-${pid}-${i + 1}`,
-        nombre: c.nombre, ...(c.independiente ? { independiente: true } : {}),
-      }));
+      listas[pid] = titulares.map((c, i) => {
+        const { id: _i, nombre: _n, independiente: _x, ...extra } = antes.get(claveCand(c.nombre)) || {};
+        return {
+          id: `${CAMARA === "senado" ? "sen-" : ""}${id}-${pid}-${i + 1}`,
+          nombre: c.nombre, descripcion: "", ...extra, ...(c.independiente ? { independiente: true } : {}),
+        };
+      });
     }
-    prov.listas = listas;
+    provincias[id] = listas;
     // Congreso: cada lista completa lleva tantos nombres como escaños tiene la provincia
     if (CAMARA === "congreso") { const max = Math.max(0, ...Object.values(listas).map(l => l.length)); if (max) prov.escanos = max; }
   }
@@ -186,7 +200,7 @@ function construir(pub, { circs, partidos }) {
   out.fuente = { boe: pub.id, url: pub.url, fecha: `${pub.fecha.slice(0, 4)}-${pub.fecha.slice(4, 6)}-${pub.fecha.slice(6)}`, estado: pub.estado, titulo: pub.titulo };
   out.actualizado = new Date().toISOString().slice(0, 10);
   delete out.nota;
-  return out;
+  return { indice: out, provincias };
 }
 
 // ---------- Programa ----------
@@ -220,5 +234,9 @@ if (conListas.length < total * 0.9 && !FORZAR) {
   process.exit(1);
 }
 
-writeFileSync(SALIDA, JSON.stringify(construir(elegida, res), null, 1));
-console.log(`Escrito ${SALIDA} desde ${elegida.id}.`);
+const { indice, provincias } = construir(elegida, res);
+mkdirSync(`${SALIDA}/provincias`, { recursive: true });
+for (const [id, listas] of Object.entries(provincias))
+  writeFileSync(`${SALIDA}/provincias/${id}.json`, JSON.stringify({ id, ...indice.provincias[id], listas }, null, 1) + "\n");
+writeFileSync(`${SALIDA}/indice.json`, JSON.stringify(indice, null, 1) + "\n");
+console.log(`Escrito ${SALIDA}/indice.json y ${Object.keys(provincias).length} archivos de provincia desde ${elegida.id}.`);

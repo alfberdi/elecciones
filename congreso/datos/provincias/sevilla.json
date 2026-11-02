@@ -1,0 +1,752 @@
+{
+ "id": "sevilla",
+ "nombre": "Sevilla",
+ "ccaa": "andalucia",
+ "escanos": 12,
+ "listas": {
+  "fo": [
+   {
+    "id": "sevilla-fo-1",
+    "nombre": "Alejandro Rodríguez Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-2",
+    "nombre": "Aitana Gallego Peña",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-3",
+    "nombre": "Francisco Javier Álvarez Durán",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-4",
+    "nombre": "Paula Avesada Calderón",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-5",
+    "nombre": "Manuel Rodríguez Torrado",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-6",
+    "nombre": "María Cordero Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-7",
+    "nombre": "Alejandro Zapico Lara",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-8",
+    "nombre": "Francisca Jiménez Argudo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-9",
+    "nombre": "Nicolás José Puig Troup",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-10",
+    "nombre": "María del Henar Alcalde Martín-Calero",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-11",
+    "nombre": "Francisco Javier Santana Cabrera",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fo-12",
+    "nombre": "Laura Morales Romo",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "sevilla-psoe-1",
+    "nombre": "Alfonso Rodríguez Gómez de Celis",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-2",
+    "nombre": "María Carmen Castilla Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-3",
+    "nombre": "Francisco Toscano Rodero",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-4",
+    "nombre": "Trinidad Carmen Argota Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-5",
+    "nombre": "José María Villalobos Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-6",
+    "nombre": "Carmen Dolores Velasco González",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-7",
+    "nombre": "David Pérez Hormigo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-8",
+    "nombre": "Inmaculada Márquez Montes",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-9",
+    "nombre": "Casimiro Fernández Linares",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-10",
+    "nombre": "Ángela Roldán Bonilla",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-11",
+    "nombre": "Miguel Ángel Melero Vargas",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-psoe-12",
+    "nombre": "Lydia Gómez Torrecillas",
+    "descripcion": ""
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "sevilla-adelante-andalucia-1",
+    "nombre": "Luis María de los Santos Castillo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-2",
+    "nombre": "Inmaculada Martínez Vargas",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-3",
+    "nombre": "Francisco José Cuberos Gallardo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-4",
+    "nombre": "Ángeles López Bech",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-5",
+    "nombre": "Alberto Ferrera Godoy",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-6",
+    "nombre": "María del Mar Carpio Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-7",
+    "nombre": "Carlos Javier Rico Retamino",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-8",
+    "nombre": "María Valle Garrido Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-9",
+    "nombre": "Julián Manuel Moreno Vera",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-10",
+    "nombre": "Elena María Enrique de la Torre",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-11",
+    "nombre": "Diego Hidalgo Morgado",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-adelante-andalucia-12",
+    "nombre": "María Luisa Vázquez Poncelet",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "sevilla-salf-1",
+    "nombre": "Juan Antonio Sánchez Murillo González",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-2",
+    "nombre": "María Isabel Romero López",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-3",
+    "nombre": "Víctor Manuel Salas Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-4",
+    "nombre": "Laura María Reina Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-5",
+    "nombre": "Jerónimo Vázquez García de la Vega",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-6",
+    "nombre": "Verónica Pérez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-7",
+    "nombre": "Rafael Peñuela Pablos",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-8",
+    "nombre": "María Dolores Vega Barrera",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-9",
+    "nombre": "Esteban Moreno De la Hera",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-10",
+    "nombre": "Constanza Castro Villegas",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-11",
+    "nombre": "Jesús García Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-salf-12",
+    "nombre": "Esther Laura Llorente Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sevilla-vox-1",
+    "nombre": "María de los Reyes Romero Vilches",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-2",
+    "nombre": "Fernando Rodríguez Galisteo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-3",
+    "nombre": "Pilar Esperanza González Alemán Pareja Obregón",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-4",
+    "nombre": "Amable Vicente Esparza Lorente",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-5",
+    "nombre": "María Lorena Gutiérrez Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-6",
+    "nombre": "José Antonio Sabalete Mármol",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-7",
+    "nombre": "Ana Isabel Pérez Mirallas",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-8",
+    "nombre": "Daniel Andújar Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-9",
+    "nombre": "María José León Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-10",
+    "nombre": "Ricardo Sánchez Puentenueva",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-11",
+    "nombre": "María Consolación García Cobo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-vox-12",
+    "nombre": "Hernán Ferrero Camacho",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sevilla-pcte-1",
+    "nombre": "Nasai Littarru Sampedro",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-2",
+    "nombre": "Clara Barriuso Pizarro",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-3",
+    "nombre": "Juan Antonio Marqués Hinojosa",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-4",
+    "nombre": "Lidia Valdellós Ríos",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-5",
+    "nombre": "Emilio López Peñalosa",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-6",
+    "nombre": "Eloisa Borrallo Bernáldez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-7",
+    "nombre": "Antonio O´Riordan Peña",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-8",
+    "nombre": "Jara Otero Gelpi",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-9",
+    "nombre": "Olmo Camarero Aguilar",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-10",
+    "nombre": "Tania Lugo Paso",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-11",
+    "nombre": "Rodrigo Pérez Marcos",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pcte-12",
+    "nombre": "Patricia Cecilia Castañeda Ciprián",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sevilla-pacma-1",
+    "nombre": "Clara Isabel Márquez Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-2",
+    "nombre": "Francisco Javier Sanabria Moya",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-3",
+    "nombre": "Janire González Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-4",
+    "nombre": "Gonzalo González Valencia",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-5",
+    "nombre": "Lidia Infantes Guzmán",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-6",
+    "nombre": "Juan Antonio Baeza Bermúdez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-7",
+    "nombre": "Rosario Carmona Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-8",
+    "nombre": "Luis Miguel Calzada Frías",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-9",
+    "nombre": "Carmen María Sánchez Míguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-10",
+    "nombre": "Manuel González García",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-11",
+    "nombre": "Ruth Carbajal Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pacma-12",
+    "nombre": "Marto Morillo Burgos",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sevilla-podemos-1",
+    "nombre": "Mar Cambrollé Jurado",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-2",
+    "nombre": "Ernesto Domínguez Almenara",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-3",
+    "nombre": "Isabel Franco Carmona",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-4",
+    "nombre": "Pedro Delgado Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-5",
+    "nombre": "Cristina Tíscar García",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-6",
+    "nombre": "Manuel Martínez Lorenzo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-7",
+    "nombre": "Inmaculada Morillo Chía",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-8",
+    "nombre": "Manuel Gómez López",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-9",
+    "nombre": "María del Carmen Montero Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-10",
+    "nombre": "Eugenio Manuel Fernández Mejías",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-11",
+    "nombre": "Susana Hornillo Mellado",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-podemos-12",
+    "nombre": "Francisco Morales Correa",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "sevilla-fa-1",
+    "nombre": "Enrique Fernando Santiago Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-2",
+    "nombre": "Engracia Rivera Arias",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-3",
+    "nombre": "Antonio Toledo Zambrana",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-4",
+    "nombre": "María Isabel Galavís Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-5",
+    "nombre": "Álvaro García Mancheño",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-6",
+    "nombre": "Esperanza González Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-7",
+    "nombre": "Francisco Javier Martínez Galán",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-8",
+    "nombre": "María Esther Roca Yébenes",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-9",
+    "nombre": "José Antonio Pino Barrera",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-10",
+    "nombre": "María José Gordillo González",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-11",
+    "nombre": "Ismael Morgado González",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fa-12",
+    "nombre": "Ana María Aranda Humanes",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sevilla-pp-1",
+    "nombre": "Juan Bravo Baena",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-2",
+    "nombre": "María Soledad Cruz-Guzmán García",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-3",
+    "nombre": "Ricardo Tarno Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-4",
+    "nombre": "Lourdes Fuster Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-5",
+    "nombre": "Francisco Paula Jiménez Morales",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-6",
+    "nombre": "Alicia Martínez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-7",
+    "nombre": "Rafael Benigno Belmonte Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-8",
+    "nombre": "Silvia Heredia Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-9",
+    "nombre": "Rafael Joaquín Ruiz Guzmán",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-10",
+    "nombre": "Regina Rivero Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-11",
+    "nombre": "Andrés Parrado Parra",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-pp-12",
+    "nombre": "Manuela Reina González",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sevilla-mundo-justo-1",
+    "nombre": "Noemí Reyes Roldán",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-2",
+    "nombre": "Juan León Capilla",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-3",
+    "nombre": "María Rocío Quinta Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-4",
+    "nombre": "Ángel Carbajo Díez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-5",
+    "nombre": "Lidia Medina Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-6",
+    "nombre": "Alejandro Díaz Mora",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-7",
+    "nombre": "María de los Reyes Ferrand Muro",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-8",
+    "nombre": "Constantino Rodríguez Méndez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-9",
+    "nombre": "Boutaina Hanine El Hanafi",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-10",
+    "nombre": "Manuel López Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-11",
+    "nombre": "Margarita Rosa Parra Pedregal",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-mundo-justo-12",
+    "nombre": "Fernando Alés Portillo",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sevilla-fe-de-las-jons-1",
+    "nombre": "Jorge Luis Francisco Gil Lorenzo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-2",
+    "nombre": "Magdalena Rodríguez Hidalgo",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-3",
+    "nombre": "Ángel Romero Moreira",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-4",
+    "nombre": "María de las Nieves Valverde Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-5",
+    "nombre": "Carlos José de los Reyes López",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-6",
+    "nombre": "Ana Pastor Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-7",
+    "nombre": "Ignacio Grosso Boto",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-8",
+    "nombre": "Susana Isabel Collado Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-9",
+    "nombre": "Alejandro José Miguel Márquez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-10",
+    "nombre": "María del Carmen Biedma Gil",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-11",
+    "nombre": "José Enrique Quesada Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sevilla-fe-de-las-jons-12",
+    "nombre": "María Concepción Baras Japón",
+    "descripcion": ""
+   }
+  ]
+ }
+}

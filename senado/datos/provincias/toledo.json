@@ -1,0 +1,101 @@
+{
+ "id": "toledo",
+ "nombre": "Toledo",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "fe-de-las-jons": [
+   {
+    "id": "sen-toledo-fe-de-las-jons-1",
+    "nombre": "Javier Luis Horas Puente",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-toledo-pp-1",
+    "nombre": "Agustín Conde Bajén",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-pp-2",
+    "nombre": "María Pilar Alía Aguado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-pp-3",
+    "nombre": "Vicente Tirado Ochoa",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-toledo-podemos-1",
+    "nombre": "María Ángeles Zarzoso Ajado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-podemos-2",
+    "nombre": "Juan Muñoz Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-podemos-3",
+    "nombre": "María del Carmen Gómez Gómez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-toledo-vox-1",
+    "nombre": "Fernando Sánchez Izquierdo Hurtado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-vox-2",
+    "nombre": "Laura Félix Sánchez-Vallejo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-vox-3",
+    "nombre": "Jesús Gutiérrez Fernández",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-toledo-psoe-iu-ms-1",
+    "nombre": "José Manuel Tofiño Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-psoe-iu-ms-2",
+    "nombre": "María Isabel Álvarez Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-psoe-iu-ms-3",
+    "nombre": "Ignacio Hernández Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-toledo-pcte-1",
+    "nombre": "Carlos Pantoja Fente",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-pcte-2",
+    "nombre": "Sonia Catalina Roa Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-toledo-pcte-3",
+    "nombre": "Javier Gómez-Pintado Gálvez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

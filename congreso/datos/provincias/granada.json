@@ -1,0 +1,415 @@
+{
+ "id": "granada",
+ "nombre": "Granada",
+ "ccaa": "andalucia",
+ "escanos": 7,
+ "listas": {
+  "fo": [
+   {
+    "id": "granada-fo-1",
+    "nombre": "Raúl Domínguez Rincón",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fo-2",
+    "nombre": "Adriana Henríquez Quevedo",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fo-3",
+    "nombre": "Ildefonso Espínola Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fo-4",
+    "nombre": "Ana Reyes Manzano Piro",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fo-5",
+    "nombre": "Veit Otto Burkhardt Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fo-6",
+    "nombre": "María Mercedes Hueso Porcel",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fo-7",
+    "nombre": "Carlos Ignacio Ramírez Pérez",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "granada-psoe-1",
+    "nombre": "María José Sánchez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-psoe-2",
+    "nombre": "José Antonio Rodríguez Salas",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-psoe-3",
+    "nombre": "Sabina Aramtxa Urrea Castaño",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-psoe-4",
+    "nombre": "José Manuel Guillén Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-psoe-5",
+    "nombre": "Martina López Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-psoe-6",
+    "nombre": "José María Villegas Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-psoe-7",
+    "nombre": "Cándida Martínez López",
+    "descripcion": ""
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "granada-adelante-andalucia-1",
+    "nombre": "María Alcantud López",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-adelante-andalucia-2",
+    "nombre": "Jonatán Martín Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-adelante-andalucia-3",
+    "nombre": "María Sánchez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-adelante-andalucia-4",
+    "nombre": "Jacinto Arroyo Ruiz Santaquiteria",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-adelante-andalucia-5",
+    "nombre": "Alba Olvera Morales",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-adelante-andalucia-6",
+    "nombre": "Sergio Padrisa Viñegla",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-adelante-andalucia-7",
+    "nombre": "Miriam Herrera Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "granada-pcte-1",
+    "nombre": "Adrián García Barbarroja",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pcte-2",
+    "nombre": "Tania Cobo López",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pcte-3",
+    "nombre": "Carlos Muñoz Sanz",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pcte-4",
+    "nombre": "Lucía Salmerón Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pcte-5",
+    "nombre": "Juan Helios García Guzmán",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pcte-6",
+    "nombre": "Lara Piñero Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pcte-7",
+    "nombre": "Sergio Barranco López",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "granada-salf-1",
+    "nombre": "Rosa Alonso Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-salf-2",
+    "nombre": "José María Montoro Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-salf-3",
+    "nombre": "Carmen Beatriz Moreno Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-salf-4",
+    "nombre": "Jose Rogelio Mora Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-salf-5",
+    "nombre": "María Rosa Redondo Molero",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-salf-6",
+    "nombre": "Rafael Pérez Cabrera",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-salf-7",
+    "nombre": "Lidia López Cano",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "granada-vox-1",
+    "nombre": "Jacobo González-Robatto Perote",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-vox-2",
+    "nombre": "Elisa Gómez-Caminero González",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-vox-3",
+    "nombre": "Ricardo López Olea",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-vox-4",
+    "nombre": "Angustias Leticia González Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-vox-5",
+    "nombre": "Manuel Jorge Martín Montero",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-vox-6",
+    "nombre": "Susana Sánchez Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-vox-7",
+    "nombre": "Jesús Lobato Cáceres",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "granada-pacma-1",
+    "nombre": "Débora Godoy Izquierdo",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pacma-2",
+    "nombre": "Eloy Manuel López Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pacma-3",
+    "nombre": "Nuria Esther Castillo Rivas",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pacma-4",
+    "nombre": "Juan Sebastián Sutil Fuentes",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pacma-5",
+    "nombre": "Purificación Reina Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pacma-6",
+    "nombre": "José Rubio Borrego",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pacma-7",
+    "nombre": "Asunción Marín Cencerrado",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "granada-podemos-1",
+    "nombre": "Alejandra Durán Parra",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-podemos-2",
+    "nombre": "Manuel García Arquellada",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-podemos-3",
+    "nombre": "Otilia Carrasco Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-podemos-4",
+    "nombre": "Roberto Perandrés Gallardo",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-podemos-5",
+    "nombre": "Francisca Molina Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-podemos-6",
+    "nombre": "Carlos Martínez Quesada",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-podemos-7",
+    "nombre": "Martha Delia Huayanca Navarro",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "granada-mundo-justo-1",
+    "nombre": "Augustin Marie Ndour Ndong",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-mundo-justo-2",
+    "nombre": "Ángeles Roldán Ibáñez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-mundo-justo-3",
+    "nombre": "Juan Félix Muñoz Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-mundo-justo-4",
+    "nombre": "Remedios García Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-mundo-justo-5",
+    "nombre": "Salvador García Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-mundo-justo-6",
+    "nombre": "Ingrid García Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-mundo-justo-7",
+    "nombre": "Rafael Arcángel Martínez Martínez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "granada-pp-1",
+    "nombre": "Jorge Saavedra Requena",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pp-2",
+    "nombre": "María Lourdes Ramírez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pp-3",
+    "nombre": "Francisco Joaquín Camacho Borrego",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pp-4",
+    "nombre": "María Merinda Sádaba Terribas",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pp-5",
+    "nombre": "Gonzalo Gerardo Mochón González Escalada",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pp-6",
+    "nombre": "Beatriz González Orce",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-pp-7",
+    "nombre": "Iván Peral Díaz",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "granada-fa-1",
+    "nombre": "Jesús Fernández Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fa-2",
+    "nombre": "María De La Paz Ortega Quiles",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fa-3",
+    "nombre": "Nabil Finsi Vílchez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fa-4",
+    "nombre": "María Jennifer García Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fa-5",
+    "nombre": "Juan Manuel Sánchez García",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fa-6",
+    "nombre": "Clara Morales Peláez",
+    "descripcion": ""
+   },
+   {
+    "id": "granada-fa-7",
+    "nombre": "Pablo Manuel Melgarejo Cordón",
+    "descripcion": ""
+   }
+  ]
+ }
+}

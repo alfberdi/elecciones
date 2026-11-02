@@ -1,0 +1,178 @@
+{
+ "id": "guadalajara",
+ "nombre": "Guadalajara",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 3,
+ "listas": {
+  "fo": [
+   {
+    "id": "guadalajara-fo-1",
+    "nombre": "Carlos Calvo Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-fo-2",
+    "nombre": "Sara El Yousfi Mansoury",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-fo-3",
+    "nombre": "Alberto de Lucas Camacho",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "guadalajara-pcte-1",
+    "nombre": "Jorge Miguel Perucha",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-pcte-2",
+    "nombre": "Natalia Erofeeva Vasiltsova",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-pcte-3",
+    "nombre": "Víctor Gabriel Llanos Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "guadalajara-salf-1",
+    "nombre": "José Carlos Albares Gallego",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-salf-2",
+    "nombre": "Sheila Casas Viana",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-salf-3",
+    "nombre": "Hilario Martínez López",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "guadalajara-vox-1",
+    "nombre": "Ángel López Maraver",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-vox-2",
+    "nombre": "María Yolanda Sanz Paganos",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-vox-3",
+    "nombre": "Iván Sánchez Serrano",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "guadalajara-psoe-1",
+    "nombre": "María Jesús Merino Poyo",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-psoe-2",
+    "nombre": "Miguel Oscar Aparicio de Lucas",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-psoe-3",
+    "nombre": "Margarita Morera Andreu",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "guadalajara-fa-1",
+    "nombre": "Ernesto Martín Doménech",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-fa-2",
+    "nombre": "Elena Loaisa Oteiza",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-fa-3",
+    "nombre": "Manuel Luis Gallego Delgado",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "guadalajara-podemos-1",
+    "nombre": "Mario Javier Gallego Pareja",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-podemos-2",
+    "nombre": "Susana Rodríguez Santiago",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-podemos-3",
+    "nombre": "Luis Muñoz Jiménez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "guadalajara-pp-1",
+    "nombre": "Itziar Asenjo Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-pp-2",
+    "nombre": "Francisco Javier del Río Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-pp-3",
+    "nombre": "Lydia Sanz Sáez",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "guadalajara-mundo-justo-1",
+    "nombre": "Pedro Alfonso Cabello Albendea",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-mundo-justo-2",
+    "nombre": "Teresa Clot Bru",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-mundo-justo-3",
+    "nombre": "Nacol Rosario Antigua",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "guadalajara-fe-de-las-jons-1",
+    "nombre": "Juan Francisco Durán Carralero",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-fe-de-las-jons-2",
+    "nombre": "Maria Ángeles Montero Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "guadalajara-fe-de-las-jons-3",
+    "nombre": "Rubén Medrano Fernández",
+    "descripcion": ""
+   }
+  ]
+ }
+}

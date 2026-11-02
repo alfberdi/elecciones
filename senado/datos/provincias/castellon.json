@@ -1,0 +1,58 @@
+{
+ "id": "castellon",
+ "nombre": "Castellón",
+ "ccaa": "valenciana",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-castellon-pcte-1",
+    "nombre": "Pablo Riesco Navajo",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-castellon-fe-de-las-jons-1",
+    "nombre": "Teresa Navarro Traver",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms-mm-com": [
+   {
+    "id": "sen-castellon-senado-de-progreso-sdp-psoe-iu-ms-mm-com-1",
+    "nombre": "Eva María Redondo Gamero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-castellon-senado-de-progreso-sdp-psoe-iu-ms-mm-com-2",
+    "nombre": "David Lluch Almenar",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-castellon-senado-de-progreso-sdp-psoe-iu-ms-mm-com-3",
+    "nombre": "Ana Besalduch Besalduch",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-castellon-pp-1",
+    "nombre": "Alberto Fabra Part",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-castellon-pp-2",
+    "nombre": "María Nieves Martínez Tarazona",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-castellon-pp-3",
+    "nombre": "Miguel Rovira De La Fuente",
+    "descripcion": "",
+    "independiente": true
+   }
+  ]
+ }
+}

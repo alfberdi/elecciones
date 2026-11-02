@@ -1,0 +1,105 @@
+{
+ "id": "pontevedra",
+ "nombre": "Pontevedra",
+ "ccaa": "galicia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pctg": [
+   {
+    "id": "sen-pontevedra-pctg-1",
+    "nombre": "Pablo Corral Rolán",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-pontevedra-escanos-en-blanco-1",
+    "nombre": "Susana Díaz Palacios",
+    "descripcion": ""
+   }
+  ],
+  "psoe-ms": [
+   {
+    "id": "sen-pontevedra-psoe-ms-1",
+    "nombre": "María del Carmen Silva Rego",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-pontevedra-psoe-ms-2",
+    "nombre": "Paulo Carlos López López",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-pontevedra-psoe-ms-3",
+    "nombre": "María Olga Alonso Suárez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-pontevedra-pp-1",
+    "nombre": "Nidia María Arévalo Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-pontevedra-pp-2",
+    "nombre": "José Crespo Iglesias",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-pontevedra-pp-3",
+    "nombre": "Mónica Domínguez Estévez",
+    "descripcion": ""
+   }
+  ],
+  "bng": [
+   {
+    "id": "sen-pontevedra-bng-1",
+    "nombre": "Kevin González Santiago",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-pontevedra-bng-2",
+    "nombre": "Marta Gómez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-pontevedra-bng-3",
+    "nombre": "Duarte Correa Piñeiro",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-pontevedra-podemos-1",
+    "nombre": "María del Carmen Camiña Vázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-pontevedra-podemos-2",
+    "nombre": "José Luis Patiño Acuña",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-pontevedra-podemos-3",
+    "nombre": "María Uxía Rodríguez Crespo",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-pontevedra-vox-1",
+    "nombre": "José Manuel Torres Corredoira",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-pontevedra-mundo-justo-1",
+    "nombre": "Iñaki González Bañales",
+    "descripcion": ""
+   }
+  ]
+ }
+}

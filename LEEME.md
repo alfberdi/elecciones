@@ -1,25 +1,27 @@
 # Candidaturas a las generales
 
-Web estática (sin servidor) con dos secciones, Congreso y Senado, en un solo repositorio y un solo dominio. Las dos usan el mismo código; cada una lee su cámara de `datos/candidaturas.json` (`"camara": "congreso"` o `"senado"`).
+Web estática (sin servidor) con dos secciones, Congreso y Senado, en un solo repositorio y un solo dominio. Las dos usan el mismo código; cada una lee su cámara de `datos/indice.json` (`"camara": "congreso"` o `"senado"`) y las listas de cada provincia de `datos/provincias/<id>.json`, que se piden solo al abrir esa provincia.
 
 ```
 index.html                   portada: elige Congreso o Senado (acepta /#sevilla o /#andalucia)
 comun/
   app.js                     lógica de las dos secciones
   estilos.css                estilos (colores pastel, modo claro y oscuro)
-  parlamentarios.json        diputados y senadores en ejercicio y sus declaraciones (automático, semanal)
+  parlamentarios.json        diputados y senadores en ejercicio y sus declaraciones (se genera a mano)
 congreso/
   index.html                 el mapa de España va dibujado dentro, en SVG
-  datos/candidaturas.json    listas al Congreso (automático desde el BOE)
+  datos/indice.json          partidos, provincias y escaños del Congreso
+  datos/provincias/<id>.json listas al Congreso de cada provincia
 senado/
   index.html
-  datos/candidaturas.json    candidaturas al Senado (automático desde el BOE)
+  datos/indice.json          partidos y circunscripciones del Senado
+  datos/provincias/<id>.json candidaturas al Senado de cada provincia o isla
 scripts/
   boe-candidaturas.mjs       lee el BOE y genera las listas
   parlamentarios.mjs         reúne las declaraciones del Congreso y del Senado
 .github/workflows/
-  candidaturas.yml           cada día: BOE → congreso/ y senado/
-  declaraciones.yml          cada lunes: declaraciones → comun/
+  candidaturas.yml           a mano: BOE → congreso/ y senado/
+  declaraciones.yml          a mano: declaraciones → comun/
 ```
 
 Direcciones resultantes: `https://TU_USUARIO.github.io/elecciones/`, `…/elecciones/congreso/` y `…/elecciones/senado/` (o `tudominio.es/`, `tudominio.es/congreso/` y `tudominio.es/senado/` con dominio propio). El selector «Congreso | Senado» usa enlaces relativos y conserva la comunidad elegida, así que no hay que configurar nada.
@@ -37,7 +39,7 @@ Direcciones resultantes: `https://TU_USUARIO.github.io/elecciones/`, `…/elecci
 3. **Activa Pages**: *Settings → Pages → Build and deployment*, elige *Deploy from a branch*, rama `main`, carpeta `/ (root)` y pulsa *Save*. En uno o dos minutos la web queda en `https://TU_USUARIO.github.io/elecciones/`.
 4. **Dominio propio (opcional)**: en *Settings → Pages → Custom domain* escribe tu dominio (por ejemplo `elecciones.tudominio.es`) y guarda. En tu proveedor de dominio crea un registro **CNAME** `elecciones` → `TU_USUARIO.github.io`. Cuando GitHub lo verifique, marca *Enforce HTTPS*.
 5. **Permite que los trabajos automáticos guarden datos**: *Settings → Actions → General → Workflow permissions → Read and write permissions → Save*.
-6. **Primera ejecución**: en la pestaña *Actions*, abre «Actualizar declaraciones de parlamentarios» y pulsa *Run workflow* para generar el primer `comun/parlamentarios.json` real. «Leer candidaturas del BOE» ya se ejecuta solo cada día.
+6. **Primera ejecución**: en la pestaña *Actions*, abre «Actualizar declaraciones de parlamentarios» y pulsa *Run workflow* para generar el primer `comun/parlamentarios.json` real. Los dos trabajos están desactivados (solo se lanzan a mano), porque los datos ya están en el repositorio.
 
 Los dos trabajos escriben en la misma rama, así que comparten un grupo de concurrencia: si coinciden, uno espera al otro.
 
@@ -56,7 +58,7 @@ Se busca por nombre completo y por «Nombre Primer-apellido», que es como suele
 
 ## Candidaturas automáticas desde el BOE
 
-`scripts/boe-candidaturas.mjs` se ejecuta cada día (`.github/workflows/candidaturas.yml`), una vez dentro de `congreso/` y otra dentro de `senado/`, y publica las listas en cuanto salen en el BOE.
+`scripts/boe-candidaturas.mjs` se lanza a mano (`.github/workflows/candidaturas.yml`, ya no se ejecuta solo), una vez dentro de `congreso/` y otra dentro de `senado/`, y escribe `datos/indice.json` y `datos/provincias/*.json`. Conserva la `descripcion` y los demás campos añadidos a mano de cada candidato que ya estuviera (lo busca por nombre).
 
 1. Consulta el sumario de los últimos 14 días en la API de datos abiertos del BOE (`boe.es/datosabiertos/api/boe/sumario/AAAAMMDD`).
 2. Busca la disposición «Candidaturas presentadas…» o «Candidaturas proclamadas para las elecciones al Congreso de los Diputados y al Senado».
@@ -69,10 +71,10 @@ Se busca por nombre completo y por «Nombre Primer-apellido», que es como suele
 
 **Probarlo con las elecciones de 2023** (sin tocar la web), desde la raíz del repositorio:
 ```
-cd congreso && node ../scripts/boe-candidaturas.mjs --fecha 20230627 --salida /tmp/congreso-2023.json --forzar
-cd ../senado && node ../scripts/boe-candidaturas.mjs --fecha 20230627 --salida /tmp/senado-2023.json --forzar
+cd congreso && node ../scripts/boe-candidaturas.mjs --fecha 20230627 --salida /tmp/congreso-2023 --forzar
+cd ../senado && node ../scripts/boe-candidaturas.mjs --fecha 20230627 --salida /tmp/senado-2023 --forzar
 ```
-Ese día se publicaron las proclamadas de 2023 (BOE-A-2023-15066). Revisa los dos archivos antes de confiar en el automatismo.
+Ese día se publicaron las proclamadas de 2023 (BOE-A-2023-15066). Revisa las dos carpetas antes de confiar en el automatismo.
 
 **Lanzarlo a mano**: pestaña *Actions → Leer candidaturas del BOE → Run workflow*. Puedes indicar una fecha concreta o forzar que se regenere.
 
@@ -80,7 +82,7 @@ Ese día se publicaron las proclamadas de 2023 (BOE-A-2023-15066). Revisa los do
 
 Al tocar un nombre se abre una ficha sobre el fondo desenfocado (se cierra con ×, Esc o tocando fuera). Si la persona ocupa ya un escaño en el Congreso o en el Senado, la ficha muestra lo que ha declarado. La lista sale de `comun/parlamentarios.json`, un único archivo para las dos cámaras porque un candidato al Congreso puede ser hoy senador y al revés.
 
-Ese archivo lo genera `scripts/parlamentarios.mjs` (desde la raíz del repositorio) cada lunes en GitHub Actions (`.github/workflows/declaraciones.yml`). No se puede leer en directo desde el navegador: congreso.es y senado.es no lo permiten y las declaraciones del Senado son PDF.
+Ese archivo lo genera `scripts/parlamentarios.mjs` (desde la raíz del repositorio) a mano en GitHub Actions (`.github/workflows/declaraciones.yml`, ya no se ejecuta solo). No se puede leer en directo desde el navegador: congreso.es y senado.es no lo permiten y las declaraciones del Senado son PDF.
 
 - **Congreso**: diputados en activo y su declaración de intereses económicos, desde el portal de datos abiertos (JSON). Las declaraciones de bienes del Congreso no están en datos abiertos; la ficha enlaza a congreso.es.
 - **Senado**: senadores de la legislatura (XML de datos abiertos) y su declaración de bienes y rentas (PDF `DBR_<id>.pdf`), de la que se extraen los apartados: rentas, inmuebles, depósitos, valores, vehículos, deudas y observaciones. Siempre se enlaza el PDF original.
@@ -91,16 +93,18 @@ El primer uso real conviene revisarlo: los formatos de estas fuentes oficiales c
 
 ## Datos
 
-Los datos incluidos son **de ejemplo** (partidos y personas ficticios) y la web lo indica con un aviso. El trabajo diario del BOE los sustituye solo cuando salgan las candidaturas; si prefieres cargarlas a mano, este es el formato:
+Las candidaturas salen del BOE (BOE-A-2026-22607). `comun/parlamentarios.json` sigue siendo **de ejemplo** hasta que se lance a mano «Actualizar declaraciones de parlamentarios».
+
+`datos/indice.json` lleva los partidos y, en `provincias`, solo los datos de cada circunscripción (`nombre`, `ccaa`, `escanos`, `marcas`). Las listas van en un archivo por circunscripción, `datos/provincias/<id>.json`:
 
 ```json
-"provincias": {
-  "sevilla": {
-    "nombre": "Sevilla", "ccaa": "andalucia", "escanos": 4, "marcas": 3,
-    "listas": { "abc": [ { "id": "sen-sevilla-abc-1", "nombre": "Nombre Apellido Apellido" } ] }
-  }
+{
+  "id": "sevilla", "nombre": "Sevilla", "ccaa": "andalucia", "escanos": 4, "marcas": 3,
+  "listas": { "abc": [ { "id": "sen-sevilla-abc-1", "nombre": "Nombre Apellido Apellido", "descripcion": "Texto libre." } ] }
 }
 ```
+
+- **`descripcion`**: texto que se muestra en la ficha del candidato, bajo su nombre. Si está vacía no se muestra nada. Una línea en blanco (`\n\n`) separa párrafos.
 
 - **Congreso**: una entrada por provincia; el orden de cada lista es el orden de la papeleta. Los escaños por provincia se recalculan en cada real decreto de convocatoria (los incluidos son los de 2023).
 - **Senado**: una entrada por circunscripción. En Baleares y Canarias, cada isla o agrupación de islas es una circunscripción. `escanos` son los senadores que se eligen (4 provincia, 3 o 1 isla, 2 Ceuta y Melilla) y `marcas` las que puede hacer cada elector (3, 2, 1 y 1). Ordena los candidatos de cada partido alfabéticamente por apellido, como en la papeleta.

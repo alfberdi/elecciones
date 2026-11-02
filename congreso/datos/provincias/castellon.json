@@ -1,0 +1,278 @@
+{
+ "id": "castellon",
+ "nombre": "Castellón",
+ "ccaa": "valenciana",
+ "escanos": 5,
+ "listas": {
+  "psoe": [
+   {
+    "id": "castellon-psoe-1",
+    "nombre": "María Jiménez Román",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-psoe-2",
+    "nombre": "Sergio Bou Ayza",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-psoe-3",
+    "nombre": "Silvia Gómez Rey",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-psoe-4",
+    "nombre": "Manel Agea Tur",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-psoe-5",
+    "nombre": "Sara Navarro Gómez",
+    "descripcion": ""
+   }
+  ],
+  "partido-autonomos": [
+   {
+    "id": "castellon-partido-autonomos-1",
+    "nombre": "Carolina Queral Recatalá",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-partido-autonomos-2",
+    "nombre": "Santiago Sánchez Cuevas",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-partido-autonomos-3",
+    "nombre": "Rosa Pascual Arnal",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-partido-autonomos-4",
+    "nombre": "Antonio López Flores",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-partido-autonomos-5",
+    "nombre": "M.ª Montserrat Campos Bernat",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "castellon-fo-1",
+    "nombre": "David Fuentes Pinazo",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-fo-2",
+    "nombre": "Irene Cristina Muñoz María",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-fo-3",
+    "nombre": "Jorge Albalate García",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-fo-4",
+    "nombre": "Almudena Sánchez López",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-fo-5",
+    "nombre": "Víctor Villanueva Martínez",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "castellon-salf-1",
+    "nombre": "Álvaro González Álvaro",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-salf-2",
+    "nombre": "Nerea Sánchez Cerro",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-salf-3",
+    "nombre": "José Alberto Carrillo Palacios",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-salf-4",
+    "nombre": "Lorena Pla Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-salf-5",
+    "nombre": "Nicolas Rodríguez Muñoz",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "castellon-pcte-1",
+    "nombre": "Badr Ait Lamqadem Zahiri",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pcte-2",
+    "nombre": "Casandra Hernández Polo",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pcte-3",
+    "nombre": "Adrián Nido García",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pcte-4",
+    "nombre": "Clara Llanderal Manzano",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pcte-5",
+    "nombre": "Alberto Arranz Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "castellon-vox-1",
+    "nombre": "Alberto Teófilo Asarta Cuevas",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-vox-2",
+    "nombre": "María de los Llanos Massó Linares",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-vox-3",
+    "nombre": "David Muñoz Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-vox-4",
+    "nombre": "María Usó Ballesteros",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-vox-5",
+    "nombre": "Alberto Vidal Guerrero",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "castellon-fe-de-las-jons-1",
+    "nombre": "Andrónico Miguel Agustín Brun",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-fe-de-las-jons-2",
+    "nombre": "María Mercedes Vargas Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-fe-de-las-jons-3",
+    "nombre": "Francisco Zarzoso Veza",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-fe-de-las-jons-4",
+    "nombre": "Verónica Garrido Batalla",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-fe-de-las-jons-5",
+    "nombre": "Iker Miralles Claramonte",
+    "descripcion": ""
+   }
+  ],
+  "compromis-eupv-podem-erpv": [
+   {
+    "id": "castellon-compromis-eupv-podem-erpv-1",
+    "nombre": "Ignasi García Felip",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-compromis-eupv-podem-erpv-2",
+    "nombre": "Núria Calduch Verdiell",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-compromis-eupv-podem-erpv-3",
+    "nombre": "Pablo Grajeda Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-compromis-eupv-podem-erpv-4",
+    "nombre": "Silvia Peris Dumont",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-compromis-eupv-podem-erpv-5",
+    "nombre": "Miguel Ángel Rodríguez Méndez",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "castellon-pacma-1",
+    "nombre": "Francisca Hernández Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pacma-2",
+    "nombre": "José Sánchez Castillo",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pacma-3",
+    "nombre": "Inmaculada Fernández Rozas",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pacma-4",
+    "nombre": "Juan José Cruz Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pacma-5",
+    "nombre": "Victoria Yolanda Sarmiento Villar",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "castellon-pp-1",
+    "nombre": "Elena Albalat Aguilella",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pp-2",
+    "nombre": "Óscar Clavell López",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pp-3",
+    "nombre": "Candela Anglés Querol",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pp-4",
+    "nombre": "César Durá Edo",
+    "descripcion": ""
+   },
+   {
+    "id": "castellon-pp-5",
+    "nombre": "María Valverde Damiá",
+    "descripcion": ""
+   }
+  ]
+ }
+}

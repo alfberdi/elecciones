@@ -1,0 +1,44 @@
+{
+ "id": "la-palma",
+ "nombre": "La Palma",
+ "ccaa": "canarias",
+ "escanos": 1,
+ "marcas": 1,
+ "listas": {
+  "psoe": [
+   {
+    "id": "sen-la-palma-psoe-1",
+    "nombre": "Kilian Sánchez San Juan",
+    "descripcion": ""
+   }
+  ],
+  "cca-1-can": [
+   {
+    "id": "sen-la-palma-cca-1-can-1",
+    "nombre": "Míriam Perestelo Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-la-palma-pp-1",
+    "nombre": "Jacob Qadri Hijazo",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-la-palma-pacma-1",
+    "nombre": "Fernando Jesús Martín Acosta",
+    "descripcion": ""
+   }
+  ],
+  "nc-bc-podemos-iu-sumar": [
+   {
+    "id": "sen-la-palma-nc-bc-podemos-iu-sumar-1",
+    "nombre": "Miguel Ángel Pulido Rodríguez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "id": "palencia",
+ "nombre": "Palencia",
+ "ccaa": "castilla-y-leon",
+ "escanos": 3,
+ "listas": {
+  "psoe": [
+   {
+    "id": "palencia-psoe-1",
+    "nombre": "María Luz Martínez Seijo",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-psoe-2",
+    "nombre": "Agustín Ángel Martínez García",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-psoe-3",
+    "nombre": "Rut Pérez Martín",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "palencia-salf-1",
+    "nombre": "Fernando Martínez Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-salf-2",
+    "nombre": "Noemí Dorado Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-salf-3",
+    "nombre": "Roberto Carlos Doyague Abad",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "palencia-vox-1",
+    "nombre": "Matías Recio Juárez",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-vox-2",
+    "nombre": "María Calvo Iglesias",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-vox-3",
+    "nombre": "Ramón Ortega Ramírez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "palencia-podemos-1",
+    "nombre": "Alberto Pozo Díez",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-podemos-2",
+    "nombre": "Dana Parreño Acuña",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-podemos-3",
+    "nombre": "Luis Álvaro Villoldo Pelayo",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "palencia-fe-de-las-jons-1",
+    "nombre": "Luis Miguel Pérez González",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-fe-de-las-jons-2",
+    "nombre": "Natalia Gil Sáez",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-fe-de-las-jons-3",
+    "nombre": "Julio César De Alaíz Martínez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "palencia-pcte-1",
+    "nombre": "Aitor Vega García",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-pcte-2",
+    "nombre": "Sara Gómez García",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-pcte-3",
+    "nombre": "Gonzalo Fernández Cerezo",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "palencia-fo-1",
+    "nombre": "Yeray Yáñez Ibáñez",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-fo-2",
+    "nombre": "Eva Morata Segrera",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-fo-3",
+    "nombre": "Luis Enrique Muñoz Manrique",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "palencia-pp-1",
+    "nombre": "Milagros Marcos Ortega",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-pp-2",
+    "nombre": "Luis Miguel Cárcel Cárcel",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-pp-3",
+    "nombre": "María José Ortega Gómez",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "palencia-mundo-justo-1",
+    "nombre": "Miren Josu Moneo Viloria",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-mundo-justo-2",
+    "nombre": "Jesús Corrales Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-mundo-justo-3",
+    "nombre": "Cristina Marqués de Frutos",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "palencia-escanos-en-blanco-1",
+    "nombre": "Alicia Calzada Bujedo",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "palencia-escanos-en-blanco-2",
+    "nombre": "Iván López López",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "palencia-escanos-en-blanco-3",
+    "nombre": "Jessica Mazuelas Fernández",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "fa": [
+   {
+    "id": "palencia-fa-1",
+    "nombre": "Ana Belén Collantes Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-fa-2",
+    "nombre": "José Manuel Muñoz García",
+    "descripcion": ""
+   },
+   {
+    "id": "palencia-fa-3",
+    "nombre": "María Piedad Arroyo Serna",
+    "descripcion": ""
+   }
+  ]
+ }
+}

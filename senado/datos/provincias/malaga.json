@@ -1,0 +1,126 @@
+{
+ "id": "malaga",
+ "nombre": "Málaga",
+ "ccaa": "andalucia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "29": [
+   {
+    "id": "sen-malaga-29-1",
+    "nombre": "Alejandra Porras González",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "sen-malaga-adelante-andalucia-1",
+    "nombre": "Sergio Flores Borrego",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-adelante-andalucia-2",
+    "nombre": "Verónica Carrillo Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-adelante-andalucia-3",
+    "nombre": "Óscar Ávila Gómez",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-malaga-pacma-1",
+    "nombre": "María José Torres Mayorga",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-pacma-2",
+    "nombre": "Francisco Javier De laTorre Velasco",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-pacma-3",
+    "nombre": "Estefanía Rosado Velázquez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-malaga-pp-1",
+    "nombre": "José Francisco Salado Escaño",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-pp-2",
+    "nombre": "Margarita del Carmen del Cid Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-pp-3",
+    "nombre": "Mario Cortés Carballo",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-malaga-podemos-1",
+    "nombre": "Carmen Rosa Navajas Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-podemos-2",
+    "nombre": "José García Olmo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-podemos-3",
+    "nombre": "María Carmen Serrán González",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-malaga-vox-1",
+    "nombre": "Antonio Alfonso Alcázar Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-vox-2",
+    "nombre": "Gemma María Palomo Ferrer",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-vox-3",
+    "nombre": "Ricardo José García García",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-malaga-pcte-1",
+    "nombre": "Sergio Aranda Ruiz-Matas",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-malaga-psoe-iu-ms-1",
+    "nombre": "Francisco Javier García León",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-psoe-iu-ms-2",
+    "nombre": "Rosario Luque Torrejón",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-malaga-psoe-iu-ms-3",
+    "nombre": "Antonio Sánchez Fernández",
+    "descripcion": ""
+   }
+  ]
+ }
+}

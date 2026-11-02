@@ -1,0 +1,652 @@
+{
+ "id": "malaga",
+ "nombre": "Málaga",
+ "ccaa": "andalucia",
+ "escanos": 11,
+ "listas": {
+  "29": [
+   {
+    "id": "malaga-29-1",
+    "nombre": "Emilio Felipe Guzmán Jiménez",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-2",
+    "nombre": "María del Carmen Pérez Rubio",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-3",
+    "nombre": "Rogelio Manuel Vílchez Jordán",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-4",
+    "nombre": "Marina del Rocío Moncayo Paredes",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-5",
+    "nombre": "Rafael Arévalo Gordón",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-6",
+    "nombre": "Alicia Luque González",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-7",
+    "nombre": "David Marrero Tejera",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-8",
+    "nombre": "María Josefa Fortes García",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-9",
+    "nombre": "Alberto Espila Azuaga",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-10",
+    "nombre": "Carolina Vellido Sánchez",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "malaga-29-11",
+    "nombre": "Carlos Prieto Macías",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "malaga-fo-1",
+    "nombre": "Nicolás Navarro Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-2",
+    "nombre": "Carmen Escobar Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-3",
+    "nombre": "Miguel Francisco Sánchez Flores",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-4",
+    "nombre": "Marta Eugenia López Carmona",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-5",
+    "nombre": "Carlos Gutiérrez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-6",
+    "nombre": "Marina Tudela Roldán",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-7",
+    "nombre": "Rafael Molina Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-8",
+    "nombre": "Marina Llamas Quintero",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-9",
+    "nombre": "Jorge García Garzón",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-10",
+    "nombre": "Patricia Luque Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fo-11",
+    "nombre": "Alejandro Lázaro Cano",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "malaga-psoe-1",
+    "nombre": "José Bernal Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-2",
+    "nombre": "Desiree Flores Cortés Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-3",
+    "nombre": "Francisco Javier Salas Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-4",
+    "nombre": "María Nieves Ramírez Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-5",
+    "nombre": "José Alberto Jimena Gallardo",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-6",
+    "nombre": "Yolanda Florido Maldonado",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-7",
+    "nombre": "David Sánchez Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-8",
+    "nombre": "María Cristina Márquez García",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-9",
+    "nombre": "José María Domínguez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-10",
+    "nombre": "Yolanda González Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-psoe-11",
+    "nombre": "Francisco José Arias Galán",
+    "descripcion": ""
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "malaga-adelante-andalucia-1",
+    "nombre": "Ana María Jiménez Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-2",
+    "nombre": "Jesús Acosta Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-3",
+    "nombre": "Carmen Alicia Rojas Medina",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-4",
+    "nombre": "Fernando Pérez Cordero",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-5",
+    "nombre": "Elvira Porrino Bareas",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-6",
+    "nombre": "Luis Carlos Timonet Andreu",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-7",
+    "nombre": "Remedios Leiva Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-8",
+    "nombre": "Luis Carlos Vidal del Campo",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-9",
+    "nombre": "Mariola Cabello Reina",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-10",
+    "nombre": "Cristóbal González Rosado",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-adelante-andalucia-11",
+    "nombre": "Cristina Fernández Pinto",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "malaga-pacma-1",
+    "nombre": "Eva Ramos Taillefer",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-2",
+    "nombre": "Agustín Amadeo González Ferreiros",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-3",
+    "nombre": "Patricia Lara Narváez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-4",
+    "nombre": "Fernando Fernández Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-5",
+    "nombre": "Isabel María Ardao Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-6",
+    "nombre": "Salvador Sánchez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-7",
+    "nombre": "Miriam Sierra González",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-8",
+    "nombre": "Federico José Cuesta Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-9",
+    "nombre": "Virginia Ruiz Mena",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-10",
+    "nombre": "José Sánchez Arcas",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pacma-11",
+    "nombre": "María Peláez Calvo",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "malaga-vox-1",
+    "nombre": "Carlos Hernández Quero",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-2",
+    "nombre": "Patricia Rueda Perelló",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-3",
+    "nombre": "Juan Jesús Ruiz Ballesteros",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-4",
+    "nombre": "Yolanda Gómez Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-5",
+    "nombre": "Antonio José Luna García",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-6",
+    "nombre": "Alicia Encinas González",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-7",
+    "nombre": "Antonio Jesús Fernández Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-8",
+    "nombre": "Daniela Patricia Vega Wesphal",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-9",
+    "nombre": "Fernando José Jiménez Vicario",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-10",
+    "nombre": "Trinidad Celia Aragonés Leiva",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-vox-11",
+    "nombre": "José María Callejón Suñé",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "malaga-salf-1",
+    "nombre": "Mercedes Gema Jiménez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-2",
+    "nombre": "Germán Medina Benítez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-3",
+    "nombre": "Sonia María Martínez Bellido",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-4",
+    "nombre": "David Pablos García",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-5",
+    "nombre": "María García López",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-6",
+    "nombre": "Miguel Ángel López Macías",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-7",
+    "nombre": "Margarita Flores Quirós",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-8",
+    "nombre": "José Andrés Almazán Curbelo",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-9",
+    "nombre": "María del Carmen Pérez Márquez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-10",
+    "nombre": "Juan Luis Pintor Anaya",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-salf-11",
+    "nombre": "María Elena Macías Montes",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "malaga-pp-1",
+    "nombre": "Elías Bendodo Benasayag",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-2",
+    "nombre": "María Paloma Saborido Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-3",
+    "nombre": "Ángel Luis González Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-4",
+    "nombre": "María Francisca Caracuel García",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-5",
+    "nombre": "Carlos Arturo Bernal Bergua",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-6",
+    "nombre": "Antonia Jesús Ledesma Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-7",
+    "nombre": "Jacobo Florido Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-8",
+    "nombre": "María Lourdes Piña Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-9",
+    "nombre": "Félix Francisco Lozano Narváez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-10",
+    "nombre": "Marián Fernández Espejo",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pp-11",
+    "nombre": "Francisco Enrique Arce Fernández",
+    "descripcion": ""
+   }
+  ],
+  "jose-maria-calvo-guerra": [
+   {
+    "id": "malaga-jose-maria-calvo-guerra-1",
+    "nombre": "José María Calvo Guerra",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "malaga-pcte-1",
+    "nombre": "Antonio Jiménez Martínez de Ubago",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-2",
+    "nombre": "Raquel Boronat Ausina",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-3",
+    "nombre": "Miguel Fausto Solanas Gallego",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-4",
+    "nombre": "Beatriz Briones Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-5",
+    "nombre": "Miguel Barona Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-6",
+    "nombre": "Julia Hernández Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-7",
+    "nombre": "Diego Moisés González Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-8",
+    "nombre": "Irene Carmona López",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-9",
+    "nombre": "Adrián Hoz Morell",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-10",
+    "nombre": "Margarita Morell Oliver",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-pcte-11",
+    "nombre": "Pablo Musulen Lachica",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "malaga-podemos-1",
+    "nombre": "Micaela Jiménez Fortes",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-2",
+    "nombre": "Adrián García Abenza",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-3",
+    "nombre": "Alba Ramos Solano",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-4",
+    "nombre": "Daniel González Luque",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-5",
+    "nombre": "Carmen Ruiz Luque",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-6",
+    "nombre": "Miguel López Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-7",
+    "nombre": "Josefina Serdio Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-8",
+    "nombre": "Rafael Ángel Pozo Artacho",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-9",
+    "nombre": "Inmaculada Viñolo Navajas",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-10",
+    "nombre": "Manuel Martínez Latorre",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-podemos-11",
+    "nombre": "Antonia Silva Ruiz",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "malaga-fa-1",
+    "nombre": "Rafael Borrego Peña",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-2",
+    "nombre": "Eva García Sempere",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-3",
+    "nombre": "Ángel Isidoro Rodríguez Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-4",
+    "nombre": "Raquel Gemma Martínez Aguilera",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-5",
+    "nombre": "José Manuel Fernández Bautista",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-6",
+    "nombre": "Antonia Gloria Pérez Flores",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-7",
+    "nombre": "Juan Miguel Acejo Millán",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-8",
+    "nombre": "María Rosa Galindo González",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-9",
+    "nombre": "José Manuel Fernández Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-10",
+    "nombre": "Aurora María Palma Palma",
+    "descripcion": ""
+   },
+   {
+    "id": "malaga-fa-11",
+    "nombre": "Aurelio Carrillo Escobar",
+    "descripcion": ""
+   }
+  ]
+ }
+}

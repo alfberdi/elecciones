@@ -1,0 +1,125 @@
+{
+ "id": "barcelona",
+ "nombre": "Barcelona",
+ "ccaa": "cataluna",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "psc": [
+   {
+    "id": "sen-barcelona-psc-1",
+    "nombre": "Raquel Sánchez Jimenez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-psc-2",
+    "nombre": "Gabriel Colomé García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-psc-3",
+    "nombre": "Cristobalina Albéndiz Pérez",
+    "descripcion": ""
+   }
+  ],
+  "jxcat": [
+   {
+    "id": "sen-barcelona-jxcat-1",
+    "nombre": "Josep Maria Vida de Abadal i Serra",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-jxcat-2",
+    "nombre": "Anna Cols i Aguilar",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-jxcat-3",
+    "nombre": "Oriol Izquierdo i Llopis",
+    "descripcion": ""
+   }
+  ],
+  "erc-eh-bildu": [
+   {
+    "id": "sen-barcelona-erc-eh-bildu-1",
+    "nombre": "Francesc-Marc Álvaro i Vidal",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-erc-eh-bildu-2",
+    "nombre": "Mercedes Vidal Lago",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-erc-eh-bildu-3",
+    "nombre": "Joaquim Camprubí i Cabané",
+    "descripcion": ""
+   }
+  ],
+  "pctc": [
+   {
+    "id": "sen-barcelona-pctc-1",
+    "nombre": "Ferran Peris Serrano",
+    "descripcion": ""
+   }
+  ],
+  "c-dem": [
+   {
+    "id": "sen-barcelona-c-dem-1",
+    "nombre": "Laura Alzamora Merino",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-c-dem-2",
+    "nombre": "Miquel Àngel Essomba Gelabert",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-c-dem-3",
+    "nombre": "Aïda Llauradó Álvarez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-barcelona-vox-1",
+    "nombre": "María Elisa García Fuster",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-vox-2",
+    "nombre": "Jorge Mena Gálvez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-vox-3",
+    "nombre": "María Montserrat Piqueras Ruiz",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-barcelona-pp-1",
+    "nombre": "Josep Tutusaus Besante",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-pp-2",
+    "nombre": "Mónica Parés Centeno",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-barcelona-pp-3",
+    "nombre": "Javier Guasch Torrens",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-barcelona-mundo-justo-1",
+    "nombre": "Alejandro Baltasar Gerlach Soria",
+    "descripcion": ""
+   }
+  ]
+ }
+}

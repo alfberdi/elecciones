@@ -1,0 +1,37 @@
+{
+ "id": "lanzarote",
+ "nombre": "Lanzarote-La Graciosa",
+ "ccaa": "canarias",
+ "escanos": 1,
+ "marcas": 1,
+ "listas": {
+  "psoe": [
+   {
+    "id": "sen-lanzarote-psoe-1",
+    "nombre": "Francisco Manuel Fajardo Palarea",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-lanzarote-pp-1",
+    "nombre": "José Francisco Hernández García",
+    "descripcion": ""
+   }
+  ],
+  "cca-1-can": [
+   {
+    "id": "sen-lanzarote-cca-1-can-1",
+    "nombre": "Daisy Villalba Perdomo",
+    "descripcion": ""
+   }
+  ],
+  "nc-bc-podemos-iu-sumar": [
+   {
+    "id": "sen-lanzarote-nc-bc-podemos-iu-sumar-1",
+    "nombre": "Fernando María Jiménez García",
+    "descripcion": ""
+   }
+  ]
+ }
+}

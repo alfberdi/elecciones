@@ -1,0 +1,136 @@
+{
+ "id": "valladolid",
+ "nombre": "Valladolid",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pancal-urci": [
+   {
+    "id": "sen-valladolid-pancal-urci-1",
+    "nombre": "José Ignacio Moratinos Delgado –el Empecinado–",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-pancal-urci-2",
+    "nombre": "María Pilar Cubero Valdes",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-pancal-urci-3",
+    "nombre": "Tomas Francisco Arconada Villar",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-valladolid-mundo-justo-1",
+    "nombre": "María Luisa Valls Alguacil",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-valladolid-pacma-1",
+    "nombre": "Iván Serrano Pérez",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-valladolid-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "Sara Maria Galván Lobato",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Francisco Javier de la Rosa Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Yolanda Rosa Lanza Alaez",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-valladolid-fe-de-las-jons-1",
+    "nombre": "Juan Antonio Peral Disdier",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-valladolid-podemos-1",
+    "nombre": "Juan Antonio Heras García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-podemos-2",
+    "nombre": "María Belén Manjarres Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-podemos-3",
+    "nombre": "José Manuel Campos Carrion",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-valladolid-pcte-1",
+    "nombre": "Álvaro de Prada González",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-valladolid-vox-1",
+    "nombre": "Luis Alberto Matarranz Herreras",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-vox-2",
+    "nombre": "Aroa Valdés Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-vox-3",
+    "nombre": "Miguel Ángel Sainz Juez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-valladolid-pp-1",
+    "nombre": "Jesús Julio Carnero García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-pp-2",
+    "nombre": "María Mercedes Cantalapiedra Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-valladolid-pp-3",
+    "nombre": "José Ángel Alonso Pérez",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-valladolid-escanos-en-blanco-1",
+    "nombre": "Santiago Manuel Martínez Redondo",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "sen-valladolid-escanos-en-blanco-2",
+    "nombre": "Ana María Redondo Alvaredo",
+    "descripcion": "",
+    "independiente": true
+   }
+  ]
+ }
+}

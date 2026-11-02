@@ -1,0 +1,184 @@
+{
+ "id": "burgos",
+ "nombre": "Burgos",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "listas": {
+  "fo": [
+   {
+    "id": "burgos-fo-1",
+    "nombre": "Gonzalo Herrero Burgos",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-fo-2",
+    "nombre": "Ángela Roibas Sanclodio",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-fo-3",
+    "nombre": "Rubén Antón Tome",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-fo-4",
+    "nombre": "Laura Diaz Baldio",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "burgos-psoe-1",
+    "nombre": "Esther Peña Camarero",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-psoe-2",
+    "nombre": "Álvaro Morales Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-psoe-3",
+    "nombre": "Amparo Simón Lázaro",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-psoe-4",
+    "nombre": "Eduardo Martín Ortiz",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "burgos-salf-1",
+    "nombre": "Marcos Santamaría del Olmo",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-salf-2",
+    "nombre": "Raquel Basilio Barreiro",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-salf-3",
+    "nombre": "Diego Ibeas Cubillo",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-salf-4",
+    "nombre": "Blanca María Gómez Arbeo",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "burgos-podemos-1",
+    "nombre": "Isabel Lara Benitez",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-podemos-2",
+    "nombre": "Rodrigo Braceras López",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-podemos-3",
+    "nombre": "María Ángeles Pizarro de la Fuente",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-podemos-4",
+    "nombre": "Lucas Hernaez Gil",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "burgos-vox-1",
+    "nombre": "Eugenia Landaluce Miranda",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-vox-2",
+    "nombre": "Ignacio Peña Robledo",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-vox-3",
+    "nombre": "María Alejandra Medina Sanz",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-vox-4",
+    "nombre": "Raúl Ortega Reoyo",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "burgos-mundo-justo-1",
+    "nombre": "Elsa Colina Arreba",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-mundo-justo-2",
+    "nombre": "Rodrigo del Pozo Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-mundo-justo-3",
+    "nombre": "Paula Vegas Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-mundo-justo-4",
+    "nombre": "Jose Martín Gutierrez Ortega",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "burgos-pp-1",
+    "nombre": "Ángel Mariano Ibáñez Hernando",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-pp-2",
+    "nombre": "Andrea Ballesteros Palacios",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-pp-3",
+    "nombre": "Adrián Serna del Pozo",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-pp-4",
+    "nombre": "Sara González Moreno",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "burgos-fa-1",
+    "nombre": "Fernando José Saiz Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-fa-2",
+    "nombre": "María Isabel Alameda Abejón",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-fa-3",
+    "nombre": "Ramón Jose Mas Figueroa",
+    "descripcion": ""
+   },
+   {
+    "id": "burgos-fa-4",
+    "nombre": "Concepción Rollizo Sanz",
+    "descripcion": ""
+   }
+  ]
+ }
+}

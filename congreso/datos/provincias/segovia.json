@@ -1,0 +1,178 @@
+{
+ "id": "segovia",
+ "nombre": "Segovia",
+ "ccaa": "castilla-y-leon",
+ "escanos": 3,
+ "listas": {
+  "fo": [
+   {
+    "id": "segovia-fo-1",
+    "nombre": "Pablo de Mercado Alcalde",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-fo-2",
+    "nombre": "María Remedios Marín Fabian",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-fo-3",
+    "nombre": "David Nieto González",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "segovia-psoe-1",
+    "nombre": "Jose Luis Aceves Galindo",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-psoe-2",
+    "nombre": "Mercedes Otero Otero",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-psoe-3",
+    "nombre": "Daniel de Lucas García",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "segovia-mundo-justo-1",
+    "nombre": "Jose Manuel Eizaguirre Fernandez-Palacios",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-mundo-justo-2",
+    "nombre": "Pilar Barral Heredero",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-mundo-justo-3",
+    "nombre": "Fernando Cabello Meseguer",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "segovia-salf-1",
+    "nombre": "Jesús Angel Gascón Ames",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-salf-2",
+    "nombre": "Tania María Pérez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-salf-3",
+    "nombre": "Fernando Pérez de la Rosa",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "segovia-vox-1",
+    "nombre": "Gonzalo Babe Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-vox-2",
+    "nombre": "Marta Andrino Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-vox-3",
+    "nombre": "José Ángel Rubio García",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "segovia-pacma-1",
+    "nombre": "Rosa María Díaz García",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-pacma-2",
+    "nombre": "José Roca Olmos",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-pacma-3",
+    "nombre": "Nuria Serrenes Cachorro",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "segovia-podemos-1",
+    "nombre": "María Soledad Alba Monfort",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-podemos-2",
+    "nombre": "Jesús Inocencio Martín Fuentes",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-podemos-3",
+    "nombre": "Resurrección Gómez González",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "segovia-pcte-1",
+    "nombre": "Carlos Presa Irazábal",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-pcte-2",
+    "nombre": "Paula del Santo Izquierdo",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-pcte-3",
+    "nombre": "David García Valcarce",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "segovia-fa-1",
+    "nombre": "Víctor Javier Borreguero García",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-fa-2",
+    "nombre": "Estela Gilbaja Cabrero",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-fa-3",
+    "nombre": "Jacobo Alfonso Peña Conversa",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "segovia-pp-1",
+    "nombre": "Pablo Pérez Coronado",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-pp-2",
+    "nombre": "Marta Puertas Paniagua",
+    "descripcion": ""
+   },
+   {
+    "id": "segovia-pp-3",
+    "nombre": "Daniel Sacristán Gómez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

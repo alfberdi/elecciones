@@ -1,0 +1,1162 @@
+{
+ "id": "valencia",
+ "nombre": "Valencia",
+ "ccaa": "valenciana",
+ "escanos": 16,
+ "listas": {
+  "psoe": [
+   {
+    "id": "valencia-psoe-1",
+    "nombre": "Pilar Bernabé García",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-2",
+    "nombre": "Arcadi España García",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-3",
+    "nombre": "Rebeca Torró Soler",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-4",
+    "nombre": "José Enrique Muñoz Lladró",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-5",
+    "nombre": "Carmen Martínez Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-6",
+    "nombre": "Vicent Sarrià Morell",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-7",
+    "nombre": "Ana María González Herdaro",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-8",
+    "nombre": "Michel Montaner Berbel",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-9",
+    "nombre": "Nuria Aparisi Montagud",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-10",
+    "nombre": "Ernesto Ramón Herrera Osías",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-11",
+    "nombre": "María Dolores Celda Lluesma",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-12",
+    "nombre": "Jaume Espada i Guillen",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-13",
+    "nombre": "María Teresa Girau Melià",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-14",
+    "nombre": "Abel Martí Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-15",
+    "nombre": "Hortensia Gómez Llàcer",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-psoe-16",
+    "nombre": "Vicent Císcar Chisbert",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "valencia-fo-1",
+    "nombre": "Carmen López Manzano",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-2",
+    "nombre": "David Rubio Fidel",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-3",
+    "nombre": "Alicia Sanz Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-4",
+    "nombre": "Pau Botella López",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-5",
+    "nombre": "Claudia Coy Soriano",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-6",
+    "nombre": "Max Abad González",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-7",
+    "nombre": "Lucía Rodriguez Tena",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-8",
+    "nombre": "Juan José Aguilar Macias",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-9",
+    "nombre": "Luzia Palomares Regidor",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-10",
+    "nombre": "Alberto Otero Álamo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-11",
+    "nombre": "Teresa Pinazo Asensi",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-12",
+    "nombre": "Iván Escutia Manent",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-13",
+    "nombre": "Maria del Carmen Ramos Galindo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-14",
+    "nombre": "Marcos Navas Niñerola",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-15",
+    "nombre": "María Núñez Torreiro",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fo-16",
+    "nombre": "Hector Mirasol Martorell",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "valencia-pcte-1",
+    "nombre": "Gabriel Lorente Juan",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-2",
+    "nombre": "Celia Riba Polo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-3",
+    "nombre": "Francisco José Domenech Gomis",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-4",
+    "nombre": "Maya Ayuso Wood",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-5",
+    "nombre": "Jaume Tamarit Díez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-6",
+    "nombre": "Yui Argüello Padíal",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-7",
+    "nombre": "Javier Garrido de la Flor",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-8",
+    "nombre": "Lexie de los Ángeles Navarro Tolosa",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-9",
+    "nombre": "Daniel López Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-10",
+    "nombre": "María de los Ángeles Álvarez Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-11",
+    "nombre": "Alejandro Castellano Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-12",
+    "nombre": "Inés Martinez Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-13",
+    "nombre": "Javier Alcaraz Bermejo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-14",
+    "nombre": "María de los Ángeles Serrano Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-15",
+    "nombre": "Ricardo Manuel Fuertes Silvestre",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pcte-16",
+    "nombre": "Concepción Juan Mascarell",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "valencia-vox-1",
+    "nombre": "Ignacio Gil Lázaro",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-2",
+    "nombre": "Ana María Bellver Alcántara",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-3",
+    "nombre": "Carlos Flores Juberías",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-4",
+    "nombre": "María Gonzálbez Bernad",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-5",
+    "nombre": "José María Llanos Pitarch",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-6",
+    "nombre": "Macarena Orozco Aparicio",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-7",
+    "nombre": "Ignacio Carlos Soriano Tarín",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-8",
+    "nombre": "Virginia Huertas Pechuán",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-9",
+    "nombre": "Miguel Ángel Huerta Asensio",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-10",
+    "nombre": "Helena Martínez Losada",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-11",
+    "nombre": "José Luis Fernández Santamaría",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-12",
+    "nombre": "María del Carmen Navalón Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-13",
+    "nombre": "Juan Cerverón Capilla",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-14",
+    "nombre": "Prudencia María Ridaura Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-15",
+    "nombre": "Andrés Vicente Navalón Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vox-16",
+    "nombre": "María Carmen Jiménez Aguilar",
+    "descripcion": ""
+   }
+  ],
+  "compromis-eupv-podem-erpv": [
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-1",
+    "nombre": "Àgueda Micó Micó",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-2",
+    "nombre": "Alberto Ibáñez Mezquita",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-3",
+    "nombre": "Lara Manyes Font",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-4",
+    "nombre": "David Gabriel Ribó Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-5",
+    "nombre": "Laura Enguídanos Calatayud",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-6",
+    "nombre": "Domènec Garcia Anglés",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-7",
+    "nombre": "Jacinta Rubio Rodrigo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-8",
+    "nombre": "Carlos Montalbán Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-9",
+    "nombre": "Carmen Maria Carpena Ortega",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-10",
+    "nombre": "Pau Vivas López",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-11",
+    "nombre": "M.ª Teresa Naranjo Roca",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-12",
+    "nombre": "Nicolau Calabuig Serna",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-13",
+    "nombre": "Maria Júlia Andrés Pascual",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-14",
+    "nombre": "Rafael Úbeda Barberà",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-15",
+    "nombre": "Sònia Ferrando Company",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-compromis-eupv-podem-erpv-16",
+    "nombre": "Alfonso Domínguez Gento",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "valencia-salf-1",
+    "nombre": "Kevin Pérez Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-2",
+    "nombre": "Adriana Llop Montesinos",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-3",
+    "nombre": "José Manuel Duval Luengo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-4",
+    "nombre": "Amanda Almendro Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-5",
+    "nombre": "Sergio Cubells Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-6",
+    "nombre": "Huma Moya Miralles",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-7",
+    "nombre": "Carlos Alfonso Noguera",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-8",
+    "nombre": "Inmaculada Ballesteros Pardo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-9",
+    "nombre": "Samuel García Del Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-10",
+    "nombre": "Lorena Ruiz López",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-11",
+    "nombre": "Vicente Darás Gimeno",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-12",
+    "nombre": "Aida Zoe Marquina Bañuls",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-13",
+    "nombre": "Giovanni Jara Manzanera",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-14",
+    "nombre": "Marta Cifres Meseguer",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-15",
+    "nombre": "Vicente Andreu Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-salf-16",
+    "nombre": "Raquel Gil Graullera",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "valencia-pacma-1",
+    "nombre": "Irene Mercedes Mora Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-2",
+    "nombre": "Jorge Enrique Ruiz Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-3",
+    "nombre": "María José Valls García",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-4",
+    "nombre": "Gerardo Mora Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-5",
+    "nombre": "María Teresa Sagrado Vives",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-6",
+    "nombre": "José Félix Baldoví Milla",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-7",
+    "nombre": "Carolina Nuria Navarro Conde",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-8",
+    "nombre": "Iván Morales Ibáñez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-9",
+    "nombre": "María Jesús Puertes Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-10",
+    "nombre": "Javier Baldovi Jachán",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-11",
+    "nombre": "Eva María Sanfélix López",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-12",
+    "nombre": "Salvador Moll Herrero",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-13",
+    "nombre": "Esther Sanchís Mira",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-14",
+    "nombre": "Santiago Llorente Criado",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-15",
+    "nombre": "María Rosa Rodríguez Carmona",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pacma-16",
+    "nombre": "José Luis Lozano Polo",
+    "descripcion": ""
+   }
+  ],
+  "partido-autonomos": [
+   {
+    "id": "valencia-partido-autonomos-1",
+    "nombre": "Roberto Pradas Moncho",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-partido-autonomos-2",
+    "nombre": "María Rosa Campos Pizarro",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-3",
+    "nombre": "Antonio Ramírez Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-partido-autonomos-4",
+    "nombre": "Tamara Gascón Pradas",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-5",
+    "nombre": "Wilfredo Carballo Rodríguez",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-6",
+    "nombre": "Tíifany Gascón Pradas",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-7",
+    "nombre": "Ignacio Santos Gaudioso",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-8",
+    "nombre": "Inmaculada Carmen Díaz Gimeno",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-9",
+    "nombre": "Ángel Díaz Gallego",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-partido-autonomos-10",
+    "nombre": "Pilar Pradas Moncho",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-11",
+    "nombre": "Edison Omar Espinosa Carrera",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-partido-autonomos-12",
+    "nombre": "María del Mar Ramírez Salinas",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-13",
+    "nombre": "Pedro Pradas Moncho",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-14",
+    "nombre": "María Soledad Domínguez Antequera",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valencia-partido-autonomos-15",
+    "nombre": "Álvaro Rodríguez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-partido-autonomos-16",
+    "nombre": "Pilar Martínez Vivas",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "vlc": [
+   {
+    "id": "valencia-vlc-1",
+    "nombre": "Vicente González-Lizondo Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-2",
+    "nombre": "Yolanda García Sáez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-3",
+    "nombre": "Javier Juan Barberá",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-4",
+    "nombre": "M.ª del Reino González-Lizondo García",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-5",
+    "nombre": "Eric Gil Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-6",
+    "nombre": "Amalia Sáez Vidal",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-7",
+    "nombre": "Mario Lanzara Llorens",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-8",
+    "nombre": "Concepción Alabau Plaza",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-9",
+    "nombre": "Vicent Nicolás González-Lizondo García",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-10",
+    "nombre": "M.ª Dolores Bosch Avelino",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-11",
+    "nombre": "Juan José Folgado Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-12",
+    "nombre": "Begoña García Sáez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-13",
+    "nombre": "José Lorenzo González Benavent",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-14",
+    "nombre": "Carla Juan Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-15",
+    "nombre": "Salvador Rebollar Vila",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-vlc-16",
+    "nombre": "Paula Juan Hernández",
+    "descripcion": ""
+   }
+  ],
+  "rrb": [
+   {
+    "id": "valencia-rrb-1",
+    "nombre": "Miguel Ramón Martí Matias",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-2",
+    "nombre": "Remedios Moreno Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-3",
+    "nombre": "Manuel Gil Sandemetrio",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-4",
+    "nombre": "Laura Asins Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-5",
+    "nombre": "José Miguel Cuenca Valero",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-6",
+    "nombre": "Inmaculada Rubio Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-7",
+    "nombre": "Fernando Torres Ferrer",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-8",
+    "nombre": "María Ester Selma Galán",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-9",
+    "nombre": "Alfredo Fernández Comos",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-10",
+    "nombre": "Raquel Torres López",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-11",
+    "nombre": "Manuel Martínez Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-12",
+    "nombre": "Consuelo Gómez García",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-13",
+    "nombre": "Jorge Amadeo González Bernabéu",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-14",
+    "nombre": "Carolay Briyit Martínez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-15",
+    "nombre": "José Antonio Escriva San Jaime",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-rrb-16",
+    "nombre": "María Ángeles Escriva San Jaime",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "valencia-fe-de-las-jons-1",
+    "nombre": "Alejo Herrero González de Cárdenas",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-2",
+    "nombre": "Josefa Miguel Fernando",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-3",
+    "nombre": "Juan Pedro Guaita de Echeverria",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-4",
+    "nombre": "Esther Lloret Mongay",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-5",
+    "nombre": "Carlos Miquel Almiñana",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-6",
+    "nombre": "Ariadna Kouotou Espinosa",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-7",
+    "nombre": "Enrique Romero Marco",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-8",
+    "nombre": "Maria Victoria Herrero González Cárdenas",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-9",
+    "nombre": "Andrés Mateos Ibáñez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-10",
+    "nombre": "María Jesús Catala Verdu",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-11",
+    "nombre": "Juan Carlos Egea Tellez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-12",
+    "nombre": "María Carmen Moreno Sanmartin",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-13",
+    "nombre": "Antonio Vicente Rosique Tatay",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-14",
+    "nombre": "Lourdes Gloria Portales Nalda",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-15",
+    "nombre": "Rafael Sarrio Soriano",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-fe-de-las-jons-16",
+    "nombre": "Josefina Sarrio Soriano",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "valencia-pp-1",
+    "nombre": "María José Catalá Verdet",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-2",
+    "nombre": "Ricardo Gabaldón Gabaldón",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-3",
+    "nombre": "Belén Hoyo Juliá",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-4",
+    "nombre": "Fernando De Rosa Torner",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-5",
+    "nombre": "Esperanza Reynal Reillo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-6",
+    "nombre": "Luís Javier Santamaría Ruíz",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-7",
+    "nombre": "Esther Sancho Montes",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-8",
+    "nombre": "Evarist Aznar Teruel",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-9",
+    "nombre": "Lucía Sanchis Colás",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-10",
+    "nombre": "Jesús Gómez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-11",
+    "nombre": "Carolina Almiñana Lledó",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-12",
+    "nombre": "Vicente Gregori Acosta",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-13",
+    "nombre": "Virginia Sanz Ferrús",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-14",
+    "nombre": "Emilio José Belencoso Rodrigo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-15",
+    "nombre": "Rocío Navarro Montoro",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-pp-16",
+    "nombre": "Javier Camarasa Castelló",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "valencia-mundo-justo-1",
+    "nombre": "Marta López Calatayud",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-2",
+    "nombre": "Gonzalo Díaz-Pinés Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-3",
+    "nombre": "Isabel López Serra",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-4",
+    "nombre": "Arturo Misael Riofrío Paredes",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-5",
+    "nombre": "Lucía Cervera Furió",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-6",
+    "nombre": "Victoriano Gil Orduña",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-7",
+    "nombre": "Marisa Lázaro Aznar",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-8",
+    "nombre": "Ocrán García Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-9",
+    "nombre": "María José Bañuls Polo",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-10",
+    "nombre": "José María Sancho Ibáñez-Algarra",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-11",
+    "nombre": "Gracia de Mazarredo Aznar",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-12",
+    "nombre": "Agustín Beamud Cortés",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-13",
+    "nombre": "Purificación Nofuentes Montes",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-14",
+    "nombre": "Ignacio Codoñer Giner",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-15",
+    "nombre": "Pilar de Mazarredo Aznar",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-mundo-justo-16",
+    "nombre": "José Juan López Calatayud",
+    "descripcion": ""
+   }
+  ],
+  "agenda-valenciana": [
+   {
+    "id": "valencia-agenda-valenciana-1",
+    "nombre": "José Ramón Chirivella Vila",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-2",
+    "nombre": "Pilar Marco Ballester",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-3",
+    "nombre": "Vicente Climent Gisbert",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-4",
+    "nombre": "Carmen Jover Laparra",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-5",
+    "nombre": "José Antonio Pérez Vercher",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-6",
+    "nombre": "María Muñoz Bataller",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-7",
+    "nombre": "Ramón Aznar i García",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-8",
+    "nombre": "María Dolores Hernández Chirivella",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-9",
+    "nombre": "David Núñez Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-10",
+    "nombre": "Beatriz Gisbert Monllor",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-11",
+    "nombre": "Pau Giner Bayarri",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-12",
+    "nombre": "Carmen Cebrián Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-13",
+    "nombre": "Enrique Sanz Burguete",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-14",
+    "nombre": "Abelard Saragossà",
+    "descripcion": ""
+   },
+   {
+    "id": "valencia-agenda-valenciana-15",
+    "nombre": "Monica Chirivella Burgos",
+    "descripcion": ""
+   }
+  ]
+ }
+}

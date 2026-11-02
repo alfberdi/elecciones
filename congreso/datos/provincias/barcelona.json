@@ -1,0 +1,2127 @@
+{
+ "id": "barcelona",
+ "nombre": "Barcelona",
+ "ccaa": "cataluna",
+ "escanos": 32,
+ "listas": {
+  "psc": [
+   {
+    "id": "barcelona-psc-1",
+    "nombre": "Jordi Hereu Boher",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-2",
+    "nombre": "Eva Granados Galiano",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-3",
+    "nombre": "José Zaragoza Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-4",
+    "nombre": "Belinda Morillo Carretero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-5",
+    "nombre": "Francisco Aranda Vargas",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-6",
+    "nombre": "Rosa Sanz Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-7",
+    "nombre": "Carlos Prieto Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-8",
+    "nombre": "M. Carmen Garcia-Calvillo Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-9",
+    "nombre": "Arnau Ramírez Carner",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-10",
+    "nombre": "Andrea Canelo Matito",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-11",
+    "nombre": "Ferran Verdejo Vicente",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-12",
+    "nombre": "Pilar Díaz Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-13",
+    "nombre": "Juan Carlos Jerez Antequera",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-14",
+    "nombre": "Eva Ruíz Jurado",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-15",
+    "nombre": "Ignasi Conesa Coma",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-16",
+    "nombre": "Iman Aisa Abdellaoui",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-17",
+    "nombre": "Josep Paré Aregall",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-18",
+    "nombre": "M. Dolores Hermoso Castaño",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-19",
+    "nombre": "Oriol Almirón Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-20",
+    "nombre": "Clàudia Martínez i Alfaro",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-21",
+    "nombre": "Luis Miguel García Alcaraz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-22",
+    "nombre": "Carolina Sanchís Micola",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-23",
+    "nombre": "David Frontela Risueño",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-24",
+    "nombre": "Eva María Escribano Cuesta",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-25",
+    "nombre": "Ot García Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-26",
+    "nombre": "Zaira Pérez Mateo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-27",
+    "nombre": "Arnau Ruiz Luque",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-28",
+    "nombre": "Cinthya Walkidia Maldonado Mendez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-29",
+    "nombre": "Marc Tolrà Rosell",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-30",
+    "nombre": "Judit Pinilla Vazquez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-31",
+    "nombre": "Matías Carnero Sojo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-psc-32",
+    "nombre": "Isabel Ruiz Llamas",
+    "descripcion": ""
+   }
+  ],
+  "jxcat": [
+   {
+    "id": "barcelona-jxcat-1",
+    "nombre": "Míriam Nogueras i Camero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-2",
+    "nombre": "Josep Pagès i Massó",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-3",
+    "nombre": "Pilar Calvo i Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-4",
+    "nombre": "Isidre Sierra i Fusté",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-5",
+    "nombre": "Ma Teresa Vallverdú i Baró",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-6",
+    "nombre": "Estanislau Fors i Garcia",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-7",
+    "nombre": "Laura Cuadrado i Agell",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-8",
+    "nombre": "Josep Maria Llop i Rigol",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-9",
+    "nombre": "Anna Alemany i Pratdesaba",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-10",
+    "nombre": "Josep Gili i Prat",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-11",
+    "nombre": "Rosa Tubau i Llòria",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-12",
+    "nombre": "Marc Fiblà i Rico",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-13",
+    "nombre": "Assumpta Cros i Alavedra",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-14",
+    "nombre": "Pau Costa i Padró",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-15",
+    "nombre": "Ester Ros i Pich",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-16",
+    "nombre": "Antoni Cantín i Mas",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-17",
+    "nombre": "Marta Canas i Estapà",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-18",
+    "nombre": "Francesc Olivella i Pastallé",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-19",
+    "nombre": "Montserrat Girbau i Passarell",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-20",
+    "nombre": "Joan Baltà i Torredemer",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-21",
+    "nombre": "Meritxell Llisterri i Manent",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-22",
+    "nombre": "Marcel·Lí Martorell i Font",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-23",
+    "nombre": "Gemma Paterna i Vilalta",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-24",
+    "nombre": "Albert Ripol i Sancho",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-25",
+    "nombre": "Ana Maria Casamian i Gould",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-26",
+    "nombre": "Sergi Mialet i Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-27",
+    "nombre": "Esther Vilà i Vidal",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-28",
+    "nombre": "Álvaro Clapés-Saganyoles i Baena",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-29",
+    "nombre": "Carme Sayós i Motilla",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-30",
+    "nombre": "Gerard Figueras i Albà",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-31",
+    "nombre": "Núria Colomé i Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-jxcat-32",
+    "nombre": "Joan Vallvé i Ribera",
+    "descripcion": ""
+   }
+  ],
+  "erc": [
+   {
+    "id": "barcelona-erc-1",
+    "nombre": "Gabriel Rufián Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-2",
+    "nombre": "Mireia Ingla Mas",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-3",
+    "nombre": "Jordi Albert Caballero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-4",
+    "nombre": "Laura Pelay Bargalló",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-5",
+    "nombre": "David Minoves Llucià",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-6",
+    "nombre": "Alejandra Sandoval Villalobos",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-erc-7",
+    "nombre": "Àlex Ramon Sierra",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-8",
+    "nombre": "Fernanda Arribas i Crovara",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-9",
+    "nombre": "Héctor Sánchez i Mira",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-erc-10",
+    "nombre": "Maria Magdalena Pozuelo Castro",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-erc-11",
+    "nombre": "Francesc Poch Ros",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-12",
+    "nombre": "Miriam Moysset i Gil",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-13",
+    "nombre": "Jordi Maimí Girbal",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-14",
+    "nombre": "Karen Barrios Vargas",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-15",
+    "nombre": "Isaac Peraire Soler",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-16",
+    "nombre": "Mireia Canals Botines",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-erc-17",
+    "nombre": "Jaume Najarro i Jodar",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-18",
+    "nombre": "Rosa Pou Baró",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-19",
+    "nombre": "Enric Collado Pla",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-20",
+    "nombre": "Alba Torras Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-21",
+    "nombre": "Íñigo Garcia De Enterria i Adan",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-22",
+    "nombre": "Núria Satorra Menal",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-23",
+    "nombre": "David Clará García",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-erc-24",
+    "nombre": "Carme Torrents Aubia",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-25",
+    "nombre": "Joan Mora Buch",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-26",
+    "nombre": "Yolanda Torres Novales",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-27",
+    "nombre": "David Camacho Creus",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-28",
+    "nombre": "Monica Benito Gascón",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-29",
+    "nombre": "Artai Borrega Raventós",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-30",
+    "nombre": "Laia Bonells Oliver",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-31",
+    "nombre": "Oriol Junqueras i Vies",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-erc-32",
+    "nombre": "Diana Riba Giner",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "barcelona-fo-1",
+    "nombre": "Daniel Carro Peralta",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-2",
+    "nombre": "Silvia Gimenez Mayol",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-3",
+    "nombre": "Dwayne Burge Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-4",
+    "nombre": "Maria De Los Reyes González Lopez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-5",
+    "nombre": "Josep Pascual Chacón",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-6",
+    "nombre": "Nuria Mahamud De La Peña",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-7",
+    "nombre": "Aitor Hurtos Martinez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-8",
+    "nombre": "Marta Aguilella García",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-9",
+    "nombre": "Adrià Robles García",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-10",
+    "nombre": "Carmen Mayol Obrador",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-11",
+    "nombre": "Yasser Kadiri Talibi",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-12",
+    "nombre": "Raquel Molinos Varela",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-13",
+    "nombre": "Pol Grau Gil",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-14",
+    "nombre": "Maria Pitarch Laguna",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-15",
+    "nombre": "Imanol Tato Perrino",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-16",
+    "nombre": "Mercedes Laguna Segura",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-17",
+    "nombre": "Arnau Pla García",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-18",
+    "nombre": "Laia Gimenez Mayol",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-19",
+    "nombre": "Gonzalo Pujol Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-20",
+    "nombre": "Maria Del Alba Alvarez Gonzalez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-21",
+    "nombre": "Alex Caballe Sanchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-22",
+    "nombre": "Marta Morales Risquez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-23",
+    "nombre": "Jose Antonio Gallo Santiago",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-24",
+    "nombre": "Carla Guerrero Arroyo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-25",
+    "nombre": "Arnau Sanmartí Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-26",
+    "nombre": "Inmaculada Griera Diaz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-27",
+    "nombre": "Jose Antonio Galvez Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-28",
+    "nombre": "Marta García Deulofeu",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-29",
+    "nombre": "Eduardo Morales Risquez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-30",
+    "nombre": "Irene Gonzalez Garfella",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-31",
+    "nombre": "Andreu Cunillera Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-fo-32",
+    "nombre": "Ana Maria Paz Montoya",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "barcelona-salf-1",
+    "nombre": "Yolanda López Carreño",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-2",
+    "nombre": "David Manuel Pachon Espinosa",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-3",
+    "nombre": "Maria Cruz Guerrero Lopez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-4",
+    "nombre": "Mario Fuentes Valenzuela",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-5",
+    "nombre": "Rebeca Toro Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-6",
+    "nombre": "Sergi Codina Broto",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-7",
+    "nombre": "Maria Angeles Dionisio Garcia",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-8",
+    "nombre": "Jesús Rodriguez Pachón",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-9",
+    "nombre": "Monica Font Nogué",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-10",
+    "nombre": "Eric Turrens Martos",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-11",
+    "nombre": "Maria Visitación Yerbes Melgoso",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-12",
+    "nombre": "Julio Morodo Vidal",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-13",
+    "nombre": "Rafaela Barcojo Bohorquez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-14",
+    "nombre": "Jordi Alvarez Garriga",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-15",
+    "nombre": "Maria Lores Justicia",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-16",
+    "nombre": "Daniel Darder Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-17",
+    "nombre": "Maria Jose Alvarez Gonzalez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-18",
+    "nombre": "José Manuel Gonzalez Piedras",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-19",
+    "nombre": "Inmaculada Perez Jimenez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-20",
+    "nombre": "Pedro Maria Frigola Segimon",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-21",
+    "nombre": "Ester Fernandez Galan",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-22",
+    "nombre": "Juan Carlos Gil Henao",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-23",
+    "nombre": "Maria Teresa Alberjón Sanchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-24",
+    "nombre": "Javier Alejandro Hernan Gamero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-25",
+    "nombre": "Esther Navarro Justicia",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-26",
+    "nombre": "Emilio Aguilar Pulido",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-27",
+    "nombre": "Maria De Los Angeles Fernandez Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-28",
+    "nombre": "Lester Gabriel De La Noval Gomez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-29",
+    "nombre": "Maria Foix Queralto Salguero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-30",
+    "nombre": "Ricardo Martinez Gonzalez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-31",
+    "nombre": "Mireia Risquez Murillo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-salf-32",
+    "nombre": "Jaime Cortes Garcia",
+    "descripcion": ""
+   }
+  ],
+  "pctc": [
+   {
+    "id": "barcelona-pctc-1",
+    "nombre": "Maria Rodríguez-Farge Hijano",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-2",
+    "nombre": "Alejandro Ramos Roda",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-3",
+    "nombre": "Marina Puente Matas",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-4",
+    "nombre": "Ion Alen Picciuolo Urquiza",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-5",
+    "nombre": "Isabel González Torrents",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-6",
+    "nombre": "José Luís López Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-7",
+    "nombre": "Laia Magariño Vila",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-8",
+    "nombre": "Roger Aguilar Vallverdú",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-9",
+    "nombre": "Ouafae Saibari Jahuan",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-10",
+    "nombre": "Esteban Brian Delgado Arias",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-11",
+    "nombre": "Iris Milán Maillo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-12",
+    "nombre": "Antonio Laguna Rivero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-13",
+    "nombre": "Sara Prattke Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-14",
+    "nombre": "David Arévalo Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-15",
+    "nombre": "Natàlia Dolader Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-16",
+    "nombre": "Carlos Vela Lordán",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-17",
+    "nombre": "Maria Carmen Asensio Giner",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-18",
+    "nombre": "Eric Miguel Rodríguez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-19",
+    "nombre": "Lara Revilla Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-20",
+    "nombre": "Artur Dilmé i Riera",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-21",
+    "nombre": "Elena Madejón Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-22",
+    "nombre": "Javier Alcalá Sevilla",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-23",
+    "nombre": "Irene Chica i Capell",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-24",
+    "nombre": "Àlex Martínez Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-25",
+    "nombre": "Ana Mellado Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-26",
+    "nombre": "Alejandro Arasa Murcia",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-27",
+    "nombre": "Adriana Molina Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-28",
+    "nombre": "José Luís López Amigó",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-29",
+    "nombre": "Julia Roda García",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-30",
+    "nombre": "Jaume Vidal Llop",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-31",
+    "nombre": "Maria Pilar García Ascaso",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pctc-32",
+    "nombre": "Ismael Robles Rubio",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "barcelona-vox-1",
+    "nombre": "Juan José Aizcorbe Torra",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-2",
+    "nombre": "Carina Mejías Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-3",
+    "nombre": "Ignacio Fontcuberta Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-4",
+    "nombre": "María Del Rosario Mesas Company",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-5",
+    "nombre": "José Antonio Gilabert Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-6",
+    "nombre": "Júlia Calvet Puig",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-7",
+    "nombre": "Andrés Félix Bello Sanz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-8",
+    "nombre": "Alicia Tomás Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-9",
+    "nombre": "Marc Cívico Morales",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-10",
+    "nombre": "Mónica Soria Verdión",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-11",
+    "nombre": "Gonzalo De Oro-Pulido Plaza",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-12",
+    "nombre": "Mónica Lora Císquer",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-13",
+    "nombre": "Francisco Javier González Priego",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-14",
+    "nombre": "Núria Alejandra Acacio Montesinos",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-15",
+    "nombre": "Aitor Navarro Horna",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-16",
+    "nombre": "Nerea Andrés Antón",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-17",
+    "nombre": "Marcos Rodríguez Font",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-18",
+    "nombre": "Joana Robles Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-19",
+    "nombre": "Iván Cánovas Casanova",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-20",
+    "nombre": "Marina Ferrer Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-21",
+    "nombre": "Rafael Millán Carracedo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-22",
+    "nombre": "María Cristina Tarrés Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-23",
+    "nombre": "Óscar Conde Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-24",
+    "nombre": "Guadalupe Santiago Coto",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-25",
+    "nombre": "Daniel Lafuente Arbós",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-26",
+    "nombre": "Gina Ayde Clavijo Pinzón",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-27",
+    "nombre": "Argyris Hortas Gozalbo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-28",
+    "nombre": "Rosa María Tajadura Ochoa",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-29",
+    "nombre": "Alejandro Fernández Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-30",
+    "nombre": "Carmen Romero Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-31",
+    "nombre": "Antonio Balboa Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-vox-32",
+    "nombre": "Alejandra Chirivás Brazo",
+    "descripcion": ""
+   }
+  ],
+  "comuns-front-ampli": [
+   {
+    "id": "barcelona-comuns-front-ampli-1",
+    "nombre": "Ada Colau Ballano",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-2",
+    "nombre": "Ernest Urtasun Domènech",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-3",
+    "nombre": "Júlia Miralles De Imperial Pujol",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-4",
+    "nombre": "Andrés García Berrio",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-5",
+    "nombre": "Lucía Martín González",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-6",
+    "nombre": "Juan Miguel Mena Arca",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-7",
+    "nombre": "Viviane Ogou Corbi",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-8",
+    "nombre": "Miquel Farrés Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-9",
+    "nombre": "Marina Rodríguez Parpal",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-10",
+    "nombre": "Ramon Gutiérrez Illana",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-11",
+    "nombre": "Marina Escribano Maspons",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-12",
+    "nombre": "Harouna Zerbo Pare",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-13",
+    "nombre": "Yolanda Sánchez Alcaraz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-14",
+    "nombre": "Eduard Navarro García",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-15",
+    "nombre": "Noemi Ayguasenosa Soro",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-16",
+    "nombre": "Albert Guasch Luján",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-17",
+    "nombre": "Mercè Claramunt Bielsa",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-18",
+    "nombre": "José Antonio Montero Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-19",
+    "nombre": "Silvia López Valentín",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-20",
+    "nombre": "Oriol Muñoz Gual",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-21",
+    "nombre": "Nuria Suárez Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-22",
+    "nombre": "David Espinola Puig",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-23",
+    "nombre": "María Rosa Perea Núñez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-24",
+    "nombre": "Pol Rovira Ponce",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-25",
+    "nombre": "Yolanda Ojeda Losada",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-26",
+    "nombre": "Daniel Jiménez Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-27",
+    "nombre": "Laura Rafart Virgili",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-28",
+    "nombre": "Angel-Gerardo Pisarello Prados",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-29",
+    "nombre": "Antonina Rodrigo García",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-30",
+    "nombre": "Joan Subirats Humet",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-31",
+    "nombre": "Laura Campos Ferrer",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-comuns-front-ampli-32",
+    "nombre": "Jose Carlos Vallejo Calderon",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "barcelona-pp-1",
+    "nombre": "Xavier García Albiol",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-2",
+    "nombre": "Marta Urgellés Gil De Solá",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-3",
+    "nombre": "Juan Bautista Milián Querol",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-4",
+    "nombre": "Belén Marrón Reigosa",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-5",
+    "nombre": "Ignacio De Loyola Martín Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-6",
+    "nombre": "Cristina Agüera Gago",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-7",
+    "nombre": "Hugo Aberto Manchón García",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-8",
+    "nombre": "Irene Pardo Romera",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-9",
+    "nombre": "Daniel Serrano Coronado",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-10",
+    "nombre": "Andrea Llopart Gonzalo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-11",
+    "nombre": "Paris Grau Garcerán",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-12",
+    "nombre": "Sonia Esplugas González",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-13",
+    "nombre": "Erik Gutiérrez Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-14",
+    "nombre": "Irene Elena González Poveda",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-15",
+    "nombre": "Pau Ferran Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-16",
+    "nombre": "María Estrella Salanova Casajuana",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-17",
+    "nombre": "Javier Casas Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-18",
+    "nombre": "María Elisa De Mata Arnaldo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-19",
+    "nombre": "Manuel Jesus Casado Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-20",
+    "nombre": "Elisabet Ortega Robles",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-21",
+    "nombre": "Miguel Jurado Tejada",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-22",
+    "nombre": "Natalia Ortega Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-23",
+    "nombre": "Víctor Martí De Villasante",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-24",
+    "nombre": "Soraya Muñoz Heredia",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-25",
+    "nombre": "Juan José Giner Espinosa",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-26",
+    "nombre": "Alexandra Ladrón De Guevara Humánez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-27",
+    "nombre": "Francisco Javier Jiménez Ríos",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-28",
+    "nombre": "María Carmen Torres Cassany",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-29",
+    "nombre": "Raúl Collbatallé Simón",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-30",
+    "nombre": "Julia González González",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-31",
+    "nombre": "Miguel Ángel Ochoa Oliva",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pp-32",
+    "nombre": "Dolors Montserrat Montserrat",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "barcelona-mundo-justo-1",
+    "nombre": "Ana María Surra Spadea",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-2",
+    "nombre": "Gonzalo Santandreu Iorite",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-3",
+    "nombre": "Brenda Elizabeth Zambrano Rivera",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-4",
+    "nombre": "Marco Antonio Quito Palacios",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-5",
+    "nombre": "Annabelle Del Rocío Intriago Intriago",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-6",
+    "nombre": "Alberto Baltar Cabanillas",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-7",
+    "nombre": "Llliana Yanette Juanicotenea Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-8",
+    "nombre": "Josep Maymo Soldevila",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-9",
+    "nombre": "Marta Mba Ayecaba",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-10",
+    "nombre": "Marcelo Daniel Romero Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-11",
+    "nombre": "Lorena Vanessa Ramírez Candiles",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-12",
+    "nombre": "Diego Martín Mateos Figueiredo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-13",
+    "nombre": "Nancy Jaqueline Peña Mascheroni",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-14",
+    "nombre": "Óscar Tortajada Hortelano",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-15",
+    "nombre": "Karina Giselle Presentado Soria",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-16",
+    "nombre": "Iyke Akabuike Akabuike",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-17",
+    "nombre": "Ketty Mónica Del Castillo Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-18",
+    "nombre": "Christopher-Chidi Okafor Okafor",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-19",
+    "nombre": "Leticia Duclos Vallis",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-20",
+    "nombre": "Amaechi-Timothy Erugo Ekechi",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-21",
+    "nombre": "Francisca Salazar Perea",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-22",
+    "nombre": "Hebert Antonio Araujo Olivera",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-23",
+    "nombre": "Marta Escalada Salazar",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-24",
+    "nombre": "José Luis Pereira Ferrou",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-25",
+    "nombre": "María Dolors Moreno Mendez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-26",
+    "nombre": "Nicolás Gerlach Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-27",
+    "nombre": "Laura Aida Bentancourt Cestau",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-28",
+    "nombre": "Julio César Orrego Victorino",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-29",
+    "nombre": "Lorena Valverde Manzanares",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-30",
+    "nombre": "Álvaro Gustavo Pérez Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-31",
+    "nombre": "Magali Jacqueline Saldombide Sosa",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-mundo-justo-32",
+    "nombre": "Jorge Alonso Díaz",
+    "descripcion": ""
+   }
+  ],
+  "d21": [
+   {
+    "id": "barcelona-d21-1",
+    "nombre": "David Andrés Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-2",
+    "nombre": "Noelia Liduina Rebón Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-3",
+    "nombre": "Fernando Aparicio Frías",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-4",
+    "nombre": "Susana López López",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-5",
+    "nombre": "José Francisco Lascurain Golferichs",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-6",
+    "nombre": "María Rodríguez Murillo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-7",
+    "nombre": "Carlos Linares Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-8",
+    "nombre": "Judith Rodríguez Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-9",
+    "nombre": "José Luis De La Rosa Núñez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-10",
+    "nombre": "Ruth Baygual De Ferrater",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-11",
+    "nombre": "Joaquín Brik Alcañiz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-12",
+    "nombre": "Gloria Feliu Iglesias",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-13",
+    "nombre": "Jordi Cañas Manubens",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-14",
+    "nombre": "María Teresa Augé Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-15",
+    "nombre": "Alberto Rodríguez Baeza",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-16",
+    "nombre": "Jessica Pauchet García",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-17",
+    "nombre": "José María Paniello Limiñana",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-18",
+    "nombre": "Laura Noelia Ruiz Bernal",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-19",
+    "nombre": "Juan José Salvador Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-20",
+    "nombre": "Gemma Puyo Castañera",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-21",
+    "nombre": "Manuel Rodríguez Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-22",
+    "nombre": "Montserrat Herrera Miras",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-23",
+    "nombre": "Germán Castillo Picón",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-24",
+    "nombre": "Sonia Reina Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-25",
+    "nombre": "Iván Borrego Valverde",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-26",
+    "nombre": "Cristina De Pelegrí Echeverría",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-27",
+    "nombre": "Gustavo Fabián De Lío Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-28",
+    "nombre": "Susana Casino López",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-29",
+    "nombre": "Enrique Luis López Viguria",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-d21-30",
+    "nombre": "Laia Garrido Angarón",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-31",
+    "nombre": "Francisco Jufresa Patau",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-d21-32",
+    "nombre": "Maria Isabel Fernández Alonso",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "barcelona-pacma-1",
+    "nombre": "Beatriz Arévalo Rodrigo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-2",
+    "nombre": "Dimitri Nagib Defranc Cevallos",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-3",
+    "nombre": "Alba García Roldan",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-4",
+    "nombre": "Íñigo Urruchi Sagredo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-5",
+    "nombre": "Elisa López-Mateos Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-6",
+    "nombre": "Gonzalo Blanca Bonilla",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-7",
+    "nombre": "Maria Sol Costarrosa Marcos",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-8",
+    "nombre": "Juan Jose Corres Orue",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-9",
+    "nombre": "Rosa Domínguez Merino",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-10",
+    "nombre": "Aldo Alcaraz Diaz De Liaño",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-11",
+    "nombre": "Leonor Díaz De Liaño Serra",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-12",
+    "nombre": "Javier Muñoz Aranda",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-13",
+    "nombre": "Elisabet Ayuste Santana",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-14",
+    "nombre": "Iván Tomsen Munné",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-15",
+    "nombre": "Patricia Alfani Moncusi",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-16",
+    "nombre": "Francisco Javier Martí Vallès",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-17",
+    "nombre": "Cristina García González",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-18",
+    "nombre": "Francesc De Paula Cardoner Puig",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-19",
+    "nombre": "Luisa Claver Oñate",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-20",
+    "nombre": "Javier López Morán",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-21",
+    "nombre": "Sonia Hernández Jové",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-22",
+    "nombre": "Javier Hernández Valverde",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-23",
+    "nombre": "Ana María Lisbona Sacristan",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-24",
+    "nombre": "Jose Manuel Diaz De Quijano Vizcaigana",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-25",
+    "nombre": "Susana Avilés Toré",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-26",
+    "nombre": "Eric Sánchez Alcalde",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-27",
+    "nombre": "Francisca Alcalde Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-28",
+    "nombre": "Jose Luis Dolz Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-29",
+    "nombre": "Edita Olaizola Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-30",
+    "nombre": "Mario Lanero Fernánzdez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-31",
+    "nombre": "Eva María Borbón Ros",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-pacma-32",
+    "nombre": "David Matamala Martínez",
+    "descripcion": ""
+   }
+  ],
+  "alhora": [
+   {
+    "id": "barcelona-alhora-1",
+    "nombre": "Jordi Graupera Garcia Milà",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-2",
+    "nombre": "Maria Del Pilar Carracelas Argiz",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-3",
+    "nombre": "Joan Ricart Angulo",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-4",
+    "nombre": "Maria Bosch Soler",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-5",
+    "nombre": "Antoni Romero Cervià",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-6",
+    "nombre": "Elisabet Vives Requena",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-7",
+    "nombre": "Josep Torrens Viladecans",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-8",
+    "nombre": "Paula Mas Dapena",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-9",
+    "nombre": "Josep Maria Losantos Sistach",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-10",
+    "nombre": "Ingrid Narcisa Vilanova Karlsson",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-11",
+    "nombre": "Josep Subirana Jové",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-12",
+    "nombre": "Núria Inglada Cardona",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-13",
+    "nombre": "Eduard Castellet Torrents",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-14",
+    "nombre": "Joana Verdera Font",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-15",
+    "nombre": "Joan Àngel Coll Marí",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-alhora-16",
+    "nombre": "Pit-Roig Vinyals i Tasa",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-alhora-17",
+    "nombre": "Ismael Florentin Mínguez Peña",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-18",
+    "nombre": "Beatriz Jiménez Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-19",
+    "nombre": "Joan Jorquera Bordonau",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-alhora-20",
+    "nombre": "Núria Saurí Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-21",
+    "nombre": "Antoni Mazaira Font",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-22",
+    "nombre": "Anna Mujal Colilles",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-23",
+    "nombre": "Héctor Casas Pinto",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-alhora-24",
+    "nombre": "Àstrid Alemany Jaime",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-25",
+    "nombre": "Josep Selga Brunet",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-alhora-26",
+    "nombre": "Jana Peñafiel Román",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-27",
+    "nombre": "Maurici Santamaria Cots",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-alhora-28",
+    "nombre": "Esther Vilar Roca",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-29",
+    "nombre": "Albert Buigues Ortolà",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-30",
+    "nombre": "Assumpta Vilajosana Estopiñán",
+    "descripcion": ""
+   },
+   {
+    "id": "barcelona-alhora-31",
+    "nombre": "Xavier Buigas Llobet",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "barcelona-alhora-32",
+    "nombre": "Mònica Ribell Bachs",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,132 @@
+{
+ "id": "madrid",
+ "nombre": "Madrid",
+ "ccaa": "madrid",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "fe-de-las-jons": [
+   {
+    "id": "sen-madrid-fe-de-las-jons-1",
+    "nombre": "Jorge Garrido San Román",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-madrid-pcte-1",
+    "nombre": "Jose Luis González Vega",
+    "descripcion": ""
+   }
+  ],
+  "ph": [
+   {
+    "id": "sen-madrid-ph-1",
+    "nombre": "Gloria López López",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-ph-2",
+    "nombre": "Pedro Pablo Martín Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-ph-3",
+    "nombre": "Tamara Rosa Bueno Doral",
+    "descripcion": ""
+   }
+  ],
+  "ie": [
+   {
+    "id": "sen-madrid-ie-1",
+    "nombre": "Alicia Gomez Cuellar",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-madrid-mundo-justo-1",
+    "nombre": "Jorge Serrano Paradinas",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-mundo-justo-2",
+    "nombre": "Bárbara Rubio Gribble",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-mundo-justo-3",
+    "nombre": "Esther García Piña",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-madrid-pp-1",
+    "nombre": "Pedro Rollán Ojeda",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-pp-2",
+    "nombre": "María Inmaculada Sanz Otero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-pp-3",
+    "nombre": "Carlos García Adanero",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms-mm-compromis-cha-batzarre": [
+   {
+    "id": "sen-madrid-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+    "nombre": "Antonio Hernando Vera",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+    "nombre": "María Acín Carrera",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+    "nombre": "José Luis García Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-madrid-podemos-1",
+    "nombre": "Francisco Freytez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-podemos-2",
+    "nombre": "María Laura Martín Chiappe",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-podemos-3",
+    "nombre": "Alfonso Manuel García Díaz",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-madrid-vox-1",
+    "nombre": "Ana María Cuartero Lorenzo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-vox-2",
+    "nombre": "Iñigo Henríquez de Luna Losada",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-madrid-vox-3",
+    "nombre": "Ana María Velasco Vida-Abarca",
+    "descripcion": ""
+   }
+  ]
+ }
+}

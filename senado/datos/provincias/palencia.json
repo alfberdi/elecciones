@@ -1,0 +1,99 @@
+{
+ "id": "palencia",
+ "nombre": "Palencia",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "podemos": [
+   {
+    "id": "sen-palencia-podemos-1",
+    "nombre": "Alba Alonso Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-palencia-podemos-2",
+    "nombre": "Alberto Riol de Prado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-palencia-podemos-3",
+    "nombre": "Ana Isabel Pérez Mena",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-palencia-fe-de-las-jons-1",
+    "nombre": "Óscar Sánchez Rico",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-palencia-pp-1",
+    "nombre": "Roberto Martín Casado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-palencia-pp-2",
+    "nombre": "Cristina Sandino Vallejo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-palencia-pp-3",
+    "nombre": "Jorge Domingo Martínez Antolín",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-palencia-mundo-justo-1",
+    "nombre": "Cristina Gutiérrez Aguirre",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-palencia-vox-1",
+    "nombre": "Jorge Castrillejo Arnaiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-palencia-vox-2",
+    "nombre": "Zaida de la Fuente Sancho",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-palencia-vox-3",
+    "nombre": "Juan Antonio García García",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-palencia-escanos-en-blanco-1",
+    "nombre": "María Inés Aceves Ballesteros",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-palencia-psoe-iu-ms-1",
+    "nombre": "Rosa María Aldea Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-palencia-psoe-iu-ms-2",
+    "nombre": "Eduardo Velázquez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-palencia-psoe-iu-ms-3",
+    "nombre": "Belinda Mencía Solla",
+    "descripcion": ""
+   }
+  ]
+ }
+}

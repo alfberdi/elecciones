@@ -1,0 +1,44 @@
+{
+ "id": "el-hierro",
+ "nombre": "El Hierro",
+ "ccaa": "canarias",
+ "escanos": 1,
+ "marcas": 1,
+ "listas": {
+  "ahi": [
+   {
+    "id": "sen-el-hierro-ahi-1",
+    "nombre": "Aniceto Javier Armas González",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "sen-el-hierro-psoe-1",
+    "nombre": "Alpidio Armas González",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-el-hierro-pp-1",
+    "nombre": "Inés Del Hierro Lías",
+    "descripcion": ""
+   }
+  ],
+  "asamblea-herrena": [
+   {
+    "id": "sen-el-hierro-asamblea-herrena-1",
+    "nombre": "Emilio Víctor Hernández Montero",
+    "descripcion": ""
+   }
+  ],
+  "nc-bc-podemos-iu-sumar": [
+   {
+    "id": "sen-el-hierro-nc-bc-podemos-iu-sumar-1",
+    "nombre": "Tinaxara Padrón Reyes",
+    "descripcion": ""
+   }
+  ]
+ }
+}

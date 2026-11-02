@@ -1,0 +1,105 @@
+{
+ "id": "zaragoza",
+ "nombre": "Zaragoza",
+ "ccaa": "aragon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-zaragoza-pcte-1",
+    "nombre": "Miguel Tello Bernad",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-zaragoza-mundo-justo-1",
+    "nombre": "Isabel Puyoles Hernández",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms-mm-compromis-cha-batzarre": [
+   {
+    "id": "sen-zaragoza-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+    "nombre": "Miguel Dalmau Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zaragoza-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+    "nombre": "Ruth Pina Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zaragoza-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+    "nombre": "Ramón Duce Maestro",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-zaragoza-podemos-1",
+    "nombre": "Andres Pardo Granero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zaragoza-podemos-2",
+    "nombre": "María Luisa Garós Cirés",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zaragoza-podemos-3",
+    "nombre": "Carlos Álvarez Vega",
+    "descripcion": ""
+   }
+  ],
+  "fia": [
+   {
+    "id": "sen-zaragoza-fia-1",
+    "nombre": "Florencio Hidalgo García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zaragoza-fia-2",
+    "nombre": "Ana María Pérez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zaragoza-fia-3",
+    "nombre": "Fernando Benjamín Ruiz Sebastián",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-zaragoza-pp-1",
+    "nombre": "Luis María Beamonte Mesa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zaragoza-pp-2",
+    "nombre": "María Elena Bondía Pinós",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zaragoza-pp-3",
+    "nombre": "José Manuel Aranda Lassa",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-zaragoza-vox-1",
+    "nombre": "Germán Sanz Bordonaba",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-zaragoza-fe-de-las-jons-1",
+    "nombre": "Jorge Mínguez Luna",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "id": "zamora",
+ "nombre": "Zamora",
+ "ccaa": "castilla-y-leon",
+ "escanos": 3,
+ "listas": {
+  "psoe": [
+   {
+    "id": "zamora-psoe-1",
+    "nombre": "Antidio Fagúndez Campo",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-psoe-2",
+    "nombre": "Raquel Pascual Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-psoe-3",
+    "nombre": "Ismael Aguado Ferreira",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "zamora-pcte-1",
+    "nombre": "Sócrates Fernández López",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-pcte-2",
+    "nombre": "Paula Fernández Colado",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-pcte-3",
+    "nombre": "Pablo Prieto Redondo",
+    "descripcion": ""
+   }
+  ],
+  "prepal": [
+   {
+    "id": "zamora-prepal-1",
+    "nombre": "Francisco Iglesias Carreño",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-prepal-2",
+    "nombre": "María Paz Fernández Villa",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-prepal-3",
+    "nombre": "Jesús Corrales Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "zamora-salf-1",
+    "nombre": "María Cynthia Garrote Ballestero",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-salf-2",
+    "nombre": "Óscar Pascual Ferrero",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-salf-3",
+    "nombre": "Mónica Pascual Villapalos",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "zamora-vox-1",
+    "nombre": "Miguel Suárez Arca",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-vox-2",
+    "nombre": "Patricia Alonso Villar",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-vox-3",
+    "nombre": "Jonathan García García",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "zamora-podemos-1",
+    "nombre": "Miguel Ángel Guerra Cosme",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-podemos-2",
+    "nombre": "María Del Olvido Pérez Santos",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-podemos-3",
+    "nombre": "Santiago López Velasco",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "zamora-pp-1",
+    "nombre": "María Montserrat Chimeno Viñas",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-pp-2",
+    "nombre": "Fernando Martínez-Maillo Toribio",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-pp-3",
+    "nombre": "Sara Casquero Martín",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "zamora-fo-1",
+    "nombre": "Francisco Ramos Orgaz",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-fo-2",
+    "nombre": "Ángela Villarino García",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-fo-3",
+    "nombre": "Diego Díez Castro",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "zamora-fa-1",
+    "nombre": "Diego Bernardo Rosas",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-fa-2",
+    "nombre": "Ana Belén González Rogado",
+    "descripcion": ""
+   },
+   {
+    "id": "zamora-fa-3",
+    "nombre": "José Antonio Alonso Muriel",
+    "descripcion": ""
+   }
+  ]
+ }
+}

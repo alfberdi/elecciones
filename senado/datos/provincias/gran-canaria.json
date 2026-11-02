@@ -1,0 +1,86 @@
+{
+ "id": "gran-canaria",
+ "nombre": "Gran Canaria",
+ "ccaa": "canarias",
+ "escanos": 3,
+ "marcas": 2,
+ "listas": {
+  "psoe": [
+   {
+    "id": "sen-gran-canaria-psoe-1",
+    "nombre": "Juan Jesús Facundo Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gran-canaria-psoe-2",
+    "nombre": "Marta Jorgina Saavedra Domenech",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-gran-canaria-pp-1",
+    "nombre": "Carlos Alberto Sánchez Ojeda",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gran-canaria-pp-2",
+    "nombre": "Alba Moreno Santa",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "1-can-cca": [
+   {
+    "id": "sen-gran-canaria-1-can-cca-1",
+    "nombre": "Elisabet Santana Rosales",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gran-canaria-1-can-cca-2",
+    "nombre": "Samuel Henríquez Quintana",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-gran-canaria-mundo-justo-1",
+    "nombre": "Javier Vázquez de la Torre Salinas",
+    "descripcion": ""
+   }
+  ],
+  "nc-bc-podemos-iu-sumar": [
+   {
+    "id": "sen-gran-canaria-nc-bc-podemos-iu-sumar-1",
+    "nombre": "Ana Gloria Sánchez Ruano",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gran-canaria-nc-bc-podemos-iu-sumar-2",
+    "nombre": "Iván Santana López",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-gran-canaria-pacma-1",
+    "nombre": "María Carmen Santana Benítez",
+    "descripcion": ""
+   }
+  ],
+  "pcpc": [
+   {
+    "id": "sen-gran-canaria-pcpc-1",
+    "nombre": "Javier Delgado Pérez",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-gran-canaria-escanos-en-blanco-1",
+    "nombre": "Rubén Jiménez Ruiz",
+    "descripcion": ""
+   }
+  ]
+ }
+}

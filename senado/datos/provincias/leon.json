@@ -1,0 +1,127 @@
+{
+ "id": "leon",
+ "nombre": "León",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pacma": [
+   {
+    "id": "sen-leon-pacma-1",
+    "nombre": "María Begoña Fernández García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-pacma-2",
+    "nombre": "Juan Carlos Ramos Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "prepal": [
+   {
+    "id": "sen-leon-prepal-1",
+    "nombre": "Jesús Fernández Villar",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-prepal-2",
+    "nombre": "Catalina Antúnez García",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-leon-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "Salvador Vidal Varela",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Laura Fernández Bermejo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Manuel Alfonso González",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-leon-pcte-1",
+    "nombre": "Pedro Gómez García",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-leon-podemos-1",
+    "nombre": "Edith Peña Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-podemos-2",
+    "nombre": "Modesto Ramos Maraña",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-podemos-3",
+    "nombre": "Ariana Alonso Celorio",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-leon-pp-1",
+    "nombre": "Silvia Franco González",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-pp-2",
+    "nombre": "Antonio Silván Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-pp-3",
+    "nombre": "María Asunción Mayo Fernández",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-leon-mundo-justo-1",
+    "nombre": "María José Ríos Jurado",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-leon-escanos-en-blanco-1",
+    "nombre": "Rafael Díez Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-escanos-en-blanco-2",
+    "nombre": "María Esther Chamorro Alonso",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-leon-vox-1",
+    "nombre": "Jaime Alonso Gila",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-vox-2",
+    "nombre": "Laura Gallego Gaspar",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-leon-vox-3",
+    "nombre": "Raúl Ramos Juan",
+    "descripcion": ""
+   }
+  ]
+ }
+}

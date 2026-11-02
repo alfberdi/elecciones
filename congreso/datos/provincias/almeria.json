@@ -1,0 +1,431 @@
+{
+ "id": "almeria",
+ "nombre": "Almería",
+ "ccaa": "andalucia",
+ "escanos": 6,
+ "listas": {
+  "psoe": [
+   {
+    "id": "almeria-psoe-1",
+    "nombre": "Anabel Mateos Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-psoe-2",
+    "nombre": "Juan Antonio Lorenzo Cazorla",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-psoe-3",
+    "nombre": "Inés María Plaza García",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-psoe-4",
+    "nombre": "José Ramón García Túñez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-psoe-5",
+    "nombre": "Yolanda Lozano Salinas",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-psoe-6",
+    "nombre": "Damián Jesús Requena Muñoz",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "almeria-fo-1",
+    "nombre": "Emilio Gustavo Icasati Weidemüller",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fo-2",
+    "nombre": "Tania Gálvez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fo-3",
+    "nombre": "David Barrios Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fo-4",
+    "nombre": "Rebeca Arjones Gazsiova",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fo-5",
+    "nombre": "Mario Maruri Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fo-6",
+    "nombre": "María Isabel Martín Salgado",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "almeria-salf-1",
+    "nombre": "Inmaculada María Jaén Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-salf-2",
+    "nombre": "Jesús Manrique Barranco",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-salf-3",
+    "nombre": "Cristina Gómez Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-salf-4",
+    "nombre": "David Hernández Beltrán",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-salf-5",
+    "nombre": "Carmen Losilla Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-salf-6",
+    "nombre": "Mariano Cureses Díez",
+    "descripcion": ""
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "almeria-adelante-andalucia-1",
+    "nombre": "Tania Ferre Carrión",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-adelante-andalucia-2",
+    "nombre": "José Alberto Martínez Crisol",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-adelante-andalucia-3",
+    "nombre": "María De Sancha Muniz",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-adelante-andalucia-4",
+    "nombre": "Luis Martín Galdeano",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-adelante-andalucia-5",
+    "nombre": "Concepción Pérez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-adelante-andalucia-6",
+    "nombre": "Diego Crespo García",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "almeria-pacma-1",
+    "nombre": "Eduardo José Milla Juan",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pacma-2",
+    "nombre": "Marina Gil Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pacma-3",
+    "nombre": "Manuel Conejero Calvo-Flores",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pacma-4",
+    "nombre": "Edurne Alejano Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pacma-5",
+    "nombre": "Juan María Fernández Puertas",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pacma-6",
+    "nombre": "María Ángeles Pastor Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "almeria-vox-1",
+    "nombre": "Rocío de Meer Méndez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-vox-2",
+    "nombre": "Rodrigo Javier Alonso Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-vox-3",
+    "nombre": "Beatriz Sánchez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-vox-4",
+    "nombre": "Alberto Quevedo González",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-vox-5",
+    "nombre": "Isabel María Cara Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-vox-6",
+    "nombre": "Antonio Jesús García Albacete",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "almeria-pp-1",
+    "nombre": "María Carmen Crespo Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pp-2",
+    "nombre": "Rafael Antonio Hernando Fraile",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pp-3",
+    "nombre": "María Isabel Sánchez Torregrosa",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pp-4",
+    "nombre": "Pablo José Venzal Contreras",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pp-5",
+    "nombre": "María Elena Gómez García",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pp-6",
+    "nombre": "Ismael Torres Miras",
+    "descripcion": ""
+   }
+  ],
+  "ipal": [
+   {
+    "id": "almeria-ipal-1",
+    "nombre": "Juan Andrés Ruiz López",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-ipal-2",
+    "nombre": "Cristina Sáez Algarte",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-ipal-3",
+    "nombre": "Serafín Maldonado García",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-ipal-4",
+    "nombre": "Belén Granero Giménez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-ipal-5",
+    "nombre": "Adrián Corral Castillo",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-ipal-6",
+    "nombre": "Antonio Reche Fernández",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "almeria-mundo-justo-1",
+    "nombre": "María Mercedes Quero Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-mundo-justo-2",
+    "nombre": "Antonio Jesús Quirantes Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-mundo-justo-3",
+    "nombre": "María Dolores Gázquez Reyes",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-mundo-justo-4",
+    "nombre": "José María García Molero",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-mundo-justo-5",
+    "nombre": "María Sagrario Seco Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-mundo-justo-6",
+    "nombre": "Carlos Lay Quero",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "almeria-escanos-en-blanco-1",
+    "nombre": "Mariana García Hernández",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "almeria-escanos-en-blanco-2",
+    "nombre": "Jose Antonio García Quiles",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "almeria-escanos-en-blanco-3",
+    "nombre": "Raquel Gutiérrez García",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "almeria-escanos-en-blanco-4",
+    "nombre": "Daniel Iglesias Gómez",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "almeria-escanos-en-blanco-5",
+    "nombre": "Pilar Lourdes Pérez Córdoba",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "almeria-escanos-en-blanco-6",
+    "nombre": "Diego Roca García",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "pcte": [
+   {
+    "id": "almeria-pcte-1",
+    "nombre": "Mohsin Faiz Douhab",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pcte-2",
+    "nombre": "Claudia Chenoll Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pcte-3",
+    "nombre": "Cristian Fernández Nieto",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pcte-4",
+    "nombre": "Iara Ailén Ialea Piñero",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "almeria-pcte-5",
+    "nombre": "David Salguero García",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-pcte-6",
+    "nombre": "Luz Serrano Díaz",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "almeria-podemos-1",
+    "nombre": "Jésica Jiménez Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-podemos-2",
+    "nombre": "Fernando Alonso Arribas",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-podemos-3",
+    "nombre": "Carmen Camarero Ladrón de Guevara",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-podemos-4",
+    "nombre": "Miguel Bermúdez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-podemos-5",
+    "nombre": "Antonia Rubio Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-podemos-6",
+    "nombre": "Manuel Rodríguez Hernández",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "almeria-fa-1",
+    "nombre": "Zacarías Lucas Lekal Villegas",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fa-2",
+    "nombre": "Paula Riado Expósito",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fa-3",
+    "nombre": "Ramón Joaquín Arnalte Fuertes",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fa-4",
+    "nombre": "Lola María Ibáñez González",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fa-5",
+    "nombre": "José Miguel Ramos Garrido",
+    "descripcion": ""
+   },
+   {
+    "id": "almeria-fa-6",
+    "nombre": "María Dolores Boje Priego",
+    "descripcion": ""
+   }
+  ]
+ }
+}

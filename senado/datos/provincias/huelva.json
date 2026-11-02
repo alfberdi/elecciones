@@ -1,0 +1,91 @@
+{
+ "id": "huelva",
+ "nombre": "Huelva",
+ "ccaa": "andalucia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "adelante-andalucia": [
+   {
+    "id": "sen-huelva-adelante-andalucia-1",
+    "nombre": "Juana María Fernández Mora",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huelva-adelante-andalucia-2",
+    "nombre": "Rafael José Vélez Aibar",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huelva-adelante-andalucia-3",
+    "nombre": "Rosa Elizabeth Tortosa Alonso",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-huelva-psoe-iu-ms-1",
+    "nombre": "María Eugenia Limón Bayo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huelva-psoe-iu-ms-2",
+    "nombre": "Pablo Valdera Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huelva-psoe-iu-ms-3",
+    "nombre": "Mónica Rossi Palomar",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-huelva-pcte-1",
+    "nombre": "Marcos Villalba Ayelo",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-huelva-pp-1",
+    "nombre": "Manuel Alberto Fernández Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huelva-pp-2",
+    "nombre": "Bella Verano Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huelva-pp-3",
+    "nombre": "Juan Manuel González Camacho",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-huelva-vox-1",
+    "nombre": "Carlos Bermejo Martins",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-huelva-podemos-1",
+    "nombre": "Carmen Borrero Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huelva-podemos-2",
+    "nombre": "José Luis Borrero Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-huelva-podemos-3",
+    "nombre": "Esperanza Delgado Villalba",
+    "descripcion": ""
+   }
+  ]
+ }
+}

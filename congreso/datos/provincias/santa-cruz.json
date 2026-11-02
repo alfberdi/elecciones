@@ -1,0 +1,489 @@
+{
+ "id": "santa-cruz",
+ "nombre": "Santa Cruz de Tenerife",
+ "ccaa": "canarias",
+ "escanos": 7,
+ "listas": {
+  "psoe": [
+   {
+    "id": "santa-cruz-psoe-1",
+    "nombre": "Jose Antonio Valbuena Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-psoe-2",
+    "nombre": "Marta Arocha Correa",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-psoe-3",
+    "nombre": "Sergio Matos Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-psoe-4",
+    "nombre": "María Teresa Gutiérrez Izquierdo",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-psoe-5",
+    "nombre": "David Santiago Peraza Gámez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-psoe-6",
+    "nombre": "Josefa María Mesa Mora",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-psoe-7",
+    "nombre": "Florentino Guzmán Plasencia Medina",
+    "descripcion": ""
+   }
+  ],
+  "cca-1-can": [
+   {
+    "id": "santa-cruz-cca-1-can-1",
+    "nombre": "Cristina Valido García",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-cca-1-can-2",
+    "nombre": "Jonathan De Felipe Lorenzo",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-cca-1-can-3",
+    "nombre": "Atteneri Falero Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-cca-1-can-4",
+    "nombre": "Óscar Libertad Ramos Armas",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-cca-1-can-5",
+    "nombre": "María Candelaria Márquez Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-cca-1-can-6",
+    "nombre": "Rubén García Casañas",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-cca-1-can-7",
+    "nombre": "María Belén González Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "santa-cruz-pp-1",
+    "nombre": "Gustavo González De Vega",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pp-2",
+    "nombre": "María Noelia González Daza",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pp-3",
+    "nombre": "Borja Pérez Sicilia",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pp-4",
+    "nombre": "Raquel Martín Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pp-5",
+    "nombre": "Adrián Delgado Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pp-6",
+    "nombre": "Damaris Ferraz Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pp-7",
+    "nombre": "Jorge Iván Negrín Méndez",
+    "descripcion": ""
+   }
+  ],
+  "d-r-g": [
+   {
+    "id": "santa-cruz-d-r-g-1",
+    "nombre": "Alberto Rodríguez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-d-r-g-2",
+    "nombre": "Carmen Peña Curbelo",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-d-r-g-3",
+    "nombre": "Aitor Wenceslao Montelongo Tejera",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-d-r-g-4",
+    "nombre": "Sara Hernández Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-d-r-g-5",
+    "nombre": "Javier Álvarez Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-d-r-g-6",
+    "nombre": "Verónica Barreto Amador",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-d-r-g-7",
+    "nombre": "Efrén Borges Gómez",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "santa-cruz-salf-1",
+    "nombre": "Eduardo Zerolo Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-salf-2",
+    "nombre": "Sandra Andrea Gau Viera",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-salf-3",
+    "nombre": "Juan Francisco Barrera Alemán",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-salf-4",
+    "nombre": "María De Los Ángeles Suárez Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-salf-5",
+    "nombre": "Francisco Navas Montalvo",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-salf-6",
+    "nombre": "Gisela Pecino Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-salf-7",
+    "nombre": "Enrique Javier De La Fuente Pérez",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "santa-cruz-pacma-1",
+    "nombre": "Yolanda Morales Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pacma-2",
+    "nombre": "Gonzalo Torre-Marín Domingo",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pacma-3",
+    "nombre": "Victoria Eugenia Colomer Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pacma-4",
+    "nombre": "Francisco Javier Hernández Reyes",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pacma-5",
+    "nombre": "Noelia Guidi Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pacma-6",
+    "nombre": "Miguel Ángel Morales Perera",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pacma-7",
+    "nombre": "María Luz Trevisán Ortiz Zavalla",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "santa-cruz-fo-1",
+    "nombre": "Antonio Coy García",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-fo-2",
+    "nombre": "Ainhoa Díaz Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-fo-3",
+    "nombre": "Giovanni Negrín Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-fo-4",
+    "nombre": "Salma Sanfelix Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-fo-5",
+    "nombre": "Tanausú Díaz Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-fo-6",
+    "nombre": "María Mercedes Sanz Peris",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-fo-7",
+    "nombre": "Felipe Gómez González",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "santa-cruz-vox-1",
+    "nombre": "Alejandro Santiago Gómez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-vox-2",
+    "nombre": "Sara Daroca Núñez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-vox-3",
+    "nombre": "Naim Valerio Yanez Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-vox-4",
+    "nombre": "Nuria María Díaz Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-vox-5",
+    "nombre": "Pedro González Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-vox-6",
+    "nombre": "María Noemí Campillo Portaña",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-vox-7",
+    "nombre": "Julián Alberto García García",
+    "descripcion": ""
+   }
+  ],
+  "nc-bc-podemos-iu-sumar": [
+   {
+    "id": "santa-cruz-nc-bc-podemos-iu-sumar-1",
+    "nombre": "María Soledad Collado Mirabal",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-nc-bc-podemos-iu-sumar-2",
+    "nombre": "Francisco Ramón Santamaría Morales",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-nc-bc-podemos-iu-sumar-3",
+    "nombre": "Idaira Afonso De Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-nc-bc-podemos-iu-sumar-4",
+    "nombre": "Óscar Izquierdo Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-nc-bc-podemos-iu-sumar-5",
+    "nombre": "Dolores Marta Espinosa Padilla",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-nc-bc-podemos-iu-sumar-6",
+    "nombre": "Kevin Rodríguez Expósito",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-nc-bc-podemos-iu-sumar-7",
+    "nombre": "Vanesa Martín Toledo",
+    "descripcion": ""
+   }
+  ],
+  "lib": [
+   {
+    "id": "santa-cruz-lib-1",
+    "nombre": "Angélica María Calero Armas",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-lib-2",
+    "nombre": "Ernesto Manuel Pelaez Méndez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-lib-3",
+    "nombre": "Ana Alicia González Marrero",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-lib-4",
+    "nombre": "Eduardo González Cárdenas",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-lib-5",
+    "nombre": "Beatriz Trujillo Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-lib-6",
+    "nombre": "Álvaro Manuel Marichal Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-lib-7",
+    "nombre": "Alicia Zamora Casanova",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "santa-cruz-pcte-1",
+    "nombre": "Pablo Janai García Canino",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pcte-2",
+    "nombre": "Nedia García Hierro Mustafa",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pcte-3",
+    "nombre": "Pablo Mora Fumero",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pcte-4",
+    "nombre": "María Carmen Fumero Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pcte-5",
+    "nombre": "Pedro Muñoz López",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pcte-6",
+    "nombre": "Marta María Suárez Estrada",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-pcte-7",
+    "nombre": "Eduardo Jürgen Teitge Muñoz",
+    "descripcion": ""
+   }
+  ],
+  "partido-autonomos": [
+   {
+    "id": "santa-cruz-partido-autonomos-1",
+    "nombre": "Jose Luis Arias Machuca",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-partido-autonomos-2",
+    "nombre": "María Elena Blanco Marcos",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-partido-autonomos-3",
+    "nombre": "Lázaro Díaz Fajardo",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-partido-autonomos-4",
+    "nombre": "Claudia Caulés Justín",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-partido-autonomos-5",
+    "nombre": "Jose María Lois Aragunde",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-partido-autonomos-6",
+    "nombre": "Ángeles Blanco Marcos",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-partido-autonomos-7",
+    "nombre": "Florencio Luis Rodríguez Sempere",
+    "descripcion": ""
+   }
+  ],
+  "f8": [
+   {
+    "id": "santa-cruz-f8-1",
+    "nombre": "Nuria Morales Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-f8-2",
+    "nombre": "Rosa María González Saenz Casas",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-f8-3",
+    "nombre": "Gabriel Ángel Núñez Hervás",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-f8-4",
+    "nombre": "Rafael Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-f8-5",
+    "nombre": "Sonia Ramos De Ganzo",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-f8-6",
+    "nombre": "Vidina Rodríguez Marrero",
+    "descripcion": ""
+   },
+   {
+    "id": "santa-cruz-f8-7",
+    "nombre": "Juan Cruz Barrueco Quebedo",
+    "descripcion": ""
+   }
+  ]
+ }
+}

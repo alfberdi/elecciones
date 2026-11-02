@@ -1,0 +1,74 @@
+{
+ "id": "alicante",
+ "nombre": "Alicante",
+ "ccaa": "valenciana",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-alicante-pcte-1",
+    "nombre": "Miguel Arsen Kerobyan Arshakyan",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alicante-pcte-2",
+    "nombre": "María de las Mercedes López Carrasco",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alicante-pcte-3",
+    "nombre": "Javier Pérez García",
+    "descripcion": ""
+   }
+  ],
+  "psoe-compromis-eupv": [
+   {
+    "id": "sen-alicante-psoe-compromis-eupv-1",
+    "nombre": "Francisco Miguel Fenollar Ivañez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alicante-psoe-compromis-eupv-2",
+    "nombre": "Inmaculada Orozco Ripoll",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alicante-psoe-compromis-eupv-3",
+    "nombre": "Vicent Grimalt Boronat",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-alicante-pp-1",
+    "nombre": "Eva Ortiz Vilella",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alicante-pp-2",
+    "nombre": "Agustín Almodóbar Barceló",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-alicante-pp-3",
+    "nombre": "María Francisca Sempere Ripoll",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-alicante-vox-1",
+    "nombre": "Aurora Rodil Martínez",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-alicante-fe-de-las-jons-1",
+    "nombre": "Félix Romo Vega",
+    "descripcion": ""
+   }
+  ]
+ }
+}

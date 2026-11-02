@@ -1,0 +1,416 @@
+{
+ "id": "asturias",
+ "nombre": "Asturias",
+ "ccaa": "asturias",
+ "escanos": 7,
+ "listas": {
+  "fo": [
+   {
+    "id": "asturias-fo-1",
+    "nombre": "Juan Sánchez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fo-2",
+    "nombre": "Susana María Tuya Velázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fo-3",
+    "nombre": "Cristian Palacio Tuya",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fo-4",
+    "nombre": "Nuria Cernuda González",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fo-5",
+    "nombre": "Luis Felipe Herrero Trancho",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fo-6",
+    "nombre": "Lidia García Sierra",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fo-7",
+    "nombre": "Ismael Guerra Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "asturias-psoe-1",
+    "nombre": "Adriana Lastra Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-psoe-2",
+    "nombre": "Roberto García Morís",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-psoe-3",
+    "nombre": "María Álvarez Collada",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-psoe-4",
+    "nombre": "Manuel Javier Vallina-Victorero Vázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-psoe-5",
+    "nombre": "María Begoña Menéndez Canal",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-psoe-6",
+    "nombre": "Jorge Expósito González",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-psoe-7",
+    "nombre": "Ana Belén Menéndez Fernández",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "asturias-salf-1",
+    "nombre": "Luis Felipe Álvarez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-salf-2",
+    "nombre": "Carmen Susana Rozada Fuente",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-salf-3",
+    "nombre": "José Antonio Ariza Pino",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-salf-4",
+    "nombre": "Carla Díaz Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-salf-5",
+    "nombre": "Ignacio Rubio Menéndez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-salf-6",
+    "nombre": "Silvia Amor Tejero",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-salf-7",
+    "nombre": "Lino Pérez Fernández",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "asturias-vox-1",
+    "nombre": "José María Figaredo Álvarez-Sala",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-vox-2",
+    "nombre": "Carolina López Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-vox-3",
+    "nombre": "Javier Jové Sandoval",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-vox-4",
+    "nombre": "María Luisa Menéndez Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-vox-5",
+    "nombre": "Salustiano García Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-vox-6",
+    "nombre": "Ainara García Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-vox-7",
+    "nombre": "Juan José Merino Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "asturias-mundo-justo-1",
+    "nombre": "José Ramón Bahamonde Nava",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-mundo-justo-2",
+    "nombre": "Teresa García Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-mundo-justo-3",
+    "nombre": "Santiago Folgueras Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-mundo-justo-4",
+    "nombre": "Rosa María Saiz Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-mundo-justo-5",
+    "nombre": "Lorenzo Rodríguez Rivero",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-mundo-justo-6",
+    "nombre": "Marta Belén Gómez Moro",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-mundo-justo-7",
+    "nombre": "David Parra Oporto",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "asturias-pcte-1",
+    "nombre": "Ástor García Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pcte-2",
+    "nombre": "Inés González Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pcte-3",
+    "nombre": "Saúl Fernández Garrote",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pcte-4",
+    "nombre": "Eva Arnaldo Sariego",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pcte-5",
+    "nombre": "Pablo García García",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pcte-6",
+    "nombre": "Bárbara Marín Prada",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pcte-7",
+    "nombre": "Severino Menéndez Minas",
+    "descripcion": ""
+   }
+  ],
+  "paz-casa-y-trabajo": [
+   {
+    "id": "asturias-paz-casa-y-trabajo-1",
+    "nombre": "Manuel Antonio Pravia Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-paz-casa-y-trabajo-2",
+    "nombre": "Silvia Tárano Vega",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-paz-casa-y-trabajo-3",
+    "nombre": "David García Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-paz-casa-y-trabajo-4",
+    "nombre": "Olaya Suárez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-paz-casa-y-trabajo-5",
+    "nombre": "José María Amenábar González",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-paz-casa-y-trabajo-6",
+    "nombre": "María Belén Suárez Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-paz-casa-y-trabajo-7",
+    "nombre": "Gustavo David Álvarez Tuya",
+    "descripcion": ""
+   }
+  ],
+  "puede": [
+   {
+    "id": "asturias-puede-1",
+    "nombre": "José Luis Zapico Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-puede-2",
+    "nombre": "María Carmen Sánchez Reillo",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-puede-3",
+    "nombre": "José Luis Menéndez Devita",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-puede-4",
+    "nombre": "Ana María Peláez Adames",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-puede-5",
+    "nombre": "Ángel Fernández Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-puede-6",
+    "nombre": "Mónica Henao Ríos",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-puede-7",
+    "nombre": "Salvador de la Altagracia Minyety Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "asturias-pp-1",
+    "nombre": "Ángela Pumariega Menéndez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pp-2",
+    "nombre": "Mario Arias Navia",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pp-3",
+    "nombre": "María Mercedes Fernández González",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pp-4",
+    "nombre": "José Agustín Cuervas-Mons García-Braga",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pp-5",
+    "nombre": "Ceila Fernández Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pp-6",
+    "nombre": "Alejandro Alonso Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pp-7",
+    "nombre": "Ana López-Clavería Pérez",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "asturias-pacma-1",
+    "nombre": "Irene Jiménez López",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pacma-2",
+    "nombre": "Víctor Abraira García",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pacma-3",
+    "nombre": "Sandra Antonia Álvarez Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pacma-4",
+    "nombre": "Joaquín Arce Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pacma-5",
+    "nombre": "Paloma González Rivera",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pacma-6",
+    "nombre": "Francisco Javier Moya de la Torre Cerón",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-pacma-7",
+    "nombre": "Nazaret Jiménez Mon",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "asturias-fa-1",
+    "nombre": "Juan Antonio González Ponte",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fa-2",
+    "nombre": "Helena Díaz Cuervo",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fa-3",
+    "nombre": "Enrique López Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fa-4",
+    "nombre": "Candela Guerrero Suárez",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "asturias-fa-5",
+    "nombre": "Rodrigo Díaz Calvo",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fa-6",
+    "nombre": "María del Carmen Álvarez Vázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "asturias-fa-7",
+    "nombre": "Alejandro Rodríguez Gayo",
+    "descripcion": ""
+   }
+  ]
+ }
+}

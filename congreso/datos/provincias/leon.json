@@ -1,0 +1,295 @@
+{
+ "id": "leon",
+ "nombre": "León",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "listas": {
+  "psoe": [
+   {
+    "id": "leon-psoe-1",
+    "nombre": "Javier Alfonso Cendón",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-psoe-2",
+    "nombre": "Lorena Valle Alba",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-psoe-3",
+    "nombre": "Alfonso Alvarez García",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-psoe-4",
+    "nombre": "Josefa Ajenjo Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "leon-fo-1",
+    "nombre": "José Manuel Estébanez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-fo-2",
+    "nombre": "Priscila Hernández Dual",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-fo-3",
+    "nombre": "Alejandro Heras Ortega",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-fo-4",
+    "nombre": "Carmen Sánchez Paniagua",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "leon-pacma-1",
+    "nombre": "María Natividad Franco Natal",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pacma-2",
+    "nombre": "Ángel Ramos González",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pacma-3",
+    "nombre": "Nuria Alcántara Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pacma-4",
+    "nombre": "Fernando García Carpintero",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "leon-salf-1",
+    "nombre": "Enrique Jesús Pérez Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-salf-2",
+    "nombre": "Isolina Blanco Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-salf-3",
+    "nombre": "Francisco García Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-salf-4",
+    "nombre": "Noelia Linares Cantón",
+    "descripcion": ""
+   }
+  ],
+  "p-alantre": [
+   {
+    "id": "leon-p-alantre-1",
+    "nombre": "José Antonio Fernández García",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-p-alantre-2",
+    "nombre": "María Dolores Diez Aláez",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "leon-p-alantre-3",
+    "nombre": "Nicanor Pastrana Castaño",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-p-alantre-4",
+    "nombre": "Lucía Álvarez Alonso",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "leon-vox-1",
+    "nombre": "Pablo Juan Calvo Liste",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-vox-2",
+    "nombre": "Blanca María Herreros Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-vox-3",
+    "nombre": "Santos Martínez Estrada",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-vox-4",
+    "nombre": "María de las Mercedes Machín Gómez",
+    "descripcion": ""
+   }
+  ],
+  "prepal": [
+   {
+    "id": "leon-prepal-1",
+    "nombre": "Manuela Iglesias Carreño",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-prepal-2",
+    "nombre": "Lorenzo Cimadevilla Sampedro",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-prepal-3",
+    "nombre": "María Oliva Álvarez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-prepal-4",
+    "nombre": "Álvaro Fernández Díez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "leon-pcte-1",
+    "nombre": "Estrella Alonso Almazán",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pcte-2",
+    "nombre": "Raúl Benéitez García",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pcte-3",
+    "nombre": "Nerea Ruano Llamas",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pcte-4",
+    "nombre": "Diego Puerta Cazorla",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "leon-podemos-1",
+    "nombre": "Sixto Martínez Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-podemos-2",
+    "nombre": "Cristina Alonso Herrero",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-podemos-3",
+    "nombre": "José Díaz Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-podemos-4",
+    "nombre": "Marta María Barrientos Barrientos",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "leon-pp-1",
+    "nombre": "Ester Muñoz de la Iglesia",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pp-2",
+    "nombre": "Ricardo Gavilanes Fernández Llamazares",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pp-3",
+    "nombre": "Lidia Pilar Coca García",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-pp-4",
+    "nombre": "Manuel Herrero Guerra",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "leon-mundo-justo-1",
+    "nombre": "María Elena Cánovas Puglisi",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-mundo-justo-2",
+    "nombre": "Francisco Javier Calzado Aldaria",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-mundo-justo-3",
+    "nombre": "Montserrat Cid García",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-mundo-justo-4",
+    "nombre": "Marco Osorio Ritter",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "leon-fa-1",
+    "nombre": "Rubén Estévez Miguel",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-fa-2",
+    "nombre": "Marina Sastre Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-fa-3",
+    "nombre": "Hugo Merayo Santalla",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-fa-4",
+    "nombre": "Belén de la Viuda Fernández",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "leon-escanos-en-blanco-1",
+    "nombre": "María López Castellanos",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-escanos-en-blanco-2",
+    "nombre": "Jesús Javier Ortiz Trapote",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-escanos-en-blanco-3",
+    "nombre": "Marta García Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "leon-escanos-en-blanco-4",
+    "nombre": "José Luis Fernández Baeza",
+    "descripcion": ""
+   }
+  ]
+ }
+}

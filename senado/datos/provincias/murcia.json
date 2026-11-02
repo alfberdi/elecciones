@@ -1,0 +1,101 @@
+{
+ "id": "murcia",
+ "nombre": "Murcia",
+ "ccaa": "murcia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "3e": [
+   {
+    "id": "sen-murcia-3e-1",
+    "nombre": "José Luis García Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-3e-2",
+    "nombre": "Estrella Cánovas Rubio",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-3e-3",
+    "nombre": "José Luis Márquez Fernández",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-murcia-pp-1",
+    "nombre": "Francisco Martín Bernabé Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-pp-2",
+    "nombre": "María Hernández Benítez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-pp-3",
+    "nombre": "Antonio Luengo Zapata",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-murcia-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "Irene Jódar Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Antonio Moreno Gil",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Asunción Molina Bautista",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-murcia-vox-1",
+    "nombre": "José Manuel Pancorbo de la Torre",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-vox-2",
+    "nombre": "María Carmen Menduíña García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-vox-3",
+    "nombre": "José Mariano Orenes Bastida",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-murcia-podemos-1",
+    "nombre": "María Dolores Larrosa Segovia",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-podemos-2",
+    "nombre": "José Manuel Sevilla Lizón",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-murcia-escanos-en-blanco-1",
+    "nombre": "Gonzalo Navarro Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-murcia-escanos-en-blanco-2",
+    "nombre": "Josefa Serrano Sánchez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

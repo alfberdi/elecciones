@@ -1,0 +1,195 @@
+{
+ "id": "huesca",
+ "nombre": "Huesca",
+ "ccaa": "aragon",
+ "escanos": 3,
+ "listas": {
+  "psoe": [
+   {
+    "id": "huesca-psoe-1",
+    "nombre": "Begoña Nasarre Oliva",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-psoe-2",
+    "nombre": "Antonio Biescas Gimenez",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-psoe-3",
+    "nombre": "Elena Casaus Alcubierre",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "huesca-fo-1",
+    "nombre": "Abel Escribano Bonacho",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-fo-2",
+    "nombre": "Inés Jorquera Viñuela",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-fo-3",
+    "nombre": "Julian Bernabe Soriano Laurent",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "huesca-pcte-1",
+    "nombre": "Diego Cajal Orleans",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-pcte-2",
+    "nombre": "Marina Salamero Cebollero",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-pcte-3",
+    "nombre": "Iván Romero Catalán",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "huesca-vox-1",
+    "nombre": "Ester Blanco Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-vox-2",
+    "nombre": "Sergio Marco Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-vox-3",
+    "nombre": "Beatriz Oliván Romeu",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "huesca-salf-1",
+    "nombre": "Rafael Pedraza Garrido",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-salf-2",
+    "nombre": "Milagros Roca Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-salf-3",
+    "nombre": "Jorge Luis Falcó Boudet",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "huesca-pacma-1",
+    "nombre": "Maria del Carmen Molero Lacarte",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-pacma-2",
+    "nombre": "Jesús Blas Castillo López",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-pacma-3",
+    "nombre": "Vicenta García Casamayor",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "huesca-mundo-justo-1",
+    "nombre": "Manuel Inurria Fernandez",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-mundo-justo-2",
+    "nombre": "Beatriz Magdalena Cabrera Del Olmo",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-mundo-justo-3",
+    "nombre": "Rafael Alvarez Serra",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "huesca-podemos-1",
+    "nombre": "Vicente Oliver Alexandre",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-podemos-2",
+    "nombre": "Silvia Lahuerta Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-podemos-3",
+    "nombre": "Ernesto Granel Garcia",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "huesca-pp-1",
+    "nombre": "Ana Isabel Alós Lopez",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-pp-2",
+    "nombre": "José Ignacio Gramun Castillo",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-pp-3",
+    "nombre": "María Sonia Bastinos Bordas",
+    "descripcion": ""
+   }
+  ],
+  "cha-iu-ms-frente-amplio": [
+   {
+    "id": "huesca-cha-iu-ms-frente-amplio-1",
+    "nombre": "José Luis Parra Pascau",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-cha-iu-ms-frente-amplio-2",
+    "nombre": "Pilar Garcés Padial",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-cha-iu-ms-frente-amplio-3",
+    "nombre": "José Luis Ricarte Fillola",
+    "descripcion": ""
+   }
+  ],
+  "fia": [
+   {
+    "id": "huesca-fia-1",
+    "nombre": "Jose Maria Abad Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-fia-2",
+    "nombre": "Nuria Lafuente Sanchez",
+    "descripcion": ""
+   },
+   {
+    "id": "huesca-fia-3",
+    "nombre": "Lorenzo Fumanal Trallero",
+    "descripcion": ""
+   }
+  ]
+ }
+}

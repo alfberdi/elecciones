@@ -1,0 +1,101 @@
+{
+ "id": "girona",
+ "nombre": "Girona",
+ "ccaa": "cataluna",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "psc": [
+   {
+    "id": "sen-girona-psc-1",
+    "nombre": "Gael Rodríguez Garrido",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-psc-2",
+    "nombre": "Consol Cantenys Arboli",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-psc-3",
+    "nombre": "Moisés Tomás Alcobé",
+    "descripcion": ""
+   }
+  ],
+  "erc-eh-bildu": [
+   {
+    "id": "sen-girona-erc-eh-bildu-1",
+    "nombre": "Etna Estrems Fayos",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-erc-eh-bildu-2",
+    "nombre": "Miquel Reverter Tres",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-erc-eh-bildu-3",
+    "nombre": "Robert Masih Nahar",
+    "descripcion": ""
+   }
+  ],
+  "jxcat": [
+   {
+    "id": "sen-girona-jxcat-1",
+    "nombre": "Joan Bagué Roura",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-jxcat-2",
+    "nombre": "Júlia Barceló Puig",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-jxcat-3",
+    "nombre": "Pau Taberner Pibernat",
+    "descripcion": ""
+   }
+  ],
+  "pctc": [
+   {
+    "id": "sen-girona-pctc-1",
+    "nombre": "Bernat Roig Arnau",
+    "descripcion": ""
+   }
+  ],
+  "c-dem": [
+   {
+    "id": "sen-girona-c-dem-1",
+    "nombre": "Anna Portillo Cuberes",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-c-dem-2",
+    "nombre": "Roberto Martínez Soler",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-c-dem-3",
+    "nombre": "Sara Elisabeth Williams Douse",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-girona-vox-1",
+    "nombre": "Francisco Javier Domínguez García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-vox-2",
+    "nombre": "María Carmen Comas Viladot",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-girona-vox-3",
+    "nombre": "Gerónimo Vargas Henao",
+    "descripcion": ""
+   }
+  ]
+ }
+}

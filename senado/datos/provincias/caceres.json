@@ -1,0 +1,96 @@
+{
+ "id": "caceres",
+ "nombre": "Cáceres",
+ "ccaa": "extremadura",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pp": [
+   {
+    "id": "sen-caceres-pp-1",
+    "nombre": "Fernando Pizarro García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-pp-2",
+    "nombre": "María Inés Rubio Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-pp-3",
+    "nombre": "Emilio José Borrega Romero",
+    "descripcion": ""
+   }
+  ],
+  "j-u-e-x": [
+   {
+    "id": "sen-caceres-j-u-e-x-1",
+    "nombre": "Felisa Jorge Vivas",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-j-u-e-x-2",
+    "nombre": "Luis Martín Recuero",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms-mm-com": [
+   {
+    "id": "sen-caceres-senado-de-progreso-sdp-psoe-iu-ms-mm-com-1",
+    "nombre": "Joaquín Cuello Martínez-Pereda",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-senado-de-progreso-sdp-psoe-iu-ms-mm-com-2",
+    "nombre": "Inés Mirella Conejero Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-senado-de-progreso-sdp-psoe-iu-ms-mm-com-3",
+    "nombre": "Antonio Leonardo Calle Izquierdo",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-caceres-podemos-1",
+    "nombre": "Milagros Martínez Morán",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-podemos-2",
+    "nombre": "Arnaldo Ramos Serradilla",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-podemos-3",
+    "nombre": "Petra Vacas Fernández",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-caceres-vox-1",
+    "nombre": "Inés Checa Mallebrera",
+    "descripcion": ""
+   }
+  ],
+  "nex": [
+   {
+    "id": "sen-caceres-nex-1",
+    "nombre": "Jesús Montero Melchor",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-nex-2",
+    "nombre": "Yanira Anguas Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-caceres-nex-3",
+    "nombre": "Pablo Galán Pacheco",
+    "descripcion": ""
+   }
+  ]
+ }
+}

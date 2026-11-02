@@ -1,0 +1,108 @@
+{
+ "id": "ourense",
+ "nombre": "Ourense",
+ "ccaa": "galicia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pctg": [
+   {
+    "id": "sen-ourense-pctg-1",
+    "nombre": "Miguel Martínez Martínez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-ourense-podemos-1",
+    "nombre": "Avelino Carballo Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-podemos-2",
+    "nombre": "María Jesusa Álvarez Canitrot",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-podemos-3",
+    "nombre": "Luis Gómez Piña",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-ourense-vox-1",
+    "nombre": "Enrique Rudolf Quiros Hoppe",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-vox-2",
+    "nombre": "Mara Marqués Canedo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-vox-3",
+    "nombre": "Julio Rodríguez Garrido",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-ourense-pp-1",
+    "nombre": "Miguel Ángel Santalices Vieira",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-pp-2",
+    "nombre": "Rosa Maria Sánchez Gandara",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-pp-3",
+    "nombre": "José Antonio Cerdeira Perez",
+    "descripcion": ""
+   }
+  ],
+  "pum-j": [
+   {
+    "id": "sen-ourense-pum-j-1",
+    "nombre": "Carmen Adela Armesto Fernández",
+    "descripcion": ""
+   }
+  ],
+  "b-n-g": [
+   {
+    "id": "sen-ourense-b-n-g-1",
+    "nombre": "Bernardo Varela López",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-b-n-g-2",
+    "nombre": "Melanie Arias Puccio",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-b-n-g-3",
+    "nombre": "Francisco Nogueiras Marra",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-ms": [
+   {
+    "id": "sen-ourense-senado-de-progreso-sdp-psoe-ms-1",
+    "nombre": "María Fernández Ojea",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-senado-de-progreso-sdp-psoe-ms-2",
+    "nombre": "Millán Brea Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ourense-senado-de-progreso-sdp-psoe-ms-3",
+    "nombre": "Lorena Guerra Vigo",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "id": "burgos",
+ "nombre": "Burgos",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "podemos": [
+   {
+    "id": "sen-burgos-podemos-1",
+    "nombre": "Mónica López Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-burgos-podemos-2",
+    "nombre": "Georges Mirko Dimitrijevic Pozo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-burgos-podemos-3",
+    "nombre": "María Ángeles Castrillo Martínez",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-burgos-mundo-justo-1",
+    "nombre": "Germán López Castro",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-burgos-psoe-iu-ms-1",
+    "nombre": "María Aitana Hernando Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-burgos-psoe-iu-ms-2",
+    "nombre": "Carlos Serrano Hermo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-burgos-psoe-iu-ms-3",
+    "nombre": "María Concepción Camarero Merino",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-burgos-vox-1",
+    "nombre": "Fernando Martínez-Acitores Puig",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-burgos-vox-2",
+    "nombre": "María Teresa Alonso Ortega",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-burgos-vox-3",
+    "nombre": "José Manuel Gutiérrez Martínez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-burgos-pp-1",
+    "nombre": "Francisco Javier Lacalle Lacalle",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-burgos-pp-2",
+    "nombre": "María Sandra Moneo Díez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-burgos-pp-3",
+    "nombre": "Salvador De Foronda Vaquero",
+    "descripcion": ""
+   }
+  ]
+ }
+}

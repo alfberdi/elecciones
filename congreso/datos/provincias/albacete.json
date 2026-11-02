@@ -1,0 +1,206 @@
+{
+ "id": "albacete",
+ "nombre": "Albacete",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 4,
+ "listas": {
+  "psoe": [
+   {
+    "id": "albacete-psoe-1",
+    "nombre": "Amparo Torres Valencoso",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-psoe-2",
+    "nombre": "Javier Navarro López",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-psoe-3",
+    "nombre": "María Luscinda Carreres Villena",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-psoe-4",
+    "nombre": "Eliseo Francisco Fernández Medina",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "albacete-fo-1",
+    "nombre": "Adrián Moreno Contreras",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-fo-2",
+    "nombre": "Coral Matas Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-fo-3",
+    "nombre": "David Heras Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-fo-4",
+    "nombre": "Tania Arroyo Laguna",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "albacete-salf-1",
+    "nombre": "Isabel Ferrer de la Cruz",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-salf-2",
+    "nombre": "José Manuel Palacios Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-salf-3",
+    "nombre": "Francisco Hernández Sanz",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-salf-4",
+    "nombre": "Arturo Carrasco Mialdea",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "albacete-mundo-justo-1",
+    "nombre": "Alberto Martínez Cuartero",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-mundo-justo-2",
+    "nombre": "Lissbeth María Reyes Agurcia",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-mundo-justo-3",
+    "nombre": "Pablo Madrigal Cuartero",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-mundo-justo-4",
+    "nombre": "Carmenza Agudelo Ramírez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "albacete-vox-1",
+    "nombre": "Rubén Herrero de Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-vox-2",
+    "nombre": "María Pilar Grande Alcarria",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-vox-3",
+    "nombre": "Faustino Moreno Mas",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-vox-4",
+    "nombre": "María Martínez García",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "albacete-podemos-1",
+    "nombre": "Luisa María García Tárraga",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-podemos-2",
+    "nombre": "José Antonio Costa Facal",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-podemos-3",
+    "nombre": "Susana María Sánchez García",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-podemos-4",
+    "nombre": "Manuel Herreros Muñoz",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "albacete-pacma-1",
+    "nombre": "María de los Llanos Soriano García",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-pacma-2",
+    "nombre": "Laureano Zafrilla López",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-pacma-3",
+    "nombre": "Lidia Serrano Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-pacma-4",
+    "nombre": "Javier Bautista Giménez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "albacete-pp-1",
+    "nombre": "Francisco Navarro Cebrián",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-pp-2",
+    "nombre": "María Carmen Navarro Lacoba",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-pp-3",
+    "nombre": "Javier Sánchez Roselló",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-pp-4",
+    "nombre": "Josefa Montes Marco",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "albacete-fa-1",
+    "nombre": "Juan Blanco Castellanos",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-fa-2",
+    "nombre": "Ester Navarro Rodenas",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-fa-3",
+    "nombre": "Jose Vicente Galera García",
+    "descripcion": ""
+   },
+   {
+    "id": "albacete-fa-4",
+    "nombre": "Laura Fernández Giner",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "id": "a-coruna",
+ "nombre": "A Coruña",
+ "ccaa": "galicia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pp": [
+   {
+    "id": "sen-a-coruna-pp-1",
+    "nombre": "José Manuel Rey Varela",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-pp-2",
+    "nombre": "Marta González Vázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-pp-3",
+    "nombre": "Adrián Pardo López",
+    "descripcion": ""
+   }
+  ],
+  "pctg": [
+   {
+    "id": "sen-a-coruna-pctg-1",
+    "nombre": "Mario Jiménez de la Torre",
+    "descripcion": ""
+   }
+  ],
+  "bng": [
+   {
+    "id": "sen-a-coruna-bng-1",
+    "nombre": "Bieito Lobeira Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-bng-2",
+    "nombre": "Iria Nande Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-bng-3",
+    "nombre": "Mario Figueira Márquez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-a-coruna-podemos-1",
+    "nombre": "Sonia María Fernández Carracedo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-podemos-2",
+    "nombre": "Juan Manuel Gianzo Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-podemos-3",
+    "nombre": "María Inmaculada Rojas Díaz",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-a-coruna-vox-1",
+    "nombre": "Óscar Rodríguez Pino",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-vox-2",
+    "nombre": "Melchora Muñoz Fuentes",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-vox-3",
+    "nombre": "José Francisco Manso Bernárdez",
+    "descripcion": ""
+   }
+  ],
+  "psoe-ms": [
+   {
+    "id": "sen-a-coruna-psoe-ms-1",
+    "nombre": "Gumersindo Guinarte Cabada",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-psoe-ms-2",
+    "nombre": "Rocío Núñez Rúa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-a-coruna-psoe-ms-3",
+    "nombre": "Alejandro Antonio García Sousa",
+    "descripcion": ""
+   }
+  ]
+ }
+}

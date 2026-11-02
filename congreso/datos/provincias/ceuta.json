@@ -1,0 +1,80 @@
+{
+ "id": "ceuta",
+ "nombre": "Ceuta",
+ "ccaa": "ceuta",
+ "escanos": 3,
+ "listas": {
+  "pp": [
+   {
+    "id": "ceuta-pp-1",
+    "nombre": "Rafael Martínez Peñalver Mateos",
+    "descripcion": ""
+   },
+   {
+    "id": "ceuta-pp-2",
+    "nombre": "Nabila Benzina Pavón",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "ceuta-psoe-1",
+    "nombre": "Luis Manuel Tovar Gálvez",
+    "descripcion": ""
+   },
+   {
+    "id": "ceuta-psoe-2",
+    "nombre": "Sandra María López Cantero",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "ceuta-vox-1",
+    "nombre": "Ana Belén Cifuentes Cánovas",
+    "descripcion": ""
+   },
+   {
+    "id": "ceuta-vox-2",
+    "nombre": "David Romero Díaz",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "ceuta-podemos-1",
+    "nombre": "Ramón Rodríguez Casaubón",
+    "descripcion": ""
+   },
+   {
+    "id": "ceuta-podemos-2",
+    "nombre": "Olga Moreno Santos",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "ceuta-salf-1",
+    "nombre": "Carlos Pavón Fumado",
+    "descripcion": ""
+   },
+   {
+    "id": "ceuta-salf-2",
+    "nombre": "María Luisa Jiménez Aguilar",
+    "descripcion": ""
+   },
+   {
+    "id": "ceuta-salf-3",
+    "nombre": "Manuel González Evangelista",
+    "descripcion": ""
+   }
+  ],
+  "frente-obrero": [
+   {
+    "id": "ceuta-frente-obrero-1",
+    "nombre": "Manuel Marcos Vidal Tejada",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,364 @@
+{
+ "id": "valladolid",
+ "nombre": "Valladolid",
+ "ccaa": "castilla-y-leon",
+ "escanos": 5,
+ "listas": {
+  "psoe": [
+   {
+    "id": "valladolid-psoe-1",
+    "nombre": "Óscar Puente Santiago",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-psoe-2",
+    "nombre": "Ana María Carmen Redondo García",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-psoe-3",
+    "nombre": "José Domingo Castaño Bueno",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-psoe-4",
+    "nombre": "María Luisa Sanz Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-psoe-5",
+    "nombre": "Raúl Crespo Valdivieso",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "valladolid-fo-1",
+    "nombre": "Alejandro López De Diego",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fo-2",
+    "nombre": "Leyre Sutil Alvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fo-3",
+    "nombre": "Omar Rodríguez Giralda",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fo-4",
+    "nombre": "Paula Aparicio Fuertes",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fo-5",
+    "nombre": "Alejandro Campomanes Martín",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "valladolid-salf-1",
+    "nombre": "Onecha López Merino",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-salf-2",
+    "nombre": "Rodrigo Pellón Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-salf-3",
+    "nombre": "Sonia González Repiso",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-salf-4",
+    "nombre": "Miguel Ángel Moro Sáez",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-salf-5",
+    "nombre": "Elena Martín Arranz",
+    "descripcion": ""
+   }
+  ],
+  "pancal-urci": [
+   {
+    "id": "valladolid-pancal-urci-1",
+    "nombre": "María Yolanda Pérez López",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pancal-urci-2",
+    "nombre": "Jose Maria Sigüenza Puertas",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pancal-urci-3",
+    "nombre": "Lorena Moratinos Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pancal-urci-4",
+    "nombre": "Timoteo Garcia Romeral Arellano",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pancal-urci-5",
+    "nombre": "Camelia Cerezo Del Villar",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "valladolid-mundo-justo-1",
+    "nombre": "Eider Rodríguez Camps",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-mundo-justo-2",
+    "nombre": "Juan David Tibaduiza Gallegos",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-mundo-justo-3",
+    "nombre": "Tatiana Leán Gertrúdix",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-mundo-justo-4",
+    "nombre": "Manuel Antón Carranza",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-mundo-justo-5",
+    "nombre": "Ana María Sánchez Velasco",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "valladolid-vox-1",
+    "nombre": "Pablo Sáez Alonso-Muñumer",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-vox-2",
+    "nombre": "Atenea Santana Pastor",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-vox-3",
+    "nombre": "Jesús Fernando de Diego Barahona",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-vox-4",
+    "nombre": "Angélica Ferrándiz Asensio",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-vox-5",
+    "nombre": "Luis María González Valencia",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "valladolid-pacma-1",
+    "nombre": "María Hernandez García",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pacma-2",
+    "nombre": "Rodrigo Del Caño Espinel",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pacma-3",
+    "nombre": "Rosa Rico Garabito",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pacma-4",
+    "nombre": "Rodrigo Hernández García",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pacma-5",
+    "nombre": "Maria Jesús Bocos Bocos",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "valladolid-fe-de-las-jons-1",
+    "nombre": "Francisco Javier Sanz Méndez",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fe-de-las-jons-2",
+    "nombre": "María Yolanda Rodríguez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fe-de-las-jons-3",
+    "nombre": "Álvaro Torío Barbado",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fe-de-las-jons-4",
+    "nombre": "Daniela Sanz Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fe-de-las-jons-5",
+    "nombre": "Fernando Martínez Robles",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "valladolid-podemos-1",
+    "nombre": "María Almudena Villareal Vidal",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-podemos-2",
+    "nombre": "Eduardo Alonso Antón",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-podemos-3",
+    "nombre": "Abril Martín Izquierdo",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-podemos-4",
+    "nombre": "Urbano Blanco Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-podemos-5",
+    "nombre": "María Josefa Canal Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "valladolid-pcte-1",
+    "nombre": "Ignacio Javier Díez Arauz",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pcte-2",
+    "nombre": "Rosa María Cobo Zubia",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pcte-3",
+    "nombre": "Carlos Guerra Escudero",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pcte-4",
+    "nombre": "Elcelina Semedo Tavares Rocha",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pcte-5",
+    "nombre": "David Núñez Muñoz",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "valladolid-pp-1",
+    "nombre": "María Pardo Álvarez",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pp-2",
+    "nombre": "Eduardo Carazo Hermoso",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pp-3",
+    "nombre": "Irene Muñoz Vicente",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pp-4",
+    "nombre": "David Frontela Moro",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-pp-5",
+    "nombre": "Sara Martínez Rubio",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "valladolid-fa-1",
+    "nombre": "Abdul Gadiri Diallo Bah",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fa-2",
+    "nombre": "Rosana De Castro Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fa-3",
+    "nombre": "Diego Fernández Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fa-4",
+    "nombre": "Patricia Vaquero Del Campo",
+    "descripcion": ""
+   },
+   {
+    "id": "valladolid-fa-5",
+    "nombre": "Jorge López López",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "valladolid-escanos-en-blanco-1",
+    "nombre": "Katia García Casas",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valladolid-escanos-en-blanco-2",
+    "nombre": "César Crespo Villa",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valladolid-escanos-en-blanco-3",
+    "nombre": "Petya Peneva Petrova",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valladolid-escanos-en-blanco-4",
+    "nombre": "Rafael Pérez De Cruz",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "valladolid-escanos-en-blanco-5",
+    "nombre": "Felicidad Casas Martínez",
+    "descripcion": "",
+    "independiente": true
+   }
+  ]
+ }
+}

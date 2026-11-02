@@ -1,0 +1,77 @@
+{
+ "id": "ciudad-real",
+ "nombre": "Ciudad Real",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "podemos": [
+   {
+    "id": "sen-ciudad-real-podemos-1",
+    "nombre": "Víctor García Escribano Tajuelo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ciudad-real-podemos-2",
+    "nombre": "Teresa Lozano Camacho",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ciudad-real-podemos-3",
+    "nombre": "José María Jiménez Mozos",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-ciudad-real-pp-1",
+    "nombre": "Raúl Dalmacio Valero Mejía",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ciudad-real-pp-2",
+    "nombre": "Rosa María Romero Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ciudad-real-pp-3",
+    "nombre": "Leopoldo Jerónimo Sierra Gallardo",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-ciudad-real-vox-1",
+    "nombre": "Jesús Felipe Sánchez Crespo Ruíz Del Moral",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ciudad-real-vox-2",
+    "nombre": "María Elena Villahermosa Molinero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ciudad-real-vox-3",
+    "nombre": "Félix Canal Calderón",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-ciudad-real-psoe-iu-ms-1",
+    "nombre": "Rosa Melchor Quiralte",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ciudad-real-psoe-iu-ms-2",
+    "nombre": "Pedro César Mellado Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ciudad-real-psoe-iu-ms-3",
+    "nombre": "María Del Carmen Ballesteros Vélez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

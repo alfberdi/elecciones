@@ -1,0 +1,365 @@
+{
+ "id": "gipuzkoa",
+ "nombre": "Gipuzkoa",
+ "ccaa": "pais-vasco",
+ "escanos": 6,
+ "listas": {
+  "eh-bildu": [
+   {
+    "id": "gipuzkoa-eh-bildu-1",
+    "nombre": "Oihana Etxebarrieta Legrand",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eh-bildu-2",
+    "nombre": "Gorka Elejabarrieta Diaz",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eh-bildu-3",
+    "nombre": "Aizpea Otaegi Mitxelena",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eh-bildu-4",
+    "nombre": "Xabier Lertxundi Asteasuinzarra",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eh-bildu-5",
+    "nombre": "Ane Unanue Gutierrez",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eh-bildu-6",
+    "nombre": "Iñaki Ostolaza Esnal",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "gipuzkoa-psoe-1",
+    "nombre": "Rafaela Romero Pozo",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-psoe-2",
+    "nombre": "José Ignacio Asensio Bazterra",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-psoe-3",
+    "nombre": "Lore Suárez Linazasoro",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-psoe-4",
+    "nombre": "Inaxio Illarramendi Lizarreta",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-psoe-5",
+    "nombre": "Rosa Maiza Garrido",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-psoe-6",
+    "nombre": "Jon Ugarte Petricorena",
+    "descripcion": ""
+   }
+  ],
+  "eaj-pnv": [
+   {
+    "id": "gipuzkoa-eaj-pnv-1",
+    "nombre": "Maribel Vaquero Montero",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eaj-pnv-2",
+    "nombre": "Eneko Goia Laso",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eaj-pnv-3",
+    "nombre": "Olatz Peon Ormazabal",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eaj-pnv-4",
+    "nombre": "Xabier Txurruka Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eaj-pnv-5",
+    "nombre": "Olatz Arrese Imaz",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-eaj-pnv-6",
+    "nombre": "Joseba Andoni Agirretxea Urresti",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "gipuzkoa-pacma-1",
+    "nombre": "María Pilar Julia Otegui Serranos",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pacma-2",
+    "nombre": "José Antonio Arrieta Egurrola",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pacma-3",
+    "nombre": "Nathalie Figueroa Savidán",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pacma-4",
+    "nombre": "Sergio Rodríguez Vitta",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pacma-5",
+    "nombre": "Mónica García Ceberio",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pacma-6",
+    "nombre": "Daniel Jiménez Cervera",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "gipuzkoa-fo-1",
+    "nombre": "Leire Orbañanos Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fo-2",
+    "nombre": "Marcos Antonio Fernández del Valle",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fo-3",
+    "nombre": "Anna del Carmen Migal Campa",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fo-4",
+    "nombre": "Alejandro Caceres Gregorio",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fo-5",
+    "nombre": "María Auxiliadora Carpio Campuzano",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fo-6",
+    "nombre": "Daniel Seregin Kozlov",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "gipuzkoa-escanos-en-blanco-1",
+    "nombre": "Daniel Lizarralde Aguirre",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-escanos-en-blanco-2",
+    "nombre": "Amaya Larrea Lorán",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "gipuzkoa-escanos-en-blanco-3",
+    "nombre": "Jairo del Olmo Jiménez",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "gipuzkoa-escanos-en-blanco-4",
+    "nombre": "María del Mar Rodríguez Calvillo",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "gipuzkoa-escanos-en-blanco-5",
+    "nombre": "Jaime Aperribay Ganzabal",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "gipuzkoa-escanos-en-blanco-6",
+    "nombre": "María Yolanda Fernández Calero",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "vox": [
+   {
+    "id": "gipuzkoa-vox-1",
+    "nombre": "Juan Dios Dávila Garijo",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-vox-2",
+    "nombre": "María del Mar Martija Sánchez-Guardamino",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-vox-3",
+    "nombre": "Pedro Ignacio Gandásegui Agorreta",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-vox-4",
+    "nombre": "Guadalupe María Ochoa de Alda Nieto",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-vox-5",
+    "nombre": "Eduardo Rubio Gastón",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-vox-6",
+    "nombre": "Saioa Retenaga Moreno",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "gipuzkoa-podemos-1",
+    "nombre": "Maite Gartzia Ontiveros",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-podemos-2",
+    "nombre": "Alberto Villarreal Alonso",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-podemos-3",
+    "nombre": "Nagore Basurto Escamilla",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-podemos-4",
+    "nombre": "Julen Rodríguez Aboy",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-podemos-5",
+    "nombre": "María Victoria Eizaguirre Ballesteros",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-podemos-6",
+    "nombre": "Francisco Javier Ezquerecocha Pajares",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "gipuzkoa-pp-1",
+    "nombre": "Jon Echeverría Franco",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pp-2",
+    "nombre": "Vanesa Vélez de Pablos",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pp-3",
+    "nombre": "Adrián Ortúñez Zapardiez",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pp-4",
+    "nombre": "Carlota Sanz Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pp-5",
+    "nombre": "Mikel Lezama Zubeldia",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pp-6",
+    "nombre": "Muriel Larrea Laso",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "gipuzkoa-pcte-1",
+    "nombre": "Eneko Lanz Llamas",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pcte-2",
+    "nombre": "Maider Rodríguez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pcte-3",
+    "nombre": "Ioritz Barandiaran Urreta",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pcte-4",
+    "nombre": "Ariela Aracelly Paredes Sejas",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pcte-5",
+    "nombre": "David Nieto Jabato",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-pcte-6",
+    "nombre": "Janire Delgado Andrés",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "gipuzkoa-fa-1",
+    "nombre": "Rosa Rubio Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fa-2",
+    "nombre": "Ivens Pérez García",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fa-3",
+    "nombre": "Lidia Muñoz Ucher",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fa-4",
+    "nombre": "Santiago Jiménez Ussía",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fa-5",
+    "nombre": "Juncal Arcelus Chapartegui",
+    "descripcion": ""
+   },
+   {
+    "id": "gipuzkoa-fa-6",
+    "nombre": "Francisco Javier Pombo González",
+    "descripcion": ""
+   }
+  ]
+ }
+}

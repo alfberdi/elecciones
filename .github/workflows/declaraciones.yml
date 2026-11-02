@@ -1,9 +1,8 @@
 name: Actualizar declaraciones de parlamentarios
 
+# Desactivado: los datos ya están en el repositorio. Solo se ejecuta a mano (pestaña Actions → Run workflow).
 on:
-  schedule:
-    - cron: "23 5 * * 1"   # cada lunes a las 05:23 UTC
-  workflow_dispatch:       # y cuando lo lances a mano desde la pestaña Actions
+  workflow_dispatch:
 
 permissions:
   contents: write

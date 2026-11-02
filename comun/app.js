@@ -1,5 +1,5 @@
 // Mapa de candidaturas — sitio 100 % estático (sin servidor). Sirve para el Congreso y el Senado:
-// la cámara se lee de datos/candidaturas.json ("camara": "congreso" | "senado").
+// la cámara se lee de datos/indice.json ("camara": "congreso" | "senado") y cada provincia de datos/provincias/<id>.json.
 // Las noticias se piden en directo desde el navegador a fuentes que permiten CORS.
 (() => {
   "use strict";
@@ -69,7 +69,7 @@
 
   let D = null, P = { personas: {} };
   let pedido = 0; // descarta respuestas de noticias que llegan tarde
-  const estado = { mapa: null, prov: null, abierto: null, escanos: {}, cand: null, origen: "", marcas: {} };
+  const estado = { mapa: null, prov: null, abierto: null, cand: null, origen: "" };
 
   // ---------- Geolocalización por IP (desde el navegador, sin servidor propio) ----------
   async function conTiempo(url, ms = 3000) {
@@ -102,6 +102,18 @@
 
   // ---------- Render ----------
   const partido = id => D.partidos.find(p => p.id === id);
+
+  // ---------- Datos por provincia: se piden solo cuando hacen falta ----------
+  const cargas = {};
+  function cargarProv(id) {
+    return cargas[id] ||= fetch(`datos/provincias/${id}.json`)
+      .then(r => { if (!r.ok) throw new Error(id + ": " + r.status); return r.json(); })
+      .then(j => { D.provincias[id].listas = j.listas; })
+      .catch(e => { delete cargas[id]; throw e; });
+  }
+  // El buscador de personas necesita todas: se cargan la primera vez que se busca un nombre
+  let todas = null;
+  const cargarTodas = () => todas ||= Promise.all(Object.keys(D.provincias).map(cargarProv)).catch(e => { todas = null; throw e; });
   // Circunscripciones de una provincia del mapa: ella misma, o sus islas en el Senado
   const circsDe = prov => (SENADO() && ISLAS[prov]) || [prov];
   // Acepta una provincia, una isla o una comunidad (enlaces antiguos) y devuelve { mapa, circ }
@@ -133,7 +145,6 @@
   }
 
   const SENADO = () => D.camara === "senado";
-  const marcadas = () => (estado.marcas[estado.prov] ||= new Set());
 
   function pintarPanel() {
     const circs = circsDe(estado.mapa);
@@ -150,15 +161,18 @@
     $("#p-escanos").textContent = p.escanos;
     $("#p-escanos-txt").textContent = SENADO()
       ? (p.escanos === 1 ? "senador o senadora" : "senadores") + " en juego en " + p.nombre
+        + (p.marcas ? ` · puedes marcar ${p.marcas === 1 ? "1 nombre" : "hasta " + p.marcas + " nombres"}` : "")
       : (p.escanos === 1 ? "escaño" : "escaños") + " en juego en " + p.nombre;
 
-    const pap = $("#p-papeleta");
-    if (pap) {
-      const m = marcadas().size;
-      pap.innerHTML = `<span>Tu papeleta de práctica: <b>${m} de ${p.marcas}</b> ${p.marcas === 1 ? "marca" : "marcas"} posibles. Puedes mezclar partidos.</span>
-        ${m ? `<button class="borrar" data-borrar="1">Borrar marcas</button>` : ""}`;
+    if (!p.listas) {
+      const id = estado.prov;
+      $("#p-partidos").innerHTML = `<p class="vacio cargando">Cargando candidaturas…</p>`;
+      cargarProv(id).then(() => { if (estado.prov === id) pintarPanel(); }, err => {
+        console.error(err);
+        if (estado.prov === id) $("#p-partidos").innerHTML = `<p class="vacio">No se pudieron cargar las candidaturas de ${esc(p.nombre)}. Prueba de nuevo en un momento.</p>`;
+      });
+      return;
     }
-
     const ids = Object.keys(p.listas);
     $("#p-partidos").innerHTML = ids.map(pid => {
       const pa = partido(pid), l = p.listas[pid], ab = estado.abierto === pid;
@@ -166,49 +180,21 @@
         <button class="partido-btn" data-partido="${pid}" aria-expanded="${ab}">
           <span class="siglas">${esc(pa.siglas)}</span>
           <span>${esc(pa.nombre)}</span>
-          <span class="n">${SENADO() ? marcadasDe(l) || "" : ""}${l.length} ${SENADO() ? (l.length === 1 ? "candidato" : "candidatos") : "en lista"}<span class="chev" aria-hidden="true">›</span></span>
+          <span class="n">${l.length} ${SENADO() ? (l.length === 1 ? "candidato" : "candidatos") : "en lista"}<span class="chev" aria-hidden="true">›</span></span>
         </button>
-        ${ab ? lista(pid, l, p) : ""}
+        ${ab ? lista(l) : ""}
       </div>`;
     }).join("") || `<p class="vacio">Aún no hay candidaturas proclamadas en esta provincia.</p>`;
 
   }
 
-  function marcadasDe(l) {
-    const n = l.filter(c => marcadas().has(c.id)).length;
-    return n ? `<span class="marca-n">✓ ${n}</span> · ` : "";
-  }
-
-  // Senado: lista abierta, el elector marca nombres concretos (por orden alfabético en la papeleta)
-  function listaSenado(l, p) {
-    const lleno = marcadas().size >= p.marcas;
+  // Congreso: por orden de lista. Senado: por orden alfabético de apellido, como en la papeleta.
+  function lista(l) {
+    const fila = (c, i) => `<li><button class="cand" data-cand="${c.id}" aria-pressed="${estado.cand === c.id}">
+      ${SENADO() ? "" : `<span class="pos">${i + 1}</span>`}<span>${esc(c.nombre)}${c.independiente ? ' <span class="indep">independiente</span>' : ""}</span><span class="ver">ficha ›</span></button></li>`;
     return `<div class="lista">
-      <p class="muted pequeno">En la papeleta aparecen por orden alfabético de apellido, no por preferencia del partido.</p>
-      <ul class="sen">${l.map(c => {
-        const on = marcadas().has(c.id);
-        return `<li class="sen-fila">
-          <input type="checkbox" id="m-${c.id}" data-marca="${c.id}" ${on ? "checked" : ""} ${lleno && !on ? "disabled" : ""}>
-          <label for="m-${c.id}" class="sr">Marcar a ${esc(c.nombre)}</label>
-          <button class="cand" data-cand="${c.id}" aria-pressed="${estado.cand === c.id}">
-            <span>${esc(c.nombre)}${c.independiente ? ' <span class="indep">independiente</span>' : ""}</span><span class="ver">noticias ›</span></button></li>`;
-      }).join("")}</ul>
-    </div>`;
-  }
-
-  function lista(pid, l, p) {
-    if (SENADO()) return listaSenado(l, p);
-    const k = estado.prov + ":" + pid;
-    const n = estado.escanos[k] ?? Math.min(2, p.escanos);
-    return `<div class="lista">
-      <div class="sim" data-k="${k}" data-max="${p.escanos}">
-        <span>Si esta lista consigue</span>
-        <button data-d="-1" aria-label="Un escaño menos">−</button>
-        <output>${n}</output>
-        <button data-d="1" aria-label="Un escaño más">+</button>
-        <span>${n === 1 ? "escaño, entra" : "escaños, entran"} ${n === 0 ? "nadie" : n === 1 ? "el nº 1" : "del nº 1 al " + n}.</span>
-      </div>
-      <ol>${l.map((c, i) => `<li><button class="cand${i < n ? " dentro" : ""}" data-cand="${c.id}" aria-pressed="${estado.cand === c.id}">
-        <span class="pos">${i + 1}</span><span>${esc(c.nombre)}${c.independiente ? ' <span class="indep">independiente</span>' : ""}</span><span class="ver">noticias ›</span></button></li>`).join("")}</ol>
+      ${SENADO() ? `<p class="muted pequeno">En la papeleta aparecen por orden alfabético de apellido, no por preferencia del partido.</p>` : ""}
+      <${SENADO() ? "ul class=\"sen\"" : "ol"}>${l.map(fila).join("")}</${SENADO() ? "ul" : "ol"}>
     </div>`;
   }
 
@@ -310,6 +296,7 @@
         <div><h2 id="ficha-titulo">${esc(c.nombre)}</h2>
           <p class="muted">${esc(pa.nombre)} · ${SENADO() ? "candidatura al Senado" : `nº ${pos} de la lista al Congreso`} por ${esc(D.provincias[estado.prov].nombre)}</p></div>
       </header>
+      ${c.descripcion ? `<section class="f-sec f-desc">${c.descripcion.split(/\n{2,}/).map(t => `<p>${esc(t.trim())}</p>`).join("")}</section>` : ""}
       ${p ? htmlDeclaraciones(p) : `<p class="f-nota">No ocupa ahora un escaño en el Congreso ni en el Senado, así que no hay declaración de bienes publicada.</p>`}
       <section class="f-sec">
         <p class="label">Noticias de los últimos ${NOTICIAS.dias} días</p>
@@ -350,17 +337,9 @@
     window.addEventListener("hashchange", () => { if (resolver(location.hash.slice(1))) elegir(location.hash.slice(1), "Desde el enlace"); });
     $("#panel").addEventListener("click", e => {
       const t = e.target.closest("button"); if (!t) return;
-      if (t.dataset.borrar) { marcadas().clear(); pintarPanel(); }
-      else if (t.dataset.prov) { estado.prov = t.dataset.prov; estado.abierto = null; estado.cand = null; pintarPanel(); }
+      if (t.dataset.prov) { estado.prov = t.dataset.prov; estado.abierto = null; estado.cand = null; pintarPanel(); }
       else if (t.dataset.partido) { estado.abierto = estado.abierto === t.dataset.partido ? null : t.dataset.partido; estado.cand = null; pintarPanel(); }
       else if (t.dataset.cand) abrirFicha(t.dataset.cand);
-      else if (t.dataset.d) {
-        const s = t.closest(".sim"), k = s.dataset.k, max = +s.dataset.max;
-        const cur = estado.escanos[k] ?? Math.min(2, max);
-        estado.escanos[k] = Math.max(0, Math.min(max, cur + +t.dataset.d));
-        pintarPanel();
-        const b = $(`.sim[data-k="${k}"] button[data-d="${t.dataset.d}"]`); if (b) b.focus();
-      }
     });
     const dlg = $("#ficha");
     $("#ficha-cerrar").addEventListener("click", () => dlg.close());
@@ -370,13 +349,6 @@
       const id = estado.cand; estado.cand = null; pintarPanel();
       const b = $(`.cand[data-cand="${id}"]`); if (b) b.focus();
     });
-    $("#panel").addEventListener("change", e => {
-      const id = e.target.dataset.marca; if (!id) return;
-      const s = marcadas();
-      if (e.target.checked && s.size < D.provincias[estado.prov].marcas) s.add(id); else s.delete(id);
-      pintarPanel();
-      const cb = document.getElementById("m-" + id); if (cb) cb.focus();
-    });
   }
 
   // ---------- Buscador: provincias, islas, comunidades y personas ----------
@@ -384,16 +356,19 @@
     const lugares = Object.entries(PROV).map(([id, [nombre, cc]]) => ({ tipo: "prov", id, nombre, extra: CCAA[cc], txt: sinAcentos(nombre + " " + CCAA[cc]) }));
     for (const [prov, islas] of Object.entries(ISLAS)) for (const i of islas)
       lugares.push({ tipo: "isla", id: i, nombre: NOMBRE_ISLA[i], extra: `Isla · ${PROV[prov][0]}`, txt: sinAcentos(NOMBRE_ISLA[i]) });
+    return { lugares, personas: null };
+  }
+  function indicePersonas() {
     const personas = [];
-    for (const [circ, pr] of Object.entries(D.provincias)) for (const [pid, l] of Object.entries(pr.listas))
+    for (const [circ, pr] of Object.entries(D.provincias)) for (const [pid, l] of Object.entries(pr.listas || {}))
       for (const c of l) personas.push({ tipo: "persona", id: c.id, circ, pid, nombre: c.nombre, extra: `${partido(pid).siglas} · ${pr.nombre}`, txt: sinAcentos(c.nombre) });
-    return { lugares, personas };
+    return personas;
   }
 
   function buscador() {
     const inp = $("#buscar"), lista = $("#buscar-lista");
     const IDX = indice();
-    let res = [], activo = -1, modo = null; // modo "grupos": lista completa agrupada por comunidad
+    let res = [], activo = -1, modo = null, buscandoPersonas = false; // modo "grupos": lista completa agrupada por comunidad
 
     const abrir = on => { lista.hidden = !on; inp.setAttribute("aria-expanded", on); if (!on) { activo = -1; inp.removeAttribute("aria-activedescendant"); } };
     function filtrar() {
@@ -402,14 +377,17 @@
       const palabras = mismo ? [] : q.split(" ").filter(Boolean);
       const vale = o => palabras.every(w => o.txt.split(/[\s-]+/).some(t => t.startsWith(w)) || (w.length > 2 && o.txt.includes(w)));
       const lug = IDX.lugares.filter(o => (o.tipo === "prov" || palabras.length) && vale(o));
-      const per = q.length >= 3 && !mismo ? IDX.personas.filter(vale).slice(0, 8) : [];
+      const conPersonas = q.length >= 3 && !mismo;
+      if (conPersonas && !IDX.personas) cargarTodas().then(() => { IDX.personas = indicePersonas(); if (!lista.hidden) filtrar(); }, console.error);
+      const per = conPersonas && IDX.personas ? IDX.personas.filter(vale).slice(0, 8) : [];
+      buscandoPersonas = conPersonas && !IDX.personas;
       res = [...lug.slice(0, palabras.length ? 12 : 52), ...per];
       activo = res.length && palabras.length ? 0 : -1;
       modo = palabras.length ? null : "grupos";
       pintar(modo);
     }
     function pintar(modo) { // eslint-disable-line no-shadow
-      if (!res.length) { lista.innerHTML = `<li class="b-vacio" role="presentation">Sin resultados. Prueba con el nombre de la provincia, la isla o la persona.</li>`; abrir(true); return; }
+      if (!res.length) { lista.innerHTML = buscandoPersonas ? `<li class="b-vacio" role="presentation">Buscando personas…</li>` : `<li class="b-vacio" role="presentation">Sin resultados. Prueba con el nombre de la provincia, la isla o la persona.</li>`; abrir(true); return; }
       let html = "", grupo = null, i = 0;
       for (const o of res) {
         const g = o.tipo === "persona" ? "Personas" : modo === "grupos" ? o.extra : "Lugares";
@@ -460,7 +438,7 @@
   // ---------- Inicio ----------
   async function iniciar() {
     [D, P] = await Promise.all([
-      fetch("datos/candidaturas.json").then(r => r.json()),
+      fetch("datos/indice.json").then(r => r.json()),
       // Opcional: si falta el archivo, la ficha simplemente no muestra declaraciones
       fetch("../comun/parlamentarios.json").then(r => r.ok ? r.json() : { personas: {} }).catch(() => ({ personas: {} })),
     ]);

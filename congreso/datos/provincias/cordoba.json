@@ -1,0 +1,392 @@
+{
+ "id": "cordoba",
+ "nombre": "Córdoba",
+ "ccaa": "andalucia",
+ "escanos": 6,
+ "listas": {
+  "psoe": [
+   {
+    "id": "cordoba-psoe-1",
+    "nombre": "Alberto Mayoral de Lamo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-psoe-2",
+    "nombre": "Carmen Lara Estepa",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-psoe-3",
+    "nombre": "Emilio Martínez Pedrera",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-psoe-4",
+    "nombre": "Verónica Morillo Baena",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-psoe-5",
+    "nombre": "José Antonio Lara López",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-psoe-6",
+    "nombre": "Ana Isabel Torralbo Higuera",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "cordoba-fo-1",
+    "nombre": "Angel Molina Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fo-2",
+    "nombre": "María de los Ángeles Silverio Morales",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fo-3",
+    "nombre": "Ángel Daniel de Santos Carrillo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fo-4",
+    "nombre": "María del Pilar Paniagua García",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fo-5",
+    "nombre": "Carlos Sánchez Castillo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fo-6",
+    "nombre": "Vanesa Fernández Eugenio",
+    "descripcion": ""
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "cordoba-adelante-andalucia-1",
+    "nombre": "María del Carmen Sánchez Solís",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-adelante-andalucia-2",
+    "nombre": "Rafael Díaz Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-adelante-andalucia-3",
+    "nombre": "Sara Rodríguez Cuevas",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-adelante-andalucia-4",
+    "nombre": "Rubén Hidalgo González",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-adelante-andalucia-5",
+    "nombre": "Salud Hermoso García",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-adelante-andalucia-6",
+    "nombre": "Pedro Navarro González",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "cordoba-salf-1",
+    "nombre": "Eladio Barrado Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-salf-2",
+    "nombre": "María Araceli Espejo López",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-salf-3",
+    "nombre": "Raúl Linares González",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-salf-4",
+    "nombre": "Beatriz Cobos Ramírez",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-salf-5",
+    "nombre": "Isidoro Aguilera Oliver",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-salf-6",
+    "nombre": "Miryan Rodríguez Martínez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "cordoba-vox-1",
+    "nombre": "José Ramírez del Río",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-vox-2",
+    "nombre": "Esperanza Romero Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-vox-3",
+    "nombre": "Juan Luis Rodríguez García",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-vox-4",
+    "nombre": "Ana María Rivas Aranda",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-vox-5",
+    "nombre": "Joaquín Cortés Lucena",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-vox-6",
+    "nombre": "Ana Isabel Puentenueva García",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "cordoba-pcte-1",
+    "nombre": "Ana Isabel Bastida Burgos",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pcte-2",
+    "nombre": "Roberto Guijarro López",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pcte-3",
+    "nombre": "Laura Garrido Salmerón",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pcte-4",
+    "nombre": "Lucas Javier Barreiro Mesa",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pcte-5",
+    "nombre": "Laura Fragoso López",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pcte-6",
+    "nombre": "Antonio Varo García",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "cordoba-pacma-1",
+    "nombre": "Patricia María García Carmona",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pacma-2",
+    "nombre": "Duvan Hernando Vélez Murillo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pacma-3",
+    "nombre": "María Pilar Bares Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pacma-4",
+    "nombre": "Rafael Varo Calderón",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pacma-5",
+    "nombre": "Sacramento Peña Espejo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pacma-6",
+    "nombre": "José María Domínguez Padilla",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "cordoba-fe-de-las-jons-1",
+    "nombre": "Manuel Chacón Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fe-de-las-jons-2",
+    "nombre": "María Teresa Caballero Parreño",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fe-de-las-jons-3",
+    "nombre": "David Sánchez Laguna",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fe-de-las-jons-4",
+    "nombre": "María Dolores Lavela Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fe-de-las-jons-5",
+    "nombre": "Rafael Morales Naranjo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fe-de-las-jons-6",
+    "nombre": "Coral Morales Naranjo",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "cordoba-pp-1",
+    "nombre": "Lorena Guerra Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pp-2",
+    "nombre": "Fernando Priego Chacón",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pp-3",
+    "nombre": "Cristina Casanueva Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pp-4",
+    "nombre": "Miguel Ángel Torrico Pozuelo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pp-5",
+    "nombre": "Irene Araceli Aguilera Galindo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-pp-6",
+    "nombre": "Sergio María Velasco Albalá",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "cordoba-fa-1",
+    "nombre": "Sebastián Pérez Gallardo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fa-2",
+    "nombre": "Lola Martínez Alcaide",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fa-3",
+    "nombre": "Rubén Bello Luque",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fa-4",
+    "nombre": "Ana María Carnero Luna",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fa-5",
+    "nombre": "Antonio Jesús Morel Alcudia",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-fa-6",
+    "nombre": "Ana Isabel Ramos Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "cordoba-podemos-1",
+    "nombre": "Ana Belén Calzada Hombrado",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-podemos-2",
+    "nombre": "Moisés Antequera Maldonado",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-podemos-3",
+    "nombre": "Iluminada Tortosa López",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-podemos-4",
+    "nombre": "José Antonio Castillo Osuna",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-podemos-5",
+    "nombre": "Margarita Jiménez Egea",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-podemos-6",
+    "nombre": "Javier Tarín Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "cordoba-escanos-en-blanco-1",
+    "nombre": "Carmen María Valderrama Crespo",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-escanos-en-blanco-2",
+    "nombre": "Rafael de Troya Bononato",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-escanos-en-blanco-3",
+    "nombre": "Pilar Márquez Quesada",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-escanos-en-blanco-4",
+    "nombre": "Manuel Elías Roldán",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-escanos-en-blanco-5",
+    "nombre": "Pilar de los Ángeles Lizana Linares",
+    "descripcion": ""
+   },
+   {
+    "id": "cordoba-escanos-en-blanco-6",
+    "nombre": "Juan José Frías Rubio",
+    "descripcion": ""
+   }
+  ]
+ }
+}

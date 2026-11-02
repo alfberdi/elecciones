@@ -1,0 +1,178 @@
+{
+ "id": "teruel",
+ "nombre": "Teruel",
+ "ccaa": "aragon",
+ "escanos": 3,
+ "listas": {
+  "psoe": [
+   {
+    "id": "teruel-psoe-1",
+    "nombre": "Herminio Rufino Sancho Íniguez",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-psoe-2",
+    "nombre": "María Pilar Castellano Vivas",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-psoe-3",
+    "nombre": "Jose Ángel Galve Gasión",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "teruel-fo-1",
+    "nombre": "Alba Waitara Casanova Collado",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-fo-2",
+    "nombre": "Alberto Lombarte Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-fo-3",
+    "nombre": "Sara Domingues López",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "teruel-vox-1",
+    "nombre": "Daniel Alda Chercoles",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-vox-2",
+    "nombre": "María Nieves Calle Lidón",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-vox-3",
+    "nombre": "Francisco José Marteles García",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "teruel-pcte-1",
+    "nombre": "José Manuel Carrizosa Miguel",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-pcte-2",
+    "nombre": "Celia Antón Salvador",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-pcte-3",
+    "nombre": "Carlos Martínez Agustín",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "teruel-salf-1",
+    "nombre": "Carlos Aranda Anquela",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-salf-2",
+    "nombre": "María Eugenia Lamas Fripp",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-salf-3",
+    "nombre": "Santiago Pascual Tregón Loras",
+    "descripcion": ""
+   }
+  ],
+  "teruel-existe": [
+   {
+    "id": "teruel-teruel-existe-1",
+    "nombre": "Tomás Guitarte Gimeno",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-teruel-existe-2",
+    "nombre": "Beatriz Redón Benedicto",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-teruel-existe-3",
+    "nombre": "Joaquín Moreno Latorre",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "teruel-fe-de-las-jons-1",
+    "nombre": "Santiago María Núñez Albesa",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-fe-de-las-jons-2",
+    "nombre": "María Jesús Anadon Berruezo",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-fe-de-las-jons-3",
+    "nombre": "Francisco José Laguna Santolaria",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "teruel-pacma-1",
+    "nombre": "Selena Tomasa Sánchez Galindo",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-pacma-2",
+    "nombre": "Emilio Jesús Sánchez Galindo",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-pacma-3",
+    "nombre": "Rosario Sánchez Blázquez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "teruel-pp-1",
+    "nombre": "José Alberto Herrero Bono",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-pp-2",
+    "nombre": "Raquel Clemente Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-pp-3",
+    "nombre": "Mario Latorre Ros",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "teruel-podemos-1",
+    "nombre": "Rafael Carlos Esteban Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-podemos-2",
+    "nombre": "Montserrat Garos Cires",
+    "descripcion": ""
+   },
+   {
+    "id": "teruel-podemos-3",
+    "nombre": "Tasio Ramón Alonso Vallés",
+    "descripcion": ""
+   }
+  ]
+ }
+}

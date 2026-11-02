@@ -1,0 +1,127 @@
+{
+ "id": "gipuzkoa",
+ "nombre": "Gipuzkoa",
+ "ccaa": "pais-vasco",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "eh-bildu-erc": [
+   {
+    "id": "sen-gipuzkoa-eh-bildu-erc-1",
+    "nombre": "Sonia Jacinto Garcia",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-eh-bildu-erc-2",
+    "nombre": "Mario Zubiaga Garate",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-eh-bildu-erc-3",
+    "nombre": "Olaia Duarte Lopez",
+    "descripcion": ""
+   }
+  ],
+  "eaj-pnv": [
+   {
+    "id": "sen-gipuzkoa-eaj-pnv-1",
+    "nombre": "Luke Uribe-Etxebarria Apalategi",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-eaj-pnv-2",
+    "nombre": "María Victoria Zabala Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-eaj-pnv-3",
+    "nombre": "Xabier Insausti Sarasola",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-gipuzkoa-pacma-1",
+    "nombre": "Susana Pérez Benito",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-gipuzkoa-escanos-en-blanco-1",
+    "nombre": "Adriana Martínez De Lizarduy Ayala",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "sen-gipuzkoa-escanos-en-blanco-2",
+    "nombre": "Diego Cea Maudo",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-gipuzkoa-podemos-1",
+    "nombre": "Yolanda Martín Santos",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-podemos-2",
+    "nombre": "Iñigo Oliberos Brunetón",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-podemos-3",
+    "nombre": "Gloria Miguel González",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-gipuzkoa-pcte-1",
+    "nombre": "Jakes Iñarra Lasagabaster",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-pcte-2",
+    "nombre": "Senado de Progreso/Aurrera doan Senatua [SDP ]",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-pcte-3",
+    "nombre": "Alberto Albistegui Zamacola",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-pcte-4",
+    "nombre": "Samira Raiss Boufarcha",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-pcte-5",
+    "nombre": "Iñigo García Villanueva",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-pcte-6",
+    "nombre": "Vox",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-pcte-7",
+    "nombre": "Andrés Paramio Junquera",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-pcte-8",
+    "nombre": "Alejandra Moreno Miguel",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-gipuzkoa-pcte-9",
+    "nombre": "Jesús María García-Conde del Castillo",
+    "descripcion": ""
+   }
+  ]
+ }
+}

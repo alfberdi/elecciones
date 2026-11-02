@@ -1,0 +1,88 @@
+{
+ "id": "asturias",
+ "nombre": "Asturias",
+ "ccaa": "asturias",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "mundo-justo": [
+   {
+    "id": "sen-asturias-mundo-justo-1",
+    "nombre": "Elisa García Gutiérrez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-asturias-pcte-1",
+    "nombre": "José Iván Fernández Andrade",
+    "descripcion": ""
+   }
+  ],
+  "paz-casa-y-trabajo": [
+   {
+    "id": "sen-asturias-paz-casa-y-trabajo-1",
+    "nombre": "Eva María Fernández González",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-asturias-paz-casa-y-trabajo-2",
+    "nombre": "Roberto González García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-asturias-paz-casa-y-trabajo-3",
+    "nombre": "María Alejandra Tejón Ballesteros",
+    "descripcion": ""
+   }
+  ],
+  "puede": [
+   {
+    "id": "sen-asturias-puede-1",
+    "nombre": "Ángel Fernández Santos",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-asturias-vox-1",
+    "nombre": "Sara Concepción Álvarez Rouco",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-asturias-pp-1",
+    "nombre": "Silverio Argüelles García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-asturias-pp-2",
+    "nombre": "María del Pilar Fernández Pardo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-asturias-pp-3",
+    "nombre": "José Manuel Fernández Díaz",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-asturias-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "Iván González Espina",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-asturias-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Antona Luengo Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-asturias-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Julio Tamés Sordo",
+    "descripcion": ""
+   }
+  ]
+ }
+}

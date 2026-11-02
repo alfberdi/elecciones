@@ -1,0 +1,632 @@
+{
+ "id": "murcia",
+ "nombre": "Murcia",
+ "ccaa": "murcia",
+ "escanos": 10,
+ "listas": {
+  "fo": [
+   {
+    "id": "murcia-fo-1",
+    "nombre": "Luis Pons Burgueros",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-2",
+    "nombre": "María Del Mar Sánchez Oltra",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-3",
+    "nombre": "Ignacio Tornel Alcaraz",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-4",
+    "nombre": "Ariadna Rosa Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-5",
+    "nombre": "José María Gambín García",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-6",
+    "nombre": "Ana María Menéndez Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-7",
+    "nombre": "Juan Alberto Raja Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-8",
+    "nombre": "Lidia María Iruela Ruíz",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-9",
+    "nombre": "Joaquín Pelegrín Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fo-10",
+    "nombre": "María Sánchez Ruíz",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "murcia-psoe-1",
+    "nombre": "María González Veracruz",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-2",
+    "nombre": "Miguel Ángel Ortega Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-3",
+    "nombre": "Caridad Rives Arcayna",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-4",
+    "nombre": "Carlos López Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-5",
+    "nombre": "Soledad Nortes Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-6",
+    "nombre": "Pedro Fernando Muñoz Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-7",
+    "nombre": "Elena Casado Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-8",
+    "nombre": "Santiago Alfonso del Álamo Morales",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-9",
+    "nombre": "Beatriz Pintón Riesgo",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-psoe-10",
+    "nombre": "José Pérez Giménez",
+    "descripcion": ""
+   }
+  ],
+  "3e": [
+   {
+    "id": "murcia-3e-1",
+    "nombre": "Domingo Díaz Carrillo",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-2",
+    "nombre": "María Jesús Martínez Ortigosa",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-3",
+    "nombre": "José Fernández Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-4",
+    "nombre": "Alicia Martínez Pomares",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-5",
+    "nombre": "Juan Ramón Torresano Menor",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-6",
+    "nombre": "Amalia García López",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-7",
+    "nombre": "Rafael Alcalde del Río",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-8",
+    "nombre": "María José Iniesta Gallego",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-9",
+    "nombre": "Francisco Jesús Merinos Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-3e-10",
+    "nombre": "Ana María Mora Cánovas",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "murcia-pcte-1",
+    "nombre": "Olmo Arquero Peinazo",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-2",
+    "nombre": "Consuelo Álvarez Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-3",
+    "nombre": "David Sarmiento García Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-4",
+    "nombre": "Irene Monge Adamez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-5",
+    "nombre": "Mario Antonio Díaz Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-6",
+    "nombre": "María Pilar Rodríguez Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-7",
+    "nombre": "Pablo Cortina Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-8",
+    "nombre": "Marina Usó Cabedo",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-9",
+    "nombre": "Alonso Rodríguez Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pcte-10",
+    "nombre": "María Mercedes Martínez Cadenas",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "murcia-vox-1",
+    "nombre": "Joaquín Robles López",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-2",
+    "nombre": "Ascensión María Gómez Lorente",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-3",
+    "nombre": "Luis Gestoso de Miguel",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-4",
+    "nombre": "Rosa Ana Pacios Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-5",
+    "nombre": "José Tomás Bernal Quirós González",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-6",
+    "nombre": "Aída Peñalver Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-7",
+    "nombre": "Gonzalo Manuel López Petrel",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-8",
+    "nombre": "María Castillo Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-9",
+    "nombre": "Antonio José Candel Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-vox-10",
+    "nombre": "María Eugenia Sánchez Pérez",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "murcia-salf-1",
+    "nombre": "Raquel Cardeñosa Cuesta",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-2",
+    "nombre": "Francisco Murcia López",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-3",
+    "nombre": "María de la Cruz García Córcoles Carrascal",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-4",
+    "nombre": "Francisco José Ortega Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-5",
+    "nombre": "María del Pilar García González",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-6",
+    "nombre": "Andrés Sánchez Carvajal",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-7",
+    "nombre": "Dolores Mercedes Conesa Asensio",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-8",
+    "nombre": "Ignacio Sánchez Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-9",
+    "nombre": "Nuria Sánchez Nicolás",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-salf-10",
+    "nombre": "David Moreno Bernal",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "murcia-pp-1",
+    "nombre": "Mirian Guardiola Salmerón",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-2",
+    "nombre": "Diego Avilés Correas",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-3",
+    "nombre": "Carmen María Conesa Nieto",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-4",
+    "nombre": "Juan Luis Pedreño Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-5",
+    "nombre": "Patricia Martínez Copete",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-6",
+    "nombre": "Antonio Landaburu Clares",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-7",
+    "nombre": "Ana Belén Martínez Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-8",
+    "nombre": "Santiago Arsenio López Noguera",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-9",
+    "nombre": "Dolores Cerón Lisón",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pp-10",
+    "nombre": "Pedro Romero Juan",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "murcia-podemos-1",
+    "nombre": "Víctor Manuel Egío García",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-2",
+    "nombre": "Isabel Valera García",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-3",
+    "nombre": "Pedro María Egea Bruno",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-4",
+    "nombre": "Andrea Jeanneth Brito Román",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-5",
+    "nombre": "Pedro Jesús Martínez Baños",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-6",
+    "nombre": "María Cristina Guerrero Leal",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-7",
+    "nombre": "Miguel Campillo Ros",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-8",
+    "nombre": "María Jesús Fernández Ortíz",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-9",
+    "nombre": "David Esteve Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-podemos-10",
+    "nombre": "Rocío Esther Val Val",
+    "descripcion": ""
+   }
+  ],
+  "uc": [
+   {
+    "id": "murcia-uc-1",
+    "nombre": "Isabel Diaz Cuevas",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-2",
+    "nombre": "Fernando Jesús Bianqui Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-3",
+    "nombre": "María del Pilar Martínez Soriano",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-4",
+    "nombre": "Carlos Martínez Sáez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-5",
+    "nombre": "Rosa Soler Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-6",
+    "nombre": "Antonio Cegarra Ojados",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-7",
+    "nombre": "Nadia Lahsak Sadki",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-8",
+    "nombre": "Carlos Martínez Viqueira",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-9",
+    "nombre": "María Asunción Serna Maestro",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-uc-10",
+    "nombre": "Salvador Villegas Soler",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "murcia-fa-1",
+    "nombre": "Penélope Luna Palazón",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-2",
+    "nombre": "Juan Carlos Pastor Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-3",
+    "nombre": "María Hernández Abellán",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-4",
+    "nombre": "Alfonso Lucas Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-5",
+    "nombre": "Teodora Muñoz Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-6",
+    "nombre": "Jorge Elías Ollero Perán",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-7",
+    "nombre": "Carmen Romera Aznar",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-8",
+    "nombre": "Pedro Sosa Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-9",
+    "nombre": "María Josefa Cánovas Caja",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-fa-10",
+    "nombre": "José Padilla Ruiz",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "murcia-escanos-en-blanco-1",
+    "nombre": "Ángel María Rey Albesa",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-2",
+    "nombre": "María Ángeles Ríos Moreno",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-3",
+    "nombre": "Antonio Joaquín Moreno Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-4",
+    "nombre": "Verónica Guillén Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-5",
+    "nombre": "Juan Miguel García Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-6",
+    "nombre": "María del Mar Rey Albesa",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-7",
+    "nombre": "Jesús Corrales Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-8",
+    "nombre": "María Albesa González",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-9",
+    "nombre": "Kristian Roca Saura",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-escanos-en-blanco-10",
+    "nombre": "María Josefa Pérez Fernández",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "murcia-pacma-1",
+    "nombre": "Francisco Javier Mateo Valera",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-2",
+    "nombre": "Laura Mármol Beltrán",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-3",
+    "nombre": "Juan Patricio Peñalver García",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-4",
+    "nombre": "Marta de Blas Sobejano",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-5",
+    "nombre": "Francisco Antonio Ferrer González",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-6",
+    "nombre": "Mónica Egea Bernal",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-7",
+    "nombre": "Alberto Emilio López García",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-8",
+    "nombre": "Susana Robredo Oraá",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-9",
+    "nombre": "Francisco José Rivas Nadal",
+    "descripcion": ""
+   },
+   {
+    "id": "murcia-pacma-10",
+    "nombre": "Laura Márquez Rodríguez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

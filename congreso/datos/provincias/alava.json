@@ -1,0 +1,344 @@
+{
+ "id": "alava",
+ "nombre": "Álava",
+ "ccaa": "pais-vasco",
+ "escanos": 4,
+ "listas": {
+  "psoe": [
+   {
+    "id": "alava-psoe-1",
+    "nombre": "Javier Hurtado Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-psoe-2",
+    "nombre": "Ana López de Uralde Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-psoe-3",
+    "nombre": "Igor Salazar Ochoa",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-psoe-4",
+    "nombre": "Laura Fernández Fernández",
+    "descripcion": ""
+   }
+  ],
+  "eh-bildu": [
+   {
+    "id": "alava-eh-bildu-1",
+    "nombre": "Mikel Otero Gabirondo",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-eh-bildu-2",
+    "nombre": "Eba Blanco de Angulo",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-eh-bildu-3",
+    "nombre": "Jon Ruiz de Pinedo Lekuona",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-eh-bildu-4",
+    "nombre": "Aitziber Salazar Arresti",
+    "descripcion": ""
+   }
+  ],
+  "eaj-pnv": [
+   {
+    "id": "alava-eaj-pnv-1",
+    "nombre": "Gorka Urtaran Agirre",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-eaj-pnv-2",
+    "nombre": "Ibone Santos Ellakuria",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-eaj-pnv-3",
+    "nombre": "Txerra Molinuevo Laña",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-eaj-pnv-4",
+    "nombre": "Nagore Trepiana Mateos",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "alava-escanos-en-blanco-1",
+    "nombre": "Raúl Aperribay Ganzábal",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "alava-escanos-en-blanco-2",
+    "nombre": "Elvira Candelaria García Vidales",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "alava-escanos-en-blanco-3",
+    "nombre": "Aitor Picabea Lamuedra",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "alava-escanos-en-blanco-4",
+    "nombre": "Eva María Vicho López",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "vox": [
+   {
+    "id": "alava-vox-1",
+    "nombre": "Jonathan Romero Gámiz",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-vox-2",
+    "nombre": "Giuliana Souza da Silva",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-vox-3",
+    "nombre": "Manuel García González",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-vox-4",
+    "nombre": "Tania Cabello Muñoz",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "alava-pacma-1",
+    "nombre": "Saioa Martín Donoso",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pacma-2",
+    "nombre": "José Fernando Sánchez Herrero",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pacma-3",
+    "nombre": "Vanessa Olmo Cazorla",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pacma-4",
+    "nombre": "Jorge Sancho Cebollero",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "alava-podemos-1",
+    "nombre": "Garbiñe Ruiz Noriega",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-podemos-2",
+    "nombre": "Rubén Rico Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-podemos-3",
+    "nombre": "María Lourdes García de Garayo González de Aspuru",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-podemos-4",
+    "nombre": "José Manuel San Juan Martín",
+    "descripcion": ""
+   }
+  ],
+  "pcte-elak": [
+   {
+    "id": "alava-pcte-elak-1",
+    "nombre": "Liher Calleja Montero",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pcte-elak-2",
+    "nombre": "Paula Alvarez Villaverde",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pcte-elak-3",
+    "nombre": "Jorge Frontaura García",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pcte-elak-4",
+    "nombre": "María del Amparo Molinero Triviño",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "alava-salf-1",
+    "nombre": "Leire Bengoa Chávarri",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-salf-2",
+    "nombre": "Jon Ramos García",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-salf-3",
+    "nombre": "Verónica Rodríguez Tejada",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-salf-4",
+    "nombre": "Eduardo Ballesteros García",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "alava-fo-1",
+    "nombre": "Laura Barrenengoa Clemente",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-fo-2",
+    "nombre": "Nolan García Catalán",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-fo-3",
+    "nombre": "Elianne Martínez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-fo-4",
+    "nombre": "Miguel Angel Ramírez Flores",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "alava-pp-1",
+    "nombre": "Iñaki Oyarzábal de Miguel",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pp-2",
+    "nombre": "Eva Iglesias Llaneza",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pp-3",
+    "nombre": "Guillermo Sáez Viana",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pp-4",
+    "nombre": "Alba González de Langarica García",
+    "descripcion": ""
+   }
+  ],
+  "frente-amplio-fronte-zabala": [
+   {
+    "id": "alava-frente-amplio-fronte-zabala-1",
+    "nombre": "José Damián García-Moreno López",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-frente-amplio-fronte-zabala-2",
+    "nombre": "Edurne García Larrimbe",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-frente-amplio-fronte-zabala-3",
+    "nombre": "Miguel María Rodríguez Barbero",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-frente-amplio-fronte-zabala-4",
+    "nombre": "Antonia Galiot Chups",
+    "descripcion": ""
+   }
+  ],
+  "pfac": [
+   {
+    "id": "alava-pfac-1",
+    "nombre": "Zuriñe Ojeda Santiago",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pfac-2",
+    "nombre": "Aleksei Lacalle Díaz",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "alava-pfac-3",
+    "nombre": "Lorena Fernández de Valderrama Larrinaga",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-pfac-4",
+    "nombre": "Javier Fernández Méndez",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "alava-mundo-justo-1",
+    "nombre": "Cristina Elcuaz Arana",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-mundo-justo-2",
+    "nombre": "Iñaki Elejalde Guerra",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-mundo-justo-3",
+    "nombre": "Rosa María Gómez Saldaña",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-mundo-justo-4",
+    "nombre": "Ander Lijó Alaña",
+    "descripcion": ""
+   }
+  ],
+  "jl": [
+   {
+    "id": "alava-jl-1",
+    "nombre": "Ángel García Fernández Viñegra",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-jl-2",
+    "nombre": "Soukaina Aghmir Imaalmen",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-jl-3",
+    "nombre": "Eloy Garrido Echazarra",
+    "descripcion": ""
+   },
+   {
+    "id": "alava-jl-4",
+    "nombre": "Hanae Aghmir Imaalmen",
+    "descripcion": ""
+   }
+  ]
+ }
+}

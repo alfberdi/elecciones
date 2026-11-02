@@ -1,0 +1,108 @@
+{
+ "id": "teruel",
+ "nombre": "Teruel",
+ "ccaa": "aragon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-teruel-pcte-1",
+    "nombre": "Sergio Cases Arnas",
+    "descripcion": ""
+   }
+  ],
+  "teruel-existe": [
+   {
+    "id": "sen-teruel-teruel-existe-1",
+    "nombre": "Raúl Blasco Aznar",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-teruel-existe-2",
+    "nombre": "Beatriz Martín Larred",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-teruel-existe-3",
+    "nombre": "Daniel Sancho Vargas",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-de-aragon-sdp-psoe-ch": [
+   {
+    "id": "sen-teruel-senado-de-progreso-de-aragon-sdp-psoe-ch-1",
+    "nombre": "María José Villalba Chavarría )",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-senado-de-progreso-de-aragon-sdp-psoe-ch-2",
+    "nombre": "Ricardo Moreno Romero )",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-senado-de-progreso-de-aragon-sdp-psoe-ch-3",
+    "nombre": "Silvia Inés Gimeno Gascón )",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-teruel-pp-1",
+    "nombre": "Emma Buj Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-pp-2",
+    "nombre": "Carlos Boné Amela",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-pp-3",
+    "nombre": "Celia Durbán Solaz",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-teruel-podemos-1",
+    "nombre": "Esmeralda Royo Cerezuela",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-podemos-2",
+    "nombre": "Paula Victoria Usera Diz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-podemos-3",
+    "nombre": "Irma Prado Portela",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-teruel-fe-de-las-jons-1",
+    "nombre": "José Anselmo Fernández Miguel",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-teruel-vox-1",
+    "nombre": "Bárbara Alastuey Rivas",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-vox-2",
+    "nombre": "Joaquín Buj Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-teruel-vox-3",
+    "nombre": "Verónica Luz Herrero",
+    "descripcion": ""
+   }
+  ]
+ }
+}

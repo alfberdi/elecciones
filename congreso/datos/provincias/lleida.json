@@ -1,0 +1,229 @@
+{
+ "id": "lleida",
+ "nombre": "Lleida",
+ "ccaa": "cataluna",
+ "escanos": 4,
+ "listas": {
+  "psc": [
+   {
+    "id": "lleida-psc-1",
+    "nombre": "Cristina Morón Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-psc-2",
+    "nombre": "Amador Marqués Atés",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-psc-3",
+    "nombre": "Lorena González Dios",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-psc-4",
+    "nombre": "Xavier Oriol Granado",
+    "descripcion": ""
+   }
+  ],
+  "jxcat": [
+   {
+    "id": "lleida-jxcat-1",
+    "nombre": "Isidre Gavín i Valls",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-jxcat-2",
+    "nombre": "Carlota Monfort i Fantova",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-jxcat-3",
+    "nombre": "Manel Cònsola i Alentà",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-jxcat-4",
+    "nombre": "Urgell Isús i Julià",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "lleida-fo-1",
+    "nombre": "Albert Balasch Roque",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-fo-2",
+    "nombre": "Gemma Catala Parra",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-fo-3",
+    "nombre": "Adrian Jimenez Loza",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-fo-4",
+    "nombre": "Sandra Moreno Navas",
+    "descripcion": ""
+   }
+  ],
+  "erc": [
+   {
+    "id": "lleida-erc-1",
+    "nombre": "Inés Granollers i Cunillera",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-erc-2",
+    "nombre": "Àlex Godoy i Solé",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-erc-3",
+    "nombre": "Judit Gisbert i Ester",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-erc-4",
+    "nombre": "Kevin Bruque i Domínguez",
+    "descripcion": ""
+   }
+  ],
+  "comuns-front-ampli": [
+   {
+    "id": "lleida-comuns-front-ampli-1",
+    "nombre": "Montserrat Cortasa Gras",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-comuns-front-ampli-2",
+    "nombre": "Mario Mata Madrid",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-comuns-front-ampli-3",
+    "nombre": "Sara Vilà Galán",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-comuns-front-ampli-4",
+    "nombre": "Oriol López Sanfeliu",
+    "descripcion": ""
+   }
+  ],
+  "pctc": [
+   {
+    "id": "lleida-pctc-1",
+    "nombre": "Guillem Cruz Lezcano",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pctc-2",
+    "nombre": "Júlia Fernández Pita",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pctc-3",
+    "nombre": "Sergio Alcalá Sevilla",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pctc-4",
+    "nombre": "Andrea Giménez Blázquez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "lleida-vox-1",
+    "nombre": "Rafael Villafranca Merce",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-vox-2",
+    "nombre": "Elena Catalán Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-vox-3",
+    "nombre": "Josep Maria Mirada Profitós",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-vox-4",
+    "nombre": "Alejandra Roig López",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "lleida-pacma-1",
+    "nombre": "Iván Guijarro Vila",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pacma-2",
+    "nombre": "Míriam Escoda Pons",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pacma-3",
+    "nombre": "Alejandro García-Argudo Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pacma-4",
+    "nombre": "Concepción Dempere Llinás",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "lleida-pp-1",
+    "nombre": "Roger Melero Serra",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pp-2",
+    "nombre": "Ares Aguilà Andreu",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pp-3",
+    "nombre": "Juan Simeón Morera",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-pp-4",
+    "nombre": "Dolores López Aguilar",
+    "descripcion": ""
+   }
+  ],
+  "alhora": [
+   {
+    "id": "lleida-alhora-1",
+    "nombre": "Cristina Casol Segués",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-alhora-2",
+    "nombre": "Pau Carbonell Font",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-alhora-3",
+    "nombre": "Anna Punsoda Ricart",
+    "descripcion": ""
+   },
+   {
+    "id": "lleida-alhora-4",
+    "nombre": "Josep David Garrido Valls",
+    "descripcion": "",
+    "independiente": true
+   }
+  ]
+ }
+}

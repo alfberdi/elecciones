@@ -1,0 +1,44 @@
+{
+ "id": "la-gomera",
+ "nombre": "La Gomera",
+ "ccaa": "canarias",
+ "escanos": 1,
+ "marcas": 1,
+ "listas": {
+  "lxlg": [
+   {
+    "id": "sen-la-gomera-lxlg-1",
+    "nombre": "Alejandro García Vera",
+    "descripcion": ""
+   }
+  ],
+  "asg": [
+   {
+    "id": "sen-la-gomera-asg-1",
+    "nombre": "Yaiza Castilla Herrera",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "sen-la-gomera-psoe-1",
+    "nombre": "Juan Luis Navarro Mesa",
+    "descripcion": ""
+   }
+  ],
+  "cca-1-can": [
+   {
+    "id": "sen-la-gomera-cca-1-can-1",
+    "nombre": "Víctor Tomás Chinea Mendoza",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-la-gomera-pp-1",
+    "nombre": "Héctor Armando Bencomo Bayoll",
+    "descripcion": ""
+   }
+  ]
+ }
+}

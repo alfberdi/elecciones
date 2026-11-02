@@ -1,0 +1,334 @@
+{
+ "id": "navarra",
+ "nombre": "Navarra",
+ "ccaa": "navarra",
+ "escanos": 5,
+ "listas": {
+  "eh-bildu": [
+   {
+    "id": "navarra-eh-bildu-1",
+    "nombre": "Eneka Maiz Ulaiar",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-eh-bildu-2",
+    "nombre": "Mikel Oteiza Iza",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-eh-bildu-3",
+    "nombre": "Ainhoa Bueno Munárriz",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-eh-bildu-4",
+    "nombre": "Arturo Goldaracena Asa",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-eh-bildu-5",
+    "nombre": "María Isabel Pozueta Fernandez",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "navarra-fo-1",
+    "nombre": "Nerea León Miranda",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-fo-2",
+    "nombre": "Ruben Molina Mellado",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-fo-3",
+    "nombre": "Urko Sasiain Txurruka",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-fo-4",
+    "nombre": "Maite Guerrico Cruz",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-fo-5",
+    "nombre": "Alvaro Rubio Izquierdo",
+    "descripcion": ""
+   }
+  ],
+  "psn-psoe": [
+   {
+    "id": "navarra-psn-psoe-1",
+    "nombre": "Elma Saiz Delgado",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-psn-psoe-2",
+    "nombre": "Juan Cruz Cigudosa García",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-psn-psoe-3",
+    "nombre": "Nuria Medina Santos",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-psn-psoe-4",
+    "nombre": "Guzmán García García",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-psn-psoe-5",
+    "nombre": "María Esther Villanueva Ucar",
+    "descripcion": ""
+   }
+  ],
+  "eguzkilore": [
+   {
+    "id": "navarra-eguzkilore-1",
+    "nombre": "Francisco Javier Pérez Cueva",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-eguzkilore-2",
+    "nombre": "Fanny Cecilia Carrillo Suárez.",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "navarra-eguzkilore-3",
+    "nombre": "Bittor Jaúregui Alemán",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-eguzkilore-4",
+    "nombre": "Cristina Garín Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-eguzkilore-5",
+    "nombre": "Carmen María Martín Jiménez.",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "geroa-bai": [
+   {
+    "id": "navarra-geroa-bai-1",
+    "nombre": "Pablo Azcona Molinet",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-geroa-bai-2",
+    "nombre": "María Rosa Basarte Osés",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-geroa-bai-3",
+    "nombre": "Javier Ollo Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-geroa-bai-4",
+    "nombre": "Aitana Duque Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-geroa-bai-5",
+    "nombre": "Alfredo Agós Ginés",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "navarra-mundo-justo-1",
+    "nombre": "José Antonio Aparicio Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-mundo-justo-2",
+    "nombre": "María Carmen Silvestre Busto",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-mundo-justo-3",
+    "nombre": "Javier Martínez Baigorri",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-mundo-justo-4",
+    "nombre": "Ana Rocío Setuain Equisoain",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-mundo-justo-5",
+    "nombre": "Iñaki Asiain Albisu",
+    "descripcion": ""
+   }
+  ],
+  "upn-pp": [
+   {
+    "id": "navarra-upn-pp-1",
+    "nombre": "Leticia San Martín Rodríguez.",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-upn-pp-2",
+    "nombre": "Sergio Sayas López.",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-upn-pp-3",
+    "nombre": "María Carmen Alba Orduna.",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-upn-pp-4",
+    "nombre": "Javier de la Merced Artanga.",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-upn-pp-5",
+    "nombre": "María Luz Moraza Busto.",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "navarra-salf-1",
+    "nombre": "Lidia Martínez Aranguibel",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-salf-2",
+    "nombre": "Angel Rodríguez Candelario",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-salf-3",
+    "nombre": "María Carmen Pioz Soriano",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-salf-4",
+    "nombre": "Yoandry Sebastián Martín Cáceres",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-salf-5",
+    "nombre": "Marina San Juan Soto",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "navarra-vox-1",
+    "nombre": "María Perpetuo Socorro Sada Ballesteros",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-vox-2",
+    "nombre": "José María Garcçoa Elorz",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-vox-3",
+    "nombre": "Sara Baigorri Jarauta",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-vox-4",
+    "nombre": "Juan Manuel Cabeo Cabrera",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-vox-5",
+    "nombre": "María Milagros Eraso Osés",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "navarra-podemos-1",
+    "nombre": "Virginia Alonso Aparicio",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-podemos-2",
+    "nombre": "Mikel Mari González-Echeverri Peñagaricano",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-podemos-3",
+    "nombre": "María Joaquina Gómez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-podemos-4",
+    "nombre": "Jesús Ángel García Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-podemos-5",
+    "nombre": "María Gracia Moreno Sola",
+    "descripcion": ""
+   }
+  ],
+  "frente-amplio-fronte-zabala": [
+   {
+    "id": "navarra-frente-amplio-fronte-zabala-1",
+    "nombre": "Javier Ibáñez Orayen",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-frente-amplio-fronte-zabala-2",
+    "nombre": "Miren Edurne Eguino Sisain",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-frente-amplio-fronte-zabala-3",
+    "nombre": "David Fuentes Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-frente-amplio-fronte-zabala-4",
+    "nombre": "María Sofía Pérez Ibiricu",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-frente-amplio-fronte-zabala-5",
+    "nombre": "Daniel Prieto Notario",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "navarra-pacma-1",
+    "nombre": "Manuel Piñar Bautista",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-pacma-2",
+    "nombre": "Ana Espelosín Aguinaga",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-pacma-3",
+    "nombre": "Manuel Vilreales Núñez de Arenas",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-pacma-4",
+    "nombre": "Lydia Jaso Irisarri",
+    "descripcion": ""
+   },
+   {
+    "id": "navarra-pacma-5",
+    "nombre": "José Javier Lorenzo Paredes",
+    "descripcion": ""
+   }
+  ]
+ }
+}

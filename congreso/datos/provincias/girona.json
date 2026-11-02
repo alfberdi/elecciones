@@ -1,0 +1,330 @@
+{
+ "id": "girona",
+ "nombre": "Girona",
+ "ccaa": "cataluna",
+ "escanos": 6,
+ "listas": {
+  "psc": [
+   {
+    "id": "girona-psc-1",
+    "nombre": "Marc Lamuà Estañol",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-psc-2",
+    "nombre": "Maria Blanca Cercas Mena",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-psc-3",
+    "nombre": "Larbi Hlal Boutir",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-psc-4",
+    "nombre": "Yolanda Aguilar Gallego",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-psc-5",
+    "nombre": "Juan Manuel Robles Cabanillas",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-psc-6",
+    "nombre": "Maria Del Carme Retamero Fuster",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "girona-fo-1",
+    "nombre": "Ivan Arroyo Laguna",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-fo-2",
+    "nombre": "Maria Pilar De Gregorio Garcia",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-fo-3",
+    "nombre": "Alex Buxadé Pujol",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-fo-4",
+    "nombre": "Adela Alcobet Palomino",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-fo-5",
+    "nombre": "Aitor Menayo Hurtado",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-fo-6",
+    "nombre": "Silvia Pujol Lopez",
+    "descripcion": ""
+   }
+  ],
+  "jxcat": [
+   {
+    "id": "girona-jxcat-1",
+    "nombre": "Marta Madrenas Mir",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-jxcat-2",
+    "nombre": "Josep Maria Cervera Pinart",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-jxcat-3",
+    "nombre": "Anna Maria Tarafa Güell",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-jxcat-4",
+    "nombre": "Oriol Comas Basté",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-jxcat-5",
+    "nombre": "Júia Sunyer Rigau",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-jxcat-6",
+    "nombre": "Jordi Gumí Merino",
+    "descripcion": ""
+   }
+  ],
+  "erc": [
+   {
+    "id": "girona-erc-1",
+    "nombre": "Teresa Jordà Roura",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-erc-2",
+    "nombre": "Albert Ferràndez Machado",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-erc-3",
+    "nombre": "Ester Soms Pagespetit",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-erc-4",
+    "nombre": "Antoni Vidal Sastre",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-erc-5",
+    "nombre": "Esther Fanyanàs Ropero",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-erc-6",
+    "nombre": "David Juan Garganta",
+    "descripcion": ""
+   }
+  ],
+  "comuns-front-ampli": [
+   {
+    "id": "girona-comuns-front-ampli-1",
+    "nombre": "Júlia Boada Danés",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-comuns-front-ampli-2",
+    "nombre": "Jordi Lloveras Avelli",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-comuns-front-ampli-3",
+    "nombre": "Claudia Mallart Toupy",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-comuns-front-ampli-4",
+    "nombre": "Jordi Urgell Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-comuns-front-ampli-5",
+    "nombre": "Salma Laghzaoui Al Bachiri",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-comuns-front-ampli-6",
+    "nombre": "Guillem Nieto Padrosa",
+    "descripcion": ""
+   }
+  ],
+  "pctc": [
+   {
+    "id": "girona-pctc-1",
+    "nombre": "Tomás Ferreira Crubellati",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pctc-2",
+    "nombre": "Clara Ramírez Eirís",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pctc-3",
+    "nombre": "Bruno Lozano Palma",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pctc-4",
+    "nombre": "Maria Dolores Garrote Llorens",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pctc-5",
+    "nombre": "Marcos García Martos",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pctc-6",
+    "nombre": "Elia Miota Sanchez",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "girona-pacma-1",
+    "nombre": "Arseniy Maximov Eudoqumova",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pacma-2",
+    "nombre": "Marta Vericat Torné",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pacma-3",
+    "nombre": "David Serramitjana Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pacma-4",
+    "nombre": "Olga Laveria Escatllar",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pacma-5",
+    "nombre": "Joel Brangwin Masso",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pacma-6",
+    "nombre": "María Pilar Fernández Jordá",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "girona-vox-1",
+    "nombre": "Ignasi Mulleras Vinzia",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-vox-2",
+    "nombre": "Sandra Moya Bolívar",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-vox-3",
+    "nombre": "Sergi Fabri Llavero",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-vox-4",
+    "nombre": "María José Hernando Maldonado",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-vox-5",
+    "nombre": "Roberto Martínez Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-vox-6",
+    "nombre": "María José Ubero Montesinos",
+    "descripcion": ""
+   }
+  ],
+  "alhora": [
+   {
+    "id": "girona-alhora-1",
+    "nombre": "Júlia Ojeda Caba",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-alhora-2",
+    "nombre": "Marc Tomàs Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-alhora-3",
+    "nombre": "Ariadna Danés I Barris",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-alhora-4",
+    "nombre": "Robert Carreras Torres",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-alhora-5",
+    "nombre": "Anna Fernàndez Cornellas",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "girona-alhora-6",
+    "nombre": "Adrià Pujol Cruells",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "pp": [
+   {
+    "id": "girona-pp-1",
+    "nombre": "Diana Moya Redondo",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pp-2",
+    "nombre": "Cristobal Posadas Espinosa",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pp-3",
+    "nombre": "Fina Argüelles Fernàndez",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pp-4",
+    "nombre": "Luis Fernando Sarmiento Valladares",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pp-5",
+    "nombre": "Miriam Pujola Romero",
+    "descripcion": ""
+   },
+   {
+    "id": "girona-pp-6",
+    "nombre": "Daniel Ruiz Perez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

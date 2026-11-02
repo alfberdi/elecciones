@@ -1,0 +1,470 @@
+{
+ "id": "cadiz",
+ "nombre": "Cádiz",
+ "ccaa": "andalucia",
+ "escanos": 8,
+ "listas": {
+  "psoe": [
+   {
+    "id": "cadiz-psoe-1",
+    "nombre": "José Manuel Albares Bueno",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-psoe-2",
+    "nombre": "María del Carmen Sánchez Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-psoe-3",
+    "nombre": "Alfonso Carlos Moscoso González",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-psoe-4",
+    "nombre": "María Isabel Moreno Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-psoe-5",
+    "nombre": "José Ramón Ortega Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-psoe-6",
+    "nombre": "María Esperanza Pérez Expósito",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-psoe-7",
+    "nombre": "Juan José Tejero Robles",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-psoe-8",
+    "nombre": "Ana Belén Carrera Armario",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "cadiz-fo-1",
+    "nombre": "Juan Vicente Parra Piñero",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fo-2",
+    "nombre": "Clara Lebrero Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fo-3",
+    "nombre": "Aarón Aliaño Gago",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fo-4",
+    "nombre": "Verónica Sánchez Benítez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fo-5",
+    "nombre": "Josué Monje Verdugo",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fo-6",
+    "nombre": "Xisela Lema Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fo-7",
+    "nombre": "Emilio Rodríguez Caro",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fo-8",
+    "nombre": "María Teresa Blanco Ramírez",
+    "descripcion": ""
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "cadiz-adelante-andalucia-1",
+    "nombre": "María Sánchez Barrada",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-adelante-andalucia-2",
+    "nombre": "Alejandro Gutiérrez García",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-adelante-andalucia-3",
+    "nombre": "Rocío de la Caridad Díaz Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-adelante-andalucia-4",
+    "nombre": "Ángel Cardiel Ferrero",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-adelante-andalucia-5",
+    "nombre": "Lorena Garrón Rincón",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-adelante-andalucia-6",
+    "nombre": "José Antonio Camacho Romano",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-adelante-andalucia-7",
+    "nombre": "Almudena Camacho del Río",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-adelante-andalucia-8",
+    "nombre": "Jorge Párraga Risoto",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "cadiz-salf-1",
+    "nombre": "Francisco Anselmo Mesa González",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-salf-2",
+    "nombre": "Lorena Moreno Camacho",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-salf-3",
+    "nombre": "Manuel Ángel Torres Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-salf-4",
+    "nombre": "Olga Cerejido Vaca",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-salf-5",
+    "nombre": "Jaime Maruenda Macías",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-salf-6",
+    "nombre": "Cindia María Ramírez Justo",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-salf-7",
+    "nombre": "Francisco Javier Rico Jurado",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-salf-8",
+    "nombre": "Alejandra Rojo García",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "cadiz-pcte-1",
+    "nombre": "Laura María Gálvez Carmona",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pcte-2",
+    "nombre": "Guillermo González Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pcte-3",
+    "nombre": "Clara Rodríguez Sáez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pcte-4",
+    "nombre": "Álvaro Jesús Núñez Gutiérrez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pcte-5",
+    "nombre": "Alba Cortés Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pcte-6",
+    "nombre": "Pedro Manuel Benítez Serrano",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pcte-7",
+    "nombre": "María Algaba Montano",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pcte-8",
+    "nombre": "Daniel Sánchez Aragón",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "cadiz-vox-1",
+    "nombre": "Blanca Armario González",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-vox-2",
+    "nombre": "Alfonso Benito Carreto Pérez Barbadillo",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-vox-3",
+    "nombre": "Noelia María Campos Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-vox-4",
+    "nombre": "Germán de la Iglesia López",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-vox-5",
+    "nombre": "María de la Victoria Elena Guillén Guillén",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-vox-6",
+    "nombre": "Ángel Rafael Rovira García",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-vox-7",
+    "nombre": "Elena Guitart Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-vox-8",
+    "nombre": "Francisco Javier Mateos González",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "cadiz-pacma-1",
+    "nombre": "Marcelino Laínez de los Reyes",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pacma-2",
+    "nombre": "Encarnación Vicente Pina",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pacma-3",
+    "nombre": "Antonio Jesús Ayuso García",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pacma-4",
+    "nombre": "María Arantzazu Vélez Arregui",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pacma-5",
+    "nombre": "Enrique Gutiérrez Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pacma-6",
+    "nombre": "Cintia Mesa Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pacma-7",
+    "nombre": "Francisco José Navarro Ríos",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pacma-8",
+    "nombre": "María Jesús Castillo Jordán",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "cadiz-fa-1",
+    "nombre": "Esther Francisca Gil de Reboleño Lastortres",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fa-2",
+    "nombre": "Pedro Pablo Santamaría Curtido",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fa-3",
+    "nombre": "Johanna Carla González Aragón",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fa-4",
+    "nombre": "José Alfaro Berenguer",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fa-5",
+    "nombre": "Ana Isabel Medina Curquejo",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fa-6",
+    "nombre": "Alfredo José Charques Calderón",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fa-7",
+    "nombre": "Ana María Muñoz Colera",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-fa-8",
+    "nombre": "Raúl Berlanga Valenzuela",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "cadiz-podemos-1",
+    "nombre": "Julio de la Torre Lorenzo",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-podemos-2",
+    "nombre": "Judith Fernández González",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-podemos-3",
+    "nombre": "Jaime Zamora Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-podemos-4",
+    "nombre": "Ángeles Beatriz Rodríguez Borrego",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-podemos-5",
+    "nombre": "Rafael Alberto Oliva Orbello",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-podemos-6",
+    "nombre": "María de los Ángeles Fuentes Albendín",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-podemos-7",
+    "nombre": "Fernando Luciano Delgado Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-podemos-8",
+    "nombre": "Cristina Sanz Triviño",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "cadiz-mundo-justo-1",
+    "nombre": "María Gracia Clavijo Repetto",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-mundo-justo-2",
+    "nombre": "Miguel Enrique Núñez Castaño",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-mundo-justo-3",
+    "nombre": "Ana Teruel Medina",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-mundo-justo-4",
+    "nombre": "Miguel Ángel Bustillo Garat",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-mundo-justo-5",
+    "nombre": "Ivi Linette Iglesias Castro",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-mundo-justo-6",
+    "nombre": "Francisco de Bartolomé Gisbert",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-mundo-justo-7",
+    "nombre": "María de los Llanos Odogherty de la Riva",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-mundo-justo-8",
+    "nombre": "Daniel Carballo Ruiz",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "cadiz-pp-1",
+    "nombre": "María José García-Pelayo Jurado",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pp-2",
+    "nombre": "Miguel Ángel Sastre Uya",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pp-3",
+    "nombre": "Macarena Lorente Anaya",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pp-4",
+    "nombre": "Miguel Rodríguez Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pp-5",
+    "nombre": "Inmaculada Marín Aparicio",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pp-6",
+    "nombre": "Pablo García Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pp-7",
+    "nombre": "Ana María Bertón Belizón",
+    "descripcion": ""
+   },
+   {
+    "id": "cadiz-pp-8",
+    "nombre": "Daniel Luis Rodríguez Ruiz",
+    "descripcion": ""
+   }
+  ]
+ }
+}

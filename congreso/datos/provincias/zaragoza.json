@@ -1,0 +1,453 @@
+{
+ "id": "zaragoza",
+ "nombre": "Zaragoza",
+ "ccaa": "aragon",
+ "escanos": 7,
+ "listas": {
+  "fo": [
+   {
+    "id": "zaragoza-fo-1",
+    "nombre": "Samuel Pelayo Fosch",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fo-2",
+    "nombre": "Marta Husillos García",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fo-3",
+    "nombre": "Sergio Rodríguez Lapuente",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fo-4",
+    "nombre": "Soraya Martín Guillén",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fo-5",
+    "nombre": "Aitor Pellicer Segura",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fo-6",
+    "nombre": "Mirela Alexe Paun",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fo-7",
+    "nombre": "Roberto Duro Suárez",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "zaragoza-psoe-1",
+    "nombre": "Fernando Ángel Beltrán Blázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-psoe-2",
+    "nombre": "Marta Gracia Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-psoe-3",
+    "nombre": "José Antonio Remón Aisa",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-psoe-4",
+    "nombre": "Ana Isabel Villar Lechón",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-psoe-5",
+    "nombre": "Javier Tolosa Jaime",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-psoe-6",
+    "nombre": "Celia Piñero Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-psoe-7",
+    "nombre": "Javier Moreno Díaz",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "zaragoza-pcte-1",
+    "nombre": "Marina Lapuente Rey",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pcte-2",
+    "nombre": "Alberto Sopeña Borroy",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pcte-3",
+    "nombre": "María Seral Lopez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pcte-4",
+    "nombre": "Cristian Ferrer García",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pcte-5",
+    "nombre": "Elena Milla Utrilla",
+    "descripcion": "",
+    "independiente": true
+   },
+   {
+    "id": "zaragoza-pcte-6",
+    "nombre": "Daniel García Trillo",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pcte-7",
+    "nombre": "Laura Rodríguez Barbero",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "zaragoza-mundo-justo-1",
+    "nombre": "Jesús Miguel Sánchez Felipe",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-mundo-justo-2",
+    "nombre": "Vanesa María Rodríguez Pascual",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-mundo-justo-3",
+    "nombre": "Juan José Osacar Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-mundo-justo-4",
+    "nombre": "María Soledad Aviñó Triguero",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-mundo-justo-5",
+    "nombre": "Pablo Mateos Torre",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-mundo-justo-6",
+    "nombre": "María Teresa Chico Bruna",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-mundo-justo-7",
+    "nombre": "Andrés Barrero Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "zaragoza-vox-1",
+    "nombre": "María Carmen Rouco Laliena",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-vox-2",
+    "nombre": "Juan José Coca López",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-vox-3",
+    "nombre": "Virginia Gallizo Fau",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-vox-4",
+    "nombre": "Armando Martínez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-vox-5",
+    "nombre": "Sara Ballesteros Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-vox-6",
+    "nombre": "Jesús García Royo",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-vox-7",
+    "nombre": "Montserrat Piñol Murcia",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "zaragoza-podemos-1",
+    "nombre": "Alicia Arteaga Lahuerta",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-podemos-2",
+    "nombre": "Leandro Eduardo Piragini Giella",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-podemos-3",
+    "nombre": "María Paloma Subías González",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-podemos-4",
+    "nombre": "José Abós Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-podemos-5",
+    "nombre": "Sara Pardos Puyuelo",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-podemos-6",
+    "nombre": "Luis Javier Sierra Pascual",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-podemos-7",
+    "nombre": "María Begoña Bernad Latorre",
+    "descripcion": ""
+   }
+  ],
+  "fia": [
+   {
+    "id": "zaragoza-fia-1",
+    "nombre": "Amadeo Escolán Remartínez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fia-2",
+    "nombre": "María Carmen Beltrán Larrosa",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fia-3",
+    "nombre": "Carlos Borico Santos",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fia-4",
+    "nombre": "María Mercedes Mariblanca Morales",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fia-5",
+    "nombre": "Félix Ramón Pimpinela Capmartín",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fia-6",
+    "nombre": "Antonia Alguacil Peña",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fia-7",
+    "nombre": "Pedro Olona Sesé",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "zaragoza-pp-1",
+    "nombre": "María del Rocío Dívar Conde",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pp-2",
+    "nombre": "Javier Campoy Monreal",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pp-3",
+    "nombre": "Susana Cobos Barrio",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pp-4",
+    "nombre": "Juan Pablo Artero Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pp-5",
+    "nombre": "Rebeca Naudín Ayesa",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pp-6",
+    "nombre": "Emilio José Ferrero Arias",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pp-7",
+    "nombre": "María del Pilar Echeverría García",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "zaragoza-pacma-1",
+    "nombre": "Óscar Jesús Marcos Baigorri",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pacma-2",
+    "nombre": "Cristina Marcos Egido",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pacma-3",
+    "nombre": "Víctor Gustavo Moliner Ezquerra",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pacma-4",
+    "nombre": "Paloma Gracia Alvira",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pacma-5",
+    "nombre": "Enrique Juan Hidalgo Martínez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pacma-6",
+    "nombre": "Cristina Pinillos Lázaro",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-pacma-7",
+    "nombre": "Miguel Ángel Lázaro Escolano",
+    "descripcion": ""
+   }
+  ],
+  "cha-iu-ms-frente-amplio": [
+   {
+    "id": "zaragoza-cha-iu-ms-frente-amplio-1",
+    "nombre": "Marina Rodríguez Hernando",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-cha-iu-ms-frente-amplio-2",
+    "nombre": "Jesús Francisco García Usón",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-cha-iu-ms-frente-amplio-3",
+    "nombre": "Rosa María Burgos Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-cha-iu-ms-frente-amplio-4",
+    "nombre": "Carlos Javier Velasco Ibáñez",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-cha-iu-ms-frente-amplio-5",
+    "nombre": "Lua Buera Ayllon",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-cha-iu-ms-frente-amplio-6",
+    "nombre": "Álvaro Sanz Remón",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-cha-iu-ms-frente-amplio-7",
+    "nombre": "Laura Encabo Casao",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "zaragoza-salf-1",
+    "nombre": "María Cristina Falcón Aldana",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-salf-2",
+    "nombre": "José María Lobera Espeleta",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-salf-3",
+    "nombre": "María Dolores Grau Pano",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-salf-4",
+    "nombre": "Ramón Ruiz Navero",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-salf-5",
+    "nombre": "María Luisa Gáñez Gajón",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-salf-6",
+    "nombre": "Alejandro Lardiés Lozano",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-salf-7",
+    "nombre": "Yesica Marcuello Granel",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "zaragoza-fe-de-las-jons-1",
+    "nombre": "Ignacio Alejandro Moreno Bescós",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fe-de-las-jons-2",
+    "nombre": "Sara Millán Ochoa",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fe-de-las-jons-3",
+    "nombre": "Diego Becerril Oliveros",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fe-de-las-jons-4",
+    "nombre": "Bárbara Catalán Casorrán",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fe-de-las-jons-5",
+    "nombre": "Rogelio Javier Rodrigo Granda",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fe-de-las-jons-6",
+    "nombre": "María Pilar Sancho García",
+    "descripcion": ""
+   },
+   {
+    "id": "zaragoza-fe-de-las-jons-7",
+    "nombre": "Carlos Javier Lapuerta Serrano",
+    "descripcion": ""
+   }
+  ]
+ }
+}

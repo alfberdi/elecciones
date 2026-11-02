@@ -1,0 +1,101 @@
+{
+ "id": "avila",
+ "nombre": "Ávila",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "mundo-justo": [
+   {
+    "id": "sen-avila-mundo-justo-1",
+    "nombre": "Amador María Villar Riu",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-avila-podemos-1",
+    "nombre": "David Arense Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-podemos-2",
+    "nombre": "Rebeca Acevedo García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-podemos-3",
+    "nombre": "Javier Jara García",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-avila-pp-1",
+    "nombre": "Alicia García Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-pp-2",
+    "nombre": "Carlos García González",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-pp-3",
+    "nombre": "María Pilar Rodríguez Aparicio",
+    "descripcion": ""
+   }
+  ],
+  "pdsje": [
+   {
+    "id": "sen-avila-pdsje-1",
+    "nombre": "José María Martín García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-pdsje-2",
+    "nombre": "Virginia Maycas Márquez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-pdsje-3",
+    "nombre": "Luis Miguel Sáenz de la Puente",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms-mm-com": [
+   {
+    "id": "sen-avila-senado-de-progreso-sdp-psoe-iu-ms-mm-com-1",
+    "nombre": "Carlos Montesino Garro )",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-senado-de-progreso-sdp-psoe-iu-ms-mm-com-2",
+    "nombre": "Cristina Pindado López Samaniego )",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-senado-de-progreso-sdp-psoe-iu-ms-mm-com-3",
+    "nombre": "Juan Carlos del Bosque Portero )",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-avila-vox-1",
+    "nombre": "Clara Isabel Rubio Contreras",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-vox-2",
+    "nombre": "Carlos Salazar Moreta",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-avila-vox-3",
+    "nombre": "Bárbara Vallejo Fernández-Cano",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "id": "almeria",
+ "nombre": "Almería",
+ "ccaa": "andalucia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "adelante-andalucia": [
+   {
+    "id": "sen-almeria-adelante-andalucia-1",
+    "nombre": "Vanesa Martínez Crisol",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-adelante-andalucia-2",
+    "nombre": "Luis María Salmerón Hinojosa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-adelante-andalucia-3",
+    "nombre": "Carmen María González Jiménez",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-almeria-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "José María Martín Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "María Jesús Amate Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Ismael Gil Salmerón",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-almeria-pp-1",
+    "nombre": "Miguel Ángel Castellón Rubio",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-pp-2",
+    "nombre": "Ana María Martínez Labella",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-pp-3",
+    "nombre": "Juan José Matarí Sáez",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-almeria-mundo-justo-1",
+    "nombre": "Trinidad Rodríguez López",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-almeria-vox-1",
+    "nombre": "Marta Asunción Castro Fuertes",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-vox-2",
+    "nombre": "Carlos Antonio García Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-vox-3",
+    "nombre": "Amadea García Martínez",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "sen-almeria-escanos-en-blanco-1",
+    "nombre": "Carlos Julián Molina López",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-almeria-pcte-1",
+    "nombre": "Alberto Martínez Jódar",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-almeria-podemos-1",
+    "nombre": "María de los Milagros Torrejón Carabe",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-podemos-2",
+    "nombre": "Fernando Fernández Frontela",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-almeria-podemos-3",
+    "nombre": "Rosa María Martínez Ortega",
+    "descripcion": ""
+   }
+  ]
+ }
+}

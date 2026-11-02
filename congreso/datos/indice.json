@@ -1,0 +1,819 @@
+{
+ "camara": "congreso",
+ "ejemplo": false,
+ "eleccion": "Elecciones generales del 29 de noviembre de 2026 · Congreso de los Diputados",
+ "actualizado": "2026-10-28",
+ "comunidades": [
+  {
+   "id": "andalucia",
+   "nombre": "Andalucía",
+   "provincias": [
+    "almeria",
+    "cadiz",
+    "cordoba",
+    "granada",
+    "huelva",
+    "jaen",
+    "malaga",
+    "sevilla"
+   ]
+  },
+  {
+   "id": "aragon",
+   "nombre": "Aragón",
+   "provincias": [
+    "huesca",
+    "teruel",
+    "zaragoza"
+   ]
+  },
+  {
+   "id": "asturias",
+   "nombre": "Principado de Asturias",
+   "provincias": [
+    "asturias"
+   ]
+  },
+  {
+   "id": "baleares",
+   "nombre": "Illes Balears",
+   "provincias": [
+    "baleares"
+   ]
+  },
+  {
+   "id": "canarias",
+   "nombre": "Canarias",
+   "provincias": [
+    "las-palmas",
+    "santa-cruz"
+   ]
+  },
+  {
+   "id": "cantabria",
+   "nombre": "Cantabria",
+   "provincias": [
+    "cantabria"
+   ]
+  },
+  {
+   "id": "castilla-y-leon",
+   "nombre": "Castilla y León",
+   "provincias": [
+    "avila",
+    "burgos",
+    "leon",
+    "palencia",
+    "salamanca",
+    "segovia",
+    "soria",
+    "valladolid",
+    "zamora"
+   ]
+  },
+  {
+   "id": "castilla-la-mancha",
+   "nombre": "Castilla-La Mancha",
+   "provincias": [
+    "albacete",
+    "ciudad-real",
+    "cuenca",
+    "guadalajara",
+    "toledo"
+   ]
+  },
+  {
+   "id": "cataluna",
+   "nombre": "Cataluña",
+   "provincias": [
+    "barcelona",
+    "girona",
+    "lleida",
+    "tarragona"
+   ]
+  },
+  {
+   "id": "valenciana",
+   "nombre": "Comunitat Valenciana",
+   "provincias": [
+    "alicante",
+    "castellon",
+    "valencia"
+   ]
+  },
+  {
+   "id": "extremadura",
+   "nombre": "Extremadura",
+   "provincias": [
+    "badajoz",
+    "caceres"
+   ]
+  },
+  {
+   "id": "galicia",
+   "nombre": "Galicia",
+   "provincias": [
+    "a-coruna",
+    "lugo",
+    "ourense",
+    "pontevedra"
+   ]
+  },
+  {
+   "id": "madrid",
+   "nombre": "Comunidad de Madrid",
+   "provincias": [
+    "madrid"
+   ]
+  },
+  {
+   "id": "murcia",
+   "nombre": "Región de Murcia",
+   "provincias": [
+    "murcia"
+   ]
+  },
+  {
+   "id": "navarra",
+   "nombre": "Comunidad Foral de Navarra",
+   "provincias": [
+    "navarra"
+   ]
+  },
+  {
+   "id": "pais-vasco",
+   "nombre": "País Vasco",
+   "provincias": [
+    "alava",
+    "gipuzkoa",
+    "bizkaia"
+   ]
+  },
+  {
+   "id": "la-rioja",
+   "nombre": "La Rioja",
+   "provincias": [
+    "la-rioja"
+   ]
+  },
+  {
+   "id": "ceuta",
+   "nombre": "Ceuta",
+   "provincias": [
+    "ceuta"
+   ]
+  },
+  {
+   "id": "melilla",
+   "nombre": "Melilla",
+   "provincias": [
+    "melilla"
+   ]
+  }
+ ],
+ "partidos": [
+  {
+   "id": "1-can-cca",
+   "siglas": "1.ºCAN-CCa",
+   "nombre": "Municipalistas Primero Canarias-Coalición Canaria"
+  },
+  {
+   "id": "29",
+   "siglas": "29",
+   "nombre": "Alternativa Malagueña"
+  },
+  {
+   "id": "3e",
+   "siglas": "3e",
+   "nombre": "Tercera Edad en Acción"
+  },
+  {
+   "id": "adelante-andalucia",
+   "siglas": "ADELANTE ANDALUCÍA",
+   "nombre": "Adelante Andalucía"
+  },
+  {
+   "id": "agenda-valenciana",
+   "siglas": "AGENDA VALENCIANA",
+   "nombre": "Agenda Valenciana"
+  },
+  {
+   "id": "alhora",
+   "siglas": "ALHORA",
+   "nombre": "Alhora"
+  },
+  {
+   "id": "arames-eu-ms",
+   "siglas": "ARAMÉS-EU-MS",
+   "nombre": "Aramés-Front Ampli"
+  },
+  {
+   "id": "bng",
+   "siglas": "BNG",
+   "nombre": "Bloque Nacionalista Galego"
+  },
+  {
+   "id": "cca-1-can",
+   "siglas": "CCa-1.ºCAN",
+   "nombre": "Coalición Canaria-Municipalistas Primero Canarias"
+  },
+  {
+   "id": "cha-iu-ms-frente-amplio",
+   "siglas": "CHA-IU-MS-FRENTE AMPLIO",
+   "nombre": "Chunta Aragonesista-Frente Amplio Aragón"
+  },
+  {
+   "id": "cnv",
+   "siglas": "CNV",
+   "nombre": "Convergents"
+  },
+  {
+   "id": "compromis-eupv-podem-erpv",
+   "siglas": "COMPROMIS-EUPV-PODEM-ERPV",
+   "nombre": "Compromís: Front Valencià"
+  },
+  {
+   "id": "comuns-front-ampli",
+   "siglas": "COMUNS-FRONT AMPLI",
+   "nombre": "Comuns-Front Ampli"
+  },
+  {
+   "id": "d-r-g",
+   "siglas": "D.R.G",
+   "nombre": "Partido Drago Canarias"
+  },
+  {
+   "id": "d21",
+   "siglas": "D21",
+   "nombre": "Democracia para el Siglo 21"
+  },
+  {
+   "id": "eaj-pnv",
+   "siglas": "EAJ-PNV",
+   "nombre": "Euzko Alderdi Jeltzalea-Partido Nacionalista Vasco"
+  },
+  {
+   "id": "eguzkilore",
+   "siglas": "EGUZKILORE",
+   "nombre": "Eguzkilore"
+  },
+  {
+   "id": "eh-bildu",
+   "siglas": "EH Bildu",
+   "nombre": "Euskal Herria Bildu"
+  },
+  {
+   "id": "erc",
+   "siglas": "ERC",
+   "nombre": "Esquerra Republicana de Catalunya"
+  },
+  {
+   "id": "escanos-en-blanco",
+   "siglas": "ESCAÑOS EN BLANCO",
+   "nombre": "Escaños en Blanco para Dejar Escaños Vacíos"
+  },
+  {
+   "id": "f8",
+   "siglas": "F8",
+   "nombre": "Feminism8"
+  },
+  {
+   "id": "fa",
+   "siglas": "FA",
+   "nombre": "Frente Amplio"
+  },
+  {
+   "id": "fe-de-las-jons",
+   "siglas": "FE de las JONS",
+   "nombre": "Falange Española de las Jons"
+  },
+  {
+   "id": "fia",
+   "siglas": "FIA",
+   "nombre": "Federacion de los Independientes de Aragon"
+  },
+  {
+   "id": "fo",
+   "siglas": "FO",
+   "nombre": "Frente Obrero"
+  },
+  {
+   "id": "frente-amplio-fronte-ampla",
+   "siglas": "FRENTE AMPLIO-FRONTE AMPLA",
+   "nombre": "Frente Amplio-Fronte Ampla"
+  },
+  {
+   "id": "frente-amplio-fronte-zabala",
+   "siglas": "FRENTE AMPLIO-FRONTE ZABALA",
+   "nombre": "Frente Amplio-Fronte Zabala"
+  },
+  {
+   "id": "frente-obrero",
+   "siglas": "FRENTE OBRERO",
+   "nombre": "Frente Obrero"
+  },
+  {
+   "id": "geroa-bai",
+   "siglas": "GEROA BAI",
+   "nombre": "Geroa Bai"
+  },
+  {
+   "id": "ie",
+   "siglas": "IE",
+   "nombre": "Iustitia Europa"
+  },
+  {
+   "id": "ipal",
+   "siglas": "IPAL",
+   "nombre": "Izquierda por Almería"
+  },
+  {
+   "id": "j-u-e-x",
+   "siglas": "J.U.E.X.",
+   "nombre": "Juntos por Extremadura"
+  },
+  {
+   "id": "jl",
+   "siglas": "JL",
+   "nombre": "Justicia y Ley"
+  },
+  {
+   "id": "jose-maria-calvo-guerra",
+   "siglas": "JOSÉ MARÍA CALVO GUERRA",
+   "nombre": "José María Calvo Guerra"
+  },
+  {
+   "id": "jxcat",
+   "siglas": "JxCat",
+   "nombre": "Junts per Catalunya"
+  },
+  {
+   "id": "lib",
+   "siglas": "LIB",
+   "nombre": "Liberación Canaria"
+  },
+  {
+   "id": "mundo-justo",
+   "siglas": "MUNDO+JUSTO",
+   "nombre": "Por Un Mundo Mas Justo"
+  },
+  {
+   "id": "nc-bc-podemos-iu-sumar",
+   "siglas": "NC-BC, PODEMOS, IU, SUMAR",
+   "nombre": "Unidad del Pueblo Canario Upc"
+  },
+  {
+   "id": "nex",
+   "siglas": "NEX",
+   "nombre": "Nuevo Extremeñismo - Adelante Extremadura"
+  },
+  {
+   "id": "p-alantre",
+   "siglas": "P ALANTRE",
+   "nombre": "Proyecto Alantre"
+  },
+  {
+   "id": "pacma",
+   "siglas": "PACMA",
+   "nombre": "Partido Animalista Con el Medio Ambiente"
+  },
+  {
+   "id": "pancal-urci",
+   "siglas": "PANCAL-URCI",
+   "nombre": "Partido Nacionalista de Castilla y León - Union Reformista Ciudadana"
+  },
+  {
+   "id": "partido-autonomos",
+   "siglas": "PARTIDO AUTÓNOMOS",
+   "nombre": "Partido Autónomos"
+  },
+  {
+   "id": "paz-casa-y-trabajo",
+   "siglas": "PAZ, CASA Y TRABAJO",
+   "nombre": "Podemos"
+  },
+  {
+   "id": "pcpc",
+   "siglas": "PCPC",
+   "nombre": "Partido Comunista del Pueblo Canario"
+  },
+  {
+   "id": "pctc",
+   "siglas": "PCTC",
+   "nombre": "Partit Comunista Dels Treballadors de Catalunya"
+  },
+  {
+   "id": "pcte",
+   "siglas": "PCTE",
+   "nombre": "Partido Comunista de los Trabajadores de España"
+  },
+  {
+   "id": "pcte-elak",
+   "siglas": "PCTE/ELAK",
+   "nombre": "Partido Comunista de los Trabajadores de Euskadi/euskadiko Langileen Alderdi Komunista"
+  },
+  {
+   "id": "pctg",
+   "siglas": "PCTG",
+   "nombre": "Partido Comunista Dos Traballadores Da Galiza"
+  },
+  {
+   "id": "pdsje",
+   "siglas": "PDSJE",
+   "nombre": "Partido Demócrata Social Jubilados Europeos"
+  },
+  {
+   "id": "pfac",
+   "siglas": "PFAC",
+   "nombre": "Feministas Al Congreso"
+  },
+  {
+   "id": "ph",
+   "siglas": "PH",
+   "nombre": "Partido Humanista"
+  },
+  {
+   "id": "podemos",
+   "siglas": "PODEMOS",
+   "nombre": "Podemos"
+  },
+  {
+   "id": "pp",
+   "siglas": "PP",
+   "nombre": "Partido Popular"
+  },
+  {
+   "id": "prepal",
+   "siglas": "PREPAL",
+   "nombre": "Partido Regionalista del Pais Leones"
+  },
+  {
+   "id": "psc",
+   "siglas": "PSC",
+   "nombre": "Partit Dels Socialistes de Catalunya (psc-Psoe)"
+  },
+  {
+   "id": "psdeg-psoe",
+   "siglas": "PSDEG-PSOE",
+   "nombre": "Partido Dos Socialistas de Galicia-Psoe"
+  },
+  {
+   "id": "psib-psoe",
+   "siglas": "PSIB-PSOE",
+   "nombre": "Partido Socialista de las Islas Baleares"
+  },
+  {
+   "id": "psn-psoe",
+   "siglas": "PSN-PSOE",
+   "nombre": "Partido Socialista de Navarra - Psoe"
+  },
+  {
+   "id": "psoe",
+   "siglas": "PSOE",
+   "nombre": "Partido Socialista Obrero Español"
+  },
+  {
+   "id": "puede",
+   "siglas": "PUEDE",
+   "nombre": "Partido Unionista Estado de España"
+  },
+  {
+   "id": "pum-j",
+   "siglas": "PUM+J",
+   "nombre": "Por Un Mundo Mais Xusto"
+  },
+  {
+   "id": "rrb",
+   "siglas": "RRB",
+   "nombre": "Renacer Renaixer"
+  },
+  {
+   "id": "salf",
+   "siglas": "SALF",
+   "nombre": "Se Acabó la Fiesta"
+  },
+  {
+   "id": "sy",
+   "siglas": "SY",
+   "nombre": "Soria ¡ya!"
+  },
+  {
+   "id": "teruel-existe",
+   "siglas": "TERUEL EXISTE",
+   "nombre": "Teruel Existe"
+  },
+  {
+   "id": "uc",
+   "siglas": "UC",
+   "nombre": "Union Cartaginense"
+  },
+  {
+   "id": "upn-pp",
+   "siglas": "UPN-PP",
+   "nombre": "Unión del Pueblo Navarro en Coalición Con Partido Popular"
+  },
+  {
+   "id": "vlc",
+   "siglas": "VLC",
+   "nombre": "Valencia Unida"
+  },
+  {
+   "id": "vox",
+   "siglas": "VOX",
+   "nombre": "Vox"
+  }
+ ],
+ "provincias": {
+  "almeria": {
+   "nombre": "Almería",
+   "ccaa": "andalucia",
+   "escanos": 6
+  },
+  "cadiz": {
+   "nombre": "Cádiz",
+   "ccaa": "andalucia",
+   "escanos": 8
+  },
+  "cordoba": {
+   "nombre": "Córdoba",
+   "ccaa": "andalucia",
+   "escanos": 6
+  },
+  "granada": {
+   "nombre": "Granada",
+   "ccaa": "andalucia",
+   "escanos": 7
+  },
+  "huelva": {
+   "nombre": "Huelva",
+   "ccaa": "andalucia",
+   "escanos": 5
+  },
+  "jaen": {
+   "nombre": "Jaén",
+   "ccaa": "andalucia",
+   "escanos": 5
+  },
+  "malaga": {
+   "nombre": "Málaga",
+   "ccaa": "andalucia",
+   "escanos": 11
+  },
+  "sevilla": {
+   "nombre": "Sevilla",
+   "ccaa": "andalucia",
+   "escanos": 12
+  },
+  "huesca": {
+   "nombre": "Huesca",
+   "ccaa": "aragon",
+   "escanos": 3
+  },
+  "teruel": {
+   "nombre": "Teruel",
+   "ccaa": "aragon",
+   "escanos": 3
+  },
+  "zaragoza": {
+   "nombre": "Zaragoza",
+   "ccaa": "aragon",
+   "escanos": 7
+  },
+  "asturias": {
+   "nombre": "Asturias",
+   "ccaa": "asturias",
+   "escanos": 7
+  },
+  "baleares": {
+   "nombre": "Illes Balears",
+   "ccaa": "baleares",
+   "escanos": 8
+  },
+  "las-palmas": {
+   "nombre": "Las Palmas",
+   "ccaa": "canarias",
+   "escanos": 8
+  },
+  "santa-cruz": {
+   "nombre": "Santa Cruz de Tenerife",
+   "ccaa": "canarias",
+   "escanos": 7
+  },
+  "cantabria": {
+   "nombre": "Cantabria",
+   "ccaa": "cantabria",
+   "escanos": 5
+  },
+  "avila": {
+   "nombre": "Ávila",
+   "ccaa": "castilla-y-leon",
+   "escanos": 3
+  },
+  "burgos": {
+   "nombre": "Burgos",
+   "ccaa": "castilla-y-leon",
+   "escanos": 4
+  },
+  "leon": {
+   "nombre": "León",
+   "ccaa": "castilla-y-leon",
+   "escanos": 4
+  },
+  "palencia": {
+   "nombre": "Palencia",
+   "ccaa": "castilla-y-leon",
+   "escanos": 3
+  },
+  "salamanca": {
+   "nombre": "Salamanca",
+   "ccaa": "castilla-y-leon",
+   "escanos": 4
+  },
+  "segovia": {
+   "nombre": "Segovia",
+   "ccaa": "castilla-y-leon",
+   "escanos": 3
+  },
+  "soria": {
+   "nombre": "Soria",
+   "ccaa": "castilla-y-leon",
+   "escanos": 2
+  },
+  "valladolid": {
+   "nombre": "Valladolid",
+   "ccaa": "castilla-y-leon",
+   "escanos": 5
+  },
+  "zamora": {
+   "nombre": "Zamora",
+   "ccaa": "castilla-y-leon",
+   "escanos": 3
+  },
+  "albacete": {
+   "nombre": "Albacete",
+   "ccaa": "castilla-la-mancha",
+   "escanos": 4
+  },
+  "ciudad-real": {
+   "nombre": "Ciudad Real",
+   "ccaa": "castilla-la-mancha",
+   "escanos": 5
+  },
+  "cuenca": {
+   "nombre": "Cuenca",
+   "ccaa": "castilla-la-mancha",
+   "escanos": 3
+  },
+  "guadalajara": {
+   "nombre": "Guadalajara",
+   "ccaa": "castilla-la-mancha",
+   "escanos": 3
+  },
+  "toledo": {
+   "nombre": "Toledo",
+   "ccaa": "castilla-la-mancha",
+   "escanos": 6
+  },
+  "barcelona": {
+   "nombre": "Barcelona",
+   "ccaa": "cataluna",
+   "escanos": 32
+  },
+  "girona": {
+   "nombre": "Girona",
+   "ccaa": "cataluna",
+   "escanos": 6
+  },
+  "lleida": {
+   "nombre": "Lleida",
+   "ccaa": "cataluna",
+   "escanos": 4
+  },
+  "tarragona": {
+   "nombre": "Tarragona",
+   "ccaa": "cataluna",
+   "escanos": 6
+  },
+  "alicante": {
+   "nombre": "Alicante",
+   "ccaa": "valenciana",
+   "escanos": 12
+  },
+  "castellon": {
+   "nombre": "Castellón",
+   "ccaa": "valenciana",
+   "escanos": 5
+  },
+  "valencia": {
+   "nombre": "Valencia",
+   "ccaa": "valenciana",
+   "escanos": 16
+  },
+  "badajoz": {
+   "nombre": "Badajoz",
+   "ccaa": "extremadura",
+   "escanos": 9
+  },
+  "caceres": {
+   "nombre": "Cáceres",
+   "ccaa": "extremadura",
+   "escanos": 4
+  },
+  "a-coruna": {
+   "nombre": "A Coruña",
+   "ccaa": "galicia",
+   "escanos": 8
+  },
+  "lugo": {
+   "nombre": "Lugo",
+   "ccaa": "galicia",
+   "escanos": 4
+  },
+  "ourense": {
+   "nombre": "Ourense",
+   "ccaa": "galicia",
+   "escanos": 4
+  },
+  "pontevedra": {
+   "nombre": "Pontevedra",
+   "ccaa": "galicia",
+   "escanos": 7
+  },
+  "madrid": {
+   "nombre": "Madrid",
+   "ccaa": "madrid",
+   "escanos": 38
+  },
+  "murcia": {
+   "nombre": "Murcia",
+   "ccaa": "murcia",
+   "escanos": 10
+  },
+  "navarra": {
+   "nombre": "Navarra",
+   "ccaa": "navarra",
+   "escanos": 5
+  },
+  "alava": {
+   "nombre": "Álava",
+   "ccaa": "pais-vasco",
+   "escanos": 4
+  },
+  "gipuzkoa": {
+   "nombre": "Gipuzkoa",
+   "ccaa": "pais-vasco",
+   "escanos": 6
+  },
+  "bizkaia": {
+   "nombre": "Bizkaia",
+   "ccaa": "pais-vasco",
+   "escanos": 8
+  },
+  "la-rioja": {
+   "nombre": "La Rioja",
+   "ccaa": "la-rioja",
+   "escanos": 4
+  },
+  "ceuta": {
+   "nombre": "Ceuta",
+   "ccaa": "ceuta",
+   "escanos": 3
+  },
+  "melilla": {
+   "nombre": "Melilla",
+   "ccaa": "melilla",
+   "escanos": 1
+  }
+ },
+ "estado": "anunciadas",
+ "fuentes": [
+  "https://www.infobae.com/espana/agencias/2026/10/06/el-boe-publica-el-decreto-que-convoca-las-elecciones-generales-para-el-29-de-noviembre/",
+  "https://mapaelectoral.es/elecciones/elecciones-29n-2026/",
+  "https://www.democrata.es/en/general-elections-spain/feijoo-rushes-the-closure-of-the-pp-lists-for-the-29n-these-are-the-52-heads-of-candidacy/",
+  "https://www.vozpopuli.com/espana/politica/vox-elige-a-sus-cabezas-de-lista-para-el-29-n-estos-son-los-lideres-por-cada-provincia.html",
+  "https://www.esdiario.com/nacional/261014/200286/sanchez-coloca-margarita-robles-numero-dos-psoe-madrid-deja-bolanos-tercer-puesto.html",
+  "https://www.101tv.es/andalucia/albares-sustituye-a-marlaska-como-paracaidista-de-cadiz-asi-queda-la-lista-del-psoe-andaluz-al-29-n",
+  "https://www.ultimahora.es/noticias/comunidades/2026/10/15/2729753/psoe-asume-listas-provincias-cambio-numero-jaen-conforma-comite-electoral-para-29n.html",
+  "https://www.eldiario.es/castilla-la-mancha/politica/quedan-ratificadas-listas-psoe-congreso-castilla-mancha-elecciones-29n_1_13594241.html",
+  "https://www.radiointerior.es/texto-diario/mostrar/6055553/psoe-aprueba-listas-congreso-senado-caceres-badajoz-29n",
+  "https://www.eldiario.es/aragon/politica/continuidad-psoe-aragones-cabezas-lista-29-n-fernando-beltran-tania-solans-novedades_1_13589380.html",
+  "https://www.elespanol.com/quincemil/actualidad/galicia/20261017/psoe-confirma-cabezas-lista-galicia-elecciones-generales/1003744424078_0.html",
+  "https://www.moncloa.com/2026/10/16/listas-psoe-29n-tudanca-burgos-3449893",
+  "https://www.esdiario.com/comunidad-valenciana/castellon/261013/200142/pspv-despeja-incognita-castellon-apuestan-maria-jimenez-eva-redondo-lista-29n.html",
+  "https://www.democrata.es/en/general-elections-spain/list-search-for-29n-province-by-province-check-who-the-candidates-of-each-party-are/",
+  "https://www.infobae.com/espana/agencias/2026/10/25/frente-amplio-encara-el-cierre-de-listas-este-lunes-con-la-incognita-aun-de-las-candidaturas-en-varias-provincias/",
+  "https://www.diaridetarragona.com/tarragona/273345/pacto-erc-podem-esquerra-preve-ceder-ultimo-puesto-candidatura-tarragona.html",
+  "https://www.democrata.es/ca/catalunya/junts-aposta-per-nogueras-madrenas-cruset-i-gavin-com-a-caps-de-llista-per-barcelona-girona-tarragona-i-lleida/",
+  "https://www.moncloa.com/2026/10/17/listas-pnv-congreso-29n-3450355/",
+  "https://orain.eus/es/politica/2026/10/16/eh-bildu-propone-oskar-matute-mikel-otero-oihana-etxebarrieta-eneka-maiz-encabezar-las-listas-al-congreso/",
+  "https://diariodeavisos.elespanol.com/2026/10/primero-canarias-y-coalicion-canaria-cierran-el-acuerdo-para-la-candidatura-del-29-n/",
+  "https://www.moncloa.com/2026/10/24/feijoo-candidatura-pp-madrid-senado-3454884"
+ ],
+ "fuente": {
+  "boe": "BOE-A-2026-22607",
+  "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-22607",
+  "fecha": "2026-10-28",
+  "estado": "presentadas",
+  "titulo": "Candidaturas presentadas para las elecciones al Congreso de los Diputados y al Senado, convocadas por Real Decreto 806/2026, de 5 de octubre."
+ }
+}

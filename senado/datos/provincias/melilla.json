@@ -1,0 +1,52 @@
+{
+ "id": "melilla",
+ "nombre": "Melilla",
+ "ccaa": "melilla",
+ "escanos": 2,
+ "marcas": 1,
+ "listas": {
+  "escanos-en-blanco": [
+   {
+    "id": "sen-melilla-escanos-en-blanco-1",
+    "nombre": "Carlos Domínguez Moya",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-melilla-psoe-iu-ms-1",
+    "nombre": "Lucía Rubio Cruz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-melilla-psoe-iu-ms-2",
+    "nombre": "Manuel García Alonso",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-melilla-vox-1",
+    "nombre": "Sendy Nanwani Ramchand Ghanshandas",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-melilla-vox-2",
+    "nombre": "Emilio Buendía Pérez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-melilla-pp-1",
+    "nombre": "Fernando Adolfo Gutiérrez Díaz de Otazu",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-melilla-pp-2",
+    "nombre": "Isabel María Moreno Mohamed",
+    "descripcion": ""
+   }
+  ]
+ }
+}

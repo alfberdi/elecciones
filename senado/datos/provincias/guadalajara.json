@@ -1,0 +1,98 @@
+{
+ "id": "guadalajara",
+ "nombre": "Guadalajara",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "pcte": [
+   {
+    "id": "sen-guadalajara-pcte-1",
+    "nombre": "Alejandro Sanz Gregorio",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-guadalajara-vox-1",
+    "nombre": "Víctor Juan Morejón Vitón",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-guadalajara-vox-2",
+    "nombre": "Ana Isabel Perucho Prieto",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-guadalajara-vox-3",
+    "nombre": "Juan Antonio Pérez Borda",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-guadalajara-podemos-1",
+    "nombre": "María Luisa Martínez Gobantes",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-guadalajara-podemos-2",
+    "nombre": "Luis Fernando Hernández Escudero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-guadalajara-podemos-3",
+    "nombre": "Katia Isabel Ruiz Jodra",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-guadalajara-pp-1",
+    "nombre": "Lucas Castillo Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-guadalajara-pp-2",
+    "nombre": "María Patricio Zafra",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-guadalajara-pp-3",
+    "nombre": "Antonio Román Jasanada",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-guadalajara-mundo-justo-1",
+    "nombre": "Gregorio Valdepeñas Díaz-Tendero",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms-mm-compromis-cha-batzarre": [
+   {
+    "id": "sen-guadalajara-psoe-iu-ms-mm-compromis-cha-batzarre-1",
+    "nombre": "Rafael Esteban Santamaría",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-guadalajara-psoe-iu-ms-mm-compromis-cha-batzarre-2",
+    "nombre": "María del Mar González Báez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-guadalajara-psoe-iu-ms-mm-compromis-cha-batzarre-3",
+    "nombre": "Daniel Jiménez Díaz",
+    "descripcion": ""
+   }
+  ],
+  "fe-de-las-jons": [
+   {
+    "id": "sen-guadalajara-fe-de-las-jons-1",
+    "nombre": "Hermes González González",
+    "descripcion": ""
+   }
+  ]
+ }
+}

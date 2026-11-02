@@ -1,0 +1,228 @@
+{
+ "id": "caceres",
+ "nombre": "Cáceres",
+ "ccaa": "extremadura",
+ "escanos": 4,
+ "listas": {
+  "psoe": [
+   {
+    "id": "caceres-psoe-1",
+    "nombre": "Irene Pozas García",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-psoe-2",
+    "nombre": "Antonio Díaz Alías",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-psoe-3",
+    "nombre": "María Del Rocío Domínguez Hernández",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-psoe-4",
+    "nombre": "Alfonso Gómez Hernández",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "caceres-salf-1",
+    "nombre": "Emilio José Paniagua Collazos",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-salf-2",
+    "nombre": "Blanca Sisó Aresté",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-salf-3",
+    "nombre": "Rubén Francisco Molina Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-salf-4",
+    "nombre": "Estefanía Delgado Lozano",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "caceres-pcte-1",
+    "nombre": "Rubén Albalá Manuel",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-pcte-2",
+    "nombre": "Alicia Torio Elices",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-pcte-3",
+    "nombre": "Pedro Fernández García",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-pcte-4",
+    "nombre": "María del Carmen Ruíz Álvarez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "caceres-vox-1",
+    "nombre": "Marcela Reigía Vales",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-vox-2",
+    "nombre": "Daniel García Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-vox-3",
+    "nombre": "Beatriz Muñoz Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-vox-4",
+    "nombre": "Eduardo María Gutiérrez Murillo",
+    "descripcion": ""
+   }
+  ],
+  "fo": [
+   {
+    "id": "caceres-fo-1",
+    "nombre": "Mónica Pérez Gaite",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-fo-2",
+    "nombre": "Jesús Villanueva Del Olmo",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-fo-3",
+    "nombre": "Ana Isabel Paramo Martín",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-fo-4",
+    "nombre": "Rodrigo Menor de Gaspar López",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "caceres-pp-1",
+    "nombre": "Cristina Elena Teniente Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-pp-2",
+    "nombre": "Carlos Javier Floriano Corrales",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-pp-3",
+    "nombre": "María del Pilar Pérez García",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-pp-4",
+    "nombre": "Óscar Fernández Domínguez",
+    "descripcion": ""
+   }
+  ],
+  "j-u-e-x": [
+   {
+    "id": "caceres-j-u-e-x-1",
+    "nombre": "Raúl González Holgado",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-j-u-e-x-2",
+    "nombre": "María Borrero Solano",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-j-u-e-x-3",
+    "nombre": "Ángel Luis Tiemblo Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-j-u-e-x-4",
+    "nombre": "María Margarita Cordero Marcos",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "caceres-podemos-1",
+    "nombre": "Álvaro Jaén Barbado",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-podemos-2",
+    "nombre": "María Consolación del Castillo López Balsed",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-podemos-3",
+    "nombre": "Luis Jesús García Marín",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-podemos-4",
+    "nombre": "Sonia Chanclón Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "caceres-fa-1",
+    "nombre": "Antonio Moreno Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-fa-2",
+    "nombre": "Alba Martín Navarro",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-fa-3",
+    "nombre": "José Calvo Bru",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-fa-4",
+    "nombre": "María Luisa Rebolledo Acedo",
+    "descripcion": ""
+   }
+  ],
+  "nex": [
+   {
+    "id": "caceres-nex-1",
+    "nombre": "Ángel Andreo García",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-nex-2",
+    "nombre": "Lucía Miguel Granado",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-nex-3",
+    "nombre": "Jorge Hoyas Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "caceres-nex-4",
+    "nombre": "Clara Bravo Pérez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

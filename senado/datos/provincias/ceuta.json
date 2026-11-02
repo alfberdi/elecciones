@@ -1,0 +1,57 @@
+{
+ "id": "ceuta",
+ "nombre": "Ceuta",
+ "ccaa": "ceuta",
+ "escanos": 2,
+ "marcas": 1,
+ "listas": {
+  "partido-popular": [
+   {
+    "id": "sen-ceuta-partido-popular-1",
+    "nombre": "Abdelhakim Abdeselam Al-lal",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ceuta-partido-popular-2",
+    "nombre": "Cristina Díaz Moreno",
+    "descripcion": ""
+   }
+  ],
+  "coalicion-senado-de-progreso": [
+   {
+    "id": "sen-ceuta-coalicion-senado-de-progreso-1",
+    "nombre": "Abdel lah Abdel lah Mustafa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ceuta-coalicion-senado-de-progreso-2",
+    "nombre": "Nesrin Haddad Ahmed",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-ceuta-vox-1",
+    "nombre": "Francisco Javier Ruiz Enríquez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ceuta-vox-2",
+    "nombre": "Ana García León",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-ceuta-podemos-1",
+    "nombre": "Mariam Ahmed El asri",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-ceuta-podemos-2",
+    "nombre": "Jaume Piñol Salvatierra",
+    "descripcion": ""
+   }
+  ]
+ }
+}

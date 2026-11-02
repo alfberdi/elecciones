@@ -1,0 +1,278 @@
+{
+ "id": "huelva",
+ "nombre": "Huelva",
+ "ccaa": "andalucia",
+ "escanos": 5,
+ "listas": {
+  "fo": [
+   {
+    "id": "huelva-fo-1",
+    "nombre": "Rafael Vicente Frías Ranea",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-fo-2",
+    "nombre": "María Inés Sierra Duque",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-fo-3",
+    "nombre": "Pablo Angulo Rivero",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-fo-4",
+    "nombre": "Mara Franch Ramos",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-fo-5",
+    "nombre": "José Manuel Perulero Fernández",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "huelva-psoe-1",
+    "nombre": "Gabriel Cruz Santana",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-psoe-2",
+    "nombre": "María Luisa Faneca López",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-psoe-3",
+    "nombre": "Ángel Luis Romero Díaz",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-psoe-4",
+    "nombre": "Mónica Montaño Garcés",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-psoe-5",
+    "nombre": "Diego Rodríguez Pérez",
+    "descripcion": ""
+   }
+  ],
+  "adelante-andalucia": [
+   {
+    "id": "huelva-adelante-andalucia-1",
+    "nombre": "Carmen María Martín Carrasco",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-adelante-andalucia-2",
+    "nombre": "Juan Jesús Alcón Villalba",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-adelante-andalucia-3",
+    "nombre": "Ángela González Moyo",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-adelante-andalucia-4",
+    "nombre": "José Antonio Martínez Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-adelante-andalucia-5",
+    "nombre": "María Gracia González Fernández",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "huelva-vox-1",
+    "nombre": "Tomás Fernández Ríos",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-vox-2",
+    "nombre": "Ana Celia Díaz Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-vox-3",
+    "nombre": "Francisco Miguel Fernández Borrallo",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-vox-4",
+    "nombre": "Lidia Sosa Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-vox-5",
+    "nombre": "Fausto Andrés Fúnez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "huelva-pcte-1",
+    "nombre": "Cristina Reina Esojo",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pcte-2",
+    "nombre": "José Antonio Morales Carmona",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pcte-3",
+    "nombre": "Irantzu Chenoll Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pcte-4",
+    "nombre": "Guillermo Pedro Alonso Gómez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pcte-5",
+    "nombre": "Margarita Zaida Ochando Alcalde",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "huelva-pp-1",
+    "nombre": "María del Pilar Miranda Plata",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pp-2",
+    "nombre": "Manuel García Félix",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pp-3",
+    "nombre": "María Asunción Grávalos Gastaminza",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pp-4",
+    "nombre": "Antonio Carlos Vázquez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pp-5",
+    "nombre": "María de los Ángeles Moreno Velardo",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "huelva-fa-1",
+    "nombre": "Rebeca Martín Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-fa-2",
+    "nombre": "Ismael Romero Márquez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-fa-3",
+    "nombre": "Celia Ruiz Guerrero",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-fa-4",
+    "nombre": "Carmelo Feria Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-fa-5",
+    "nombre": "María Esperanza Ramos González",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "huelva-salf-1",
+    "nombre": "José Luis Rubio García",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-salf-2",
+    "nombre": "Ana María Núñez Agustiño",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-salf-3",
+    "nombre": "Álvaro Rubén Cubas Muñoz",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-salf-4",
+    "nombre": "Ester Columé Zambrano",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-salf-5",
+    "nombre": "José Antonio Vera Iglesias",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "huelva-pacma-1",
+    "nombre": "Juana María Gómez Lorencio",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pacma-2",
+    "nombre": "Mario López Perea",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pacma-3",
+    "nombre": "Alicia Beatriz Rodríguez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pacma-4",
+    "nombre": "Juan Manuel Díaz Vargas",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-pacma-5",
+    "nombre": "Josefa María Mesa Gallardo",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "huelva-podemos-1",
+    "nombre": "Hermes Gómez Escobar",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-podemos-2",
+    "nombre": "María Bella Segovia de la Concepción",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-podemos-3",
+    "nombre": "Carlos Quintero Jiménez",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-podemos-4",
+    "nombre": "Irene María Reyes Mesa",
+    "descripcion": ""
+   },
+   {
+    "id": "huelva-podemos-5",
+    "nombre": "José Antonio González Soriano",
+    "descripcion": ""
+   }
+  ]
+ }
+}

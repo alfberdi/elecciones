@@ -1,0 +1,94 @@
+{
+ "id": "lugo",
+ "nombre": "Lugo",
+ "ccaa": "galicia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "podemos": [
+   {
+    "id": "sen-lugo-podemos-1",
+    "nombre": "Fernando Otero Bello",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-podemos-2",
+    "nombre": "María Isabel Vázquez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-podemos-3",
+    "nombre": "Arturo Pérez Gutiérrez",
+    "descripcion": ""
+   }
+  ],
+  "bng": [
+   {
+    "id": "sen-lugo-bng-1",
+    "nombre": "Brenda González Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-bng-2",
+    "nombre": "David Ángel Villares Sánchez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-bng-3",
+    "nombre": "Candela López Piñeiro",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-lugo-pp-1",
+    "nombre": "José Manuel Barreiro Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-pp-2",
+    "nombre": "Dolores Castro Ochoa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-pp-3",
+    "nombre": "Juan Carlos Serrano López",
+    "descripcion": ""
+   }
+  ],
+  "psoe-ms": [
+   {
+    "id": "sen-lugo-psoe-ms-1",
+    "nombre": "César Alejandro Mogo Zaro",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-psoe-ms-2",
+    "nombre": "Paula González Fernández",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-psoe-ms-3",
+    "nombre": "Roberto Castro González",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-lugo-vox-1",
+    "nombre": "Manuel Menéndez Mato",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-vox-2",
+    "nombre": "María Jesús Sánchez Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-lugo-vox-3",
+    "nombre": "José Miguel González Lemos",
+    "descripcion": ""
+   }
+  ]
+ }
+}

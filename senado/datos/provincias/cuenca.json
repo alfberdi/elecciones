@@ -1,0 +1,74 @@
+{
+ "id": "cuenca",
+ "nombre": "Cuenca",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "podemos": [
+   {
+    "id": "sen-cuenca-podemos-1",
+    "nombre": "Teresa María Navarro Zamora",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cuenca-podemos-2",
+    "nombre": "Andrés Fernández Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cuenca-podemos-3",
+    "nombre": "María Luisa Ruiz Granero",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-cuenca-vox-1",
+    "nombre": "Luis Guillermo Ortega Blanco",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-cuenca-pp-1",
+    "nombre": "Daniel Pérez Osma",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cuenca-pp-2",
+    "nombre": "María Jesús Bonilla Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cuenca-pp-3",
+    "nombre": "Alejo Joaquín Miranda De Larra Arnaiz",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-cuenca-mundo-justo-1",
+    "nombre": "María Salomé Arricibita Antoñanzas",
+    "descripcion": ""
+   }
+  ],
+  "senado-de-progreso-sdp-psoe-iu-ms": [
+   {
+    "id": "sen-cuenca-senado-de-progreso-sdp-psoe-iu-ms-1",
+    "nombre": "José López Carrizo )",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cuenca-senado-de-progreso-sdp-psoe-iu-ms-2",
+    "nombre": "Lorena Gallego García )",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-cuenca-senado-de-progreso-sdp-psoe-iu-ms-3",
+    "nombre": "Emilio José Osma Marchante )",
+    "descripcion": ""
+   }
+  ]
+ }
+}

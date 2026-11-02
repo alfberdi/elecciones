@@ -1,0 +1,141 @@
+{
+ "id": "soria",
+ "nombre": "Soria",
+ "ccaa": "castilla-y-leon",
+ "escanos": 2,
+ "listas": {
+  "fo": [
+   {
+    "id": "soria-fo-1",
+    "nombre": "Diego Gallardo de la Fuente",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-fo-2",
+    "nombre": "Maria Josefa Agudo Lopez",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "soria-pcte-1",
+    "nombre": "Ezequiel Blanco López",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-pcte-2",
+    "nombre": "María Estrella Almazán Pardo",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "soria-mundo-justo-1",
+    "nombre": "Rafael Alfonso Gómez Aguilar",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-mundo-justo-2",
+    "nombre": "Mazedona de la Altadama Craquis Díaz",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "soria-psoe-1",
+    "nombre": "Luis Alfonso Rey de las Heras",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-psoe-2",
+    "nombre": "Luisa Belén Antón Antón",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "soria-salf-1",
+    "nombre": "José María Lorenzo Córdoba Alós",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-salf-2",
+    "nombre": "Úrsula Fernández Delgado",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "soria-vox-1",
+    "nombre": "Andrea Martínez Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-vox-2",
+    "nombre": "Miguel Mochales Rubio",
+    "descripcion": ""
+   }
+  ],
+  "sy": [
+   {
+    "id": "soria-sy-1",
+    "nombre": "Juan Antonio Palomar Sicilia",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-sy-2",
+    "nombre": "Rosalía Peña Gallego",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "soria-fa-1",
+    "nombre": "Ángel Alberto Flores Gaitán",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-fa-2",
+    "nombre": "Lidia Molina Carazo",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "soria-pp-1",
+    "nombre": "Tomás Cabezón Casas",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-pp-2",
+    "nombre": "Belén Izquierdo Hernández",
+    "descripcion": ""
+   }
+  ],
+  "escanos-en-blanco": [
+   {
+    "id": "soria-escanos-en-blanco-1",
+    "nombre": "Luis García Molina",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-escanos-en-blanco-2",
+    "nombre": "María Asunción López Miguel",
+    "descripcion": "",
+    "independiente": true
+   }
+  ],
+  "podemos": [
+   {
+    "id": "soria-podemos-1",
+    "nombre": "María Luisa Muñoz González",
+    "descripcion": ""
+   },
+   {
+    "id": "soria-podemos-2",
+    "nombre": "Jorge Juan Ramiro Alcántara",
+    "descripcion": ""
+   }
+  ]
+ }
+}

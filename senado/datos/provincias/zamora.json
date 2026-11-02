@@ -1,0 +1,89 @@
+{
+ "id": "zamora",
+ "nombre": "Zamora",
+ "ccaa": "castilla-y-leon",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "prepal": [
+   {
+    "id": "sen-zamora-prepal-1",
+    "nombre": "Teresita Loreto Álvarez Pérez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-prepal-2",
+    "nombre": "José Cayetano Rodríguez De Castro",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-zamora-psoe-iu-ms-1",
+    "nombre": "José Fernández Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-psoe-iu-ms-2",
+    "nombre": "María Inmaculada Lucas Baraja",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-psoe-iu-ms-3",
+    "nombre": "Ángel Calleja Gómez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-zamora-podemos-1",
+    "nombre": "María Carmen Cuesta Benavides",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-podemos-2",
+    "nombre": "Antonio Narváez De Las Heras",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-podemos-3",
+    "nombre": "María Soraya García Serna",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-zamora-pp-1",
+    "nombre": "José María Barrios Tejero",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-pp-2",
+    "nombre": "Elvira Velasco Morillo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-pp-3",
+    "nombre": "Óscar Ramajo Prada",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-zamora-vox-1",
+    "nombre": "Eugenio Blanco Ugidos",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-vox-2",
+    "nombre": "María Victoria Fradejas Calleja",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-zamora-vox-3",
+    "nombre": "Juan Bartual Magro",
+    "descripcion": ""
+   }
+  ]
+ }
+}

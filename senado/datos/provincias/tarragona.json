@@ -1,0 +1,125 @@
+{
+ "id": "tarragona",
+ "nombre": "Tarragona",
+ "ccaa": "cataluna",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "psc": [
+   {
+    "id": "sen-tarragona-psc-1",
+    "nombre": "Manel de la Vega Carrera",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-psc-2",
+    "nombre": "Montse García Biosca",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-psc-3",
+    "nombre": "Xavier Lorenzo Torres",
+    "descripcion": ""
+   }
+  ],
+  "erc-eh-bildu": [
+   {
+    "id": "sen-tarragona-erc-eh-bildu-1",
+    "nombre": "Noemí Llauradó Sans",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-erc-eh-bildu-2",
+    "nombre": "Xavier Faura Sanmartín",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-erc-eh-bildu-3",
+    "nombre": "Jean-Marc Segarra Mauri",
+    "descripcion": ""
+   }
+  ],
+  "jxcat": [
+   {
+    "id": "sen-tarragona-jxcat-1",
+    "nombre": "Josep Andreu i Domingo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-jxcat-2",
+    "nombre": "Montserrat Vellvé i Foix",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-jxcat-3",
+    "nombre": "Felip Monclús i Arasa",
+    "descripcion": ""
+   }
+  ],
+  "pctc": [
+   {
+    "id": "sen-tarragona-pctc-1",
+    "nombre": "Albert Camarasa Escubedo",
+    "descripcion": ""
+   }
+  ],
+  "c-dem": [
+   {
+    "id": "sen-tarragona-c-dem-1",
+    "nombre": "Omar El Gabry Bravo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-c-dem-2",
+    "nombre": "Alba Teruel Castillo",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-c-dem-3",
+    "nombre": "David Poy Martínez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-tarragona-vox-1",
+    "nombre": "Ana Belén Rodríguez Ros",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-vox-2",
+    "nombre": "Francisco Javier Vaquero Rodríguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-vox-3",
+    "nombre": "María Dolores Zamora Carmona",
+    "descripcion": ""
+   }
+  ],
+  "cnv": [
+   {
+    "id": "sen-tarragona-cnv-1",
+    "nombre": "Demelsa Bartual Soria",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-cnv-2",
+    "nombre": "Manuel Andrés Marín García",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tarragona-cnv-3",
+    "nombre": "Mercè Alicia Sans Sáez",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-tarragona-mundo-justo-1",
+    "nombre": "María del Carmen Barros Ruiz",
+    "descripcion": ""
+   }
+  ]
+ }
+}

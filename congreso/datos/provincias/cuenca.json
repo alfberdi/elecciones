@@ -1,0 +1,178 @@
+{
+ "id": "cuenca",
+ "nombre": "Cuenca",
+ "ccaa": "castilla-la-mancha",
+ "escanos": 3,
+ "listas": {
+  "fo": [
+   {
+    "id": "cuenca-fo-1",
+    "nombre": "Adrián Tabasco Bonilla",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-fo-2",
+    "nombre": "Sonia Zamora Quiñones",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-fo-3",
+    "nombre": "Zacarías Fuentes Pradas",
+    "descripcion": ""
+   }
+  ],
+  "psoe": [
+   {
+    "id": "cuenca-psoe-1",
+    "nombre": "Luis Carlos Sahuquillo García",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-psoe-2",
+    "nombre": "Yolanda Rozalén Rozalén",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-psoe-3",
+    "nombre": "Pedro Romeral Fernández",
+    "descripcion": ""
+   }
+  ],
+  "salf": [
+   {
+    "id": "cuenca-salf-1",
+    "nombre": "Rafael García Sáez",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-salf-2",
+    "nombre": "Elena Muelas Perera",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-salf-3",
+    "nombre": "David Gómez Pérez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "cuenca-vox-1",
+    "nombre": "Ismael Iván Vélez Cipriano",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-vox-2",
+    "nombre": "Raquel Quintanilla Blanco",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-vox-3",
+    "nombre": "Mariano Latorre Cañizares",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "cuenca-pcte-1",
+    "nombre": "Alejandro Fernández Suárez",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-pcte-2",
+    "nombre": "Laura Vázquez Martínez-Jáñez",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-pcte-3",
+    "nombre": "Ángel Cobos Friera",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "cuenca-podemos-1",
+    "nombre": "José María Oviedo Oviedo",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-podemos-2",
+    "nombre": "Enelvia Quiroz Lara",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-podemos-3",
+    "nombre": "Jesús Damián Tinajero Riquelme",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "cuenca-pp-1",
+    "nombre": "Raquel Oliver Chico",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-pp-2",
+    "nombre": "Benjamín Prieto Valencia",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-pp-3",
+    "nombre": "Elena Clemente Fernández",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "cuenca-mundo-justo-1",
+    "nombre": "Miguel Ángel Hernández Pedreño",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-mundo-justo-2",
+    "nombre": "María José Soler Ardanaz",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-mundo-justo-3",
+    "nombre": "Miguel Ángel García-Inés Alcalde",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "cuenca-pacma-1",
+    "nombre": "Pedro José Contreras Racionero",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-pacma-2",
+    "nombre": "Amanda Alonso Jurado",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-pacma-3",
+    "nombre": "Jesús Corrales Rodríguez",
+    "descripcion": ""
+   }
+  ],
+  "fa": [
+   {
+    "id": "cuenca-fa-1",
+    "nombre": "Francisco Javier Martínez Huerta",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-fa-2",
+    "nombre": "Verónica Rubio Algaba",
+    "descripcion": ""
+   },
+   {
+    "id": "cuenca-fa-3",
+    "nombre": "David Ramírez Jiménez",
+    "descripcion": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "id": "jaen",
+ "nombre": "Jaén",
+ "ccaa": "andalucia",
+ "escanos": 4,
+ "marcas": 3,
+ "listas": {
+  "adelante-andalucia": [
+   {
+    "id": "sen-jaen-adelante-andalucia-1",
+    "nombre": "Alejandro Braulio Cabrera Cabrera",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-jaen-adelante-andalucia-2",
+    "nombre": "Inés María Gila León",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-jaen-adelante-andalucia-3",
+    "nombre": "José Ángel Vega Vico",
+    "descripcion": ""
+   }
+  ],
+  "psoe-iu-ms": [
+   {
+    "id": "sen-jaen-psoe-iu-ms-1",
+    "nombre": "José Latorre Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-jaen-psoe-iu-ms-2",
+    "nombre": "Laura Cerezuela Expósito",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-jaen-psoe-iu-ms-3",
+    "nombre": "Luis Romero Rubio",
+    "descripcion": ""
+   }
+  ],
+  "pacma": [
+   {
+    "id": "sen-jaen-pacma-1",
+    "nombre": "Francisca Sánchez Alba",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-jaen-pp-1",
+    "nombre": "Juan Diego Requena Ruiz",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-jaen-pp-2",
+    "nombre": "Encarnación Bienvenida Castro Cano",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-jaen-pp-3",
+    "nombre": "Francisco Javier Márquez Sánchez",
+    "descripcion": ""
+   }
+  ],
+  "podemos": [
+   {
+    "id": "sen-jaen-podemos-1",
+    "nombre": "Ángela Checa Cazalla",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-jaen-podemos-2",
+    "nombre": "Jerónimo Muñoz Calzado",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-jaen-podemos-3",
+    "nombre": "María Isabel Soriano Puyana",
+    "descripcion": ""
+   }
+  ],
+  "mundo-justo": [
+   {
+    "id": "sen-jaen-mundo-justo-1",
+    "nombre": "Raquel Puentes Poyatos",
+    "descripcion": ""
+   }
+  ],
+  "pcte": [
+   {
+    "id": "sen-jaen-pcte-1",
+    "nombre": "Santiago Otero Martínez",
+    "descripcion": ""
+   }
+  ],
+  "vox": [
+   {
+    "id": "sen-jaen-vox-1",
+    "nombre": "Francisco Ruiz Cortés",
+    "descripcion": ""
+   }
+  ]
+ }
+}

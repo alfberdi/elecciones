@@ -1,0 +1,57 @@
+{
+ "id": "tenerife",
+ "nombre": "Tenerife",
+ "ccaa": "canarias",
+ "escanos": 3,
+ "marcas": 2,
+ "listas": {
+  "psoe": [
+   {
+    "id": "sen-tenerife-psoe-1",
+    "nombre": "Pedro Martín Domínguez",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tenerife-psoe-2",
+    "nombre": "Alicia Álvarez González",
+    "descripcion": ""
+   }
+  ],
+  "cca-1-can": [
+   {
+    "id": "sen-tenerife-cca-1-can-1",
+    "nombre": "Juan Alfonso Cabello Mesa",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tenerife-cca-1-can-2",
+    "nombre": "Patricia León Pérez",
+    "descripcion": ""
+   }
+  ],
+  "pp": [
+   {
+    "id": "sen-tenerife-pp-1",
+    "nombre": "María Inés Vera Goya",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tenerife-pp-2",
+    "nombre": "José Carlos Acha Domínguez",
+    "descripcion": ""
+   }
+  ],
+  "nc-bc-podemos-iu-sumar": [
+   {
+    "id": "sen-tenerife-nc-bc-podemos-iu-sumar-1",
+    "nombre": "Andrea Monica Martín Tacoronte",
+    "descripcion": ""
+   },
+   {
+    "id": "sen-tenerife-nc-bc-podemos-iu-sumar-2",
+    "nombre": "Ángel Manuel Rivera Ruz",
+    "descripcion": ""
+   }
+  ]
+ }
+}
